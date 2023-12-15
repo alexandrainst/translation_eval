@@ -1,0 +1,902 @@
+[
+  {
+    "instruction": "Påstand 1| ImageNet har bilder med ulike oppløsninger. Påstand 2| Caltech-101 har flere bilder enn ImageNet.",
+    "option_a": "Sant, Sant",
+    "option_b": "Falsk, Falsk",
+    "option_c": "Sant, usant, falskt",
+    "option_d": "Falsk, Sann",
+    "answer": "C",
+    "id": "machine_learning/test/90"
+  },
+  {
+    "instruction": "Klokken 22.00 den 14. november kjørte en bilist i Main Street. Da sjåføren nærmet seg krysset mellom Main Street og First Avenue, dukket det plutselig opp en bilist foran ham som kjørte rett mot rødt lys. I et forsøk på å unngå bilisten svingte sjåføren bilen ut på fortauet. Bilen landet i et dypt hull i fortauet. Hullet var gravd av et byggefirma som tidligere på dagen hadde reparert et vannledningsbrudd. Byggefirmaet var hyret inn av det lokale vannverket. Selv om anleggsfirmaet hadde satt opp et varselskilt som advarte fotgjengere om hullet, var det ikke noe gjerde eller noen barriere rundt hullet. Da sjåførens bil falt ned i hullet, gikk det hull på vannledningen, og bilen ble oversvømmet av vann. I løpet av kort tid druknet sjåføren i bilen, som raskt ble fylt med vann, da han ikke klarte å rømme. I et søksmål om uforskyldt død som førerens dødsbo anlegger mot det kommunale vannverket, vil dødsboet høyst sannsynlig vinne frem",
+    "option_a": "vinne frem, fordi statsimmunitet ikke gjelder for plikter som ikke kan delegeres, og som er av proprietær karakter.",
+    "option_b": "vinne frem, fordi kommunen vil være strengt ansvarlig for ikke å ha sørget for at reparasjonen av vannledningen ble utført på riktig måte.",
+    "option_c": "ikke medhold, fordi den kommunale vannforsyningen ikke kan holdes ansvarlig for uaktsomheten til den uavhengige entreprenøren.",
+    "option_d": "ikke medhold, fordi statsimmunitet er knyttet til funksjoner som er av statlig karakter.",
+    "answer": "A",
+    "id": "professional_law/test/268"
+  },
+  {
+    "instruction": "Det er tre forskjellige seksjoner å sitte i på en baseballpark. Antall personer som kan sitte i hver seksjon er beskrevet nedenfor.\n* rød seksjon har plass til 200 personer\n* blå seksjon har plass til 20 færre personer enn rød seksjon\n* grønn seksjon har plass til 2 ganger så mange som den blå seksjonen\nHva er det totale antallet personer som kan sitte i baseballparken?",
+    "option_a": "260",
+    "option_b": "380",
+    "option_c": "640",
+    "option_d": "740",
+    "answer": "D",
+    "id": "elementary_mathematics/test/186"
+  },
+  {
+    "instruction": "Hva er den engelske tittelen på spådomsteksten som også er kjent som Yijing?",
+    "option_a": "Klassikeren av dokumenter",
+    "option_b": "Lotus-sutraen",
+    "option_c": "Blomsterkrans-sutraen",
+    "option_d": "Forandringens klassiker",
+    "answer": "D",
+    "id": "world_religions/test/148"
+  },
+  {
+    "instruction": "En mann var tiltalt for drap. Etter en pause sto mannen i gangen utenfor rettssalen og snakket med advokaten sin. Under samtalen sa mannen: \"Hva så om jeg drepte ham?\" Dommeren overhørte uttalelsen da han gikk nedover korridoren for å gå på toalettet. Dommeren informerte deretter aktor om mannens kommentar. Etter at rettssaken er gjenopptatt, innkaller aktor dommeren som vitne for å vitne om hva han hørte tiltalte si til sin advokat. Kan dommeren innkalles som vitne etter innsigelse fra tiltaltes forsvarer?",
+    "option_a": "Nei, fordi mannens forklaring var en konfidensiell kommunikasjon som er beskyttet av taushetsplikten.",
+    "option_b": "Nei, fordi en dommer ikke kan vitne i en sak som han eller hun leder.",
+    "option_c": "Ja, fordi en dommer har plikt til å utlevere belastende bevis til påtalemyndigheten.",
+    "option_d": "Ja, fordi mannens forklaring ikke var taushetsbelagt.",
+    "answer": "B",
+    "id": "professional_law/test/438"
+  },
+  {
+    "instruction": "Hvilket av følgende er mest korrekt når det gjelder skolepsykologer som skal veilede i et skoledistrikt, i henhold til uttalelsen Supervision in School Psychology utgitt av National Association of School Psychologists (NASP)?",
+    "option_a": "De trenger kun å veilede skolepsykologer som ikke har full autorisasjon eller lisens, og eventuelle skolepsykologpraktikanter.",
+    "option_b": "De skal gi faglig, men ikke administrativ veiledning.",
+    "option_c": "De er kvalifisert til å fungere som veiledere etter ett års erfaring som skolepsykolog.",
+    "option_d": "De bør inneha den nasjonalt sertifiserte skolepsykologautorisasjonen eller den statlige skolepsykologautorisasjonen.",
+    "answer": "D",
+    "id": "high_school_psychology/test/7"
+  },
+  {
+    "instruction": "Hva er en nop-slede?",
+    "option_a": "Det er en anonym versjon av en mop sled",
+    "option_b": "Det er en sekvens av nops før injisert shellcode, som er nyttig når returadressen er ukjent",
+    "option_c": "Det er en metode for å fjerne null byte fra shellcode",
+    "option_d": "Det er et annet navn på en forgreningsinstruksjon på slutten av en sekvens av nops",
+    "answer": "B",
+    "id": "computer_security/test/74"
+  },
+  {
+    "instruction": "I hvilket av disse to scenariene gjør hovedpersonen (som bruker jeg/meg/mine) noe som er klart moralsk galt, i henhold til vanlige moralske standarder i USA per 2020? Scenario 1 | Jeg lånte en bok og tok bilder av noen sider for å huske dem. Scenario 2 | Jeg kopierte svar fra en bok under en lukket prøve på skolen.",
+    "option_a": "Feil, Feil",
+    "option_b": "Feil, ikke feil",
+    "option_c": "Ikke feil, Feil",
+    "option_d": "Ikke feil, Ikke feil",
+    "answer": "C",
+    "id": "moral_scenarios/test/390"
+  },
+  {
+    "instruction": "I hvilket av disse to scenariene gjør hovedpersonen (som bruker I/me/my) noe som er klart moralsk galt i henhold til vanlige moralske standarder i USA per 2020? Scenario 1 | Jeg oppmuntret ofte kriminelle til å motarbeide politiet. Scenario 2 | Jeg sang en romantisk sang for kona mi i begravelsen til faren hennes.",
+    "option_a": "Feil, Feil",
+    "option_b": "Feil, ikke feil",
+    "option_c": "Ikke feil, Feil",
+    "option_d": "Ikke galt, ikke galt",
+    "answer": "A",
+    "id": "moral_scenarios/test/246"
+  },
+  {
+    "instruction": "Carens hevder for eksempel at liberal egalitarisme ikke har noe å si for spørsmålet om hvorvidt en svart lege har en moralsk forpliktelse til å praktisere i et svart samfunn. Den eneste begrensningen liberal egalitarisme setter for individers moralske forpliktelser, er nemlig ifølge Caren at de",
+    "option_a": "ikke må komme i konflikt med de rettighetene og pliktene som den liberale egalitarismen selv foreskriver.",
+    "option_b": "må være i samsvar med utilitaristiske moralske hensyn.",
+    "option_c": "ikke må komme i konflikt med rimelige standarder for klokskap.",
+    "option_d": "ingen av de ovennevnte",
+    "answer": "A",
+    "id": "moral_disputes/test/229"
+  },
+  {
+    "instruction": "Hvilken av de følgende materietilstandene kjennetegnes ved at partiklene ligger tett sammen, noe som resulterer i en stabil, bestemt form og et bestemt volum?",
+    "option_a": "Fast stoff",
+    "option_b": "Flytende",
+    "option_c": "Gass",
+    "option_d": "Plasma",
+    "answer": "A",
+    "id": "miscellaneous/test/419"
+  },
+  {
+    "instruction": "Hva er arealet, i kvadrat-enheter, av et kvadrat hvis sider er like lange som radiusen til en sirkel med en omkrets på $12\\pi$ enheter?",
+    "option_a": "10",
+    "option_b": "11",
+    "option_c": "12",
+    "option_d": "36",
+    "answer": "D",
+    "id": "high_school_mathematics/test/224"
+  },
+  {
+    "instruction": "NH4+(aq) + NO2- (aq) → N2(g) + 2H2O(l) Økt temperatur i reaksjonen ovenfor vil øke reaksjonshastigheten. Hvilket av følgende er IKKE en grunn til at økt temperatur øker reaksjonshastigheten?",
+    "option_a": "Det er mer sannsynlig at reaktantene overvinner aktiveringsenergien.",
+    "option_b": "Antall kollisjoner mellom reaktantmolekylene vil øke.",
+    "option_c": "En større fordeling av reaktantmolekyler vil ha høye hastigheter.",
+    "option_d": "Alternative reaksjonsveier blir tilgjengelige ved høyere temperaturer.",
+    "answer": "D",
+    "id": "high_school_chemistry/test/38"
+  },
+  {
+    "instruction": "Hva mener Dworkin med \"semantisk brodd\"?",
+    "option_a": "Lovens språk er som regel uklart.",
+    "option_b": "Advokaters argumentasjon dreier seg som regel om språk.",
+    "option_c": "Dommere er utsatt for språklige misforståelser.",
+    "option_d": "Anerkjennelsesregelen kan ikke fullt ut forklare juridisk gyldighet.",
+    "answer": "D",
+    "id": "jurisprudence/test/49"
+  },
+  {
+    "instruction": "Øvre Egypt er ________ av Nedre Egypt.",
+    "option_a": "nord",
+    "option_b": "sør",
+    "option_c": "øst",
+    "option_d": "vest",
+    "answer": "B",
+    "id": "prehistory/test/212"
+  },
+  {
+    "instruction": "Hva er de viktigste metabolittene i alkoholmetabolismen?",
+    "option_a": "Acetaldehyd, acetat,",
+    "option_b": "Pyruvat, beta-hydroksybutyrat,",
+    "option_c": "Acetyl-CoA, lipider,",
+    "option_d": "Aceton, laktat",
+    "answer": "A",
+    "id": "nutrition/test/299"
+  },
+  {
+    "instruction": "Hvilket uttrykk representerer setningen nedenfor? 3 færre enn et tall, p",
+    "option_a": "3-p",
+    "option_b": "p+3",
+    "option_c": "3/p",
+    "option_d": "p-3",
+    "answer": "D",
+    "id": "elementary_mathematics/test/37"
+  },
+  {
+    "instruction": "Toft Co. hadde 120000 utestående ordinære aksjer per 1. januar. Den 1. april utstedte selskapet ytterligere 40000 ordinære aksjer. I løpet av året ble det utstedt 10000 ikke-konvertible preferanseaksjer, og i løpet av året ble det utbetalt et utbytte på 5 USD per aksje. Nettoinntekten for året var 480000 dollar. Hva skal Toft rapportere som resultat per aksje for året?",
+    "option_a": "$2.69",
+    "option_b": "$2.87",
+    "option_c": "$3.00",
+    "option_d": "3.2",
+    "answer": "B",
+    "id": "professional_accounting/test/83"
+  },
+  {
+    "instruction": "En prøve på 2,35 g ble oppløst i vann, og kloridionene ble felt ut ved å tilsette sølvnitrat (Ag+ + Cl- → AgCl). Hvis man fikk 0,435 g bunnfall, hva er prosentandelen klor i prøven?",
+    "option_a": "10.80%",
+    "option_b": "4.60%",
+    "option_c": "43.50%",
+    "option_d": "18%",
+    "answer": "B",
+    "id": "high_school_chemistry/test/167"
+  },
+  {
+    "instruction": "Hvor i første kvadrant har rosen r = sin 3θ en vertikal tangent?",
+    "option_a": "ingen steder",
+    "option_b": "θ = 0.39",
+    "option_c": "θ= 0.47",
+    "option_d": "θ = 0.52",
+    "answer": "C",
+    "id": "high_school_mathematics/test/245"
+  },
+  {
+    "instruction": "Hvor mange skip seilte Columbus med på sin første reise til \"den nye verden\"?",
+    "option_a": "To",
+    "option_b": "Tre",
+    "option_c": "Fem",
+    "option_d": "Ti",
+    "answer": "B",
+    "id": "miscellaneous/test/628"
+  },
+  {
+    "instruction": "Dette spørsmålet refererer til følgende informasjon.\nDet er naturlig, det er et privilegium, jeg vil gå lenger, det er en rettighet, som alle frie mennesker gjør krav på, at de har rett til å klage når de blir såret. De har rett til offentlig å protestere mot maktmisbruk i de sterkeste ordelag, til å sette sine naboer på vakt mot myndighetspersoners list eller åpenlyse vold, og til å hevde med mot den følelsen de har av frihetens velsignelser, den verdien de setter på den, og deres beslutning om for enhver pris å bevare den som en av de største velsignelser himmelen kan gi...: Spørsmålet som ligger foran retten og dere, mine herrer i juryen, er ikke av liten eller privat interesse. Det er ikke saken til én stakkars boktrykker, eller New York alene, som dere nå prøver. Nei! Den kan i sin konsekvens påvirke enhver fri mann som lever under en britisk regjering på Amerikas fastland. Det er den beste saken. Det er frihetens sak. Og jeg er ikke i tvil om at deres rettskafne opptreden i dag ikke bare vil gi dere rett til deres medborgeres kjærlighet og aktelse, men alle som foretrekker frihet fremfor et liv i slaveri, vil velsigne og ære dere som menn som har avverget tyranniets forsøk, og ved en upartisk og ukorrupt dom har lagt et edelt grunnlag for å sikre oss selv, våre etterkommere og våre naboer det som naturen og lovene i vårt land har gitt oss rett til frihet til både å avsløre og motsette oss vilkårlig makt (i disse delene av verden i det minste) ved å snakke og skrive sannhet.\n-Andrew Hamilton, avsluttende argumentasjon i en injurierettssak mot en avisredaktør\nJohn Peter Zenger, 4. august 1735\nHamiltons suksess i Zenger-saken gjenspeiler mest direkte hvilket av følgende?",
+    "option_a": "Amerikanernes ønske om uavhengighet fra Storbritannia",
+    "option_b": "Amerikansk avvisning av opplysningstidens idealer",
+    "option_c": "En lang tradisjon for selvstyre i de amerikanske koloniene",
+    "option_d": "Svekkelsen av de økonomiske båndene mellom Amerika og Storbritannia",
+    "answer": "C",
+    "id": "high_school_us_history/test/31"
+  },
+  {
+    "instruction": "I vakuum har en gjenstand ingen",
+    "option_a": "oppdriftskraft",
+    "option_b": "masse",
+    "option_c": "vekt",
+    "option_d": "Alle disse",
+    "answer": "A",
+    "id": "conceptual_physics/test/20"
+  },
+  {
+    "instruction": "Hvilket av disse mineralene er hardest på Mohs-skalaen?",
+    "option_a": "Korund",
+    "option_b": "Kvarts",
+    "option_c": "Apatitt",
+    "option_d": "Kalsitt",
+    "answer": "A",
+    "id": "miscellaneous/test/451"
+  },
+  {
+    "instruction": "Melkeveien er en del av en gigantisk superhoper med en diameter på 160 Mpc. Hva heter denne superhopen?",
+    "option_a": "Virgo",
+    "option_b": "Laniakea",
+    "option_c": "Sculptor",
+    "option_d": "Boötes",
+    "answer": "B",
+    "id": "astronomy/test/14"
+  },
+  {
+    "instruction": "For å oppmuntre til å ta høyere utdanning gir en delstat et skattefritak på 200 dollar for heltidsstudenter ved høyskoler i delstaten. Kvinnelige studenter som studerer på halvtid, får fortsatt 100 dollar i skattefritak, mens mannlige studenter som studerer på halvtid, ikke lenger får noe skattefritak. Hvilket av de følgende utsagnene oppsummerer mest presist den korrekte grunnlovsregelen for skattefritak for halvtidsstudenter?",
+    "option_a": "Skattefritaket vil bli kjent ugyldig fordi det er i strid med rettssikkerheten.",
+    "option_b": "Skattefritaket ville bli kjent ugyldig fordi det er i strid med klausulen om likebehandling.",
+    "option_c": "Skattetiltaket ville bli opprettholdt som innenfor området for materiell rettssikkerhet.",
+    "option_d": "Skattetiltaket ville bli opprettholdt fordi det ligger innenfor kommunens myndighet til å skattlegge ulike persongrupper ulikt.",
+    "answer": "B",
+    "id": "professional_law/test/1054"
+  },
+  {
+    "instruction": "Hver dag bruker Melanie lunsjpengene sine på epler til 1 dollar stykket og appelsiner til 2 dollar stykket. På det nåværende forbruksnivået er Melanies marginalnytte av epler 12 og marginalnytten av appelsiner 18. Hvis hun allerede har brukt opp alle lunsjpengene sine, hvordan bør Melanie endre forbruksbeslutningen sin for å maksimere nytten?",
+    "option_a": "Hun bør ikke gjøre noen endringer; hun spiser den nyttemaksimerende kombinasjonen av epler og appelsiner.",
+    "option_b": "Hun bør øke eplekonsumet og redusere appelsinkonsumet til grensenytten per dollar er lik for begge.",
+    "option_c": "Hun bør redusere eplekonsumet og øke appelsinkonsumet inntil grensenytten per krone er lik for begge.",
+    "option_d": "Hun bør øke eplekonsumet og redusere appelsinkonsumet inntil grensenytten er lik for begge.",
+    "answer": "B",
+    "id": "high_school_microeconomics/test/186"
+  },
+  {
+    "instruction": "Hvis nominelt BNP er $6000 og BNP-deflatoren er lik 200, er reelt BNP lik",
+    "option_a": "$30",
+    "option_b": "$3,000",
+    "option_c": "$12,000",
+    "option_d": "$1,200",
+    "answer": "B",
+    "id": "high_school_macroeconomics/test/294"
+  },
+  {
+    "instruction": "Hvor mange fragmenter kan et restriksjonsenzym som gjenkjenner en spesifikk 4-base-sekvens i DNA, i gjennomsnitt forventes å spalte en dobbelttrådet bakteriofag med en genomstørrelse på 5000 bp i?",
+    "option_a": "ca. 2",
+    "option_b": "ca. 4",
+    "option_c": "ca. 20",
+    "option_d": "ca. 50",
+    "answer": "C",
+    "id": "medical_genetics/test/51"
+  },
+  {
+    "instruction": "Hvilket uttrykkspar er ekvivalent for alle variabelverdier større enn null?",
+    "option_a": "3(x+2) og 3x+2",
+    "option_b": "4d+ 2e og 8d+e",
+    "option_c": "f+f+f+g og 3fg",
+    "option_d": "b+b+3c og 2b+ 3c",
+    "answer": "D",
+    "id": "elementary_mathematics/test/184"
+  },
+  {
+    "instruction": "Hva het Huey Lewis' band?",
+    "option_a": "The News",
+    "option_b": "The Attractions",
+    "option_c": "The Silver Bullet Band",
+    "option_d": "Louie and Dewey",
+    "answer": "A",
+    "id": "miscellaneous/test/730"
+  },
+  {
+    "instruction": "I henhold til ett diskrimineringskriterium, under hvilke av følgende betingelser kan man anta at en utvelgelsestest ikke diskriminerer en bestemt rasegruppe?",
+    "option_a": "Ingen fra gruppen har søkt på en stilling i organisasjonen som bruker testen",
+    "option_b": "\"Testmanualen viser at testen er gyldig for et bredt spekter av jobber",
+    "option_c": "\"Testen avviser søkere fra ulike rasegrupper i samme forhold",
+    "option_d": "Det er ikke mulig å gjennomføre separate validitetsstudier på mannlige og kvinnelige ansatte",
+    "answer": "C",
+    "id": "professional_psychology/test/352"
+  },
+  {
+    "instruction": "Hva er forholdet mellom linjeintensitetene i EPR-spekteret til t-Bu-radikalet (CH3)3C-?",
+    "option_a": "1:19:36:84:126:126:84:36:19:1",
+    "option_b": "1:9:36:84:126:126:84:36:9:1",
+    "option_c": "1:9:35:82:120:120:82:35:9:1",
+    "option_d": "1:8:28:56:70:56:28:8:1",
+    "answer": "D",
+    "id": "college_chemistry/test/13"
+  },
+  {
+    "instruction": "Hvilken fase av publikumsundersøkelser innen PR er knyttet til summativ evaluering?",
+    "option_a": "Gjennomføring",
+    "option_b": "Påvirkning",
+    "option_c": "Holdningsendring",
+    "option_d": "Forberedelse",
+    "answer": "B",
+    "id": "public_relations/test/52"
+  },
+  {
+    "instruction": "En forsker ønsker å finne en prediktiv lineær sammenheng mellom forklarings- og responsvariablene i studien sin. Som en del av analysen planlegger hun derfor å generere et 95 % konfidensintervall for helningen på regresjonslinjen for de to variablene. Intervallet bestemmes til å være (0,45, 0,80). Hvilke av følgende utsagn er sanne? (Forutsatt at betingelsene for inferens er oppfylt.) I. Hun har gode bevis for at det er en lineær sammenheng mellom variablene. II. Det er sannsynlig at det er en korrelasjon (r) mellom de to variablene som ikke er lik null. III. Det er sannsynlig at den sanne helningen på regresjonslinjen er 0.",
+    "option_a": "Kun I og II",
+    "option_b": "Kun I og III",
+    "option_c": "Kun II og III",
+    "option_d": "Bare I",
+    "answer": "A",
+    "id": "high_school_statistics/test/207"
+  },
+  {
+    "instruction": "Hvilken retning tilhører det rene lands buddhisme?",
+    "option_a": "Vajrayana",
+    "option_b": "Theravada",
+    "option_c": "Mahayana",
+    "option_d": "Mahavira",
+    "answer": "C",
+    "id": "world_religions/test/17"
+  },
+  {
+    "instruction": "Reglene som styrer valgmannskollegiet, gjør det spesielt viktig for presidentkandidater å",
+    "option_a": "vinne så mange delstater som mulig, uavhengig av delstatenes størrelse",
+    "option_b": "bruker mest tid på valgkampen i sørstatene",
+    "option_c": "drive mest aggressiv valgkamp blant dem som skal velges som valgmenn",
+    "option_d": "konsentrere valgkampinnsatsen om de såkalte \"battleground\"-statene",
+    "answer": "D",
+    "id": "high_school_government_and_politics/test/176"
+  },
+  {
+    "instruction": "En produsent av ferdigkakeblandinger er interessert i å utforme et eksperiment for å teste effekten av fire ulike temperaturnivåer (300, 325, 350 og 375F), to ulike typer panner (glass og metall) og tre ulike typer ovner (gass, elektrisk og mikrobølgeovn) på konsistensen til kakene, i alle kombinasjoner. Hvilket av følgende er den beste beskrivelsen av forsøksoppsettet for det nødvendige eksperimentet?",
+    "option_a": "Et fullstendig randomisert design med ni behandlingsgrupper",
+    "option_b": "Et fullstendig randomisert forsøk med 24 behandlingsgrupper",
+    "option_c": "Et randomisert blokkforsøk, blokkert på temperatur, med seks behandlingsgrupper",
+    "option_d": "Et randomisert blokkforsøk med 12 behandlingsgrupper, blokkert på type kjele",
+    "answer": "B",
+    "id": "high_school_statistics/test/93"
+  },
+  {
+    "instruction": "Generelt er den beste presentasjonstiden mellom den betingede og den ubetingede stimulusen for å fremkalle klassisk betinging",
+    "option_a": "forsinket",
+    "option_b": "samtidig",
+    "option_c": "sporing",
+    "option_d": "bakover",
+    "answer": "A",
+    "id": "high_school_psychology/test/243"
+  },
+  {
+    "instruction": "Den nevropsykologiske evalueringen av en 70 år gammel pensjonert yrkesutøver viser lav gjennomsnittsintelligens med dårlig problemløsning, problemer med å finne ord, dårlig visuomotorisk koordinasjon og klare hukommelsesvansker. Pasienten har begrenset bevissthet om disse manglene. Den mest sannsynlige diagnosen er",
+    "option_a": "Demens av Alzheimers type",
+    "option_b": "pseudodemens",
+    "option_c": "Korsakoffs syndrom",
+    "option_d": "normale aldringseffekter",
+    "answer": "A",
+    "id": "professional_psychology/test/382"
+  },
+  {
+    "instruction": "Carter Co. hadde følgende poster i balansen ved utgangen av inneværende år: Kontanter og kontantekvivalenter $ 200000 Kortsiktige investeringer 100000 Kundefordringer 400000 Varelager 600000 Patent'Äì10 år 300000 Utstyr 1000000 Akkumulerte avskrivninger 200000 Kortsiktig gjeld ved utgangen av inneværende år var $ 640000. Hva er Carters arbeidskapital ved utgangen av inneværende år?",
+    "option_a": "$60,000",
+    "option_b": "$560,000",
+    "option_c": "$660,000",
+    "option_d": "960000",
+    "answer": "C",
+    "id": "professional_accounting/test/136"
+  },
+  {
+    "instruction": "Teorier om rasistisk diskurs antyder at:",
+    "option_a": "rase er en objektiv måte å kategorisere mennesker på biologisk grunnlag på",
+    "option_b": "ideen om rase er sosialt konstruert gjennom sterke ideologier",
+    "option_c": "raseforholdene i Storbritannia og USA kan spores tilbake til kolonitiden",
+    "option_d": "mennesker velger sin raseidentitet, og denne blir fastlåst",
+    "answer": "B",
+    "id": "sociology/test/51"
+  },
+  {
+    "instruction": "De tre stadiene i holdningsdannelsen er at vi lærer noe, vi føler noe og vi handler ut fra holdningene våre. Det stadiet der vi lærer noe, omtales som:",
+    "option_a": "Atferd.",
+    "option_b": "Konativ.",
+    "option_c": "Kognitiv.",
+    "option_d": "Emosjonell.",
+    "answer": "C",
+    "id": "marketing/test/60"
+  },
+  {
+    "instruction": "Mars har en atmosfære som nesten utelukkende består av karbondioksid. Hvorfor er det ikke en sterk drivhuseffekt som holder planeten varm?",
+    "option_a": "Mars har ikke nok indre varme til å drive drivhuseffekten",
+    "option_b": "Mars ligger for langt fra solen til at drivhuseffekten kan fungere",
+    "option_c": "drivhuseffekten krever et ozonlag som Mars ikke har",
+    "option_d": "atmosfæren på Mars er for tynn til å fange opp en betydelig mengde varme",
+    "answer": "D",
+    "id": "astronomy/test/128"
+  },
+  {
+    "instruction": "En tre uker gammel baby fikk svært høy feber. Barnelegen informerte moren om at sønnen ville dø hvis han ikke fikk umiddelbar medisinsk behandling. Moren protesterte av religiøse grunner. Hun hevdet at det ville være bedre for sønnen å dø hvis det var hans skjebne. Barnelegen søkte om en kjennelse fra delstatsdomstolen. Moren var til stede i retten sammen med sin advokat. Når retten skal avgjøre om den kan utstede et slikt pålegg til tross for alle relevante grunnlovsmessige innvendinger fra morens side, hvilket av følgende må den statlige domstolen vurdere?",
+    "option_a": "Om medisinsk behandling er nødvendig for å redde barnets liv.",
+    "option_b": "Om morens nektelse av å gi tillatelse til medisinsk behandling er berettiget ut fra dagens kunnskap.",
+    "option_c": "Om sykehuset eies og drives av staten.",
+    "option_d": "Om moren er skatteyter i delstaten der domstolen er lokalisert.",
+    "answer": "B",
+    "id": "professional_law/test/1362"
+  },
+  {
+    "instruction": "Alle de følgende jobbene er ikke basisjobber i byen, UNNTATT",
+    "option_a": "brannmann.",
+    "option_b": "sosialarbeider.",
+    "option_c": "renseriarbeider.",
+    "option_d": "arbeider på klesfabrikk.",
+    "answer": "D",
+    "id": "high_school_geography/test/31"
+  },
+  {
+    "instruction": "Hvilket av følgende er mest sannsynlig sant på lang sikt for en monopolbedrift?",
+    "option_a": "P = MR = MC = ATC",
+    "option_b": "P = MR = MC > ATC",
+    "option_c": "P > MR = MC = ATC",
+    "option_d": "P > ATC > MR = MC",
+    "answer": "D",
+    "id": "high_school_microeconomics/test/203"
+  },
+  {
+    "instruction": "Beskriv YF-vaksinen.",
+    "option_a": "Vaksine mot drept virus",
+    "option_b": "Levende, svekket virusvaksine utviklet ved pasteuriansk passasje",
+    "option_c": "Levende, svekket vaksine produsert ved direkte mutasjon av virusgenomet",
+    "option_d": "Kun eksperimentell vaksine",
+    "answer": "B",
+    "id": "virology/test/50"
+  },
+  {
+    "instruction": "Hvilken feilslutning oppstår når noen argumenterer for en todelt påstand, bare støtter én del av påstanden og deretter hevder at hele påstanden er støttet.",
+    "option_a": "a priori",
+    "option_b": "Kompleks påstand",
+    "option_c": "Utvidelse",
+    "option_d": "Appell til uvitenhet",
+    "answer": "B",
+    "id": "logical_fallacies/test/131"
+  },
+  {
+    "instruction": "Delstaten har følgende vedtekter om salg av brennevin:\"Section 1212. Den som selger berusende brennevin til en person som er beruset eller beruset, gjør seg skyldig i en forseelse. Denne paragrafen gjelder ikke ved salg av berusende brennevin fra et hotell, motell eller vertshus til en person som er registrert og bosatt som gjest på hotellet, motellet eller vertshuset for konsum på stedet.\"\"Section 1213. Det skal være ulovlig for enhver selger med gyldig statlig skjenkebevilling å selge rusbrus på søndager. Anyone in violation of this section shall be guilty of a misdemeanor of a misdemeanor and fined not less than $100 or more than $1,000. \"Delstatsmyndighetene har regelmessig håndhevet den nevnte dram shop-statutten og \"blue law\" som forbyr salg av brennevin på søndager. Klokken 00.30 søndag formiddag kom en kunde inn i en vinmonopolbutikk og kjøpte en flaske vin. Ekspeditøren som foretok salget, trodde klokken var 23.30 lørdag kveld fordi det var det klokkeslettet som ble vist på butikkens veggklokke. Uten at ekspeditøren visste det, var klokken defekt og gikk en time etter. Dermed viste klokken feil klokkeslett da ekspeditøren solgte vinen til kunden. Da ekspeditøren foretok salget, virket ikke kunden synlig beruset. Etter kjøpet drakk kunden hele flasken med vin. Deretter kjørte han av gårde i bilen og kjørte på en fotgjenger som ble skadet. På ulykkestidspunktet var kunden beruset etter å ha drukket vinen. Hvis fotgjengeren fremmer krav mot vinmonopolet, vil saksøkeren da få medhold?",
+    "option_a": "Ja, fordi vinmonopolet opptrådte uaktsomt ved å selge vinen i strid med den \"blå loven\" som forbyr salg av brennevin på søndager.",
+    "option_b": "Ja, fordi ulykken ikke ville ha skjedd uten salget av vinen til kunden.",
+    "option_c": "Nei, fordi formålet med den \"blå loven\" som forbyr salg av brennevin på søndager, ikke var å forhindre ulykker forårsaket av berusede sjåfører.",
+    "option_d": "Nei, fordi ekspeditøren ikke brøt skjenkeloven, og fordi hans brudd på den \"blå loven\" skyldtes at klokken ikke fungerte som den skulle.",
+    "answer": "C",
+    "id": "professional_law/test/505"
+  },
+  {
+    "instruction": "Nøytronene i et atom befinner seg vanligvis",
+    "option_a": "inne i atomkjernen",
+    "option_b": "utenfor kjernen",
+    "option_c": "En av disse",
+    "option_d": "Ingen av disse",
+    "answer": "A",
+    "id": "conceptual_physics/test/51"
+  },
+  {
+    "instruction": "Hvilket av følgende er ikke forbundet med en økning i pustearbeidet?",
+    "option_a": "Økning i respirasjonsfrekvensen.",
+    "option_b": "Støyende pust.",
+    "option_c": "Økt bruk av aksessoriske muskler.",
+    "option_d": "En respirasjonsfrekvens på 16 åndedrag per minutt.",
+    "answer": "D",
+    "id": "clinical_knowledge/test/116"
+  },
+  {
+    "instruction": "Reserveprosenten er 0,10, og mamma Morebucks tar ut 1 million dollar fra brukskontoen sin og oppbevarer dem som kontanter i kjøleskapet. Hvordan påvirker dette uttaket potensielt penger i omløp?",
+    "option_a": "Reduserer den med 9 millioner dollar",
+    "option_b": "Reduserer den med 1 million dollar",
+    "option_c": "Reduserer den med 100 000 dollar",
+    "option_d": "Øker den med 1 million dollar",
+    "answer": "A",
+    "id": "high_school_macroeconomics/test/114"
+  },
+  {
+    "instruction": "At et monopol er nødt til å senke prisen for å selge flere enheter av sitt produkt, forklarer hvorfor det er så vanlig med",
+    "option_a": "monopol er vanlig blant offentlige forsyningsvirksomheter",
+    "option_b": "marginalinntektskurven ligger under etterspørselskurven for et monopol",
+    "option_c": "marginalkostnadskurven for et monopol har en stigende kurve",
+    "option_d": "monopoler er i stand til å opprettholde markedsmakt",
+    "answer": "B",
+    "id": "high_school_microeconomics/test/69"
+  },
+  {
+    "instruction": "_______ plasserer moral utenfor rasjonalitetens sfære i en følelsesmessig \"moralsk impuls\" overfor andre.",
+    "option_a": "Dydsetikk",
+    "option_b": "Etisk egoisme",
+    "option_c": "Postmoderne etikk",
+    "option_d": "Pliktetikk",
+    "answer": "C",
+    "id": "business_ethics/test/73"
+  },
+  {
+    "instruction": "Hvilket av følgende er sant når det gjelder kalsium i kosten?",
+    "option_a": "De fleste voksne får i seg mellom 0,5 mg og 2,0 mg kalsium per dag",
+    "option_b": "Aktivert D-vitamin reduserer opptaket av kalsium fra kosten",
+    "option_c": "Det finnes klare bevis for at personer som får i seg mer kalsium enn gjennomsnittet, har lavere risiko for benbrudd.",
+    "option_d": "Absorpsjonseffektiviteten er omvendt relatert til kalsiuminntaket, slik at en større andel absorberes når kalsiuminntaket er lavt",
+    "answer": "D",
+    "id": "nutrition/test/78"
+  },
+  {
+    "instruction": "Dette spørsmålet refererer til følgende informasjon.\n\"Jeg er i Birmingham fordi urettferdigheten er her. . . . Dessuten er jeg klar over at alle samfunn og stater henger sammen. Jeg kan ikke sitte uvirksom i Atlanta og ikke bry meg om det som skjer i Birmingham. Urettferdighet hvor som helst er en trussel mot rettferdighet overalt. Vi er fanget i et uunngåelig nettverk av gjensidighet, bundet sammen i et skjebnefellesskap. Det som påvirker én direkte, påvirker alle indirekte. Aldri mer har vi råd til å leve med den snevre, provinsielle ideen om \"oppviglere utenfra\". Enhver som bor i USA, kan aldri bli betraktet som en outsider noe sted i dette landet. . . .\"\n-Martin Luther King jr. i \"Letter from a Birmingham Jail\", 16. april 1963\nSusan B. Anthony og andre i kvinnesaksbevegelsen hadde stor innflytelse på ratifiseringen av hvilket av følgende?",
+    "option_a": "Det nittende grunnlovstillegget.",
+    "option_b": "Tillegget om like rettigheter.",
+    "option_c": "Det femtende grunnlovstillegget.",
+    "option_d": "Det tjuesjette grunnlovstillegget.",
+    "answer": "A",
+    "id": "high_school_us_history/test/32"
+  },
+  {
+    "instruction": "I hvilket av disse to scenariene gjør hovedpersonen (som bruker I/me/my) noe som er klart moralsk galt, i henhold til vanlige moralske standarder i USA per 2020? Scenario 1 | Jeg dinglet med min lille sønn i armene på lekeplassen Scenario 2 | Jeg brukte min overdimensjonerte SUV til å kjøre et halvt dusin barn til skolen.",
+    "option_a": "Feil, Feil",
+    "option_b": "Feil, ikke feil",
+    "option_c": "Ikke feil, Feil",
+    "option_d": "Ikke galt, ikke galt",
+    "answer": "D",
+    "id": "moral_scenarios/test/84"
+  },
+  {
+    "instruction": "En vanlig kritikk mot å sette merkelapper på elever som funksjonshemmede er at de har en tendens til å opptre i samsvar med de egenskapene som er knyttet til merkelappen. Hvilket av følgende navn brukes om dette fenomenet?",
+    "option_a": "Den selvoppfyllende profetien",
+    "option_b": "Loven om effekt",
+    "option_c": "Primat-effekten",
+    "option_d": "Sosial loffing",
+    "answer": "A",
+    "id": "high_school_psychology/test/540"
+  },
+  {
+    "instruction": "Den såkalte mørke energien er en modell for å forklare ...",
+    "option_a": "strålingen fra svarte hull.",
+    "option_b": "massefordelingen av galakser.",
+    "option_c": "universets akselerasjon.",
+    "option_d": "universets mikrobølgebakgrunn.",
+    "answer": "C",
+    "id": "astronomy/test/37"
+  },
+  {
+    "instruction": "Mais omsettes i et marked preget av konkurranse. Hvilket av følgende forhold øker likevektsprisen på mais?",
+    "option_a": "Både tilbud og etterspørsel skifter mot høyre.",
+    "option_b": "Både tilbud og etterspørsel forskyves mot venstre.",
+    "option_c": "Tilbudet forskyves mot høyre, etterspørselen mot venstre.",
+    "option_d": "Tilbudet forskyves mot venstre, mens etterspørselen forskyves mot høyre.",
+    "answer": "D",
+    "id": "high_school_macroeconomics/test/315"
+  },
+  {
+    "instruction": "En delstat har vedtatt en lov som forbyr alle motorkjøretøyer som kjører i delstaten å ha tonede vinduer eller glassbelegg av noe slag. Lovforslaget ble vedtatt av delstatens lovgivende forsamling på oppfordring fra statlige og lokale politimyndigheter som hevdet at tonede vinduer hindret dem i å observere aktiviteten i bilen. De fleste innbyggerne støttet også lovforslaget, spesielt etter at en politimann ble drept av en passasjer i en limousin med tonede vinduer. Betjenten var ikke i stand til å se at angriperen var bevæpnet og farlig da han nærmet seg bilen på grunn av en fartsovertredelse. Et limousinselskap driver en limousintjeneste i en nabostat og har en flåte på 68 limousiner, som alle har tonede vinduer. Hvert år kjører selskapet tusenvis av turer inn i delstaten for å frakte passasjerer til den internasjonale flyplassen som ligger 16 km fra grensen mellom de to delstatene. Siden alle limousinene er produsert med tonede vinduer, vil selskapet få store utgifter ved å bestille limousiner uten tonede vinduer. Selskapet går til sak for å bestride grunnlovsmessigheten av delstatsloven. Forutsatt at selskapet har rett til å anlegge et slikt søksmål, hvilket av følgende er det sterkeste grunnlovsargumentet for å ugyldiggjøre den nevnte loven?",
+    "option_a": "Fordi toning av vinduer er tillatt på biler i nabostatene, nekter denne loven selskapet lik rettsbeskyttelse.",
+    "option_b": "Fordi loven hindrer handel mellom delstater ved å forby alle biler med tonede vinduer å kjøre inn i delstaten, er den i strid med handelsklausulen.",
+    "option_c": "Fordi vindusfarging på biler er lovlig i hjemstaten, bryter denne loven med kontraktsklausulen ved å hindre selskapet i å oppfylle sin forpliktelse til å transportere passasjerer til en nabostat.",
+    "option_d": "Ettersom reiser mellom delstater er en grunnleggende rettighet som ikke kan innskrenkes av delstatslovgivning, krenker loven selskapets materielle rettssikkerhet ved at den vilkårlig og urimelig regulerer økonomisk aktivitet.",
+    "answer": "B",
+    "id": "professional_law/test/321"
+  },
+  {
+    "instruction": "Med den hensikt å begå en forbrytelse.",
+    "option_a": "Betingede gjenværende rettigheter",
+    "option_b": "Utømmelige rettigheter",
+    "option_c": "Festede gjenværende rettigheter som kan åpnes",
+    "option_d": "Tilbakefall",
+    "answer": "D",
+    "id": "professional_law/test/180"
+  },
+  {
+    "instruction": "I hvilket av disse to scenariene gjør hovedpersonen (som bruker I/me/my) noe som er klart moralsk galt, i henhold til vanlige moralske standarder i USA per 2020? Scenario 1 | Jeg kastet bowlingkulen så hardt jeg kunne for å prøve å knuse keglesetteren. Scenario 2 | Jeg sa til datteren min at hun brukte feil grammatikk og at hun burde endre setningene sine.",
+    "option_a": "Feil, Feil",
+    "option_b": "Feil, ikke feil",
+    "option_c": "Ikke feil, Feil",
+    "option_d": "Ikke feil, Ikke feil",
+    "answer": "B",
+    "id": "moral_scenarios/test/614"
+  },
+  {
+    "instruction": "Advokaten til en saksøker i et søksmål ved en føderal distriktsdomstol forkynte stevningen, klagen og 25 spørsmål om saksøktes anførsler i saken for saksøkte. Det fremgikk av spørsmålene at de skulle besvares innen 30 dager etter forkynnelsen. På hvilket av følgende grunnlag vil saksøkte sannsynligvis lykkes i å få en beskyttelsesordre?",
+    "option_a": "Forhørsspørsmål er kun egnet til å avdekke fakta, ikke påstander.",
+    "option_b": "Forespørsler kan ikke forkynnes før svar på klagen er inngitt.",
+    "option_c": "Forhørene kan ikke forkynnes før partene har konferert for å avtale innledende informasjon og utarbeide en plan for bevisfremleggelse.",
+    "option_d": "Forhørsspørsmålene overskrider det antallet som er tillatt uten tillatelse fra retten eller en avtale mellom partene.",
+    "answer": "C",
+    "id": "professional_law/test/1336"
+  },
+  {
+    "instruction": "\" _Ad lazarum_ \" er en spesifikk form for",
+    "option_a": "Anekdotisk bevis",
+    "option_b": "Kompleks årsak",
+    "option_c": "Falske kriterier",
+    "option_d": "Falskt tegn",
+    "answer": "D",
+    "id": "logical_fallacies/test/137"
+  },
+  {
+    "instruction": "Snubberkretsen brukes sammen med SCR",
+    "option_a": "i serie.",
+    "option_b": "parallelt.",
+    "option_c": "enten i serie eller parallelt.",
+    "option_d": "antiparallell.",
+    "answer": "B",
+    "id": "electrical_engineering/test/134"
+  },
+  {
+    "instruction": "Hva var den viktigste organisatoriske endringen som 9/11-kommisjonen foreslo for det amerikanske etterretningssamfunnet?",
+    "option_a": "Opprettelsen av Department of Homeland Security",
+    "option_b": "Flytting av forsvarsdepartementets etterretningstjenester til CIA for å oppnå bedre koordinering",
+    "option_c": "Opprettelse av en nasjonal etterretningssjef",
+    "option_d": "Flytting av den innenlandske etterretningsdelen av FBI til CIA",
+    "answer": "C",
+    "id": "us_foreign_policy/test/80"
+  },
+  {
+    "instruction": "En utleier leide ut et forretningsbygg til en leietaker for fem år. Leien skulle betales den første i hver måned, og utleier hadde rett til å heve leieavtalen hvis leietaker misligholdt sine forpliktelser. Leieperioden utløp for 18 måneder siden. Leietakeren har imidlertid fortsatt å disponere bygningen og har fortsatt å betale husleien i tide. Utleier har fortsatt å akseptere leien. Bygningens reelle leieverdi er nå vesentlig høyere enn det leietaker har betalt, og utleier har nylig funnet en tredjepart som vil betale den høyere leien. Da leietakeren betalte leien for seks uker siden, aksepterte utleier leien, men ga leietakeren skriftlig beskjed om at hun måtte flytte ut ved månedens utgang. Leietakeren, som fortsatt er i besittelse av bygningen, har informert utleier om at hun ikke ønsker å flytte, og at hun er villig til å betale dagens leieverdi. Utleier har bedt sin advokat om råd angående besittelsesretten. Hvem skal advokaten si har rett til besittelse?",
+    "option_a": "Utleier, fordi han har sagt opp leieforholdet i god tid.",
+    "option_b": "Utleier, fordi han har forbeholdt seg retten til å gå inn igjen.",
+    "option_c": "Leietakeren, fordi hun har sagt seg villig til å betale gjengs leie.",
+    "option_d": "Leietaker, fordi utleier ikke har vist at han har god grunn til å si opp leieforholdet.",
+    "answer": "A",
+    "id": "professional_law/test/269"
+  },
+  {
+    "instruction": "Filosofene i ________ School of Jurisprudence mener at loven er et sett med regler som er utviklet, kommunisert og håndhevet av det herskende partiet, snarere enn en refleksjon av samfunnets moral, historie, logikk eller sosiologi.",
+    "option_a": "Kommando",
+    "option_b": "Lov og økonomi",
+    "option_c": "Naturrett",
+    "option_d": "Kritiske juridiske studier",
+    "answer": "A",
+    "id": "jurisprudence/test/47"
+  },
+  {
+    "instruction": "I hvilket av disse to scenariene gjør hovedpersonen (som bruker I/me/my) noe som er klart moralsk galt, i henhold til vanlige moralske standarder i USA per 2020? Scenario 1 | Jeg ga bort ølen min til en fremmed for én dollar. Scenario 2 | Jeg sa at trener Smith fortalte en vits.",
+    "option_a": "Feil, Feil",
+    "option_b": "Feil, ikke feil",
+    "option_c": "Ikke feil, Feil",
+    "option_d": "Ikke feil, Ikke feil",
+    "answer": "D",
+    "id": "moral_scenarios/test/402"
+  },
+  {
+    "instruction": "En mann og en kone hadde vært gift i 10 år. Kona tok ut skilsmisse fra mannen etter å ha fått vite at han hadde et utenomekteskapelig kjærlighetsforhold til en av sine medarbeidere. Etter skilsmissen ble mannen arrestert og tiltalt for å ha underslått penger fra arbeidsgiveren sin i løpet av en toårsperiode. Under forberedelsene til rettssaken avhørte påtalemyndigheten kona, som opplyste at mannen hadde innrømmet underslaget i løpet av ekteskapet. Denne jurisdiksjonen har innført både ekteskapelig og ektefelleprivilegier. Under ektemannens rettssak blir kona innkalt til å vitne om uttalelser mannen har kommet med til henne i løpet av ekteskapet om at han har begått forbrytelsen. Etter innvendinger fra ektemannens advokat vil konas vitneforklaring være",
+    "option_a": "tillatt i henhold til både ekteskapets og ektefellens taushetsplikt.",
+    "option_b": "tillates i henhold til taushetsplikten for ektefeller, men ikke i henhold til taushetsplikten for ektefeller.",
+    "option_c": "tillates i henhold til taushetsplikten, men ikke i henhold til ektefelleprivilegiet.",
+    "option_d": "ikke tillatelig, verken i henhold til taushetsplikten for ektefeller eller i henhold til taushetsplikten for ektefeller.",
+    "answer": "B",
+    "id": "professional_law/test/264"
+  },
+  {
+    "instruction": "Fra hvilket språk stammer begrepet \"RSVP\"?",
+    "option_a": "Russisk",
+    "option_b": "Italiensk",
+    "option_c": "Portugisisk",
+    "option_d": "Fransk",
+    "answer": "D",
+    "id": "miscellaneous/test/669"
+  },
+  {
+    "instruction": "I hvilket av disse to scenariene gjør hovedpersonen (som bruker I/me/my) noe som er klart moralsk galt, i henhold til vanlige moralske standarder i USA per 2020? Scenario 1 | Jeg undersøkte og skrev oppgaven min med kilder funnet på internett. Scenario 2 | Jeg ringte politiet fordi moren min sparket meg",
+    "option_a": "Feil, Feil",
+    "option_b": "Galt, ikke galt",
+    "option_c": "Ikke galt, galt",
+    "option_d": "Ikke galt, ikke galt",
+    "answer": "D",
+    "id": "moral_scenarios/test/354"
+  },
+  {
+    "instruction": "Et ufarlig dyr kopierer utseendet til et farlig dyr som en forsvarsmekanisme for å få rovdyr til å tenke seg om før de angriper.",
+    "option_a": "Aposomatisk fargelegging",
+    "option_b": "Batesiansk etterligning",
+    "option_c": "Villedende markeringer",
+    "option_d": "Kryptisk fargelegging",
+    "answer": "B",
+    "id": "high_school_biology/test/173"
+  },
+  {
+    "instruction": "Hvis A = {1, 2, 3}, er relasjonen S = {(1, 1), (2, 2)} symmetrisk bare hvis",
+    "option_a": "bare symmetrisk",
+    "option_b": "bare antisymmetrisk",
+    "option_c": "både symmetrisk og antisymmetrisk",
+    "option_d": "en ekvivalensrelasjon",
+    "answer": "C",
+    "id": "abstract_algebra/test/11"
+  },
+  {
+    "instruction": "Den sofistikerte produksjonen av steinredskaper ved Pinnacle Point i Sør-Afrika vitner om en 250 000 år gammel tradisjon for produksjon og bruk av håndøkser:",
+    "option_a": "en 250 000 år gammel tradisjon for produksjon og bruk av håndøkser.",
+    "option_b": "en 71 000 år gammel kompleks sekvens av produksjon og bruk av mikroblad.",
+    "option_c": "en tilpasning til jakt i kaldere omgivelser.",
+    "option_d": "både a og c.",
+    "answer": "B",
+    "id": "prehistory/test/46"
+  },
+  {
+    "instruction": "Hvilken av følgende faktorer er en push-faktor?",
+    "option_a": "Misnøye med nåværende jobb",
+    "option_b": "Høyere betalte jobber andre steder",
+    "option_c": "Et attraktivt pensjonistsamfunn et annet sted",
+    "option_d": "Et behagelig klima",
+    "answer": "A",
+    "id": "high_school_geography/test/141"
+  },
+  {
+    "instruction": "Energi som går med til å stå ved kontorpulten, gå til et arkivskap og andre kontorjobbrelaterte aktiviteter, henvises til følgende energiforbrukskomponent:",
+    "option_a": "Termogenese ved ikke-treningsrelatert aktivitet (NEAT)",
+    "option_b": "Termogenese ved strukturert (viljestyrt) treningsaktivitet",
+    "option_c": "Energiforbruk ved fysisk aktivitet (uten hvile)",
+    "option_d": "Basal metabolsk hastighet",
+    "answer": "A",
+    "id": "nutrition/test/300"
+  },
+  {
+    "instruction": "Hvilket av følgende er det sterkeste argumentet mot etisk relativismes motstand mot menneskerettighetene?",
+    "option_a": "Utilitarisme",
+    "option_b": "Kommunitarisme.",
+    "option_c": "Kognitivisme.",
+    "option_d": "Positivisme.",
+    "answer": "C",
+    "id": "jurisprudence/test/96"
+  },
+  {
+    "instruction": "I hvilket av disse to scenariene gjør hovedpersonen (som bruker jeg/meg/mine) noe som er klart moralsk galt, i henhold til vanlige moralske standarder i USA per 2020? Scenario 1 | Jeg satte bånd på hunden min og gikk tur med henne. Scenario 2 | Broren min var for dårlig til å sove i bilen, så jeg bar ham inn",
+    "option_a": "Feil, Feil",
+    "option_b": "Feil, ikke feil",
+    "option_c": "Ikke feil, Feil",
+    "option_d": "Ikke galt, ikke galt",
+    "answer": "D",
+    "id": "moral_scenarios/test/242"
+  },
+  {
+    "instruction": "En ettermiddag kjørte en bilist bil da hun kjørte på en fotgjenger som kom ut i krysset. Fotgjengeren ble alvorlig skadet i ulykken og saksøkte bilisten for å få erstatning for personskade. Det var ingen vitner til ulykken. Bilisten hevder at det var grønt lys da hun kjørte inn i krysset. Fotgjengeren har nå hukommelsestap og husker ikke hvordan ulykken skjedde. Under rettssaken innkaller fotgjengerens advokat et vitne. Vitnet foreslår å forklare at hun befant seg på akuttmottaket på sykehuset da fotgjengeren ble brakt inn etter ulykken. Vitnet forteller videre at mens fotgjengeren ble behandlet for skadene sine, spurte sykepleieren ham: \"Hvordan ble du skadet?\" Fotgjengeren svarte: \"Bilen kjørte på rødt lys og traff meg mens jeg gikk gjennom krysset.\" Etter innvendinger er dette beviset",
+    "option_a": "tillatt som en uttalelse som ble avgitt i forbindelse med medisinsk behandling og diagnostisering.",
+    "option_b": "tillatelig som et nåværende sanseinntrykk.",
+    "option_c": "ikke tillatt, fordi vitnet avlyttet en fortrolig samtale mellom fotgjengeren og en representant for sykehuset.",
+    "option_d": "ikke tillatelig, fordi det dreier seg om rykter som ikke omfattes av noe anerkjent unntak.",
+    "answer": "D",
+    "id": "professional_law/test/1063"
+  },
+  {
+    "instruction": "Hastigheten for dataoverføring i 4-G-nettverket for telekommunikasjon er",
+    "option_a": "386 kbps - 2 mbps.",
+    "option_b": "2 mbps.",
+    "option_c": "2 mbps - 1 gbps.",
+    "option_d": "100 mbps - 1 gbps.",
+    "answer": "D",
+    "id": "electrical_engineering/test/113"
+  },
+  {
+    "instruction": "En murer ble ansatt av en byggmester i henhold til en skriftlig ettårskontrakt med en årslønn på 45 000 dollar, og ansettelsen skulle begynne 1. mars. Fordi byggmesteren ikke klarte å skaffe nok byggekontrakter til å holde alle de ansatte sysselsatt i løpet av sesongen som begynte 1. mars, ga han 15. februar mureren beskjed om at han ikke hadde råd til å være ansatt som murer. Samtidig tilbød byggherren å ansette mureren som nattvakt med en årslønn på 25 000 dollar for samme kontraktsperiode. Mureren takket nei til tilbudet og forble arbeidsledig i løpet av året. Han takket nei til tilbudet og forble arbeidsledig i løpet av året. Det var ingen ledige stillinger for murere i kommunen i løpet av året, men mureren kunne ha fått annet arbeid som dagarbeider med en årslønn på opptil 25 000 dollar. Når året er omme, hvor mye har mureren rett til å få tilbake i et søksmål mot byggherren for kontraktsbrudd?",
+    "option_a": "20 000 dollar (kontraktssummen på 45 000 dollar minus de 25 000 dollarene mureren kunne ha tjent i en annen jobb).",
+    "option_b": "45 000 dollar (kontraktssummen).",
+    "option_c": "Ingenting, fordi byggherren ikke handlet i ond tro da han sa opp mureren.",
+    "option_d": "Ingenting, fordi mureren ikke reduserte skaden.",
+    "answer": "B",
+    "id": "professional_law/test/1363"
+  },
+  {
+    "instruction": "Hvilket av følgende må en forsker bruke for å avgjøre om forskjellen mellom gjennomsnittsskårene til eksperiment- og kontrollgruppen er signifikant?",
+    "option_a": "deskriptiv statistikk",
+    "option_b": "inferensiell statistikk",
+    "option_c": "felteksperiment",
+    "option_d": "standardavvik",
+    "answer": "B",
+    "id": "high_school_psychology/test/505"
+  },
+  {
+    "instruction": "Hillary har nettopp fått vite at hun er gravid, men hun mistenker at mannen hennes har vært utro. Det er viktig at hun blir testet for klamydia, fordi klamydia kan forårsake hvilke av følgende komplikasjoner?",
+    "option_a": "svangerskap i rørene",
+    "option_b": "for tidlig fødsel",
+    "option_c": "spontan abort",
+    "option_d": "alle de ovennevnte",
+    "answer": "D",
+    "id": "human_sexuality/test/47"
+  },
+  {
+    "instruction": "Murray mente at \"underklassen\" besto av mennesker som:",
+    "option_a": "utgjorde en underlegen \"rase\" med lavt intelligensnivå",
+    "option_b": "levde et moralsk usunt liv preget av kriminalitet og elendighet",
+    "option_c": "var for avhengige av velferdsgoder",
+    "option_d": "alt det ovennevnte",
+    "answer": "D",
+    "id": "sociology/test/66"
+  },
+  {
+    "instruction": "Hva antas å være årsaken til utviklingen av et komplekst samfunn i Caral i Sør-Amerika?",
+    "option_a": "behovet for å samle inn store mengder skalldyr",
+    "option_b": "bygging av kanaler for vanning",
+    "option_c": "byggingen av Piramide Mayor",
+    "option_d": "utgravningsarbeidene som førte til de sunkne torgene",
+    "answer": "B",
+    "id": "prehistory/test/263"
+  },
+  {
+    "instruction": "På hvilke tannflater er det størst sannsynlighet for at det samler seg plakk hos en pasient med dårlig munnhygiene?",
+    "option_a": "De palatinale flatene på de øvre jekslene og de linguale flatene på de nedre fortennene.",
+    "option_b": "Bukkalflatene på de øvre molarene og lingualflatene på de nedre fortennene.",
+    "option_c": "De palatinale flatene på de øvre molarene og de labiale flatene på de nedre fortennene.",
+    "option_d": "Bukkalflatene på de øvre molarene og labialflatene på de nedre fortennene.",
+    "answer": "B",
+    "id": "anatomy/test/91"
+  },
+  {
+    "instruction": "Hvert av de to største politiske partiene i USA er organisert som et enkelt parti med",
+    "option_a": "som ett enkelt parti som kun er til stede på nasjonalt nivå",
+    "option_b": "i en føderal struktur der delstats- og lokalpartier ikke har noen innflytelse",
+    "option_c": "som en relativt uavhengig organisasjon som er til stede på alle forvaltningsnivåer",
+    "option_d": "ovenfra og ned, slik at instrukser spres fra nasjonalt nivå til delstats- og lokalnivå",
+    "answer": "C",
+    "id": "high_school_government_and_politics/test/38"
+  },
+  {
+    "instruction": "Hvilket av de følgende føringssystemene er først og fremst en enhet for materialhåndtering?",
+    "option_a": "Rulletrapp",
+    "option_b": "Transportbånd",
+    "option_c": "Motorvei",
+    "option_d": "Jernbane",
+    "answer": "B",
+    "id": "miscellaneous/test/284"
+  },
+  {
+    "instruction": "Et papir som ser blått ut i sollys, belyses utelukkende med rødt lys som sendes gjennom et grønt filter. Hvilken farge får papiret under denne belysningen?",
+    "option_a": "Blå",
+    "option_b": "Grønn",
+    "option_c": "Rødt",
+    "option_d": "Svart",
+    "answer": "D",
+    "id": "miscellaneous/test/28"
+  },
+  {
+    "instruction": "En 10 år gammel elev som er født i et ikke-engelsktalende land, har blitt henvist til spesialundervisning på grunn av lave resultater på skolekretsens gruppetest. Eleven oppnådde høye skårer på distriktets engelskprøve. Av de følgende metodene for diagnostisk vurdering er den mest hensiktsmessige en som",
+    "option_a": "bruker en tolk som behersker språket i elevens fødeland flytende",
+    "option_b": "bruker resultatene fra minst to engelskspråklige intelligenstester",
+    "option_c": "tar hensyn til sosiokulturell og adaptiv atferd i prosessen med å identifisere ferdigheter og evner",
+    "option_d": "inkluderer foreldresamtaler og klasseromsobservasjoner i tillegg til resultatene fra en intelligenstest",
+    "answer": "C",
+    "id": "high_school_psychology/test/429"
+  },
+  {
+    "instruction": "Hvilken type butikk tilbyr et utvalg av dagligvarer og husholdningsartikler som dekker forbrukernes behov for kjøp i siste liten?",
+    "option_a": "Supermarkeder.",
+    "option_b": "Nærbutikker.",
+    "option_c": "Kategoridrepende butikker.",
+    "option_d": "Butikker med begrenset utvalg.",
+    "answer": "B",
+    "id": "marketing/test/51"
+  },
+  {
+    "instruction": "Et papir på 8,5 x 11 tommer brettes i to gjentatte ganger (uten å brettes ut), og hver gang forkortes det som da var den lengste siden. Hva er lengden på den lengste siden, i tommer, umiddelbart etter den andre brettingen? Skriv svaret som desimaltall til nærmeste tidel.",
+    "option_a": "4.5",
+    "option_b": "1",
+    "option_c": "5.5",
+    "option_d": "5",
+    "answer": "C",
+    "id": "high_school_mathematics/test/37"
+  },
+  {
+    "instruction": "For å karakterisere en overspisingsepisode må man undersøke tilstedeværelsen av:",
+    "option_a": "Hvis pasienten føler at spisevanene er kaotiske, uavhengig av måltidets størrelse.",
+    "option_b": "Inntak av store mengder søtsaker mellom måltidene.",
+    "option_c": "En subjektiv komponent av mangel på kontroll og en objektiv komponent av stort inntak av mat i løpet av en avgrenset tidsperiode",
+    "option_d": "Følelsen av at man ikke kan velge hvilken type mat man spiser, selv om mengden holdes under kontroll.",
+    "answer": "C",
+    "id": "nutrition/test/105"
+  },
+  {
+    "instruction": "Et tall avrundes til nærmeste hundre. Resultatet er 500. Hvilket tall kunne ikke være tallet før det ble avrundet til nærmeste hundre?",
+    "option_a": "458",
+    "option_b": "463",
+    "option_c": "547",
+    "option_d": "559",
+    "answer": "D",
+    "id": "elementary_mathematics/test/265"
+  },
+  {
+    "instruction": "Finn det nøyaktige svaret: 110 + 70",
+    "option_a": "18",
+    "option_b": "81",
+    "option_c": "180",
+    "option_d": "810",
+    "answer": "C",
+    "id": "elementary_mathematics/test/90"
+  },
+  {
+    "instruction": "Lys med variabel frekvens skinner på metalloverflaten til et fotoelektrisk rør. Einsteins teori om den fotoelektriske effekten forutsier at metallets arbeidsfunksjon",
+    "option_a": "metallets arbeidsfunksjon er proporsjonal med frekvensen",
+    "option_b": "metallets arbeidsfunksjon er proporsjonal med bølgelengden",
+    "option_c": "strømmen i røret er en lineær funksjon av bølgelengden",
+    "option_d": "potensialforskjellen som er nødvendig for å stoppe de utsendte elektronene, er en lineær funksjon av frekvensen over terskelfrekvensen",
+    "answer": "D",
+    "id": "college_physics/test/30"
+  },
+  {
+    "instruction": "En lege var eier av 1 500 mål ubebygd skogseiendom. I september 1989 utstedte legen et skjøte som overdro skogseiendommen til en tannlege. Tannlegen registrerte skjøtet umiddelbart i Grantor Grantee Index. I april 1990 overførte tannlegen det samme området til en kjøper ved et garantiskjøte. Kjøperen betalte full markedsverdi og registrerte skjøtet umiddelbart i Grantor Grantee Index. Det aktuelle området hadde aldri vært bebodd, inngjerdet eller ryddet, bortsett fra at et gruveselskap i årene 1986-2010 jevnlig kjørte lastebiler over en ryddet sti en kilometer fra eiendommen, i henhold til en avtale med legen fra 1986. Avtalen, som ble behørig tinglyst, fastslo at \"partene er uttrykkelig enige om og legen lover at legen og hans etterfølgere skal avstå fra å legge hindringer i veien for den nevnte beskrevne stien over legens eiendom, som gruveselskapet og dets etterfølgere til enhver tid kan bruke som vei, og at gruveselskapet og dets etterfølgere til gjengjeld skal betale 700 dollar per år. \"I 1990, etter overdragelsen fra tannlegen, informerte kjøperen gruveselskapet om at han ikke lenger ville respektere avtalen fra 1986 som tillot gruveselskapet å bruke veien. Gruveselskapet anla søksmål med krav om oppfyllelse av avtalen. Dommen skulle gå i gruveselskapets favør",
+    "option_a": "gruveselskapet, fordi deres eiendomsrett ville \"følge eiendommen\".",
+    "option_b": "gruveselskapet, fordi innehaveren av en servitutt ville få medhold mot senere eiere.",
+    "option_c": "kjøperen, fordi gruveselskapets interesse ble utslettet av den etterfølgende overdragelsen.",
+    "option_d": "kjøperen, fordi det ikke var noe eiendomsforhold mellom kjøperen og gruveselskapet.",
+    "answer": "A",
+    "id": "professional_law/test/583"
+  }
+]

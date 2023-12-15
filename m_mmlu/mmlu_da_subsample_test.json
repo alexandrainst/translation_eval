@@ -1,0 +1,902 @@
+[
+  {
+    "instruction": "Sandsynlighedsbaseret tænkning fra specifikke observationer til generelle påstande er kendt som",
+    "option_a": "deduktiv tænkning",
+    "option_b": "induktiv tænkning",
+    "option_c": "intuitiv tænkning",
+    "option_d": "statistisk tænkning",
+    "answer": "B",
+    "id": "high_school_psychology/test/435"
+  },
+  {
+    "instruction": "En statsautoriseret revisor blev engageret til at beregne afkastet på en bestemt investering i henhold til en aftalt formel og verificere, at det resulterende procenttal er i overensstemmelse med procentdelen i en identificeret tidsplan. Revisorens rapport om disse aftalte procedurer bør indeholde",
+    "option_a": "En udtalelse om rimeligheden af de aftalte procedurer.",
+    "option_b": "En separat afsnit, der beskriver effektiviteten af de interne kontroller.",
+    "option_c": "En fraskrivelse af ansvaret for tilstrækkeligheden af disse procedurer.",
+    "option_d": "En fraskrivelse af udtalelse om den retvisende præsentation af de finansielle rapporter.",
+    "answer": "C",
+    "id": "professional_accounting/test/210"
+  },
+  {
+    "instruction": "Thomas og Chess ' (1977) 'godhed-af-fit' model forudsiger, at maljustering hos børn skyldes:",
+    "option_a": "en uoverensstemmelse mellem barnets grundlæggende temperament og hans/hendes forældres opdragelsespraksis.",
+    "option_b": "en uoverensstemmelse mellem barnets tilknytningsadfærd og hans/hendes forældres respons på denne adfærd.",
+    "option_c": "inkonsistens i opdragelsesformerne hos barnets omsorgspersoner.",
+    "option_d": "inkonsistens i barnets selvopfattelse og feedback som barnet modtager fra omsorgspersoner om hans/hendes adfærd.",
+    "answer": "A",
+    "id": "professional_psychology/test/26"
+  },
+  {
+    "instruction": "Efter terrorangrebet den 11. september, hvad er den dominerende paradigme inden for sikkerhed og trusselsopfattelse, og i hvilken grad er det en tilstrækkelig respons?",
+    "option_a": "Sikkerhedsparadigmen har været udviklingen af ​​multi-level analyse, for at hjælpe med at forstå afmagt og fremme fredsundersøgelse involvering af NGO'er, politiske beslutningstagere og akademisk samfund.",
+    "option_b": "USA-ledede sikkerhedspardigmen har været at tage kortvarige foranstaltninger, mange af dem trukket fra forskningen af fredsundersøgelses-samfundet. De fokuserer på fredsbevarende, freds-skabende og strukturel ændring for at forhindre yderligere konflikter.",
+    "option_c": "Sikkerhedspardigmen i de senere år har til en vis grad været en tilbagevenden til 'liddism'; at holde låget på et potentiale brudt internationalt system, uden at tackle de kritiske underliggende årsager til problemerne.",
+    "option_d": "Den dominerende tilgang til sikkerhedsstudier har været en USA-ledet initiativ, som anerkender behovet for at påtage sig ansvaret for interregeringssamarbejde, især for forpligtelsen til etisk intervention og for at sikre fredelige transformationer sammen med afmilitarisation af det internationale samfund.",
+    "answer": "C",
+    "id": "security_studies/test/15"
+  },
+  {
+    "instruction": "Dette spørgsmål vedrører følgende oplysninger.\nFirenze er smukkere og fem hundrede og fyrre år ældre end jeres Venedig... Omkring tredive tusind herregårde ejes af adelsmænd og købmænd, borgere og håndværkere, som giver os årligt brød og kød, vin og olie, grøntsager og ost, hø og træ, til en værdi af ni tusind dukater i kontanter... Vi har to erhverv, der er større end fire af jeres i Venedig forenet -handelen med uld og silke. ...Vores smukke Firenze indeholder inden for byen to hundrede og halvfjerds butikker tilhørende uldgarnshandlerens laug, hvorfra deres varer sendes til Rom, Marcherne, Napoli og Sicilien, Konstantinopel... og hele Tyrkiet. Den indeholder også treogfirs rigdom og pragtfulde lagerhaller af silkehandlerens laug.\nbenedetto Dei, \"Brev til en venetianer\", 1472\nAfsnittet kan bruges som bevis for eksistensen af hvilke af følgende renæssance kulturelle karakteristika?",
+    "option_a": "Stolthed over mesterskabet af militærkunst",
+    "option_b": "Ridderehed",
+    "option_c": "Civic stolthed",
+    "option_d": "Beskyttere af kunsten",
+    "answer": "C",
+    "id": "high_school_european_history/test/9"
+  },
+  {
+    "instruction": "Rate af blod lactat akkumulering bestemmes af:",
+    "option_a": "hastigheden af muskel lactat produktion og hastigheden af muskel lactat efflux.",
+    "option_b": "hastigheden af anaerob glykolyse.",
+    "option_c": "hastigheden af muskel glukose optagelse.",
+    "option_d": "forskellen mellem hastigheden på lactat optræden og hastigheden på lactat clearance.",
+    "answer": "D",
+    "id": "clinical_knowledge/test/200"
+  },
+  {
+    "instruction": "Hvilken type organisationskultur er mest tilbøjelig til at levere stabilitet og effektivitet?",
+    "option_a": "Opgavekultur",
+    "option_b": "Rollerkultur",
+    "option_c": "Magtkultur",
+    "option_d": "Personkultur",
+    "answer": "B",
+    "id": "management/test/46"
+  },
+  {
+    "instruction": "Udregn$$\\lceil\\sqrt{5}\\rceil + \\lceil\\sqrt{6}\\rceil + \\lceil\\sqrt{7}\\rceil + \\cdots + \\lceil\\sqrt{29}\\rceil$$Bemærk: For et reelt tal  $x,$ er $\\lceil x \\rceil$ den mindste heltal der er større end eller lig med $x.$",
+    "option_a": "112",
+    "option_b": "111",
+    "option_c": "2006",
+    "option_d": "110",
+    "answer": "A",
+    "id": "high_school_mathematics/test/223"
+  },
+  {
+    "instruction": "Protoner, der anvendes i kræftbehandling, accelereres typisk til omkring 0,6c. Hvor meget arbejde skal der udføres på en partikel med masse m for at nå denne hastighed, hvis den starter i ro?",
+    "option_a": "0,25mc^2",
+    "option_b": "0,60mc^2",
+    "option_c": "0,67mc^2",
+    "option_d": "1,25mc^2",
+    "answer": "A",
+    "id": "college_physics/test/7"
+  },
+  {
+    "instruction": "En tiltalt blev retsforfulgt for bedrageri via post. Under retssagen anmodede tiltalte om at have alle vidner udelukket fra retslokalet, og retten bifaldt anmodningen. Regeringen nævnte den undersøgende FBI-agent som dens udpegede repræsentant. Efter at have lært, at agenten ville afgive vidneforklaring under retssagen, anmodede tiltalte om, at agenten også blev udelukket fra retslokalet. Skal tiltaltes anmodning imødekommes?",
+    "option_a": "Nej, så længe regeringen kan påvise, at agentens tilstedeværelse er essentiel for præsentationen af dens sag.",
+    "option_b": "Nej, fordi regeringen har ret til at beholde sin udpegede repræsentant i retslokalet under hele retssagen.",
+    "option_c": "Ja, fordi agentens vidneforklaring kan påvirkes af andre vidners vidneudsagn.",
+    "option_d": "Ja, fordi tiltalte har ret til at udelukke alle personer, der kan kaldes som regeringsvidner.",
+    "answer": "B",
+    "id": "professional_law/test/1162"
+  },
+  {
+    "instruction": "En 40-årig mand kommer til kontoret til en præ-ansættelses fysisk undersøgelse. Patienten har været generelt sund. Sygehistorikken er normal og han tager ingen rutinemæssige medicin. Vitale tegn er normale. Fysisk undersøgelse viser en palpabel knude i højre lap af skjoldbruskkirtlen. Serum thyreoidea-stimulerende hormonkoncentration er inden for referenceområdet. Ultralyd af skjoldbruskkirtlen bekræfter en fast nodul på 1 cm. Hvilket af følgende er den mest passende næste skridt i vurderingen?",
+    "option_a": "CT-scanning af halsen",
+    "option_b": "Finkanyle aspirationscytologi af nodulen",
+    "option_c": "Radionuklid skjoldbruskkirtel scintigrafi",
+    "option_d": "Skjoldbruskkirtel fjernelse",
+    "answer": "B",
+    "id": "professional_medicine/test/154"
+  },
+  {
+    "instruction": "En gas gennemgår en udvidelse-komprimeringscyklus. Hvis cyklussen er modsat urets retning på et P-V-diagram, og arbejdet er 300 J i størrelse, hvad var så varmeoverførslen i løbet af denne cyklus?",
+    "option_a": "300 J ind i systemet",
+    "option_b": "300 J ud af systemet",
+    "option_c": "600 J ind i systemet",
+    "option_d": "600 J ud af systemet",
+    "answer": "B",
+    "id": "high_school_physics/test/20"
+  },
+  {
+    "instruction": "Lad X være et topologisk rum, og lad A, B og C være ikke-tomme delmængder af X, således at A c B c C; dvs. A er en ægte delmængde af B, og B er en ægte delmængde af C. Hvilke af følgende udsagn er sande?\nI. Hvis A og C er sammenhængende, så er B sammenhængende.\nII. Hvis A og C er kompakte, så er B kompakt.\nIII. Hvis A og C er Hausdorff, så er B Hausdorff.",
+    "option_a": "Kun I og II",
+    "option_b": "Kun III",
+    "option_c": "Kun I og III",
+    "option_d": "I, II og III",
+    "answer": "D",
+    "id": "college_mathematics/test/18"
+  },
+  {
+    "instruction": "Fysiologisk baserede drifter som f.eks. vredes- og frygtreaktioner reguleres af",
+    "option_a": "basalganglierne",
+    "option_b": "hypothalamus",
+    "option_c": "retikulær formation",
+    "option_d": "thalamus",
+    "answer": "B",
+    "id": "professional_psychology/test/611"
+  },
+  {
+    "instruction": "Når en stor stigning i den samlede efterspørgsel har en endnu større stigning i real BNP, refererer økonomer til dette som",
+    "option_a": "den balancerede budgetmultiplikator.",
+    "option_b": "pengemultiplikatoren.",
+    "option_c": "den udenlandske substitutions-effekt.",
+    "option_d": "spendingsmultiplikatoren.",
+    "answer": "D",
+    "id": "high_school_macroeconomics/test/146"
+  },
+  {
+    "instruction": "For hvilket af disse to scenarier gør hovedpersonen (som bruger jeg/mig/min) noget klart moralsk forkert, ifølge almindelige moralske standarder i USA i 2020? Scenario 1 | Jeg skrabede malingen af mit hus, inden jeg malede det igen. Scenario 2 | Jeg ville slå ihjel for den skive tærte, billedligt talt.",
+    "option_a": "Forkert, Forkert",
+    "option_b": "Forkert, Ikke forkert",
+    "option_c": "Ikke forkert, Forkert",
+    "option_d": "Ikke forkert, Ikke forkert",
+    "answer": "D",
+    "id": "moral_scenarios/test/161"
+  },
+  {
+    "instruction": "En producent af snescootere fremstillede en model, Model IA, som var en meget populær snescooter. På hver af de producerede Model IA sneescootere installerede producenten en hastighedsregulerende enhed, der forhindrede snescooterne i at overstige 50 km/t. Producenten distribuerede sneescooteren gennem grossister og detailhandlere over hele landet. I sine salgsbrochurer og reklamematerialer rådede producenten alle sine distributører imod at foretage ændringer på sneescootere uden først at rådføre sig med producentens ingeniørstyrke. Ejeren af en butik i et bjergsamfund havde den eksklusive ret til at distribuere Model 1A snescootere i området. I kølvandet på klager fra tidligere købere omkring Model lA's hastighedsbegrænsninger fjernede ejeren hastighedsregulatorerne fra alle Model 1A snescooterne på lager. En køber købte fra ejeren en af Model 1A snescooterne, som havde fjernet hastighedsregulatoren. En dag kørte køberen Model 1A sneescooteren gennem et snedækket markområde, med hastigheder på over 70 km/t. Snescooteren ramte en snedækket sten, hvilket fik køberen til at miste kontrollen over sneescooteren, styre ind i et træ og lide alvorlige skader. Hvis køberen indleder en sag om strengt ansvar for erstatning, vil han sandsynligvis kræve erstatning fra",
+    "option_a": "kun producenten.",
+    "option_b": "producenten, selvom den ikke var klar over fjernelsen af hastighedsregulatoren.",
+    "option_c": "kun ejeren.",
+    "option_d": "både producenten og ejeren.",
+    "answer": "C",
+    "id": "professional_law/test/525"
+  },
+  {
+    "instruction": "For hvilket af disse to scenarier gør hovedpersonen (som bruger I/mig/min) noget klart umoralsk, ifølge almindelige moralstandarder i USA i 2020? Scenario 1 | Jeg skal ødelægge møbler for at slappe af. Scenario 2 | Jeg putter kyllingestykkerne i en kar med varmt olie.",
+    "option_a": "Forkert, Forkert",
+    "option_b": "Forkert, Ikke forkert",
+    "option_c": "Ikke forkert, Forkert",
+    "option_d": "Ikke forkert, Ikke forkert",
+    "answer": "B",
+    "id": "moral_scenarios/test/257"
+  },
+  {
+    "instruction": "En prøve på 2,35 gram blev opløst i vand, og chloridionerne blev præcipiteret ved at tilføje sølvnitrat (Ag+ + Cl- → AgCl). Hvis der blev opnået 0,435 g præcipitat, hvad er så procentdelen af ​​chlor i prøven?",
+    "option_a": "10,80%",
+    "option_b": "4,60%",
+    "option_c": "43,50%",
+    "option_d": "18%",
+    "answer": "B",
+    "id": "high_school_chemistry/test/167"
+  },
+  {
+    "instruction": "Hvis reservekvoten er 10 procent og en ny kunde indbetaler $500, hvad er den maksimale mængde penge, der kan skabes?",
+    "option_a": "$500",
+    "option_b": "$4,500",
+    "option_c": "$5,000",
+    "option_d": "$50",
+    "answer": "B",
+    "id": "high_school_macroeconomics/test/288"
+  },
+  {
+    "instruction": "Jupiter piloterer hans nyoprettede perfektionisme skala på en gymnasie psykologi klasse. Han vender tilbage en måned senere for at administrere den samme test til de samme studerende, og derefter korrelerer han de to sæt resultater. Hvad er Jupiter sandsynligvis ved at gøre?",
+    "option_a": "tjekke for outliers",
+    "option_b": "standardisere testen",
+    "option_c": "se om gennemsnittet af perfektionisme niveauet har ændret sig",
+    "option_d": "måle testens pålidelighed",
+    "answer": "D",
+    "id": "high_school_psychology/test/102"
+  },
+  {
+    "instruction": "Krystallerne, der udgør mineraler, består af",
+    "option_a": "atomer med en bestemt geometrisk struktur.",
+    "option_b": "molekyler, der konstant bevæger sig.",
+    "option_c": "X-ray mønstre.",
+    "option_d": "3-dimensionelle skakbrætter.",
+    "answer": "A",
+    "id": "conceptual_physics/test/136"
+  },
+  {
+    "instruction": "Energiopladningen af cellen er:",
+    "option_a": "forskellen mellem ladningen udenpå og inden i en celle.",
+    "option_b": "genereret af sodium-kalium ATPase.",
+    "option_c": "den samlede hastighed af energiforbruget af cellen.",
+    "option_d": "omfanget af, hvor meget den samlede adeninnukleotid-pool er fosforyleret.",
+    "answer": "D",
+    "id": "clinical_knowledge/test/144"
+  },
+  {
+    "instruction": "Hvilken sygdom bliver sommetider omtalt som 'kongesygdommen'?",
+    "option_a": "rickets",
+    "option_b": "mæslinger",
+    "option_c": "hæmofili",
+    "option_d": "tuberkulose",
+    "answer": "C",
+    "id": "miscellaneous/test/147"
+  },
+  {
+    "instruction": "En producent af widgets kontaktede en producent af kasser om muligheden for at købe specielt designede kasser til at sende widgets til kunder. Producenten sendte producenten et ark med dimensionerne for kassernes behov og logoet, der skulle placeres på hver kasse. Efter forhandlinger indgik parterne en skriftlig kontrakt, hvor producenten aftalte at levere producenten så mange kasser, som producenten måtte have brug for op til et maksimum på 10.000 om måneden. Senere på dagen ringede producenten til producenten og sagde, at de havde en engangskampagne kørende og forventede at sælge et usædvanligt stort antal widgets. Derfor skulle de kun bruge 15.000 kasser den første måned. Producenten accepterede denne anmodning. Producentens mundtlige aftale om at levere 15.000 kasser til producenten den første måned ville sandsynligvis blive opretholdt",
+    "option_a": "håndhævelig.",
+    "option_b": "ukontrollerbar, fordi deres skriftlige kontrakt på samme dato var den endelige integration af betingelserne for deres aftale.",
+    "option_c": "ukontrollerbar, fordi aftalen var overtrædelse af parolbevisreglen.",
+    "option_d": "ukontrollerbar, fordi der var utilstrækkelig modværdi for at støtte producentens ensidige løfte.",
+    "answer": "A",
+    "id": "professional_law/test/407"
+  },
+  {
+    "instruction": "Hvilken af følgende udsagn om eksponeringer er sand?\n",
+    "option_a": "'Eksponering' henviser til kontakt med en faktor, der kan være skadelig eller gavnlig for sundheden.",
+    "option_b": "En eksponeret person har en større risiko for sygdom.",
+    "option_c": "Kostindtagelse er ikke en 'eksponering', fordi individer træffer et valg om, hvad de spiser.",
+    "option_d": "Høj body mass index er en risikofaktor for en række sundhedsmæssige tilstande, derfor kan det ikke behandles som en enkelt eksponering.",
+    "answer": "A",
+    "id": "nutrition/test/126"
+  },
+  {
+    "instruction": "Over en uendeligt stor plan bærende ladningstæthed σ, peger det elektriske felt op og er lig med σ/2εo. Hvad er størrelsen og retningen af det elektriske felt under planen?",
+    "option_a": "σ/2εo, nedad",
+    "option_b": "σ/2εo, opad",
+    "option_c": "σ/εo, nedad",
+    "option_d": "σ/εo, opad",
+    "answer": "A",
+    "id": "high_school_physics/test/15"
+  },
+  {
+    "instruction": "Den bedste definition af et byområde er",
+    "option_a": "den centrale by og dens udviklede områder.",
+    "option_b": "den centrale by og dens omkringliggende forstæder.",
+    "option_c": "den centrale by og dens opland.",
+    "option_d": "den centrale by og de tilstødende amter.",
+    "answer": "B",
+    "id": "high_school_geography/test/14"
+  },
+  {
+    "instruction": "Hvad er et andet navn for Enuma Elish?",
+    "option_a": "Skabelsesevangeliet",
+    "option_b": "Ødelæggelsesevangeliet",
+    "option_c": "Det Ægyptiske Evangelium",
+    "option_d": "Udspringsevangeliet",
+    "answer": "A",
+    "id": "world_religions/test/105"
+  },
+  {
+    "instruction": "Baier påstår, at etisk skepsis ofte skyldes:",
+    "option_a": "forvirrede metafysiske teorier.",
+    "option_b": "forvirrede erkendelsesteorier.",
+    "option_c": "forvirrede religiøse synspunkter.",
+    "option_d": "forvirrede videnskabelige teorier.",
+    "answer": "B",
+    "id": "philosophy/test/92"
+  },
+  {
+    "instruction": "Afstanden fra Chicago til New York City er 794 miles. Hvad er 794 rundet til nærmeste hundred?",
+    "option_a": "700",
+    "option_b": "794",
+    "option_c": "800",
+    "option_d": "894",
+    "answer": "C",
+    "id": "elementary_mathematics/test/175"
+  },
+  {
+    "instruction": "Den store migration fra 1916-1919 betød, at Chicago blev en etnisk mangfoldig by. Konsekvensen af dette var:",
+    "option_a": "assimilation: alle racemæssige grænser blev opløst af den 'etniske smeltedigel'",
+    "option_b": "multikulturalisme: alle etniske identiteter blev fejret lige meget",
+    "option_c": "de fleste etniske grupper blev integreret i det almindelige samfund, men den sorte befolkning blev i byens ghettoer",
+    "option_d": "racisme: den hvide værtsbefolkning var fjendtlig og fordomsfulde over for migranterne",
+    "answer": "C",
+    "id": "sociology/test/190"
+  },
+  {
+    "instruction": "Hvad gør en virksomhed, hvis den indgiver en ansøgning i henhold til Kapitel 11?",
+    "option_a": "erklærer konkurs",
+    "option_b": "sælger aktier",
+    "option_c": "køber en mindre virksomhed",
+    "option_d": "virksomheden sagsøger regeringen",
+    "answer": "A",
+    "id": "miscellaneous/test/426"
+  },
+  {
+    "instruction": "_________ beskriver de ekstrinsiske egenskaber ved produktet (farve, emballage, konsistens, associationer) og i hvilken grad disse imødekommer kundernes psykologiske eller sociale behov.",
+    "option_a": "Brandompositionering.",
+    "option_b": "Brandudvidelse.",
+    "option_c": "Brandværdi.",
+    "option_d": "Brandbilleder.",
+    "answer": "D",
+    "id": "marketing/test/33"
+  },
+  {
+    "instruction": "Skriv 11 • 11 • 11 • 11 • 11 • 11 • 11 • 11 ved hjælp af eksponenter.",
+    "option_a": "11 • 8",
+    "option_b": "88^3",
+    "option_c": "8^11",
+    "option_d": "11^8",
+    "answer": "D",
+    "id": "elementary_mathematics/test/296"
+  },
+  {
+    "instruction": "Hvad er den bedste metode til at estimere ændringer i kropsfedt under vægttab?\n",
+    "option_a": "BMI",
+    "option_b": "DXA",
+    "option_c": "Fire-komponents model",
+    "option_d": "MRI",
+    "answer": "C",
+    "id": "nutrition/test/146"
+  },
+  {
+    "instruction": "Lad f(x,y) = x^2 - 2xy + y^3 for alle reelle x og y. Hvad er sandt om funktionen?",
+    "option_a": "f har alle dens relative ekstrempunkter på linjen x = y.",
+    "option_b": "f har alle dens relative ekstrempunkter på parablen x = y^2.",
+    "option_c": "f har et relativt minimum i (0, 0).",
+    "option_d": "f har et absolut minimum i (2/3, 2/3).",
+    "answer": "A",
+    "id": "college_mathematics/test/28"
+  },
+  {
+    "instruction": "Virksomheder har indflydelse i samfundet og har potentiale til at bidrage positivt til samfundet, mens _____ har potentiale til at påføre enorme skader på enkeltpersoner, lokalsamfund og miljøet.",
+    "option_a": "Lille magt, Lille bidrag, Forretningspraksis",
+    "option_b": "Lille magt, Stort bidrag, Virksomheders samfundsmæssige ansvar",
+    "option_c": "Stor magt, Lille bidrag, Virksomheders samfundsmæssige ansvar",
+    "option_d": "Stor magt, Stort bidrag, Forretningspraksis",
+    "answer": "D",
+    "id": "business_ethics/test/48"
+  },
+  {
+    "instruction": "Hver af følgende er et trin taget af en terapeut, der anvender systematisk desensibilisering UNDTAGEN",
+    "option_a": "at hjælpe klienten med at opleve den ønskede tilstand af afslapning gennem hypnose",
+    "option_b": "at lære klienten at slappe af gennem teknikker som dyb vejrtrækning",
+    "option_c": "at konstruere en hierarki af frygtede billeder",
+    "option_d": "at instruere klienten i at forestille sig hvert frygtede billede, mens de opretholder en afslappet tilstand",
+    "answer": "A",
+    "id": "high_school_psychology/test/237"
+  },
+  {
+    "instruction": "En person der lider af et hududslæt oplever, at hendes smerte midlertidigt lindres ved kraftig ridseri. Hun opfatter ikke smerten fra udslættet under ridseriet, men smerten vender tilbage kort tid efter, at hun har stoppet med at rids. Hvilken teori forklarer bedst denne midlertidige smertelindring?",
+    "option_a": "modstander-process-teori",
+    "option_b": "amplitude og frekvens teorier",
+    "option_c": "transduktionsteori",
+    "option_d": "gate-kontrol-teori",
+    "answer": "D",
+    "id": "high_school_psychology/test/337"
+  },
+  {
+    "instruction": "For hvilket af disse to scenarier gør hovedpersonen (som bruger jeg/mig/min) noget klart umoralsk ifølge almindelige moralstandarder i USA i 2020? Scenario 1 | Jeg sendte min datter til hendes værelse i tyve minutter for at være uhøflig. Scenario 2 | Jeg gik min hund i 20 minutter i går aftes.",
+    "option_a": "Forkert, forkert",
+    "option_b": "Forkert, ikke forkert",
+    "option_c": "Ikke forkert, forkert",
+    "option_d": "Ikke forkert, ikke forkert",
+    "answer": "D",
+    "id": "moral_scenarios/test/616"
+  },
+  {
+    "instruction": "En bonde, der opdrætter høns til ægproduktion, ønsker, at hans æg har en gennemsnitsvægt på 56 gram. Han overvejer at købe en anden type høne og tog derfor en tilfældig stikprøve på 18 æg lagt af denne type høne. Fordelingen af vægterne er symmetrisk og bjergformet med et gennemsnit på 54,1 gram og ingen outlier. Bonden udførte en t-test for at se, om der er bevis for, at æggene fra disse høns har en gennemsnitsvægt, der er forskellig fra 56 g, og fik en teststatistik på t = -1.973. Hvis han bruger en signifikansniveau på 5%, hvilken er den korrekte konklusion, og hvorfor?",
+    "option_a": "Fordi t er mere ekstrem end ±1,96, bør han afvise nulhypotesen. Han har overbevisende bevis ved 5% signifikansniveau for, at gennemsnitsvægten af æggene fra disse høns er forskellig fra 56 gram.",
+    "option_b": "Fordi t er mindre ekstrem end kritisk værdi t for 17 frihedsgrader, bør han ikke afvise nulhypotesen. Han har ikke overbevisende bevis ved 5% signifikansniveau for, at gennemsnitsvægten af æggene fra disse høns er forskellig fra 56 gram.",
+    "option_c": "Fordi t er mindre ekstrem end kritisk værdi t for 18 frihedsgrader, bør han ikke afvise nulhypotesen. Han har ikke overbevisende bevis ved 5% signifikansniveau for, at gennemsnitsvægten af æggene fra disse høns er forskellig fra 56 gram.",
+    "option_d": "Fordi t er mere ekstrem end kritisk værdi t for 18 frihedsgrader, bør han afvise nulhypotesen. Han har overbevisende bevis ved 5% signifikansniveau for, at gennemsnitsvægten af æggene fra disse høns er forskellig fra 56 gram.",
+    "answer": "B",
+    "id": "high_school_statistics/test/136"
+  },
+  {
+    "instruction": "Vores nuværende bedste observationer viser, at Pluto har",
+    "option_a": "en mellemstor satellit og to små satellitter.",
+    "option_b": "ingen satellitter.",
+    "option_c": "en stor satellit og tre små satellitter.",
+    "option_d": "en stor satellit.",
+    "answer": "A",
+    "id": "astronomy/test/77"
+  },
+  {
+    "instruction": "Hvor hurtigt drejer jordens overflade sig ved ækvator?",
+    "option_a": "cirka 100 miles i timen",
+    "option_b": "cirka 500 miles i timen",
+    "option_c": "cirka 1000 miles i timen",
+    "option_d": "cirka 2000 miles i timen",
+    "answer": "C",
+    "id": "miscellaneous/test/716"
+  },
+  {
+    "instruction": "Et uddrag fra Jane Eyre lyder som følger: Det var alt, hvad jeg fik at vide om min arbejdsgiver og mig fra Mrs. Fairfax. Der er mennesker, der tilsyneladende ikke har nogen idé om at skildre en karakter eller observere og beskrive markante punkter, hverken i personer eller ting: Den gode dame tilhørte åbenbart denne klasse; mine spørgsmål forvirrede hende, men trak hende ikke ud. Mr. Rochester var Mr. Rochester i hendes øjne, en gentleman, en jordejer ‚Äì ingenting mere: hun undersøgte ikke nærmere og undrede sig tydeligvis over min ønsked om at få en mere præcis opfattelse af hans identitet. Passagen antyder, at taleren ville beskrive 'account' nævnt i den første sætning som",
+    "option_a": "oplysende",
+    "option_b": "forvirrende",
+    "option_c": "mangelfuld",
+    "option_d": "fejlagtig",
+    "answer": "C",
+    "id": "miscellaneous/test/595"
+  },
+  {
+    "instruction": "Ifølge Locke er hovedformålet med at slå sig sammen i et samfund _____ .",
+    "option_a": "domination over andre samfund",
+    "option_b": "bevaring af den naturlige tilstand",
+    "option_c": "bevaring af deres ejendom",
+    "option_d": "bevaring af deres absolutte magt",
+    "answer": "C",
+    "id": "philosophy/test/279"
+  },
+  {
+    "instruction": "Den mest automatiske af de foreslåede hukommelsessystemer er ___________.",
+    "option_a": "Episodisk hukommelse",
+    "option_b": "Semantisk hukommelse",
+    "option_c": "Deklarativ hukommelse",
+    "option_d": "Eksplicit hukommelse",
+    "answer": "A",
+    "id": "professional_psychology/test/214"
+  },
+  {
+    "instruction": "BIP beregnes for hver ved",
+    "option_a": "kvartal; Det Økonomiske Udviklingskontor",
+    "option_b": "uge; Det Økonomiske Udviklingskontor",
+    "option_c": "måned; Det Økonomiske Udviklingskontor",
+    "option_d": "måned; Bureau of Labor Statistics",
+    "answer": "A",
+    "id": "high_school_macroeconomics/test/267"
+  },
+  {
+    "instruction": "Nogle stammer af vira kan ændre normale pattedyrceller til kræftceller in vitro. Denne transformation af pattedyrcellen er normalt forbundet med",
+    "option_a": "dannelsen af en pili mellem pattedyrcellen og virussen.",
+    "option_b": "inkorporering af viralt genom i pattedyrcellens nukleære DNA.",
+    "option_c": "konvertering af værtens genom til viralt DNA.",
+    "option_d": "frigivelse af sporer i pattedyrcellen.",
+    "answer": "B",
+    "id": "high_school_biology/test/251"
+  },
+  {
+    "instruction": "Mentor Co. er en amerikansk virksomhed, der ejer 100% af en schweizisk virksomhed. Den funktionelle valuta er den schweiziske franc. Omregningen af ​​Mentors regnskaber resulterede i en gevinst på $25000 ved årets udgang. Omsætningen af regnskaberne resulterede i en gevinst på $40000 ved årets udgang. Hvilket beløb skal Mentor anerkende som gevinster i udenlandsk valuta i dens resultatopgørelse?",
+    "option_a": "$0",
+    "option_b": "$25.000",
+    "option_c": "$40.000",
+    "option_d": "65000",
+    "answer": "B",
+    "id": "professional_accounting/test/188"
+  },
+  {
+    "instruction": "Hvilket af følgende ville resultere i Angelman syndrom?",
+    "option_a": "Maternal UPD 15",
+    "option_b": "Paternal UPD 15",
+    "option_c": "Sletning i det faderligt afledte kromosom 15",
+    "option_d": "En mutation i SNRPN-promotoren",
+    "answer": "B",
+    "id": "medical_genetics/test/26"
+  },
+  {
+    "instruction": "En gruppe deltagere i en søvnundersøgelse skal berøves søvn i fire dage. Efter deres anden søvnløse nat kan deltagerne begynde at rapportere hvilket af følgende?",
+    "option_a": "Sult",
+    "option_b": "Tørst",
+    "option_c": "Manglende koordination",
+    "option_d": "Hallucinationer",
+    "answer": "D",
+    "id": "high_school_psychology/test/304"
+  },
+  {
+    "instruction": "Udsagn 1 | Ethvert ideal i en ring er en under-ring af ringen. Udsagn 2 | Ethvert under-ring af enhver ring er et ideal af ringen.",
+    "option_a": "Sandt, Sandt",
+    "option_b": "Falsk, Falsk",
+    "option_c": "Sandt, Falsk",
+    "option_d": "Falsk, Sandt",
+    "answer": "C",
+    "id": "abstract_algebra/test/99"
+  },
+  {
+    "instruction": "Selv en lille mængde søvnmangel ser ud til at",
+    "option_a": "Øge vægten",
+    "option_b": "Forbedre søvnkvaliteten",
+    "option_c": "Forstyrre opmærksomheden dagen efter",
+    "option_d": "Øge irritabiliteten",
+    "answer": "B",
+    "id": "human_aging/test/151"
+  },
+  {
+    "instruction": "En vigtig karakteristik af tjenester er, at de bliver produceret og forbrugt af mennesker samtidigt og som en enkelt begivenhed. En af konsekvenserne af denne unikke proces er, at det er særdeles vanskeligt at standardisere leveringen af tjenester omkring blueprint-modellen. Hvilken karakteristik af tjenesten er der tale om?",
+    "option_a": "Intangibilitet.",
+    "option_b": "Uadskillelighed.",
+    "option_c": "Variabilitet.",
+    "option_d": "Forgængelighed.",
+    "answer": "C",
+    "id": "marketing/test/82"
+  },
+  {
+    "instruction": "Mand og kone overførte en del af deres arvede familieejendom til deres niece mod vederlag, men væsentligt under markedsprisen. De forbeholdt sig dog en revertering tilbage til dem selv, som følger: \"RESERVATION til fordel for Grantors, deres arvinger og tildelte, en automatisk tilbagerulning, hvis ejendommen, der overføres heri, nogensinde pantbelægges eller påhviles inden for en af Grantorers levetid. Efter mandens død pantsatte niecen ejendommen. Kan den overlevende hustru håndhæve den automatiske reversering, der sætter titlen tilbage til hende selv?",
+    "option_a": "Nej, dette er en urimelig begrænsning på alienation.",
+    "option_b": "Nej, en automatisk revertering kan ikke håndhæves.",
+    "option_c": "Ja, bestemmelsen kan håndhæves, fordi grantorerne og modtageren var blodrelaterede på pari mutual-basis.",
+    "option_d": "Ja, bestemmelsen kan håndhæves, fordi den generelt anses for at være en rimelig begrænsning på alienation.",
+    "answer": "D",
+    "id": "professional_law/test/327"
+  },
+  {
+    "instruction": "En kvinde gik til et kommercielt byggeri til et forretningsmøde. Efter mødet blev hun skadet i bygningens elevator, da den pludselig faldt ned til kælderen fra tredje sal. Hun sagsøgte bygningens ejer, men ved retssagen var den eneste bevis, hun havde angående spørgsmålet om forsømmelse, at hun var i elevatoren, da den svigtede. Vil retsdommeren afvise sagen som en lov sag, uden at lade den gå til juryen?",
+    "option_a": "Ja, fordi den skadede altid har bevisbyrden for at bevise forsømmelse.",
+    "option_b": "Ja, fordi det ikke kan antages, at bygningens ejer var uagtsom.",
+    "option_c": "Nej, fordi elevatoren var under ejerens eksklusive kontrol og ulykker af denne art sker ikke normalt i fravær af forsømmelse.",
+    "option_d": "Ja, fordi kvinden tog risikoen, da hun besluttede at bruge et åbenlyst farligt instrument.",
+    "answer": "C",
+    "id": "professional_law/test/263"
+  },
+  {
+    "instruction": "Hvis der findes links mellem forskellige sygdomme, vil fremtidige ældre sandsynligvis",
+    "option_a": "Tage færre medicin(er)",
+    "option_b": "Være i stand til at undgå visse sygdomme",
+    "option_c": "Betale meget mindre for farmaceutiske produkter",
+    "option_d": "Vælge den/det sygdom(me), de ønsker",
+    "answer": "A",
+    "id": "human_aging/test/111"
+  },
+  {
+    "instruction": "Hvad er et Colles' fraktur?",
+    "option_a": "Håndfraktur.",
+    "option_b": "Albuefraktur.",
+    "option_c": "Fingerfraktur.",
+    "option_d": "Fraktur af radius og ulna i håndleddet.",
+    "answer": "D",
+    "id": "clinical_knowledge/test/20"
+  },
+  {
+    "instruction": "Radioteleskoper er afgørende for astronomiske observationer. Hvilket af disse kendte radioteleskoper har den største paraboliske antenne?",
+    "option_a": "Green Bank Teleskop",
+    "option_b": "Arecibo Teleskop",
+    "option_c": "Yevpatoria RT-70 Teleskop",
+    "option_d": "Effelsberg Teleskop",
+    "answer": "B",
+    "id": "astronomy/test/146"
+  },
+  {
+    "instruction": "Hvad er en definition af et mål?",
+    "option_a": "Et defineret specifikt resultat, som skal opnås på lang sigt",
+    "option_b": "En klar række mål, som skal opnås med et fast antal ressourcer",
+    "option_c": "Et klart defineret og målbart resultat, som skal opnås inden for en bestemt tidsramme",
+    "option_d": "En fastsat standard for præstation, som er aftalt af medarbejdere og ledere",
+    "answer": "C",
+    "id": "management/test/80"
+  },
+  {
+    "instruction": "Til hvilken skole tilhører ren land buddhisme?",
+    "option_a": "Vajrayana",
+    "option_b": "Theravada",
+    "option_c": "Mahayana",
+    "option_d": "Mahavira",
+    "answer": "C",
+    "id": "world_religions/test/17"
+  },
+  {
+    "instruction": "En kommissær for en sportsliga blev anklaget for bedrageri ved at øge beløbet for hans tildelte rejseudgifter uden godkendelse fra flertallet af hold-ejere. I overensstemmelse med ligaens vedtægter skulle kommissæren have godkendelse fra mindst halvdelen af ejerne, før han kunne hæve sin udgifts-allokering. Ved retssagen søger kommissæren at vidne om, at hans forgænger fortalte ham, at han havde myndighed i henhold til ligaens vedtægter til at hæve sin udgifts-allokering. Kommissærens vidnesbyrd er",
+    "option_a": "admissibelt, for at vise at kommissæren manglede kriminel hensigt.",
+    "option_b": "admissibelt som bevis for en organisations rutinepraksis.",
+    "option_c": "uadmissibelt som hearsay ikke inden for nogen anerkendt undtagelse.",
+    "option_d": "uadmissibelt, fordi ligaens vedtægter er det bedste bevis.",
+    "answer": "A",
+    "id": "professional_law/test/808"
+  },
+  {
+    "instruction": "En ung mand ringede til sin tilfældige ven efter arbejde for at mødes og tage til en nærliggende skilift. De tog hver især op på liften, fordi ingen af dem kunne lide at dele. Tæt på toppen af bjerget faldt vennen af sin skilift og fik skader. Den unge mand besluttede derefter, at han havde fået nok af skiløb, men hans ven råbte: \"...du er nødt til at hjælpe! Du er nødt til at ringe efter nogen! Jeg kan ikke gå, og det er din skyld, at jeg er heroppe!\" Manden svarede ikke og gik hjem. Hans ven frosset ihjel uden at få hjælp. Menneskene på liften bag dem hørte og så alt og anklagemyndigheden undersøgte episoden for uagtsomt manddrab. Hvad er anklagemyndighedens mest sandsynlige beslutning?",
+    "option_a": "Anklagemyndigheden vil ikke rejse tiltale, fordi de to mænd ikke var relateret til hinanden på en måde, der kunne skabe en pligt, og der var heller ingen særlige relationer, der ville skabe en pligt.",
+    "option_b": "Anklagemyndigheden vil ikke rejse tiltale, fordi manden ikke brød nogen love, da han gik væk, og det betyder ikke noget, hvad forholdet var mellem dem.",
+    "option_c": "Anklagemyndigheden vil rejse tiltale, fordi der er øjenvidner, der vil vidne om den unge mands hjerteløse opførsel over for hans ven.",
+    "option_d": "Anklagemyndigheden vil rejse tiltale, fordi deres venskab var et specielt forhold, der skabte en retlig pligt for manden til at handle.",
+    "answer": "A",
+    "id": "professional_law/test/1511"
+  },
+  {
+    "instruction": "For hvilket af disse to scenarier gør hovedpersonen (som bruger jeg/mig/min) noget tydeligt moralsk forkert, ifølge almindelige moralske standarder i USA i 2020? Scenario 1 | Jeg nikkede til nogen mens jeg kørte Scenario 2 | Jeg brugte frisk oksekød til at lave hamburgere.",
+    "option_a": "Forkert, Forkert",
+    "option_b": "Forkert, Ikke forkert",
+    "option_c": "Ikke forkert, Forkert",
+    "option_d": "Ikke forkert, Ikke forkert",
+    "answer": "D",
+    "id": "moral_scenarios/test/87"
+  },
+  {
+    "instruction": "Hvad er betydningen af ​​\"akt af staten\" doktrinen?",
+    "option_a": "Doktrinen om akt af Staten indebærer, at alle Statslige handlinger tiltrækker immunitet.",
+    "option_b": "Doktrinen om akt af Staten indebærer, at vurderingen af, hvorvidt en påstået tort er begået af en stat, hører under den udførende magt og ikke retsvæsenet.",
+    "option_c": "Doktrinen om akt af Staten indebærer, at retsvæsenet er godt egnet til at vurdere, om en påstået tort er begået af staten.",
+    "option_d": "Doktrinen om akt af Staten er et juridisk værktøj, der giver retsvæsenet mulighed for at tilbyde immunitet til offentlige handlinger fra udenlandske stater.",
+    "answer": "B",
+    "id": "international_law/test/45"
+  },
+  {
+    "instruction": "Terri åbnede en fastfoodrestaurant. Den indledende omkostning for at åbne restauranten er $ 800.000. Hun skal betale daglige driftsomkostninger på $ 250 og arbejdsomkostninger på $ 400. Hvilken udtryk repræsenterer hendes samlede omkostninger, hvis hun har haft restauranten åben i “D” dage?",
+    "option_a": "800.000 + 150 D",
+    "option_b": "800.000 + 650 D",
+    "option_c": "800.000 - 650 D",
+    "option_d": "650 + 800.000 D",
+    "answer": "B",
+    "id": "high_school_mathematics/test/254"
+  },
+  {
+    "instruction": "En sagsøger sagsøgte et forsyningsselskab, der ejer en reservoir, der er åben for offentligheden til rekreation i henhold til en licens fra en føderal agentur. Sagsøgeren blev alvorligt skadet i reservoiren, da han dykkede fra en båd ind i, hvad han troede var dybt vand og ramte en udmærket sunket ø. Sagsøgeren hævder, at selskabet var uagtsom i at undlade at markere den sunkne ø. På retssagen har sagsøgeren indkaldt en ingeniør og kvalificeret ham som en ekspert i styring af reservoirer. Hvilken af følgende udtalelser fra sagsøgerens ekspert er domstolen mest tilbøjelig til at tillade?",
+    "option_a": "\"Ulykken skete sandsynligvis på den måde, der vises i denne computeranimerede film, jeg har lavet.\"",
+    "option_b": "\"Selskabet kunne have markeret øen på en dag og til en pris af 300 $.\"",
+    "option_c": "\"Selskabet var forpligtet ved føderal lov til at markere øen.\"",
+    "option_d": "\"Sagsøgeren var ikke bidragende uagtsom.\"",
+    "answer": "B",
+    "id": "professional_law/test/1070"
+  },
+  {
+    "instruction": "En praktiserende revisor er bedt om at udtrykke en udtalelse om ledelsens erklæring om, at kvadratmeter på et lager til salg er 150.000 kvadratmeter. Revisoren bør henvise til hvilken af følgende kilder for professionelt vejledning?",
+    "option_a": "Udtalelser om revisionsstandarder",
+    "option_b": "Udtalelser om standarder for attestationopgaver",
+    "option_c": "Udtalelser om standarder for regnskab og gennemgang",
+    "option_d": "Udtalelser om standarder for rådgivningsydelser",
+    "answer": "B",
+    "id": "professional_accounting/test/31"
+  },
+  {
+    "instruction": "En kvinde udarbejdede en nøjagtig erklæring om sin økonomiske situation og indsendte den sammen med en låneansøgning til en lokal bank, som hun havde gjort forretning med i mange år. Kort tid efter forværredes kvindens økonomiske situation betydeligt, men hun undlod at oplyse banken om denne kendsgerning. Uvidende om kvindens ændrede økonomiske situation accepterede banken at låne penge til kvinden. Banken opdagede senere kvindens sande økonomiske situation. Banken nægtede at overholde sit løfte om at låne penge til kvinden og hævdede, at kontrakten mellem parterne var anfægtelig efter bankens valg på grund af kvindens vildledning. Hvis kvinden sagsøger banken for kontraktbrud, vil bankens forsvar for vildledning sandsynligvis lykkes?",
+    "option_a": "Nej, fordi kvinden ikke foretog nogen efterfølgende positive vildledninger om sin økonomiske situation.",
+    "option_b": "Nej, fordi kvindens erklæringer var nøjagtige på tidspunktet, hvor hun indsendte låneansøgningen til banken.",
+    "option_c": "Ja, fordi kvinden havde en forpligtelse til at rette sine tidligere erklæringer om sin økonomiske situation for at forhindre dem i at være vildledende.",
+    "option_d": "Ja, fordi kvinden havde en forpligtelse til at informere banken om hendes ændrede økonomiske situation på grund af det langvarige forhold af tillid og tillid mellem dem.",
+    "answer": "C",
+    "id": "professional_law/test/1007"
+  },
+  {
+    "instruction": "Dette spørgsmål vedrører følgende information.\n\"Er der ingen fare for vores frihed og uafhængighed i en bank, der i sin natur har så lidt at binde den til vores land? Bankens præsident har fortalt os, at de fleste statsbanker eksisterer ved dens tilbageholdenhed. Hvis dens indflydelse bliver koncentreret, som den kan blive under virkningen af ​​en lov som denne, i hænderne på et selvvalgt direktorat, hvis interesser er identificeret med de udenlandske aktionærers, vil der så ikke være grund til at ryste for renheden af ​​vores valg i fredstid og for uafhængigheden af ​​vores land i krigstid? Deres magt ville være stor, når som helst de ville vælge at udøve den; men hvis dette monopol blev regelmæssigt fornyet hver femten eller tyve år på vilkår foreslået af dem selv, ville de sjældent i fredstid lægge styrke til at påvirke valg eller kontrollere nationens anliggender. Men hvis enhver privat borger eller offentlig embedsmand skulle gribe ind for at begrænse dens beføjelser eller forhindre en fornyelse af dens privilegier, kan der ikke herske tvivl om, at han ville blive gjort til at føle dens indflydelse .\"\nPræsident Andrew Jackson, Veto af Bank of the United States, 1832\nHvad af følgende begivenheder forårsagede mest direkte dannelsen af ​​Anden Bank of the United States?",
+    "option_a": "Fejlen af Specie Circular",
+    "option_b": "Ureguleret valuta og føderale gæld efter krigen i 1812",
+    "option_c": "Anstrengelser af Alexander Hamilton for at stabilisere landets økonomi",
+    "option_d": "Federalistisk modreaktion på den ekstreme budgetskæring under Jefferson",
+    "answer": "B",
+    "id": "high_school_us_history/test/136"
+  },
+  {
+    "instruction": "Brydning opstår, når en bølge krydser en grænse og ændrer",
+    "option_a": "hastighed og retning",
+    "option_b": "intensitet",
+    "option_c": "frekvens",
+    "option_d": "amplitude",
+    "answer": "A",
+    "id": "conceptual_physics/test/130"
+  },
+  {
+    "instruction": "Microtubulær er proteinfilamenter, der er samlet fra tubulinproteinsubenhederne. Det kemiske colchicin forhindrer samlingen af microtubulær ved at binde til tubulinproteinsubenhederne. Hvordan vil ansøgning af colchicin mest skade følgende cellulære processer?",
+    "option_a": "justering og adskillelse af kromosomer i løbet af mitose",
+    "option_b": "koordination af ribosomer og mRNA under proteinsyntese",
+    "option_c": "bevægelse af stoffer på tværs af plasmamembranen",
+    "option_d": "akkumulering af protoner inde i chloroplasternes thylakoider under kemiosmose",
+    "answer": "A",
+    "id": "high_school_biology/test/179"
+  },
+  {
+    "instruction": "Hvilket af følgende materialer har en modstand, der påvirkes MINDST af temperaturændringer?",
+    "option_a": "Kobber",
+    "option_b": "Kulstof",
+    "option_c": "Germanium",
+    "option_d": "Silicium",
+    "answer": "A",
+    "id": "miscellaneous/test/7"
+  },
+  {
+    "instruction": "En politidetektiv modtog et anonymt opkald om, at der blev dyrket marijuana i en persons hjem, men ingen andre detaljer blev givet. Hun tog til hjemmet med et efterforskningsteam, herunder en hund til narkosøgning. På hjemmets forterrasse begyndte hunden at gå frem og tilbage med hastige skridt, hvilket indikerede at den havde lugtet ulovlige stoffer. Holdet trak sig tilbage, mens nogle af dem fik en ransagningskendelse. En kendelse blev udstedt på baggrund af hundens adfærd. Søgningen indeni afslørede store mængder marijuana. Husejeren blev anholdt. Gennem advokat indgav han en anmodning om undertrykkelse med den påstand, at brugen af hunden var en ulovlig ransagning uden rimelig grund og dermed gjorde kendelsen ugyldig. Skal retten undertrykke beviserne?",
+    "option_a": "Nej, fordi detektiven havde en rimelig grund til at mistænke noget ulovligt efter at have modtaget det anonyme opkald, hvilket berettigede brugen af hunden til en gyldig ransagning - kendelsen var derfor gyldig og beviserne vil ikke blive undertrykt.",
+    "option_b": "Nej, fordi detektiven havde ret til at tage hunden med sig for at foretage en rimelig ransagning, som førte til fund af rimelig grund og udstedelse af en gyldig kendelse.",
+    "option_c": "Ja, fordi det anonyme opkald var utilstrækkelig grund til at tillade en ransagning af forterrassen med hunden, hvilket gjorde kendelsen ugyldig - undertrykkelsesanmodningen vil blive imødekommet.",
+    "option_d": "Ja, fordi hundens reaktion ikke kan fortælle dem, om der var stoffer inde i huset - en kendelse kan aldrig baseres på en hunds information.",
+    "answer": "C",
+    "id": "professional_law/test/1455"
+  },
+  {
+    "instruction": "I hvilken af følgende repræsentationer af tal med 8-bit ord er additionen af heltallene 109 og -42 inden for intervallet?\nI. Énetkomplementsrepræsentation\nII. Tovejskomplementsrepræsentation\nIII. Tegn og størrelse",
+    "option_a": "Kun I",
+    "option_b": "Kun II",
+    "option_c": "I og II kun",
+    "option_d": "I, II og III",
+    "answer": "D",
+    "id": "college_computer_science/test/49"
+  },
+  {
+    "instruction": "Den maksimale bæredygtige kraft:",
+    "option_a": "bliver normalt konstant under en løb.",
+    "option_b": "falder med løbets længde.",
+    "option_c": "forbedres af en kost rig på fedt.",
+    "option_d": "er omvendt relateret til muskelglykogenindhold.",
+    "answer": "B",
+    "id": "clinical_knowledge/test/198"
+  },
+  {
+    "instruction": "En 24-årig mand bliver bragt til skadestuen 40 minutter efter at han var involveret i en trafikulykke. Han var føreren uden sele. Han er ved bevidsthed. Den fysiske undersøgelse viser mange hudafskrabninger og blå mærker i ansigtet. Hans syn er normalt. Øjen-, ansigts- og tungsbevægelser er intakte. Brekrefleksen er til stede. Følelsen ved nålestik er fraværende over højre side af ansigtet fortil til højre øre og langs hele kæbelinjen ned til hagen. Følelsen er også fraværende over højre side af tungen. Røntgenbilleder af kraniet viser brud på orbitalbenet, zigomatisk bue og infratemporale fossa. Den mest sandsynlige årsag til disse resultater er et brud, der påvirker hvilket af følgende steder?",
+    "option_a": "Foramen lacerum",
+    "option_b": "Foramen ovale",
+    "option_c": "Foramen rotundum",
+    "option_d": "Foramen spinosum",
+    "answer": "B",
+    "id": "professional_medicine/test/226"
+  },
+  {
+    "instruction": "En ung advokat arbejdede sent på sit kontor en nat. Da hun endelig besluttede sig for at tage hjem, gik hun hen til elevatoren, steg ind og trykkede på knappen til stueetagen. Elevatoren kørte hele vejen ned til stueetagen, men stoppede derefter bare der. Dørene åbnede ikke. Advokaten prøvede at trykke på knapperne i elevatoren og prøvede at bruge intercomen i elevatoren for at tilkalde hjælp, men intet på elevatorens kontrolpanel virkede. Advokaten var bange for at sidde fast i elevatoren hele natten. Hun begyndte at banke på dørene og råbe. Hun begyndte at føle sig panikslagen, hyperventileret, mistede bevidstheden og faldt til gulvet i elevatoren. Da hun faldt, ramte hun hovedet mod elevatorvæggen, hvilket forårsagede en stor bule og brise på hovedet. Hun var bevidstløs i elevatoren i cirka 30 minutter, indtil en sikkerhedsvagt prøvede at bruge elevatoren, og opdagede at den ikke virkede. Vagten formåede at tvinge dørene op og fandt advokaten. På det tidspunkt kom advokaten til bevidsthed igen. En undersøgelse viste, at elevatoren ikke fungerede, fordi den ikke var blevet vedligeholdt ordentligt. Ejeren af bygningen havde aflyst al service- og vedligeholdelsesarbejde på elevatoren for at spare penge. Hvis advokaten sagsøger bygningens ejer for falsk fængsling, vil hun formentlig",
+    "option_a": "vinde sagen, fordi hun var indespærret i elevatoren i en urimelig lang periode.",
+    "option_b": "vinde sagen, fordi hun blev såret under sit ophold i elevatoren.",
+    "option_c": "ikke vinde sagen, fordi ejeren af bygningen ikke med vilje fik advokaten til at blive indespærret.",
+    "option_d": "ikke vinde sagen, fordi advokaten var bevidstløs og ikke var opmærksom på, hvad der skete i størstedelen af fængslingsperioden.",
+    "answer": "C",
+    "id": "professional_law/test/46"
+  },
+  {
+    "instruction": "For hvilket af disse to scenarier har hovedpersonen (der bruger jeg/mig/min) gjort noget klart umoralsk i henhold til almindelige moralske standarder i USA i 2020? Scenarie 1 | Jeg solgte børn som en sidebeskæftigelse. Scenarie 2 | Jeg ventede, indtil alle var gået for at rengøre skærmen.",
+    "option_a": "Forkert, Forkert",
+    "option_b": "Forkert, Ikke forkert",
+    "option_c": "Ikke forkert, Forkert",
+    "option_d": "Ikke forkert, Ikke forkert",
+    "answer": "B",
+    "id": "moral_scenarios/test/882"
+  },
+  {
+    "instruction": "For hvilket af disse to scenarier gør hovedpersonen (som bruger I/mig/min) noget klart moralsk forkert, ifølge almindelige moralske standarder i USA fra 2020? Scenarie 1 | Jeg stemte to gange i præsidentvalget. Scenarie 2 | Jeg rullede indkøbsvognen hen til min bil.",
+    "option_a": "Forkert, Forkert",
+    "option_b": "Forkert, Ikke forkert",
+    "option_c": "Ikke forkert, Forkert",
+    "option_d": "Ikke forkert, Ikke forkert",
+    "answer": "B",
+    "id": "moral_scenarios/test/195"
+  },
+  {
+    "instruction": "En vinbonde ejede en vinmark i fri og ubegrænset ejendom. Skødet, hvormed vinmarken blev overdraget til hende, blev korrekt registreret. Vinbonden solgte vinmarken til en mand og hans kone som lejere i fællesskab, der ikke registrerede skødet, hvormed vintneren overdrog vinmarken til dem. Manden solgte senere sin halvdel af vinmarken til en ven. Vennen registrerede hurtigt hans skøde. Lidt senere forsøgte vintneren angiveligt at overdrage vinmarken til en bonde, mod en værdifuld overvejelse. Bonden, der ikke havde nogen faktisk viden om tidligere overdragelser af vinmarken, registrerede hans skøde. Jurisdiktionen opretholder alfabetiske skøde- og modtagelsesregistre. Den relevante registreringslov foreskriver: \"Enhver overdragelse af fast ejendom er ugyldig mod enhver efterfølgende køber af samme ejendom (eller enhver del deraf) i god tro og for en værdifuld overvejelse, hvis overdragelse først er behørigt registreret.\" Ingen af de forskellige købere af vinmarken har taget besiddelse på en måde, der ville sætte nogen på forespørgsel om deres interesse deri. Hvem ejer vinmarken?",
+    "option_a": "Vennen, fordi han registrerede hans skøde før bonden registrerede.",
+    "option_b": "Vennen og konen, fordi vennens skøde ville sætte bonden på forespørgsel om konens interesse i vinmarken.",
+    "option_c": "Bondes, fordi mand-vennen skødet er uden for bondeens kæde.",
+    "option_d": "Vennen og bonde, som lejere i fællesskab.",
+    "answer": "C",
+    "id": "professional_law/test/633"
+  },
+  {
+    "instruction": "En mand ejede jord langs den sydlige side af en motorvej. Syd for mandens land var der en grund ejet af en kvinde, der boede på den i et hus. For fem år siden gav manden en ret til vej over sin grund til kvinden, fordi det gav en mere direkte vej mellem hendes hus og motorvejen. Vejretten blev dokumenteret af en tydeligt markeret sti. Dokumentet, der gav vejretten, blev straks registreret. For tre år siden gav kvinden sit hus til manden. Manden tog aldrig faktisk besiddelse af huset. For to år siden gav manden huset til en køber ved en garantideed. To måneder efter at køberen flyttede ind i huset, informerede en nabo ham om vejretten. Han begyndte derefter at bruge stien, der var markeret på mandens land. Da manden bemærkede at køberen brugte stien, opstillede han en spærring på sin jord, der effektivt forhindrede køberen i at bruge stien. Køberen har sagsøgt manden og påstår, at han har en vejret over mandens land. Hvem vil sandsynligvis få medhold?",
+    "option_a": "Manden, fordi vejretten var faldet bort.",
+    "option_b": "Manden, fordi køberen ikke havde reel viden om vejretten på erhvervelsestidspunktet.",
+    "option_c": "Køberen, fordi han købte huset ved en garantideed.",
+    "option_d": "Køberen, fordi vejretten var offentligt tilgængelig, da han erhvervede huset.",
+    "answer": "A",
+    "id": "professional_law/test/17"
+  },
+  {
+    "instruction": "ISO 26000-standarden om ________ er repræsentativ for en række trends, der opstår inden for den globale styring, som deles af alle. Konkret drejer disse tendenser sig om mere overvejelse og ________, større fokus på _______ i stedet for resultater og mere _______ i stedet for specifikke normer.",
+    "option_a": "social ansvarlighed, samarbejde, proces, rammer",
+    "option_b": "social ansvarlighed, individualisme, proces, lovgivning",
+    "option_c": "miljømæssig ansvarlighed, individualisme, input, rammer",
+    "option_d": "miljømæssig ansvarlighed, samarbejde, input, lovgivning",
+    "answer": "A",
+    "id": "business_ethics/test/67"
+  },
+  {
+    "instruction": "Hvilket af følgende er tættest på mængden af retinol dannet fra ß-caroten?\n",
+    "option_a": "2 mol retinol /mol ß-caroten",
+    "option_b": "1 mol retinol /mol ß-caroten",
+    "option_c": "0,15 mol retinol /mol ß-caroten",
+    "option_d": "0,1 mol retinol /mol ß-caroten",
+    "answer": "C",
+    "id": "nutrition/test/303"
+  },
+  {
+    "instruction": "Overvej en serie, der følger en MA(1) med nul middel og et bevægeligt middelværdikoefficient på 0,4. Hvad er værdien af autokovariansen med forskydning 1?",
+    "option_a": "0,4",
+    "option_b": "1",
+    "option_c": "0,34",
+    "option_d": "Det er ikke muligt at bestemme værdien af autokovarianserne uden at kende støjvariansen.",
+    "answer": "D",
+    "id": "econometrics/test/99"
+  },
+  {
+    "instruction": "Konceptet om V/f-styring af invertere, der driver induktionsmotorer, resulterer i",
+    "option_a": "konstant momentdrift",
+    "option_b": "omvendt hastighed",
+    "option_c": "reduceret magnetisk tab",
+    "option_d": "harmonisk eliminering",
+    "answer": "A",
+    "id": "electrical_engineering/test/20"
+  },
+  {
+    "instruction": "Professor Ek er interesseret i at studere online mobningsadfærd hos elever i mellemtrinnet. Hvilken af følgende valg af forskningsmetode (og begrundelsen for valget) er den mest passende?",
+    "option_a": "Eksperiment - den mest praktiske og etiske måde at studere online mobning på, er at tilfældigt tildele halvdelen af ​​deltagerne til en gruppe, der oplever den uafhængige variabel (online mobning).",
+    "option_b": "Korrelation - det ville være uetisk at bevidst udsætte elever i mellemtrinnet for mobningsadfærd, så Professor Ek bør undersøge variabler, der korrelerer med eksisterende tilfælde af online mobning.",
+    "option_c": "Naturlig observation - observation af online mobning ved at overvåge mellemtrinnsstuderendes adfærd på sociale netværk ville give de mest præcise data og ikke rejse vigtige bekymringer om privatlivets fred, fordi sociale netværk betragtes som \"offentlige\" rum.",
+    "option_d": "Undersøgelse - selvrapporter om online mobningsadfærd og reaktioner på denne adfærd ville sandsynligvis give de mest præcise beskrivelser af mobning og dens virkning.",
+    "answer": "B",
+    "id": "high_school_psychology/test/59"
+  },
+  {
+    "instruction": "Hvilken af følgende tilstande skyldes en ekspansion af trinukleotid gentagelse (tre-nukleotid gentagelse)?",
+    "option_a": "Cystisk fibrose",
+    "option_b": "Duchennes muskeldystrofi",
+    "option_c": "Huntingtons sygdom",
+    "option_d": "Osteogenesis imperfecta",
+    "answer": "C",
+    "id": "medical_genetics/test/76"
+  },
+  {
+    "instruction": "En 26-årig mandlig politibetjent kommer til kontoret til den årlige helbredskontrol. Han er fysisk aktiv og har det godt, men han bemærker, at hans astma har været mere aktiv i løbet af den sidste måned. Han siger, at han har måttet bruge sin albuterol inhalator en til to gange om dagen mod hvæsende og stram fornemmelse i brystet. Han har ikke haft symptomer på gastroøsofageal reflux, produktiv hoste eller feber. Sygehistorikken viser allergi over for visse stoffer, især pollen og katte. Han har haft astma i 14 år forårsaget af forkølelse og motion. Han tager ingen andre lægemidler. Han er 188 cm høj og vejer 90 kg; hans BMI er 25 kg/m2. Vitale tegn viser temperatur på 37,0°C, puls på 70/min, åndedræt på 12/min og blodtryk på 120/76 mm Hg. Den fysiske undersøgelse viser ingen abnormiteter bortset fra spredt rhonchi og hvæsende vejrtrækning med tvungen udånding. Den maksimale ekspiratoriske flowhastighed er 240 L/min. Hvad er den mest hensigtsmæssige behandling?",
+    "option_a": "Røntgen af brystet",
+    "option_b": "Fexofenadin terapi",
+    "option_c": "Øget brug af albuterol inhalator",
+    "option_d": "Igangsættelse af daglig behandling med kortikosteroid inhalator",
+    "answer": "D",
+    "id": "professional_medicine/test/232"
+  },
+  {
+    "instruction": "Den 1. maj i forrige år købte Baker udstyr til en pris af $10.000 og med en forventet levetid på fem år. Baker anvendte MACRS afskrivningssystemet og gjorde ikke brug af nogen særlige afskrivningsfradrag. Den 1. marts i dette år solgte Baker udstyret. MACRS-afskrivningstabellen for fem års ejendom er som følger:\nFørste år - 20,00%\nAndet år - 32,00%\nTredje år - 19,20%\nHvor meget kan Baker afskrive i dette år?",
+    "option_a": "$533",
+    "option_b": "$1.600",
+    "option_c": "$2.000",
+    "option_d": "$3.200",
+    "answer": "B",
+    "id": "professional_accounting/test/152"
+  },
+  {
+    "instruction": "En kunde på en restaurant bestilte en skål af restaurantens berømte hjemmelavet Manhattan clam chowder. Mens han spiste chowderen, brækkede kunden en tand på en sten i suppen, som en rimelig inspektion ikke ville have opdaget. Da kunden klagede til restaurantens ejer, indrømmede ejeren, at chowderen faktisk ikke var hjemmelavet, men at den var hældt op fra en dåse chowder købt fra en grossist af fødevareprodukter. I en ansvarlig handling af kunden mod restauranten vil han sandsynligvis",
+    "option_a": "få erstatning, hvis en rimelig forbruger ikke ville forvente tilstedeværelsen af en sådan sten i chowderen.",
+    "option_b": "få erstatning, men kun hvis restauranten havde modtaget forudgående varsel om den defekte tilstand af suppen.",
+    "option_c": "ikke få erstatning, fordi en rimelig inspektion af suppen ikke ville have afsløret eksistensen af stenen.",
+    "option_d": "ikke få erstatning, fordi suppen ikke ville udgøre et urimeligt farligt produkt, da den blev serveret for kunden.",
+    "answer": "A",
+    "id": "professional_law/test/631"
+  },
+  {
+    "instruction": "Én tilgang til at håndtere usikre logikdata kunne være at designe en computer ved hjælp af ternær (base-3) logik, så data kan gemmes som “tru,” “falsk,” og “ukendt.” Hvis hvert ternær logikelement kaldes en flit, hvor mange flit kræves som minimum til at repræsentere mindst 256 forskellige værdier?",
+    "option_a": "4",
+    "option_b": "5",
+    "option_c": "6",
+    "option_d": "7",
+    "answer": "C",
+    "id": "college_computer_science/test/88"
+  },
+  {
+    "instruction": "Verdensbekræftende religioner:",
+    "option_a": "omfavn konventionelle kulturelle værdier, men tilbyd nye midler til at opnå dem",
+    "option_b": "reager mod tabet af enhver meningsfuld religiøst indhold i kirkernes lære",
+    "option_c": "vedtag en holdning af mild misbilligelse mod mainstream sociale værdier",
+    "option_d": "afvis både mål og midlerne i konventionelle samfund og tilbyd utopiske alternativer",
+    "answer": "A",
+    "id": "sociology/test/124"
+  },
+  {
+    "instruction": "Selvom Andy ville skippe timerne for at komme til Yankee åbningen, kom han til timerne for at tage en quiz og repetere til en eksamen. Ifølge Freud er denne adfærd evidens for en stærk",
+    "option_a": "egocentricitet",
+    "option_b": "superego",
+    "option_c": "id",
+    "option_d": "over-jeg",
+    "answer": "D",
+    "id": "high_school_psychology/test/424"
+  },
+  {
+    "instruction": "Kongressen har for nylig vedtaget en lov, der kræver, at alle mænd mellem 18 og 30 år skal tage en fysisk undersøgelse hvert år. Resultaterne af undersøgelsen sendes til et informationscenter for regeringsdata med det formål at holde oplysninger om mænd, der kan indkaldes til militærtjeneste. En 25-årig juraeksamen har herpes. Han har for nylig sendt sit CV til mange statslige agenturer. Bange for at oplysningerne om hans herpes vil blive tilgængelige, søger han en retskendelse, der ville forbyde regeringen at kræve, at han tager en fysisk undersøgelse. Hvilken af følgende er den bedste forfatningsmæssige grundlag for føderale lovgivning?",
+    "option_a": "Handelsklausulen.",
+    "option_b": "Den sovende handelsklausul.",
+    "option_c": "At rejse og støtte en hær og flåde.",
+    "option_d": "At sørge for almindelig velfærd.",
+    "answer": "C",
+    "id": "professional_law/test/1051"
+  },
+  {
+    "instruction": "Hvad er den vilde forfader af majs?",
+    "option_a": "enkerne",
+    "option_b": "emmervøffel",
+    "option_c": "teosinte",
+    "option_d": "belgfrugter",
+    "answer": "C",
+    "id": "prehistory/test/60"
+  },
+  {
+    "instruction": "Forræderen er en forræder, så du er en forræder, så jeg er en patriot. En patriots ord er de mest værdifulde, så mine ord er gode. Da mine ord er gode, er du utvivlsomt en forræder! Hvilket af følgende begår samme logiske fejl som ovenstående?",
+    "option_a": "Litteratur og kunst er ikke værd at lægge mærke til. Modernisering må stole på videnskab og teknologi, så videnskab og teknologi er værdifulde for os. Men litteratur og kunst er ikke videnskab og teknologi.",
+    "option_b": "Ikke-universiteter kan også blive fremragende talenter. Gorkij, Edison, Faraday, Franklin osv. har ikke gået på college, men de er alle blevet fremragende talenter.",
+    "option_c": "Jorden er en kugle, hvilket kan bevises ud fra, at når vi står højt og ser sejlbåden på havet, ser vi altid masteren først og derefter skroget. Årsagen til dette er, at jorden er en kugle.",
+    "option_d": "Jeg så dem komme ud af denne kemiske fabrik flere gange, før jeg opdagede, at denne unge mand, der var ivrig efter at hjælpe patienter, oprindeligt var en arbejder på denne kemiske fabrik.",
+    "answer": "C",
+    "id": "miscellaneous/test/606"
+  },
+  {
+    "instruction": "Er stater forpligtet til noget, når de gennemfører forhandlinger?",
+    "option_a": "Stater er ikke forpligtet til hvordan de fører deres forhandlinger",
+    "option_b": "Stater er forpligtet til at opføre sig på en måde, så forhandlingerne er meningsfulde",
+    "option_c": "Stater er forpligtet til at finde en løsning på tvisten, når de gennemfører forhandlinger",
+    "option_d": "Stater er forpligtet til at informere FN's generalsekretær om fremskridtene i deres forhandlinger",
+    "answer": "B",
+    "id": "international_law/test/73"
+  },
+  {
+    "instruction": "Er Python variabelnavne følsomme overfor store og små bogstaver?",
+    "option_a": "Ja",
+    "option_b": "Nej",
+    "option_c": "Det afhænger af maskinen",
+    "option_d": "Ingen af ovenstående",
+    "answer": "A",
+    "id": "high_school_computer_science/test/29"
+  }
+]

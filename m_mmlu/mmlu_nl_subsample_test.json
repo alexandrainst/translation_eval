@@ -1,0 +1,902 @@
+[
+  {
+    "instruction": "Er was een verdachte aangeklaagd omdat hij betrokken was bij een frauduleus investeringsschema. Tijdens het strafproces riep de officier van justitie een getuige op die met de verdachte had deelgenomen aan het schema. De getuige getuigde over het functioneren van het schema en werd ondervraagd door de advocaat van de verdachte. De zaak resulteerde in een mistrial. Een investeerder die vermoedelijk is bedrogen door het schema heeft nu een civiele actie ingesteld tegen de verdachte. Ze wil de getuigenis van de getuige uit het strafproces introduceren. De getuige is inmiddels verhuisd naar een ander land. Is de getuigenis van de getuige in het strafproces toelaatbaar in de civiele actie?",
+    "option_a": "Nee, omdat de bewijslast in een strafzaak verschilt van de bewijslast in een civiele actie.",
+    "option_b": "Nee, omdat de partijen in de twee acties niet identiek zijn.",
+    "option_c": "Ja, omdat het voorafgaande getuigenis is van een niet beschikbare verklaarder.",
+    "option_d": "Ja, maar alleen als de investeerder aantoont dat ze niet in staat was om de getuigenis van de getuige door middel van een depositie te verkrijgen.",
+    "answer": "C",
+    "id": "professional_law/test/417"
+  },
+  {
+    "instruction": "Als de economie een afname in reële GDP en prijsniveau heeft ervaren, kan dit het best worden uitgelegd door",
+    "option_a": "een afname van arbeidsproductiviteit.",
+    "option_b": "een technologische vooruitgang.",
+    "option_c": "een afname van investeringen.",
+    "option_d": "een stijging van de netto-export.",
+    "answer": "C",
+    "id": "high_school_macroeconomics/test/216"
+  },
+  {
+    "instruction": "Het verblijf in fel licht gedurende de latere delen van de dag lijkt",
+    "option_a": "Het normale circadiane ritme herstellen",
+    "option_b": "Slapeloosheid verergeren",
+    "option_c": "Diepe slaap herstellen",
+    "option_d": "Heeft geen echte invloed op slaap of dromen",
+    "answer": "A",
+    "id": "human_aging/test/96"
+  },
+  {
+    "instruction": "Een eiser heeft een gedaagde aangeklaagd over de titel van land aan de oever van een rivier. Veranderingen in het waterniveau in de loop van de tijd waren belangrijk voor de zaak van de eiser. Gedurende 15 jaar had een commerciële visser dagelijks het waterpeil bij zijn dok aan de oever van de rivier tegenover het land bijgehouden om de visomstandigheden te voorspellen. De eiser huurde een tekenaar in om de gegevens uit de logboeken van de visser voor te bereiden tot een rechtbanktentoonstelling. Tijdens het proces getuigde de visser over de zorgvuldigheid waarmee hij de metingen had gedaan en ze in zijn logboeken had opgenomen, die ter beschikking waren gesteld voor inspectie door de gedaagde. Vervolgens getuigde de tekenaar over de manier waarop hij de grafieken had voorbereid. Zijn de grafieken met deze basis toelaatbaar?",
+    "option_a": "Nee, omdat het horen zeggen is en niet binnen een uitzondering valt.",
+    "option_b": "Nee, omdat ze in strijd zijn met de \"beste bewijs\" regel.",
+    "option_c": "Ja, als samenvattingen van omvangrijke zakelijke gegevens.",
+    "option_d": "Ja, als de deskundige mening van de tekenaar over de waterstanden.",
+    "answer": "C",
+    "id": "professional_law/test/910"
+  },
+  {
+    "instruction": "Als de permeabiliteit van de ondergrond snel is, wordt de textuur van de ondergrond waarschijnlijk geclassificeerd als",
+    "option_a": "grof",
+    "option_b": "gemiddeld",
+    "option_c": "fijn",
+    "option_d": "siltig",
+    "answer": "A",
+    "id": "miscellaneous/test/513"
+  },
+  {
+    "instruction": "Nadat Julia een salarisverhoging kreeg, begon ze meer ijshoorntjes te kopen en minder waterijsjes. Voor Julia zijn waterijsjes",
+    "option_a": "in strijd met de wet van vraag en aanbod",
+    "option_b": "een gezamenlijk product",
+    "option_c": "een complementair goed met ijs",
+    "option_d": "een inferieur goed",
+    "answer": "D",
+    "id": "high_school_microeconomics/test/20"
+  },
+  {
+    "instruction": "Factoren die van invloed zijn op ethische besluitvorming kunnen grof worden onderverdeeld in ________ factoren, gerelateerd aan de unieke kenmerken van een persoon, en _________ factoren, die kenmerken zijn van de omgeving van de persoon of het specifieke probleem.",
+    "option_a": "Op maat gemaakt, Individueel",
+    "option_b": "Situatiegebonden, Individueel",
+    "option_c": "Situatiegebonden, Op maat gemaakt",
+    "option_d": "Individueel, Situatiegebonden",
+    "answer": "D",
+    "id": "business_ethics/test/60"
+  },
+  {
+    "instruction": "Er is een grand jury-procedure bezig voor een lokale ondernemer. Wat is niet waar over grand jury-procedures?",
+    "option_a": "De procedures worden in het geheim uitgevoerd.",
+    "option_b": "Er is geen recht op juridische bijstand.",
+    "option_c": "Er is geen recht op Miranda-waarschuwingen.",
+    "option_d": "Er is geen recht om bewijs uit te sluiten.",
+    "answer": "C",
+    "id": "professional_law/test/944"
+  },
+  {
+    "instruction": "De intensieve landbouwpraktijk van het meer dan eens per jaar planten en oogsten van dezelfde gewassen wordt genoemd",
+    "option_a": "brandcultuur.",
+    "option_b": "dubbelgewas.",
+    "option_c": "veeteelt.",
+    "option_d": "tussenteelt.",
+    "answer": "B",
+    "id": "high_school_geography/test/144"
+  },
+  {
+    "instruction": "Wat is de benaming van de datastructuur in een compiler die verantwoordelijk is voor het beheren van informatie over variabelen en hun eigenschappen?",
+    "option_a": "Abstract Syntax Tree (AST)",
+    "option_b": "Attribuut Grammatica",
+    "option_c": "Symbool Tabel",
+    "option_d": "Semantische Stapel",
+    "answer": "C",
+    "id": "college_computer_science/test/26"
+  },
+  {
+    "instruction": "Deze vraag heeft betrekking op de volgende informatie.\n\"Purusa-Sukta\"\nPurusa is de heer van de onsterfelijken, die groeien door middel van [ritueel] voedsel. Toen de goden een offer brachten met de offering van Purusa, was het voorjaar zijn geklaarde boter, de zomer het aanmaakhout, de herfst de offergave.\nHet was Purusa, geboren in het begin, die ze als offer besprenkeld hebben op het heilige gras. Het maakte de dieren van de lucht, het bos en het dorp. Uit dat offer dat volledig was gebracht, werden de mantra's [Rig Veda] en de liederen [Samaveda] geboren. De offerformules [Yajurveda] zijn daaruit geboren. Daaruit zijn ook de paarden geboren en allen die snijtanden hebben in beide kaken. Ook de koeien zijn daaruit geboren. Uit het offer zijn geiten en schapen geboren.\nToen ze Purusa verdeelden, op hoeveel manieren verdeelden ze hem? Wat was zijn mond? Wat waren zijn armen? Wat waren zijn dijen, zijn voeten verklaard te zijn? Zijn mond was de Brahman, zijn armen waren de Rajanaya [Ksatriya], zijn dijen de Vaisya; uit zijn voeten werd de Sudra geboren. Zo hebben ze de werelden gevormd. De goden offerden met het offer aan het offer. Dit waren de eerste riten.\n—Hymnen geëxcerpeerd en aangepast uit de Rig Veda, het oudste overgebleven literaire werk, India, 1500-1000 voor Christus.\nWelk element van de hindoe religie kan deze passage helpen te verklaren?",
+    "option_a": "Het enige vereiste voor verlossing is geloof",
+    "option_b": "Het belang van milieubeheer",
+    "option_c": "Het belang van offers aan de goden",
+    "option_d": "De nadruk op karma, of juiste acties, om verlichting te bereiken",
+    "answer": "C",
+    "id": "high_school_world_history/test/119"
+  },
+  {
+    "instruction": "De eigenaar van een pizzeria en Italiaanse gerechten opent een nieuwe locatie op een straat waar een andere eigenaar een hamburgerrestaurant heeft. Het lijkt erop dat de zaken langzaam gaan voor de eigenaar van de pizzeria en hij kijkt naar zijn concurrent, de hamburgerman, als de reden. De eigenaar van de pizzeria begint valse verklaringen te maken over het hamburgerrestaurant en de inferieure ingrediënten, die volgens hem sommige klanten voedselvergiftiging hebben bezorgd. Als de eigenaar van het hamburgerrestaurant klanten en inkomsten verliest aan de eigenaar van de pizzeria, kan hij dan een rechtszaak aanspannen voor omzetting?",
+    "option_a": "Ja, omdat de eigenaar van de pizzeria zijn recht op vreedzaam genot heeft verstoord en zijn zakelijke activiteiten heeft verstoord.",
+    "option_b": "Ja, omzetting is een opzettelijk onrechtmatige daad en de eigenaar van de pizzeria heeft opzettelijk gehandeld om een deel van de hamburgerbusiness om te zetten en heeft dit ook gedaan.",
+    "option_c": "Nee, omdat omzetting bestaat uit het toe-eigenen van iemands onroerend goed.",
+    "option_d": "Nee, omdat er geen sprake was van inbreuk op zijn eigendom of het recht op bezit van zijn persoonlijke eigendommen.",
+    "answer": "D",
+    "id": "professional_law/test/799"
+  },
+  {
+    "instruction": "Deze vraag heeft betrekking op de volgende informatie.\nGeletterdheid onder de Russisch sprekende bevolking van laat-Keizerlijk Rusland en de Sovjet-Unie, 1897-1955\nGeletterdheid\n1897 24%\n1917 45%\n1926 56%\n1937 75%\n1939 81,10%\n1955 99,90%\nBron: volkstelling en Sovjet-ministerie van Onderwijs\nIn welke van de volgende historische contexten kan de informatie in het bovenstaande diagram het best worden begrepen?",
+    "option_a": "Onderwijshervorming in het moderne tijdperk",
+    "option_b": "Gecentraliseerde en door de staat geleide moderniseringscampagnes",
+    "option_c": "Experimenten met syndicalistische vormen van sociaal-economische organisatie",
+    "option_d": "Tweede-fase industrialisatie in de niet-westerse wereld",
+    "answer": "B",
+    "id": "high_school_world_history/test/89"
+  },
+  {
+    "instruction": "Ontspanningsgestuurde oscillatoren worden gebruikt om te genereren",
+    "option_a": "Sinusgolf",
+    "option_b": "Driehoeksgolf",
+    "option_c": "Zaagtandgolf",
+    "option_d": "Zowel B als C",
+    "answer": "D",
+    "id": "electrical_engineering/test/24"
+  },
+  {
+    "instruction": "Welk land ondervindt een ernstig handelsnadeel vanwege de locatie?",
+    "option_a": "Singapore",
+    "option_b": "Italië",
+    "option_c": "Spanje",
+    "option_d": "Mongolië",
+    "answer": "D",
+    "id": "high_school_geography/test/54"
+  },
+  {
+    "instruction": "Voor welk van deze twee scenario's doet de hoofdpersoon (die ik/mij/mijn gebruikt) duidelijk immoreel, volgens de gewone morele normen in de VS vanaf 2020? Scenario 1 | Ik deed paaldansen tijdens de poppenshow. Scenario 2 | Ik speelde vangbal met mijn hond en toen mikte ik de honkbal goed over het hoofd van de hond.",
+    "option_a": "Verkeerd, Verkeerd",
+    "option_b": "Verkeerd, Niet verkeerd",
+    "option_c": "Niet verkeerd, Verkeerd",
+    "option_d": "Niet verkeerd, Niet verkeerd",
+    "answer": "B",
+    "id": "moral_scenarios/test/744"
+  },
+  {
+    "instruction": "Wat is waar over de rotatie van een massieve schijf?",
+    "option_a": "De snelheid is op elk punt op de schijf hetzelfde.",
+    "option_b": "Het deel dichter bij de as heeft een langere periode.",
+    "option_c": "De rotatieperiode is op elk punt op de schijf hetzelfde.",
+    "option_d": "Het deel dichter bij de as heeft een kortere periode.",
+    "answer": "C",
+    "id": "astronomy/test/98"
+  },
+  {
+    "instruction": "Het is correct om over de epidemiologie van Anorexia Nervosa te zeggen dat:\n",
+    "option_a": "Vrouwen drie keer zo vaak worden getroffen als mannen",
+    "option_b": "Het nooit voorkomt bij kinderen of post-menopauzale vrouwen",
+    "option_c": "Mannen uit elke sociaal-economische achtergrond getroffen kunnen worden",
+    "option_d": "Prevalentiepercentages zijn 2% voor vrouwelijke adolescenten",
+    "answer": "C",
+    "id": "nutrition/test/294"
+  },
+  {
+    "instruction": "Een monster van 2,35 gram werd opgelost in water en de chloride-ionen werden neergeslagen door zilvernitraat toe te voegen (Ag+ + Cl- → AgCl). Als 0,435 gram neerslag werd verkregen, wat is dan het percentage chloor in het monster?",
+    "option_a": "10,80%",
+    "option_b": "4,60%",
+    "option_c": "43,50%",
+    "option_d": "18%",
+    "answer": "B",
+    "id": "high_school_chemistry/test/167"
+  },
+  {
+    "instruction": "Stel dat de correlatie tussen twee variabelen r = 0,19 is. Wat is de nieuwe correlatie als 0,23 wordt toegevoegd aan alle waarden van de x-variabele, elke waarde van de y-variabele wordt verdubbeld en de twee variabelen worden omgewisseld?",
+    "option_a": "0,19",
+    "option_b": "0,42",
+    "option_c": "0,84",
+    "option_d": "-0,19",
+    "answer": "A",
+    "id": "high_school_statistics/test/56"
+  },
+  {
+    "instruction": "Volgens het Moeder de Gans-kinderliedje, welk kind is vol verdriet?",
+    "option_a": "Het kind van maandag",
+    "option_b": "Het kind van woensdag",
+    "option_c": "Het kind van donderdag",
+    "option_d": "Het kind van zaterdag",
+    "answer": "B",
+    "id": "miscellaneous/test/599"
+  },
+  {
+    "instruction": "Ultra Co. gebruikt een periodiek voorraadsysteem. Dit zijn voorraadtransacties voor de maand januari: 1/1 Beginvoorraad 20.000 eenheden voor $13,- per eenheid. 1/20 Aankoop van 30.000 eenheden voor $15,- per eenheid. 1/23 Aankoop van 40.000 eenheden voor $17,- per eenheid. 1/31 Verkoop voor $20,- per eenheid van 50.000 eenheden. Ultra gebruikt de LIFO-methode om de waarde van zijn voorraad te bepalen. Welk bedrag moet Ultra als kosten van verkochte goederen rapporteren op haar winst-en-verliesrekening voor de maand januari?",
+    "option_a": "$710.000",
+    "option_b": "$750.000",
+    "option_c": "$830.000",
+    "option_d": "1000000",
+    "answer": "C",
+    "id": "professional_accounting/test/23"
+  },
+  {
+    "instruction": "Onder bepaalde omstandigheden zal een bundel elektronen die op een kristaloppervlak wordt afgevuurd diffracteren en kan een verstrooiingspatroon van de bundel worden verkregen. Wat is de benodigde kinetische energie van de elektronen ongeveer om het patroon te kunnen zien? (Ga uit van de roosterafstand van het kristal van 0,4 nm.)",
+    "option_a": "0,1 eV",
+    "option_b": "1 eV",
+    "option_c": "10 eV",
+    "option_d": "100 eV",
+    "answer": "C",
+    "id": "college_physics/test/42"
+  },
+  {
+    "instruction": "Het claimen dat men een prima facie plicht heeft om de wet te gehoorzamen houdt in dat:",
+    "option_a": "Men onder alle omstandigheden een plicht heeft om de wet te gehoorzamen, ongeacht de inhoud.",
+    "option_b": "Er geen plicht is om een wet te gehoorzamen waarmee men niet akkoord is gegaan.",
+    "option_c": "De plicht alleen van toepassing is op degenen die direct door de wet in kwestie worden beïnvloed.",
+    "option_d": "De verplichting onafhankelijk van de precieze wettelijke bepalingen ontstaat - tenzij er gronden zijn om een specifieke uitzondering te rechtvaardigen.",
+    "answer": "D",
+    "id": "jurisprudence/test/16"
+  },
+  {
+    "instruction": "Wat is het belang geweest van de nieuwe kritische scholen van veiligheidsstudies voor de ontwikkeling van veiligheidsstudies? Zijn ze gewoon IR geworden en hebben ze hun positie verloren die hen definieert als veiligheidsstudies?",
+    "option_a": "De volgende generatie zal waarschijnlijk hun argumenten ontwikkelen in betrokkenheid bij beleidsvragen en in directe interactie met beleidsmakers en denktanks.",
+    "option_b": "Beleidskennis weerspiegeld in termen van theorieën, wanneer er een interactie ontstaat tussen Amerikaanse en Europese denkers, zal de theoretische context hetzelfde zijn.",
+    "option_c": "De situatie blijft er een waarin veiligheidsstudies zich bevinden tussen de IR-discipline en technische experts en practitioners.",
+    "option_d": "Europese veiligheidsstudies worden behandeld als een vorm van (beleids)kennis, terwijl veiligheidstheorie in de VS dit zal behandelen als de belangrijkste empirische bron voor kritische analyse.",
+    "answer": "C",
+    "id": "security_studies/test/88"
+  },
+  {
+    "instruction": "Na het vrijgeven van een ei wordt de follikel, onder stimulatie van luteïniserend hormoon, omgezet in een klierachtige massa cellen genaamd het __________",
+    "option_a": "corpus cavernosum",
+    "option_b": "corpus luteum",
+    "option_c": "corpus callosum",
+    "option_d": "corpus glandula",
+    "answer": "B",
+    "id": "human_sexuality/test/26"
+  },
+  {
+    "instruction": "Volgens de Establishment Clause kan een overheidsvoorschrift of wettelijke bepaling die geen secte voorkeur heeft, pas als geldig worden beschouwd als het eerst slaagt voor een aanvullende drieledige test onder traditionele analyse. Kies alstublieft welke van de volgende concepten NIET zal helpen bij verdenkingen van het vestigen van religie bij een wettelijke bepaling of actie.",
+    "option_a": "Het moet een niet-spiritueel wetgevend doel hebben.",
+    "option_b": "De wetgeving mag geen overmatige overheidsverstrengeling met religie bevorderen.",
+    "option_c": "De wetgeving moet louter seculiere overwegingen verbieden.",
+    "option_d": "De wetgeving moet een primair effect hebben dat noch religie bevordert, noch belemmert.",
+    "answer": "C",
+    "id": "professional_law/test/1522"
+  },
+  {
+    "instruction": "In de herfst en opnieuw in de lente werd formulier A van een gestandaardiseerde persoonlijkheidstest gegeven aan dezelfde groep mensen. De betrouwbaarheidsschatting die het resultaat is van dit onderzoek, wordt aangeduid als",
+    "option_a": "externe consistentie",
+    "option_b": "equivalentie",
+    "option_c": "stabiliteit",
+    "option_d": "interne consistentie",
+    "answer": "C",
+    "id": "professional_psychology/test/525"
+  },
+  {
+    "instruction": "Hoeveel mensen waren er in 2016 dakloos in de Verenigde Staten?",
+    "option_a": "55.000",
+    "option_b": "550.000",
+    "option_c": "5.500.000",
+    "option_d": "55.000.000",
+    "answer": "B",
+    "id": "global_facts/test/19"
+  },
+  {
+    "instruction": "Als de huidige reële bbp $ 5000 is en het bbp op volledige werkgelegenheid op $ 4000 ligt, welke combinatie van maatregelen is dan het meest waarschijnlijk gebruikt om de economie tot dit punt te brengen?",
+    "option_a": "Een verlaging van belastingen en een lagere discontovoet",
+    "option_b": "Een verhoging van overheidsuitgaven en een verhoging van belastingen",
+    "option_c": "Een verlaging van belastingen en het verkopen van obligaties in een open marktoperatie",
+    "option_d": "Een verhoging van overheidsuitgaven en een verhoging van de discontovoet",
+    "answer": "A",
+    "id": "high_school_macroeconomics/test/281"
+  },
+  {
+    "instruction": "De subsistentiepraktijken van mensen kunnen worden bepaald door het herstellen en bestuderen van:",
+    "option_a": "de fauna van een vindplaats.",
+    "option_b": "een osteologische verzamelcollectie van een vindplaats.",
+    "option_c": "puimsteen en bewijs van pyroclastische golven.",
+    "option_d": "alles van het bovenstaande.",
+    "answer": "A",
+    "id": "prehistory/test/97"
+  },
+  {
+    "instruction": "Voor welk van deze twee scenario's doet het hoofdpersonage (die I/me/my gebruikt) iets duidelijk immoreels, volgens de gewone morele standaarden in de VS vanaf 2020? Scenario 1 | Ik heb de poep van mijn hond opgepakt en werd niet beboet voor vervuiling. Scenario 2 | Ik leer mijn 18-jarige zoon autorijden op een privéparkeerplaats",
+    "option_a": "Fout, Fout",
+    "option_b": "Fout, Niet fout",
+    "option_c": "Niet fout, Fout",
+    "option_d": "Niet fout, Niet fout",
+    "answer": "D",
+    "id": "moral_scenarios/test/773"
+  },
+  {
+    "instruction": "Welke van de volgende doelen is niet genoemd als doelstelling van de Commissie voor Menselijke Veiligheid bij de lancering?",
+    "option_a": "Om het publieke begrip, de betrokkenheid en de steun van de menselijke veiligheid en haar onderliggende imperatieven te bevorderen.",
+    "option_b": "Om het concept van menselijke veiligheid verder te ontwikkelen als operationeel gereedschap voor beleidsformulering en -uitvoering.",
+    "option_c": "Om een concreet actieprogramma voor te stellen om kritieke en omvattende bedreigingen voor de menselijke veiligheid aan te pakken.",
+    "option_d": "Om een nieuw internationaal rechtssysteem te ontwikkelen om de menselijke veiligheid te bevorderen.",
+    "answer": "D",
+    "id": "security_studies/test/95"
+  },
+  {
+    "instruction": "Kennis van verschillende categorieën bomen en waar ze het beste groeien is een voorbeeld van wat voor soort langetermijngeheugen?",
+    "option_a": "episodisch geheugen",
+    "option_b": "semantisch geheugen",
+    "option_c": "procedureel geheugen",
+    "option_d": "eidetisch geheugen",
+    "answer": "B",
+    "id": "high_school_psychology/test/380"
+  },
+  {
+    "instruction": "Stel dat de hoekafscheiding van twee sterren kleiner is dan de hoekoplossing van je ogen. Hoe zullen de sterren eruitzien voor je ogen?",
+    "option_a": "Je zult deze twee sterren helemaal niet kunnen zien.",
+    "option_b": "Je zult twee verschillende sterren zien.",
+    "option_c": "De twee sterren zullen eruitzien als een enkel punt van licht.",
+    "option_d": "De twee sterren zullen eruitzien als die met elkaar verbonden zijn en lijken op een kleine halter.",
+    "answer": "C",
+    "id": "astronomy/test/34"
+  },
+  {
+    "instruction": "Als huishoudens optimistischer zijn over de toekomst, hoe zou de consumptiefunctie worden beïnvloed?",
+    "option_a": "De marginale neiging om te consumeren zou toenemen, waardoor de helling van de consumptiefunctie stijgt.",
+    "option_b": "De gehele consumptiefunctie zou omlaag verschuiven.",
+    "option_c": "De gehele consumptiefunctie zou omhoog verschuiven.",
+    "option_d": "De marginale neiging om te consumeren zou afnemen, waardoor de helling van de consumptiefunctie stijgt.",
+    "answer": "C",
+    "id": "high_school_macroeconomics/test/211"
+  },
+  {
+    "instruction": "Een eigenaar van een winkel, die verwachtte dat zijn zaken tijdens het vakantieseizoen zouden toenemen, besloot om een nieuwe werknemer aan te nemen. Op 31 oktober ging de eigenaar een schriftelijke overeenkomst aan met een werknemer, waarin stond dat de werknemer in de maanden november en december in dienst zou zijn bij de winkel voor $2.000 per maand. Aan het einde van november merkte de eigenaar op dat de zaken niet zo waren toegenomen als hij had verwacht. De eigenaar informeerde de werknemer dat hij, tenzij hij instemde met een verlaging van zijn salaris, zou worden ontslagen. Met tegenzin stemde de werknemer op 1 december mondeling in met een salarisvermindering van $500 voor de maand december. Welke van de volgende uitspraken met betrekking tot de overeenkomst tussen de eigenaar en de werknemer op 1 december is het meest nauwkeurig?",
+    "option_a": "Het effectueerde een geldige hervorming van hun oorspronkelijke schriftelijke overeenkomst.",
+    "option_b": "Het effectueerde een geldige wijziging van hun oorspronkelijke schriftelijke overeenkomst.",
+    "option_c": "Het effectueerde een novatie van hun oorspronkelijke schriftelijke overeenkomst.",
+    "option_d": "Het altereerde de rechten en verplichtingen van de partijen niet onder de voorwaarden van hun oorspronkelijke overeenkomst.",
+    "answer": "D",
+    "id": "professional_law/test/854"
+  },
+  {
+    "instruction": "Een verkoper werd gecontracteerd om een stuk grond te verkopen aan een koper voor $300.000. Het contract gaf aan dat de afronding 60 dagen na ondertekening van het contract zou plaatsvinden en dat de verkoper de koper een 'verhandelbare titel' zou overdragen via een quitclaimakte bij de afronding. Het contract bevatte geen andere bepalingen met betrekking tot de titel die aan de koper moest worden geleverd. Een titelonderzoek onthulde dat het land onderwerp was van een onvoldane hypotheek van $50.000 en een recht van overpad over een deel van de grond. De koper beweert nu dat de titel niet verhandelbaar is en heeft geweigerd om tot afronding over te gaan. Heeft de koper gelijk?",
+    "option_a": "Nee, want niets in deze feiten maakt de titel niet verhandelbaar.",
+    "option_b": "Nee, omdat de koper ermee akkoord ging een quitclaimakte te accepteren.",
+    "option_c": "Ja, omdat het recht van overpad de titel niet verhandelbaar maakt.",
+    "option_d": "Ja, omdat de onvoldane hypotheek de titel niet verhandelbaar maakt.",
+    "answer": "C",
+    "id": "professional_law/test/980"
+  },
+  {
+    "instruction": "Voor welk van deze twee scenario's doet de hoofdpersoon (die ik/mij/mijn gebruikt) duidelijk immoreel volgens de gebruikelijke morele normen in de VS vanaf 2020? Scenario 1 | Ik besloot om in een bosje te plassen waar niemand me kon zien. Scenario 2 | Ik complimenteerde Kelly's transitie.",
+    "option_a": "Fout, fout",
+    "option_b": "Fout, niet fout",
+    "option_c": "Niet fout, fout",
+    "option_d": "Niet fout, niet fout",
+    "answer": "D",
+    "id": "moral_scenarios/test/727"
+  },
+  {
+    "instruction": "Uitspraak 1 | Als H een ondergroep is van G en a behoort tot G dan |aH| = |Ha|. Uitspraak 2 | Als H een ondergroep is van G en a en b behoren tot G, dan zijn aH en Hb identiek of disjunct.",
+    "option_a": "Waar, waar",
+    "option_b": "Onwaar, onwaar",
+    "option_c": "Waar, onwaar",
+    "option_d": "Onwaar, waar",
+    "answer": "C",
+    "id": "abstract_algebra/test/10"
+  },
+  {
+    "instruction": "_Wanneer de stemming haar overvalt_, maakt Angela een korte wandeling om het blok. In de zin hierboven kan het onderstreepte gedeelte het best worden omschreven als",
+    "option_a": "een bijvoeglijke bijzin",
+    "option_b": "een betrekkelijke bijzin",
+    "option_c": "een ondergeschikte clause",
+    "option_d": "een onafhankelijke clause",
+    "answer": "C",
+    "id": "miscellaneous/test/350"
+  },
+  {
+    "instruction": "Ongepolariseerd licht valt in op een paar ideale lineaire polarisatoren waarvan de transmissieassen onderling een hoek van 45 graden maken. De intensiteit van het doorgelaten licht door beide polarisatoren is wat percentage van de oorspronkelijke intensiteit?",
+    "option_a": "100%",
+    "option_b": "75%",
+    "option_c": "50%",
+    "option_d": "25%",
+    "answer": "D",
+    "id": "college_physics/test/87"
+  },
+  {
+    "instruction": "Wanneer een stilhangende bal aan één verticale draad hangt, is de spanning in de draad mg. Als de bal in een horizontale cirkel wordt bewogen, zodat de draad een kegel beschrijft, is de touwspanning",
+    "option_a": "mg",
+    "option_b": "altijd groter dan mg",
+    "option_c": "altijd kleiner dan mg",
+    "option_d": "kan groter of kleiner zijn dan mg, afhankelijk van de snelheid van de bal",
+    "answer": "B",
+    "id": "conceptual_physics/test/95"
+  },
+  {
+    "instruction": "Wat is een kenmerk van X-gebonden dominante overerving?",
+    "option_a": "Ouderlijke bloedverwantschap",
+    "option_b": "Overdracht van vader op zoon",
+    "option_c": "Alleen overdracht door vrouwen",
+    "option_d": "Alleen overdracht van mannen op vrouwen",
+    "answer": "D",
+    "id": "medical_genetics/test/50"
+  },
+  {
+    "instruction": "Deze vraag verwijst naar de volgende informatie.\n\"Waarbij de wetten en verdragen van de Verenigde Staten, zonder inmenging in de vrije meningsuiting en sympathie, of in de commerciële productie of verkoop van wapens of oorlogsmunitie, desondanks aan alle personen die zich binnen hun territorium en jurisdictie bevinden de plicht opleggen van een onpartijdige neutraliteit gedurende het bestaan van het conflict; En waarbij het de plicht van een neutrale regering is om het gebruik van zijn wateren voor oorlogsdoeleinden niet toe te staan ​​of toe te staan;\n\"Daarom verklaar en verkondig ik, Woodrow Wilson, President van de Verenigde Staten van Amerika, om de neutraliteit van de Verenigde Staten te behouden...\n\"Dat de statuten en verdragen van de Verenigde Staten en het internationaal recht vereisen dat niemand binnen het grondgebied en de jurisdictie van de Verenigde Staten rechtstreeks of onrechtstreeks deelneemt aan genoemde oorlogen, maar vrede zal bewaren met alle belligerenten en een strikte en onpartijdige neutraliteit zal handhaven...\"\nWoodrow Wilson, 1914\nWelke van de volgende uitspraken over het Verdrag van Versailles is waar?",
+    "option_a": "De Amerikaanse Senaat heeft het afgewezen omdat het Duitsland te mild behandelde.",
+    "option_b": "De Amerikaanse Senaat heeft het afgewezen omdat het een verhoogde Amerikaanse betrokkenheid bij Europese aangelegenheden vereiste.",
+    "option_c": "De Amerikaanse Senaat heeft het goedgekeurd, met bezwaren over de verdeling van Oost-Europa.",
+    "option_d": "Het is nooit door de Amerikaanse Senaat gestemd.",
+    "answer": "B",
+    "id": "high_school_us_history/test/65"
+  },
+  {
+    "instruction": "Welke van de volgende organisaties heeft de Europese Unie (EU) vervangen?",
+    "option_a": "NAVO",
+    "option_b": "EEG",
+    "option_c": "VN",
+    "option_d": "ASEAN",
+    "answer": "B",
+    "id": "high_school_geography/test/111"
+  },
+  {
+    "instruction": "Standaardtests of opmetingen die de prestaties van een beoordeelde vergelijken met de prestaties van een gespecificeerde groep deelnemers zijn:",
+    "option_a": "Criteriumgericht testen",
+    "option_b": "Functionele gedragsbeoordelingen",
+    "option_c": "Intellectuele beoordelingen",
+    "option_d": "Normgerichte tests",
+    "answer": "D",
+    "id": "professional_psychology/test/96"
+  },
+  {
+    "instruction": "Laten we zeggen dat we de gradiënt van onze kostenfunctie hebben berekend en hebben opgeslagen in een vector g. Wat is de kost van één update van afdaling van de gradiënt gegeven de gradiënt?",
+    "option_a": "O(D)",
+    "option_b": "O(N)",
+    "option_c": "O(ND)",
+    "option_d": "O(ND^2)",
+    "answer": "A",
+    "id": "machine_learning/test/6"
+  },
+  {
+    "instruction": "CONTINGENCY CONTRACTING verwijst naar het opstellen van een formele, schriftelijke overeenkomst die doelgedrag, versterkers en contractanten specificeert. Welk element van de volgende is geen effectieve overeenkomst?",
+    "option_a": "informatief over behandelstrategieën en verwachte resultaten",
+    "option_b": "gedrag kan worden gemonitord",
+    "option_c": "roept deelname op van de cliënt",
+    "option_d": "alleen minimale deelname van de cliënt is vereist",
+    "answer": "D",
+    "id": "professional_psychology/test/570"
+  },
+  {
+    "instruction": "Op welke van deze drie zuilen het concept van R2P rust, die van deze wordt algemeen erkend als de meest belangrijke?",
+    "option_a": "De verantwoordelijkheid om terug te slaan.",
+    "option_b": "De verantwoordelijkheid om te voorkomen.",
+    "option_c": "De verantwoordelijkheid om te herbouwen.",
+    "option_d": "De verantwoordelijkheid om te reageren.",
+    "answer": "B",
+    "id": "security_studies/test/227"
+  },
+  {
+    "instruction": "Zijn/waren virussen:",
+    "option_a": "De meest voorkomende levensvorm op aarde?",
+    "option_b": "Vóór bacteriën ontdekt?",
+    "option_c": "Gekweekt in dieren in het laboratorium?",
+    "option_d": "De oorzaak van alle menselijke ziekten?",
+    "answer": "A",
+    "id": "virology/test/149"
+  },
+  {
+    "instruction": "Hechting aan een verzorger begint:",
+    "option_a": "in de uren direct na de geboorte",
+    "option_b": "enkele weken na de geboorte",
+    "option_c": "enkele maanden na de geboorte",
+    "option_d": "wanneer het kind leert spreken",
+    "answer": "A",
+    "id": "human_sexuality/test/114"
+  },
+  {
+    "instruction": "Moleculen van natuurlijke meervoudig onverzadigde vetzuren in plantaardige oliën bevatten:\n",
+    "option_a": "18 koolstofatomen met één koolstof-koolstof dubbele binding in de cis-configuratie",
+    "option_b": "20 koolstofatomen met ten minste twee koolstof-koolstof dubbele bindingen in de cis-configuratie",
+    "option_c": "18 koolstofatomen met ten minste twee koolstof-koolstof dubbele bindingen in de trans-configuratie",
+    "option_d": "18 koolstofatomen met ten minste twee koolstof-koolstof dubbele bindingen in de cis-configuratie",
+    "answer": "D",
+    "id": "nutrition/test/216"
+  },
+  {
+    "instruction": "Een object wordt geplaatst op 10 cm voor een divergerende spiegel. Wat is de brandpuntsafstand van de spiegel als het beeld 2 cm achter de spiegel verschijnt?",
+    "option_a": "-3/5 cm",
+    "option_b": "-5/3 cm",
+    "option_c": "-2/5 cm",
+    "option_d": "-5/2 cm",
+    "answer": "D",
+    "id": "high_school_physics/test/55"
+  },
+  {
+    "instruction": "Hoewel theoretisch elke eiwit in voeding als voedselallergeen zou kunnen optreden, zijn er acht belangrijke voedselallergenen in Europa en Noord-Amerika waaruit de meeste allergische reacties in de kindertijd worden waargenomen. Welk van de volgende allergenenparen bevat een allergeen dat geen deel uitmaakt van de groep van acht belangrijkste allergenen?\n",
+    "option_a": "Koeienmelk, ei",
+    "option_b": "Mosterdzaden, lamsvlees",
+    "option_c": "Soja, pinda's",
+    "option_d": "Vis, schaaldieren",
+    "answer": "B",
+    "id": "nutrition/test/282"
+  },
+  {
+    "instruction": "Op 1 juli jaar 7 gaf Dean Co. obligaties uit met vervaldatum op 1 juli jaar 12 tegen een premie. Dean heeft ten onrechte de methode van constante afschrijving gebruikt in plaats van de methode van effectieve rente om de premie af te schrijven. Hoe werden de volgende bedragen aangetast door de fout op 30 juni jaar 12? Obligatiedrag Behouden winstbedrag.",
+    "option_a": "Te hoog Te laag",
+    "option_b": "Te laag Te hoog",
+    "option_c": "Te hoog Geen effect",
+    "option_d": "Geen effect Geen effect",
+    "answer": "D",
+    "id": "professional_accounting/test/6"
+  },
+  {
+    "instruction": "Mill denkt dat elke persoon verlangt",
+    "option_a": "zijn plicht te doen.",
+    "option_b": "deugdzaam te zijn.",
+    "option_c": "zijn of haar eigen geluk.",
+    "option_d": "geen van bovenstaande",
+    "answer": "C",
+    "id": "moral_disputes/test/44"
+  },
+  {
+    "instruction": "Twee elektrisch geladen ballen zijn gescheiden door een korte afstand, waardoor er een kracht van 50 μN tussen hen ontstaat. Als de lading van elke bal hetzelfde blijft en de massa van één bal verdubbeld wordt (maar niet de andere), wat is dan de nieuwe elektrische kracht tussen de ballen?",
+    "option_a": "50 μN",
+    "option_b": "100 μN",
+    "option_c": "200 μN",
+    "option_d": "400 μN",
+    "answer": "A",
+    "id": "high_school_physics/test/84"
+  },
+  {
+    "instruction": "Wat is waarschijnlijk de reden dat het bewijs ter ondersteuning van de relatie tussen dieetcholesterol en plasma LDL-cholesterolgehaltes bij mensen inconclusief is?\n",
+    "option_a": "De complexiteit van de mechanismen die de opname van cholesterol en de export ervan in lipoproteïnen regelen.",
+    "option_b": "De complexiteit van het mechanisme dat de klaring van intestinaal afgeleide lipoproteïnen door de lever regelt.",
+    "option_c": "De meervoudige intrahepatische reacties op verhoogd cellulair cholesterol.",
+    "option_d": "Alle bovenstaande.",
+    "answer": "D",
+    "id": "nutrition/test/29"
+  },
+  {
+    "instruction": "Voor een individuele ondernemer, wat zou typisch worden geclassificeerd als een kapitaalgoed voor federale inkomstenbelasting doeleinden?",
+    "option_a": "Te ontvangen bedragen",
+    "option_b": "Verhandelbare effecten",
+    "option_c": "Machines en apparatuur gebruikt in een bedrijf",
+    "option_d": "Inventaris",
+    "answer": "B",
+    "id": "professional_accounting/test/219"
+  },
+  {
+    "instruction": "Wanneer een kind op de basisschool zit, zijn de ouders vaak betrokken bij de opvoeding van het kind als partners, samenwerkers en probleemoplossers. Tijdens het voortgezet onderwijs worden ouders typisch meer omschreven als",
+    "option_a": "partners",
+    "option_b": "samenwerkers",
+    "option_c": "supporters",
+    "option_d": "publiek",
+    "answer": "D",
+    "id": "high_school_psychology/test/347"
+  },
+  {
+    "instruction": "Een metaal wordt gereageerd met HCl om waterstofgas te produceren. Als 0,0623 gram van het metaal 28,3 mL waterstof produceert bij STP, is de massa van het metaal dat reageert met één mol zoutzuur",
+    "option_a": "98,6 g",
+    "option_b": "493 g",
+    "option_c": "24,7 g",
+    "option_d": "49,3 g",
+    "answer": "C",
+    "id": "high_school_chemistry/test/188"
+  },
+  {
+    "instruction": "Stel dat de markt voor rozen momenteel in evenwicht is. Als het aanbod van rozen daalt, terwijl tegelijkertijd de vraag naar rozen stijgt, wat kun je dan zeggen over de prijs en hoeveelheid rozen op de markt?",
+    "option_a": "Prijs en hoeveelheid stijgen beide.",
+    "option_b": "Prijs stijgt, maar de verandering in hoeveelheid is onduidelijk.",
+    "option_c": "Prijs en hoeveelheid dalen beide.",
+    "option_d": "Hoeveelheid stijgt, maar de verandering in prijs is onduidelijk.",
+    "answer": "B",
+    "id": "high_school_microeconomics/test/96"
+  },
+  {
+    "instruction": "Welke veronderstelling denkt Pence dat mensen maken als ze bezwaar hebben tegen SCNT en zeggen dat SCNT niet het beste is voor het kind?",
+    "option_a": "De ouders hebben goede bedoelingen.",
+    "option_b": "We kunnen niet bepalen wat de bedoelingen van de ouders zijn.",
+    "option_c": "De ouders hebben slechte bedoelingen.",
+    "option_d": "geen van bovenstaande",
+    "answer": "A",
+    "id": "moral_disputes/test/30"
+  },
+  {
+    "instruction": "Als er een kans van 70% is dat het op een bepaalde dag zal regenen, wat is dan de procentuele kans dat het op dezelfde dag NIET zal regenen?",
+    "option_a": "0%",
+    "option_b": "30%",
+    "option_c": "50%",
+    "option_d": "70%",
+    "answer": "B",
+    "id": "high_school_mathematics/test/97"
+  },
+  {
+    "instruction": "Wat is de betekenis van het \"act of State\"-doctrine?",
+    "option_a": "Het \"act of State\"-doctrine betekent dat alle staatsdaden immuniteit aantrekken.",
+    "option_b": "Het \"act of State\"-doctrine betekent dat de beoordeling of er sprake is van een vermeende onrechtmatige daad geoefend door een Staat, aan de uitvoerende macht toebehoort en niet aan de rechtbanken.",
+    "option_c": "Het \"act of State\"-doctrine betekent dat de rechtbanken goed gepositioneerd zijn om de aanwezigheid van een vermeende onrechtmatige daad gepleegd door de Staat te beoordelen.",
+    "option_d": "Het \"act of State\"-doctrine is een juridisch mechanisme dat de rechtbanken in staat stelt om immuniteit te verlenen aan openbare handelingen van buitenlandse Staten.",
+    "answer": "B",
+    "id": "international_law/test/45"
+  },
+  {
+    "instruction": "Een seksueel actieve 23-jarige man met meerdere sekspartners heeft dysurie en een gele urethrale afscheiding. Gram-kleuring van het exsudaat laat talrijke neutrofielen zien, waarvan vele intracellulaire gramnegatieve diplococcen bevatten. Hij heeft de afgelopen 2 jaar drie vergelijkbare episodes van urethritis gehad. Welke van de volgende eigenschappen van het infecterende organisme verklaart het beste de herinfectie?",
+    "option_a": "Antigene variatie",
+    "option_b": "Catalase",
+    "option_c": "Remming van de B-lymfocytenfunctie",
+    "option_d": "Remming van de T-lymfocytenfunctie",
+    "answer": "A",
+    "id": "professional_medicine/test/84"
+  },
+  {
+    "instruction": "Een boer bezit een groot boerderij waarop hij zijn vrienden toestaat om te jagen tijdens het kwarteljachtseizoen. Hij geeft zijn vrienden geen instructies over wapenveiligheid. De buurman die naast de boerderij woont, weet dat de vrienden van de boerderij gebruik maken tijdens het jachtseizoen. Op een dag tijdens het jachtseizoen, zonder medeweten of toestemming van de boer, nam de buurman een kortere route over de boerderij om een ​​kennis te bezoeken. De buurman werd gewond door een schot dat werd afgevuurd door een van de vrienden van de boer, die op kwartels schoot en nalatig was om de buurman op te merken. Traditionele regels van aansprakelijkheid van grondeigenaren en -bezitters zijn van toepassing. In een actie van de buurman tegen de boer om te herstellen voor de verwondingen, heeft de buurman waarschijnlijk succes?",
+    "option_a": "Nee, omdat de boer niet verantwoordelijk is voor het gedrag van zijn vrienden.",
+    "option_b": "Nee, omdat de buurman aan het overtreden was.",
+    "option_c": "Ja, omdat de onvoorzichtige vriend toestemming had om te jagen zonder veiligheidstraining.",
+    "option_d": "Ja, omdat het gebruik van vuurwapens een abnormaal gevaarlijke activiteit is.",
+    "answer": "B",
+    "id": "professional_law/test/318"
+  },
+  {
+    "instruction": "Voor welk van deze twee scenario's doet het hoofdpersonage (die I/me/my gebruikt) duidelijk iets immoreels volgens de gebruikelijke morele normen in de VS vanaf 2020? Scenario 1 | Ik gaf de dorstige 13-jarige een glas wijn. Scenario 2 | Ik juichte voor de politieagent terwijl hij de oude vrouw hielp vallen.",
+    "option_a": "Fout, Fout",
+    "option_b": "Fout, Niet fout",
+    "option_c": "Niet fout, Fout",
+    "option_d": "Niet fout, Niet fout",
+    "answer": "A",
+    "id": "moral_scenarios/test/297"
+  },
+  {
+    "instruction": "Als het volume van een object zou verdubbelen, zonder verandering in massa, dan zou de dichtheid",
+    "option_a": "halveren.",
+    "option_b": "verdubbelen.",
+    "option_c": "hetzelfde blijven.",
+    "option_d": "Geen van deze.",
+    "answer": "A",
+    "id": "conceptual_physics/test/142"
+  },
+  {
+    "instruction": "\"Is er iets waarvoor je bereid zou zijn te sterven?\" is een filosofische vraag omdat:",
+    "option_a": "het geen juist of fout antwoord heeft omdat het een betekenisloze vraag is.",
+    "option_b": "het een betekenisloze vraag is omdat iedereen er een ander antwoord op zou kunnen hebben.",
+    "option_c": "het ons dwingt onze overtuigingen over wat we weten en zouden moeten doen te verwoorden en te rechtvaardigen.",
+    "option_d": "het meer te maken heeft met iemands religieuze overtuigingen dan met feitelijke claims over de wereld.",
+    "answer": "C",
+    "id": "philosophy/test/57"
+  },
+  {
+    "instruction": "De socioculturele ontwikkelingstheorie van Vygotsky probeert de interactie te beschrijven tussen de mentale functies waarmee kinderen worden geboren en hoe zij die ontwikkelen tot wat zij als volwassenen bezitten. Een van de belangrijke componenten hiervan is de zone van de naaste ontwikkeling. Welke van de volgende uitspraken beschrijft nauwkeurig een individu in de zone van de naaste ontwikkeling?",
+    "option_a": "Een honkballer slaat ballen van een standaard om spiergeheugen op te bouwen.",
+    "option_b": "Een concertfluitist komt tekort om een stuk af te maken met een zeer complex einde zonder fouten te maken.",
+    "option_c": "Een Engelse middelbare scholier maakt een paper zodat deze kan worden beoordeeld door zijn professor.",
+    "option_d": "Een schoonspringster krijgt instructie van haar coach om haar vorm bij een specifieke beweging te verbeteren.",
+    "answer": "D",
+    "id": "college_medicine/test/89"
+  },
+  {
+    "instruction": "De vicepresident van de verkoop nam een ​​klant mee uit eten. Als de lunch $ 44 was en ze een fooi gaf van 20%, hoeveel geld heeft ze dan uitgegeven aan lunch?",
+    "option_a": "$8,80 ",
+    "option_b": "$35,20 ",
+    "option_c": "$52,80 ",
+    "option_d": "$53,80 ",
+    "answer": "C",
+    "id": "elementary_mathematics/test/279"
+  },
+  {
+    "instruction": "Tegen Kant's opvatting van seksuele objectificatie, beweert Papadaki dat",
+    "option_a": "het niet duidelijk is hoe seksueel gebruik menselijkheid opoffert.",
+    "option_b": "Kant heeft het mis om na te denken over de fout van seksuele objectificatie in termen van menselijkheid.",
+    "option_c": "seksuele objectificatie versterkt eigenlijk menselijkheid.",
+    "option_d": "Papadaki is het eigenlijk eens met Kant's standpunt",
+    "answer": "A",
+    "id": "moral_disputes/test/32"
+  },
+  {
+    "instruction": "Statement 1| De gradiënt van ReLU is nul voor $x<0$, en de sigmoidale gradiënt $\\sigma(x)(1-\\sigma(x))\\le \\frac{1}{4}$ voor alle $x$. Statement 2| De sigmoid heeft een continue gradiënt en de ReLU heeft een oncontinue gradiënt.",
+    "option_a": "Waar, waar",
+    "option_b": "Onwaar, onwaar",
+    "option_c": "Waar, onwaar",
+    "option_d": "Onwaar, waar",
+    "answer": "A",
+    "id": "machine_learning/test/104"
+  },
+  {
+    "instruction": "Op welke leeftijd begon Guru Nanak het bericht van de goddelijke Naam te prediken?",
+    "option_a": "30",
+    "option_b": "40",
+    "option_c": "33",
+    "option_d": "52",
+    "answer": "A",
+    "id": "world_religions/test/48"
+  },
+  {
+    "instruction": "Als de zwaartekracht tussen de Maan en de Aarde zou stoppen, welke uitspraak beschrijft dan het best de resulterende beweging van de maan?",
+    "option_a": "Het zou blijven draaien om zijn as en het zou om de Aarde blijven draaien zoals gebruikelijk.",
+    "option_b": "Het zou blijven draaien om zijn as, maar het zou stoppen met om de Aarde draaien.",
+    "option_c": "Het zou stoppen met draaien om zijn as, maar het zou om de Aarde blijven draaien zoals gebruikelijk.",
+    "option_d": "Het zou stoppen met draaien om zijn as en het zou stoppen met om de Aarde draaien.",
+    "answer": "B",
+    "id": "high_school_physics/test/32"
+  },
+  {
+    "instruction": "Met welke van de volgende ziekten worden patiënten behandeld met injecties van vitamine B-12?",
+    "option_a": "Bellse parese",
+    "option_b": "Ziekte van Crohn",
+    "option_c": "Pernicieuze anemie",
+    "option_d": "Ziekte van Graves",
+    "answer": "C",
+    "id": "anatomy/test/122"
+  },
+  {
+    "instruction": "Aangezien Nagel denkt dat er echte morele dilemma's kunnen zijn, ontkent hij het morele principe dat",
+    "option_a": "kunnen impliceert moeten.",
+    "option_b": "kunnen impliceert plicht.",
+    "option_c": "plicht impliceert kunnen.",
+    "option_d": "plicht impliceert moeten.",
+    "answer": "C",
+    "id": "moral_disputes/test/191"
+  },
+  {
+    "instruction": "Welke van deze winkels wordt niet beheerd door Gap Inc?",
+    "option_a": "Gap",
+    "option_b": "Banana Republic",
+    "option_c": "Old Navy",
+    "option_d": "J Crew",
+    "answer": "D",
+    "id": "miscellaneous/test/780"
+  },
+  {
+    "instruction": "Selecteer de beste vertaling naar predicaatlogica. Sommige CEO is rijker dan iedereen. (Cx: x is een CEO; Px: x is een persoon; Wxy: x is rijker dan y)",
+    "option_a": "(∃x)[Cx • (∀y)(Py • Wxy)]",
+    "option_b": "(∃x)[Cx ⊃ (∀y)(Py ⊃ Wxy)]",
+    "option_c": "(∃x)[Cx • (∀y)(Py ⊃ Wxy)]",
+    "option_d": "(∀x)[Px ⊃ (∃y)(Cy ⊃ Wxy)]",
+    "answer": "C",
+    "id": "formal_logic/test/124"
+  },
+  {
+    "instruction": "Wat is de beste omschrijving van de doctrine van het oorspronkelijke intentie?",
+    "option_a": "Wanneer een wet onduidelijk is, kan de Hoge Raad rekening houden met de bedoeling van de wet of de letter van de wet, maar niet met beide.",
+    "option_b": "Auteursrechtwetten zijn bedoeld om de rechten van degenen die originele werken creëren te beschermen.",
+    "option_c": "Appelrechters zouden de oorspronkelijke beslissingen van de rechtbankrechters moeten respecteren.",
+    "option_d": "De Grondwet moet worden geïnterpreteerd in het licht van de bedoeling van degenen die het hebben geschreven.",
+    "answer": "D",
+    "id": "high_school_government_and_politics/test/55"
+  },
+  {
+    "instruction": "Dit proces leidt tot de netto productie van twee pyruvaten, twee ATP en twee NADH.",
+    "option_a": "Glycolyse",
+    "option_b": "Chemiosmose",
+    "option_c": "Fermentatie",
+    "option_d": "Calvincyclus",
+    "answer": "A",
+    "id": "high_school_biology/test/137"
+  },
+  {
+    "instruction": "De competitieve markt voor benzine, een normaal goed, bevindt zich momenteel in een staat van evenwicht. Wat zou de prijs van benzine het meest waarschijnlijk verhogen?",
+    "option_a": "Het inkomen van huishoudens daalt.",
+    "option_b": "De technologie die wordt gebruikt om benzine te produceren verbetert.",
+    "option_c": "De prijs van metrokaartjes en ander openbaar vervoer daalt.",
+    "option_d": "De prijs van ruwe olie, een grondstof voor benzine, stijgt.",
+    "answer": "D",
+    "id": "high_school_microeconomics/test/97"
+  },
+  {
+    "instruction": "Een auditor gebruikt statistische steekproeven bij het testen of kasbetalingen juist zijn geautoriseerd. De resultaten van de steekproef geven aan dat de steekproefafwijking plus de toegestane afwijking voor steekproefrisico de toelaatbare verhouding overschrijdt. Onder deze omstandigheden zou de auditor waarschijnlijk verlagen",
+    "option_a": "Geplande afhankelijkheid van de voorgeschreven controle.",
+    "option_b": "Beoordeeld niveau van controle risico.",
+    "option_c": "Geplande afhankelijkheid van materiële tests.",
+    "option_d": "Toelaatbare verhouding van afwijkingen.",
+    "answer": "A",
+    "id": "professional_accounting/test/236"
+  },
+  {
+    "instruction": "Als een knipperende lichtbron die op je afkomt snelheid wint, zie je de frequentie van flitsen",
+    "option_a": "toeneemt.",
+    "option_b": "afneemt.",
+    "option_c": "hetzelfde blijft.",
+    "option_d": "Geen van deze.",
+    "answer": "A",
+    "id": "conceptual_physics/test/13"
+  },
+  {
+    "instruction": "Er zijn steeds meer schadelijke effecten van ondervoeding tijdens de kindertijd en volwassen leven geïdentificeerd. De effecten van overvoeding, zoals overgewicht en obesitas, zijn minder bekend. Met welke van de volgende aandoeningen zijn overgewicht en obesitas geassocieerd?\n",
+    "option_a": "Hart- en vaatziekten",
+    "option_b": "Borstkanker",
+    "option_c": "Type 2 diabetes (volwassenen)",
+    "option_d": "alle opties zijn correct",
+    "answer": "D",
+    "id": "nutrition/test/190"
+  },
+  {
+    "instruction": "Voor welk van deze twee scenario's doet het hoofdpersonage (die ik/mij/mijn gebruikt) iets dat volgens de gewone morele normen in de VS van 2020 duidelijk immoreel is? Scenario 1 | Tijdens de pandemie hield ik een feest met mijn vrienden in persoon. Scenario 2 | Ik haalde de verjaardagsversieringen voor morgen neer.",
+    "option_a": "Verkeerd, Verkeerd",
+    "option_b": "Verkeerd, Niet verkeerd",
+    "option_c": "Niet verkeerd, Verkeerd",
+    "option_d": "Niet verkeerd, Niet verkeerd",
+    "answer": "A",
+    "id": "moral_scenarios/test/686"
+  },
+  {
+    "instruction": "Er zijn drie verschillende secties om in te zitten in een honkbalpark. Het aantal mensen dat in elke sectie kan zitten, wordt hieronder beschreven.\n* de rode sectie biedt plaats aan 200 mensen\n* de blauwe sectie biedt plaats aan 20 minder mensen dan de rode sectie\n* de groene sectie biedt plaats aan 2 keer zoveel mensen als de blauwe sectie\nHoeveel mensen kunnen in totaal in het honkbalpark zitten?",
+    "option_a": "260",
+    "option_b": "380",
+    "option_c": "640",
+    "option_d": "740",
+    "answer": "D",
+    "id": "elementary_mathematics/test/186"
+  },
+  {
+    "instruction": "Grote Stad gebruikt niet de aangepaste aanpak om wegen in de boekhouding op te nemen. Aan het begin van het lopende jaar heeft de stad $800.000 uitgegeven aan nieuwe wegen. De wegen hebben een nuttige levensduur van 20 jaar. Welk bedrag moet Grote Stad rapporteren als kosten voor de nieuwe wegen in de staat van baten en lasten voor het lopende jaar?",
+    "option_a": "$0",
+    "option_b": "$20.000",
+    "option_c": "$40.000",
+    "option_d": "800000",
+    "answer": "C",
+    "id": "professional_accounting/test/133"
+  },
+  {
+    "instruction": "Het hart heeft:",
+    "option_a": "twee kleppen en twee kamers.",
+    "option_b": "vier kleppen en vier kamers.",
+    "option_c": "twee kleppen en vier kamers.",
+    "option_d": "vier kleppen en twee kamers.",
+    "answer": "B",
+    "id": "clinical_knowledge/test/149"
+  },
+  {
+    "instruction": "Studies uitgevoerd door Bailey en Pillard (1991) hebben aangetoond dat:",
+    "option_a": "de overeenstemming in homoseksualiteit voor identieke tweelingen 100% is",
+    "option_b": "de overeenstemming in homoseksualiteit voor identieke tweelingen en twee-eiige tweelingen ongeveer gelijk is",
+    "option_c": "de overeenstemming in homoseksualiteit voor identieke tweelingen hoger is dan voor twee-eiige tweelingen",
+    "option_d": "de overeenstemming in homoseksualiteit voor adoptiebroers weinig verschilt van die van biologische broers",
+    "answer": "C",
+    "id": "human_sexuality/test/43"
+  },
+  {
+    "instruction": "De regenval voor de laatste drie maanden van school was 8,1 inch, 4,2 inch en 0,33 inch. Schat de totale neerslag voor de drie maanden door het af te ronden naar het dichtstbijzijnde gehele getal.",
+    "option_a": "11 in.",
+    "option_b": "11 in.",
+    "option_c": "45,0 in.",
+    "option_d": "12 in.",
+    "answer": "D",
+    "id": "elementary_mathematics/test/235"
+  },
+  {
+    "instruction": "Op het hoogtepunt bestond slechts ongeveer _______ van het Incarijk uit etnische Inca's.",
+    "option_a": "1 procent",
+    "option_b": "10 procent",
+    "option_c": "30 procent",
+    "option_d": "50 procent",
+    "answer": "A",
+    "id": "prehistory/test/277"
+  },
+  {
+    "instruction": "Een huisbaas verhuurde een appartement aan een huurder voor $ 250 per maand in overeenstemming met een maandelijks opzegbare overeenkomst. Op 3 september stuurde de huisbaas de volgende brief naar de huurder:\"2 september Ter overweging van één dollar, waarvan de ontvangst wordt erkend, geef ik u hierbij een optie voor 20 dagen vanaf de bovengenoemde datum om een huurovereenkomst van twee jaar te ondertekenen voor $ 225 per maand, op voorwaarde dat u twee maanden vooruit betaalt. \"De huurder ontving de brief op 4 september, maar las deze pas op 5 september. Op 23 september belde de huurder de huisbaas en zei: \"Ik wil je de $ 450 geven en zo snel mogelijk de huurovereenkomst van twee jaar ondertekenen.\" De huisbaas antwoordde: \"Ik heb van gedachten veranderd. Ik wil geen huurovereenkomst met u ondertekenen. Bovendien wil ik dat u het appartement onmiddellijk verlaat.\" Op geen enkel moment nadat de huurder de brief van de huisbaas op 4 september had ontvangen, betaalde hij de overweging van één dollar aan hem. Vormde de brief van de huisbaas een effectief aanbod voor een huurovereenkomst van twee jaar?",
+    "option_a": "Ja, omdat het de bereidheid uitte om een specifieke transactie aan te gaan die kon worden afgerond door de instemming van de huurder.",
+    "option_b": "Ja, omdat de overweging voor de optie kan worden afgeleid uit het vorige maandelijks opzegbare huurcontract.",
+    "option_c": "Nee, tenzij de huurder de overweging van één dollar aan de huisbaas heeft betaald of aangeboden.",
+    "option_d": "Nee, omdat het een voorwaarde bevatte voorafgaand aan de uitvoering van de voorgestelde huurovereenkomst.",
+    "answer": "A",
+    "id": "professional_law/test/1387"
+  },
+  {
+    "instruction": "Direct na een schietincident achtervolgde de politie een van de schutters een appartement in, waar hij werd opgepakt en gearresteerd. Terwijl ze in het appartement waren, merkte een rechercheur enkele antieke meubels op van verzamelaarskwaliteit die niet goed pasten bij de armoedige inrichting van het verblijf. Hij verplaatste de stukken om merktekens en insignes te zoeken. Hij belde het hoofdkwartier en kreeg te horen dat items met die markeringen en omschrijvingen zes maanden eerder uit een museum waren gestolen. Hij nam de spullen in beslag en arresteerde een andere bewoner die beweerde dat hij ze bezat, op beschuldiging van inbraak. Die verdachte diende een verzoek in om de zaak te seponeren op basis van onwettige doorzoeking zonder redelijke verdenking. De politie beriep zich op de leer van het rechtmatig zicht. Zal de rechtbank het bewijs waarschijnlijk seponeren?",
+    "option_a": "Ja, het bewijs zal worden geseponeerd omdat de politie nooit een persoonlijke verblijfplaats mag doorzoeken of andere ongerelateerde zaken mag in beslag nemen nadat ze zijn binnengetreden vanwege dringende omstandigheden die met iets anders te maken hebben.",
+    "option_b": "Nee, het bewijs werd op de juiste manier in beslag genomen omdat de ambtenaar het recht had om het verder te onderzoeken nadat hij het appartement onder dringende omstandigheden binnen was gegaan.",
+    "option_c": "Nee, het bewijs was onderhevig aan verder onderzoek en inbeslagname omdat het in het zicht was en de ambtenaar een redelijke verdenking had dat het om smokkelwaar ging.",
+    "option_d": "Ja, het bewijs moet worden geseponeerd omdat de leer van het rechtmatig zicht niet van toepassing is waar de officier geen redelijk vermoeden had dat het geobserveerde item om smokkelwaar ging.",
+    "answer": "D",
+    "id": "professional_law/test/736"
+  },
+  {
+    "instruction": "Hoe heet het proces waarbij gaten in de schedel worden geboord?",
+    "option_a": "vertakking",
+    "option_b": "trepanatie",
+    "option_c": "aeronomie",
+    "option_d": "schranderheid",
+    "answer": "B",
+    "id": "miscellaneous/test/655"
+  },
+  {
+    "instruction": "Deze vraag verwijst naar de volgende informatie.\n\"Laat ons dan ernstig aanbevelen om deze artikelen direct en onbevooroordeeld onder de aandacht van de wetgevers van de respectievelijke staten te brengen. Laat ze onpartijdig worden beoordeeld onder een gevoel van de moeilijkheid om in één systeem de verschillende opvattingen en belangen van een continent te combineren dat is verdeeld in zoveel soevereine en onafhankelijke gemeenschappen, onder de overtuiging van de absolute noodzaak om al onze raden en al onze kracht te verenigen, om onze gemeenschappelijke vrijheden te handhaven en te verdedigen....\" \nJournals of the Continental Congress, 1777\nDe opmerkelijkste prestatie van de Verenigde Staten onder de Artikelen van Confederatie was",
+    "option_a": "de creatie van een sterke uitvoerende macht om de nationale regering te leiden",
+    "option_b": "de capaciteit van het Congres om handel te reguleren",
+    "option_c": "de capaciteit van het Congres om belastingen te innen",
+    "option_d": "de bepaling voor de verkoop van land in het noordwesten die ten goede zou komen aan de hele natie",
+    "answer": "D",
+    "id": "high_school_us_history/test/131"
+  },
+  {
+    "instruction": "Welke reden kan voldoende goede grond of verontschuldigbare verwaarlozing inhouden om een partij in staat te stellen een te laat ingediende kennisgeving van hoger beroep over de deadline van 30 dagen in te dienen?",
+    "option_a": "De rechter van de rechtbank verzekerde de partij dat de late indiening zou worden toegestaan.",
+    "option_b": "De oorspronkelijke advocaat van de partij vergat om tijdig kennis te geven, en nu heeft de partij een nieuwe advocaat ingehuurd om hoger beroep aan te tekenen en heeft de voormalige advocaat ook aangeklaagd wegens wanprestatie.",
+    "option_c": "De partij reed door rood licht waardoor een auto-ongeluk plaatsvond vlak voordat het vonnis werd uitgesproken, en lag twee maanden in het ziekenhuis om te herstellen.",
+    "option_d": "De advocaat van de tegenpartij heeft geen bezwaar gemaakt tegen de late kennisgeving van hoger beroep.",
+    "answer": "C",
+    "id": "professional_law/test/29"
+  },
+  {
+    "instruction": "Welke van de volgende zet visuele beelden om?",
+    "option_a": "Het hoornvlies",
+    "option_b": "De pupillen",
+    "option_c": "De cochlea",
+    "option_d": "Het netvlies",
+    "answer": "D",
+    "id": "high_school_psychology/test/465"
+  }
+]

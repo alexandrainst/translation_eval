@@ -1,0 +1,902 @@
+[
+  {
+    "instruction": "Aussage 1| ImageNet verfügt über Bilder mit verschiedenen Auflösungen. Aussage 2| Caltech-101 hat mehr Bilder als ImageNet.",
+    "option_a": "Wahr, Wahr",
+    "option_b": "Falsch, Falsch",
+    "option_c": "Wahr, Falsch",
+    "option_d": "Falsch, Wahr",
+    "answer": "C",
+    "id": "machine_learning/test/90"
+  },
+  {
+    "instruction": "Um 22:00 Uhr am 14. November fuhr ein Fahrer mit seinem Auto die Main Street entlang. Als der Fahrer die Kreuzung von Main Street und First Avenue erreichte, tauchte plötzlich ein Autofahrer auf, der bei roter Ampel durchfuhr. Um den Autofahrer zu vermeiden, fuhr der Fahrer mit seinem Wagen auf den Gehweg. Das Auto landete in einem tiefen Loch im Gehweg. Dieses Loch war von einem Bauunternehmen gegraben worden, das noch am selben Tag einen Wasserrohrbruch repariert hatte. Das Bauunternehmen war vom örtlichen Wasserversorgungsunternehmen beauftragt worden. Obwohl das Bauunternehmen ein Warnschild aufgestellt hatte, das Passanten vor dem Loch warnte, gab es keinen Zaun oder Barrieren drumherum. Als das Auto des Fahrers in das Loch fiel, brach das Wasserrohr und das Auto wurde vom Wasser überschwemmt. Innerhalb kurzer Zeit, konnte der Fahrer nicht entkommen und ertrank in seinem Auto, das schnell mit Wasser gefüllt wurde. In einem Todesfall durch Fahrlässigkeit (Wrongful Death) Klage gegen das städtische Wasserversorgungsunternehmen, wird das Anwesen des Fahrers höchstwahrscheinlich",
+    "option_a": "erfolgreich sein, weil Souveränität Immunität nicht auf nicht übertragbare Aufgaben anwendbar ist, die von eigener Natur sind.",
+    "option_b": "erfolgreich sein, weil die Stadtregierung aufgrund ihrer Verpflichtung zur Erfüllung von Sicherheitspflichten streng haftbar wäre.",
+    "option_c": "nicht erfolgreich sein, weil das städtische Wasserversorgungsunternehmen nicht für die Fahrlässigkeit seines unabhängigen Auftragnehmers haftbar wäre.",
+    "option_d": "nicht erfolgreich sein, weil der Souveränität Immunität für Funktionen gilt, die von Regierungsbehörden ausgeführt werden.",
+    "answer": "A",
+    "id": "professional_law/test/268"
+  },
+  {
+    "instruction": "Es gibt drei verschiedene Sektionen, in denen man im Baseballpark sitzen kann. Die Anzahl der Personen, die in jeder Sektion sitzen können, wird unten beschrieben.\n* Rote Sektion bietet Platz für 200 Personen\n* Blaue Sektion bietet Platz für 20 Personen weniger als die rote Sektion\n* Grüne Sektion bietet Platz für 2-mal so viele Personen wie die blaue Sektion\nWie viele Personen können insgesamt im Baseballpark Platz nehmen?",
+    "option_a": "260",
+    "option_b": "380",
+    "option_c": "640",
+    "option_d": "740",
+    "answer": "D",
+    "id": "elementary_mathematics/test/186"
+  },
+  {
+    "instruction": "Wie lautet der englische Titel für den Divinationstext, der auch als Yijing bekannt ist?",
+    "option_a": "Der Klassiker der Dokumente",
+    "option_b": "Der Lotos-Sutra",
+    "option_c": "Der Blumengirlanden-Sutra",
+    "option_d": "Der Klassiker der Veränderungen",
+    "answer": "D",
+    "id": "world_religions/test/148"
+  },
+  {
+    "instruction": "Ein Mann stand wegen Mordes vor Gericht. Nach einer Pause sprach der Mann mit seinem Anwalt im Flur vor dem Gerichtssaal. Während des Gesprächs sagte der Mann: \"Na und, wenn ich ihn umgebracht habe, was soll's.\" Die Aussage des Mannes wurde vom vorsitzenden Richter gehört, als er auf dem Weg zur Toilette den Flur entlang ging. Der Richter informierte daraufhin den Ankläger über die Aussage des Mannes. Als der Prozess wieder aufgenommen wurde, rief der Ankläger den Richter als Zeugen auf, um auszusagen, was er vom Angeklagten an seinen Anwalt gehört hatte. Kann der Richter auf Einwand des Anwalts des Angeklagten als Zeuge aufgerufen werden?",
+    "option_a": "Nein, weil die Aussage des Mannes eine vertrauliche Kommunikation und durch das Anwaltsgeheimnis geschützt war.",
+    "option_b": "Nein, weil ein Richter in einer Angelegenheit, über die er oder sie urteilt, nicht aussagen darf.",
+    "option_c": "Ja, weil ein Richter verpflichtet ist, belastendes Material der Anklage mitzuteilen.",
+    "option_d": "Ja, weil die Aussage des Mannes keine vertrauliche Kommunikation darstellte.",
+    "answer": "B",
+    "id": "professional_law/test/438"
+  },
+  {
+    "instruction": "Gemäß der Stellungnahme zur Schulpsychologischen Betreuung, die von der Nationalen Vereinigung der Schulpsychologen (NASP) veröffentlicht wurde, was ist am genauesten über Schulpsychologen, die in einem Schulbezirk betreuen werden?",
+    "option_a": "Sie müssen nur Schulpsychologen betreuen, die nicht vollständig zertifiziert oder lizenziert sind und Schulpsychologie-Praktikanten.",
+    "option_b": "Sie sollten professionelle, aber nicht administrative Betreuung bieten.",
+    "option_c": "Sie sind nach einem Jahr Erfahrung als Schulpsychologe berechtigt, als Betreuer zu arbeiten.",
+    "option_d": "Sie sollten die Nationally Certified School Psychologist-Zertifizierung oder die Schulpsychologen-Zertifizierung des Staates haben.",
+    "answer": "D",
+    "id": "high_school_psychology/test/7"
+  },
+  {
+    "instruction": "Was ist ein Nop-Schlitten?",
+    "option_a": "Es ist eine anonyme Version eines Mop-Schlittens.",
+    "option_b": "Es handelt sich um eine Sequenz von Nop-Befehlen, die vor injiziertem Shellcode platziert werden, wenn die Rückkehradresse unbekannt ist und somit hilfreich sind.",
+    "option_c": "Es ist eine Methode zur Entfernung von Nullbytes aus Shellcode.",
+    "option_d": "Es ist ein anderer Name für einen Branch-Befehl am Ende einer Sequenz von Nop-Befehlen.",
+    "answer": "B",
+    "id": "computer_security/test/74"
+  },
+  {
+    "instruction": "Für welches dieser beiden Szenarien begeht die Hauptfigur (die I/me/my verwendet) nach allgemeinen moralischen Standards in den USA von 2020 aus betrachtet klar unmoralisches Verhalten? Szenario 1 | Ich habe ein Buch ausgeliehen und Fotos von einigen Seiten gemacht, um sie mir zu merken. Szenario 2 | Ich habe bei einem geschlossenen Buchtest in der Schule Antworten aus einem Buch abgeschrieben.",
+    "option_a": "Falsch, falsch",
+    "option_b": "Falsch, nicht falsch",
+    "option_c": "Nicht falsch, falsch",
+    "option_d": "Nicht falsch, nicht falsch",
+    "answer": "C",
+    "id": "moral_scenarios/test/390"
+  },
+  {
+    "instruction": "Für welches dieser beiden Szenarien begeht die Hauptfigur (die ich/mich/mein verwendet) nach gewöhnlichen moralischen Maßstäben in den USA im Jahr 2020 offensichtlich moralisch Falsches? Szenario 1 | Ich habe Kriminelle häufig dazu ermutigt, sich der Polizeigewalt zu widersetzen. Szenario 2 | Ich sang bei der Beerdigung meines Schwiegervaters ein romantisches Lied für meine Frau.",
+    "option_a": "Falsch, Falsch",
+    "option_b": "Falsch, Nicht falsch",
+    "option_c": "Nicht falsch, Falsch",
+    "option_d": "Nicht falsch, Nicht falsch",
+    "answer": "A",
+    "id": "moral_scenarios/test/246"
+  },
+  {
+    "instruction": "Carens argumentiert, dass zum Beispiel der liberale Egalitarismus nichts darüber aussagt, ob ein schwarzer Arzt eine moralische Verpflichtung hat, in einer schwarzen Gemeinde praktizieren zu müssen. Dies liegt daran, dass die einzige Begrenzung, die der liberale Egalitarismus nach Carens Ansicht den moralischen Verpflichtungen der Individuen auferlegt, darin besteht, dass sie",
+    "option_a": "nicht im Konflikt mit den Rechten und Pflichten stehen dürfen, die der liberale Egalitarismus selbst vorschreibt.",
+    "option_b": "mit utilitaristischen moralischen Überlegungen im Einklang stehen müssen.",
+    "option_c": "nicht im Konflikt mit vernünftigen Standards der Vorsicht stehen dürfen.",
+    "option_d": "keine der oben genannten Optionen",
+    "answer": "A",
+    "id": "moral_disputes/test/229"
+  },
+  {
+    "instruction": "Welcher der folgenden Aggregatzustände wird durch eine eng gepackte Anordnung von Teilchen charakterisiert, was zu einer stabilen, bestimmten Form und einem bestimmten Volumen führt?",
+    "option_a": "Feststoff",
+    "option_b": "Flüssigkeit",
+    "option_c": "Gas",
+    "option_d": "Plasma",
+    "answer": "A",
+    "id": "miscellaneous/test/419"
+  },
+  {
+    "instruction": "Wie groß ist die Fläche, in Quadratmetern, eines Quadrats, dessen Seiten die gleiche Länge wie der Radius eines Kreises mit einem Umfang von 12π Einheiten haben?",
+    "option_a": "10",
+    "option_b": "11",
+    "option_c": "12",
+    "option_d": "36",
+    "answer": "D",
+    "id": "high_school_mathematics/test/224"
+  },
+  {
+    "instruction": "NH4+(aq) + NO2- (aq) → N2(g) + 2H2O(l) Das Erhöhen der Temperatur der oben genannten Reaktion wird die Reaktionsgeschwindigkeit erhöhen. Welche der folgenden Aussagen ist KEIN Grund dafür, dass eine höhere Temperatur die Reaktionsgeschwindigkeit erhöht?",
+    "option_a": "Die Reaktanden werden eher in der Lage sein, die Aktivierungsenergie zu überwinden.",
+    "option_b": "Die Anzahl der Kollisionen zwischen den Reaktionsmolekülen wird zunehmen.",
+    "option_c": "Eine größere Anzahl an Reaktionsmolekülen wird hohe Geschwindigkeiten haben.",
+    "option_d": "Bei höheren Temperaturen werden alternative Reaktionswege verfügbar.",
+    "answer": "D",
+    "id": "high_school_chemistry/test/38"
+  },
+  {
+    "instruction": "Was meint Dworkin mit dem 'semantischen Stachel'?",
+    "option_a": "Die Sprache des Gesetzes ist im Allgemeinen unklar.",
+    "option_b": "Die Argumente der Anwälte betreffen in der Regel die Sprache.",
+    "option_c": "Richter sind anfällig für sprachliche Missverständnisse.",
+    "option_d": "Die Regel der Anerkennung kann die rechtliche Gültigkeit nicht vollständig erklären.",
+    "answer": "D",
+    "id": "jurisprudence/test/49"
+  },
+  {
+    "instruction": "Oberägypten liegt im __________ von Unterägypten.",
+    "option_a": "Norden",
+    "option_b": "Süden",
+    "option_c": "Osten",
+    "option_d": "Westen",
+    "answer": "B",
+    "id": "prehistory/test/212"
+  },
+  {
+    "instruction": "Was sind die Hauptmetaboliten des Alkoholstoffwechsels?\n",
+    "option_a": "Acetaldehyd, Acetat,",
+    "option_b": "Pyruvat, Beta-Hydroxybutyrat,",
+    "option_c": "Acetyl-CoA, Lipide,",
+    "option_d": "Aceton, Lactat",
+    "answer": "A",
+    "id": "nutrition/test/299"
+  },
+  {
+    "instruction": "Welcher Ausdruck stellt den folgenden Satz dar? 3 weniger als eine Zahl p",
+    "option_a": "3-p",
+    "option_b": "p+3",
+    "option_c": "3/p",
+    "option_d": "p-3",
+    "answer": "D",
+    "id": "elementary_mathematics/test/37"
+  },
+  {
+    "instruction": "Toft Co. hatte zum 1. Januar 120.000 Stammaktien ausgegeben. Am 1. April wurden weitere 40.000 Stammaktien ausgegeben. Im ganzen Jahr waren 10.000 nicht wandelbare Vorzugsaktien ausstehend, auf die im Laufe des Jahres eine Dividende von $5 pro Aktie ausgeschüttet wurde. Der Nettogewinn betrug $480.000. Was sollte Toft als Gewinn pro Aktie für das Jahr ausweisen?",
+    "option_a": "$2,69",
+    "option_b": "$2,87",
+    "option_c": "$3,00",
+    "option_d": "3,2",
+    "answer": "B",
+    "id": "professional_accounting/test/83"
+  },
+  {
+    "instruction": "Eine 2,35-Gramm-Probe wurde in Wasser gelöst und die Chlorid-Ionen wurden durch Zugabe von Silbernitrat (Ag+ + Cl- → AgCl) ausgefällt. Wenn 0,435 g Niederschlag erhalten wurden, wie hoch ist dann der Prozentsatz von Chlor in der Probe?",
+    "option_a": "10,80%",
+    "option_b": "4,60%",
+    "option_c": "43,50%",
+    "option_d": "18%",
+    "answer": "B",
+    "id": "high_school_chemistry/test/167"
+  },
+  {
+    "instruction": "Wo hat die Rose r = sin 3θ im ersten Quadranten eine vertikale Tangente?",
+    "option_a": "Nirgendwo",
+    "option_b": "θ = 0,39",
+    "option_c": "θ=  0,47",
+    "option_d": "θ = 0,52",
+    "answer": "C",
+    "id": "high_school_mathematics/test/245"
+  },
+  {
+    "instruction": "Mit wie vielen Schiffen ist Columbus auf seiner ersten Reise in die \"Neue Welt\" aufgebrochen?",
+    "option_a": "Zwei",
+    "option_b": "Drei",
+    "option_c": "Fünf",
+    "option_d": "Zehn",
+    "answer": "B",
+    "id": "miscellaneous/test/628"
+  },
+  {
+    "instruction": "Diese Frage bezieht sich auf die folgenden Informationen.\nEs ist natürlich, es ist ein Privileg, ich werde weiter gehen, es ist ein Recht, das alle freien Männer fordern, dass sie das Recht haben, zu klagen, wenn sie verletzt werden. Sie haben das Recht, in den stärksten Begriffen öffentlich gegen den Missbrauch von Macht zu protestieren, ihre Nachbarn auf der Hut zu halten gegen die Raffinesse oder offene Gewalt von Männern in Autorität zu setzen und mutig den Sinn zu betonen, den sie von den Segnungen der Freiheit haben, den Wert, den sie darauf legen und ihre Entschlossenheit, sie um jeden Preis als eine der größten Segnungen zu bewahren, die der Himmel gewähren kann.... Aber um abzuschließen: Die Frage vor Gericht und Ihnen, Herren der Jury, ist nicht von geringer oder privater Bedeutung. Es ist nicht die Ursache eines armen Druckers oder nur von New York, die Sie jetzt versuchen. Nein! Es kann in seinen Konsequenzen jeden freien Mann betreffen, der unter einer britischen Regierung auf dem Festland von Amerika lebt. Es ist die beste Ursache. Es ist die Ursache der Freiheit. Und ich habe keinen Zweifel daran, dass Ihr rechtschaffenes Verhalten an diesem Tag Sie nicht nur berechtigt, die Liebe und Achtung Ihrer Mitbürger zu erhalten, sondern jeder Mann, der die Freiheit einem Leben als Sklave vorzieht, wird Sie als Männer segnen und ehren, die den Versuch der Tyrannei vereitelt haben und durch ein unparteiisches und unbestechliches Urteil eine noble Grundlage für die Sicherung dessen gelegt haben, wozu Natur und Gesetze unseres Landes uns das Recht auf Freiheit geben, sowohl durch das Aufdecken als auch durch das Bekämpfen willkürlicher Macht (zumindest in diesen Teilen der Welt), indem man Wahrheit spricht und schreibt.\n--Andrew Hamilton, Schlussplädoyer, Verleumdungsprozess des Zeitungsredakteurs John Peter Zenger, 4. August 1735\nWelches der folgenden Themen spiegelt sich am direktesten in Hamiltons Erfolg im Zenger-Fall wider?",
+    "option_a": "Amerikanische Wünsche nach Unabhängigkeit von Großbritannien",
+    "option_b": "Die Amerikanische Ablehnung der Ideale der Aufklärung",
+    "option_c": "Eine lange Tradition der Selbstverwaltung in den amerikanischen Kolonien",
+    "option_d": "Die Schwächung der wirtschaftlichen Beziehungen zwischen Amerika und Großbritannien",
+    "answer": "C",
+    "id": "high_school_us_history/test/31"
+  },
+  {
+    "instruction": "In einem Vakuum hat ein Objekt keine",
+    "option_a": "Auftriebskraft",
+    "option_b": "Masse",
+    "option_c": "Gewicht",
+    "option_d": "Alle diese",
+    "answer": "A",
+    "id": "conceptual_physics/test/20"
+  },
+  {
+    "instruction": "Welches dieser Mineralien ist das härteste auf der Mohs-Skala?",
+    "option_a": "Korund",
+    "option_b": "Quarz",
+    "option_c": "Apatit",
+    "option_d": "Calcit",
+    "answer": "A",
+    "id": "miscellaneous/test/451"
+  },
+  {
+    "instruction": "Die Milchstraße ist Teil eines riesigen Superclusters mit einem Durchmesser von 160 Mpc. Wie lautet der Name dieses Superclusters?",
+    "option_a": "Virgo",
+    "option_b": "Laniakea",
+    "option_c": "Sculptor",
+    "option_d": "Boötes",
+    "answer": "B",
+    "id": "astronomy/test/14"
+  },
+  {
+    "instruction": "Um die Immatrikulation an Hochschulen zu fördern, gewährt ein Bundesstaat eine Steuerbefreiung von 200 $ für Landessteuern für Vollzeitstudenten an Hochschulen im Bundesstaat. Weibliche Studenten, die halbtags teilnehmen, sind weiterhin für eine Steuerbefreiung von 100 $ berechtigt, während männliche Studenten, die halbtags teilnehmen, keine Steuerbefreiung mehr erhalten dürfen. Welche der folgenden Aussagen beinhaltet die korrekte Regelung des verfassungsrechtlichen Gesetzes zur Steuerbefreiung des Staates für Studenten, die halbtags eingeschrieben sind?",
+    "option_a": "Die Steuerbefreiung würde als Verletzung des rechtsstaatlichen Verfahrens ungültig gemacht werden.",
+    "option_b": "Die Steuerbefreiung würde als Verletzung des Gleichheitsschutzes ungültig gemacht werden.",
+    "option_c": "Die Steuermaßnahme würde im Bereich des materiellen rechtsstaatlichen Verfahrens gültig bleiben.",
+    "option_d": "Die Steuermaßnahme würde als innerhalb der Macht einer Gemeinde liegend bestehen bleiben, um unterschiedliche Personengruppen ungleich zu besteuern.",
+    "answer": "B",
+    "id": "professional_law/test/1054"
+  },
+  {
+    "instruction": "Jeden Tag gibt Melanie ihr Geld für das Mittagessen aus, indem sie Äpfel für je $1 und Orangen für je $2 konsumiert. Bei ihrem derzeitigen Verbrauch beträgt der Grenznutzen für Äpfel 12 und der Grenznutzen für Orangen 18. Wenn sie bereits all ihr Geld für das Mittagessen ausgegeben hat, wie sollte Melanie ihre Konsumentscheidung ändern, um den Nutzen zu maximieren?",
+    "option_a": "Sie sollte keine Änderungen vornehmen. Sie konsumiert die Kombination aus Äpfeln und Orangen, die den Nutzen maximiert.",
+    "option_b": "Sie sollte ihren Apfelverbrauch erhöhen und ihren Orangenverbrauch verringern, bis der Grenznutzen pro Dollar für beide gleich ist.",
+    "option_c": "Sie sollte ihren Apfelverbrauch verringern und ihren Orangenverbrauch erhöhen, bis der Grenznutzen pro Dollar für beide gleich ist.",
+    "option_d": "Sie sollte ihren Apfelverbrauch erhöhen und ihren Orangenverbrauch verringern, bis der Grenznutzen für beide gleich ist.",
+    "answer": "B",
+    "id": "high_school_microeconomics/test/186"
+  },
+  {
+    "instruction": "Wenn das nominale BSP $6000 beträgt und der BSP-Deflator 200 beträgt, dann beträgt das reale BSP",
+    "option_a": "$30 ",
+    "option_b": "$3.000 ",
+    "option_c": "$12.000 ",
+    "option_d": "$1.200 ",
+    "answer": "B",
+    "id": "high_school_macroeconomics/test/294"
+  },
+  {
+    "instruction": "Wie viele Fragmente würde man im Durchschnitt von einem Restriktionsenzym erwarten, das eine spezifische 4-Basen-Sequenz in einer DNA erkennt, wenn es verwendet wird, um ein doppelsträngiges Bakteriophagen-Genom mit einer Größe von 5.000 bp zu spalten?",
+    "option_a": "ungefähr 2",
+    "option_b": "ungefähr 4",
+    "option_c": "ungefähr 20",
+    "option_d": "ungefähr 50",
+    "answer": "C",
+    "id": "medical_genetics/test/51"
+  },
+  {
+    "instruction": "Welches Paar von Ausdrücken ist für jeden Variablenwert größer als Null äquivalent?",
+    "option_a": "3(x+2) und 3x+2",
+    "option_b": "4d+2e und 8d+e",
+    "option_c": "f+f+f+g und 3fg",
+    "option_d": "b+b+3c und 2b+3c",
+    "answer": "D",
+    "id": "elementary_mathematics/test/184"
+  },
+  {
+    "instruction": "Wie hieß die Band von Huey Lewis?",
+    "option_a": "Die News",
+    "option_b": "Die Attractions",
+    "option_c": "Die Silver Bullet Band",
+    "option_d": "Louie und Dewey",
+    "answer": "A",
+    "id": "miscellaneous/test/730"
+  },
+  {
+    "instruction": "Gemäß einem Diskriminierungskriterium: unter welchen der folgenden Bedingungen wäre es sicher anzunehmen, dass ein Auswahltest keine Diskriminierung gegenüber einer bestimmten Rassengruppe aufweist?",
+    "option_a": "Niemand aus der Gruppe hat sich um eine Stelle in der Organisation beworben und dabei den Test verwendet.",
+    "option_b": "Das Handbuch des Tests zeigt, dass der Test für eine Vielzahl von Aufgaben gültig ist.",
+    "option_c": "Der Test lehnt Bewerber verschiedener Rassengruppen im gleichen Verhältnis ab.",
+    "option_d": "Es ist nicht praktikabel, getrennte Validitätsstudien für männliche und weibliche Mitarbeiter durchzuführen.",
+    "answer": "C",
+    "id": "professional_psychology/test/352"
+  },
+  {
+    "instruction": "Was ist das Verhältnis von Linienintensitäten im EPR-Spektrum des t-Bu-Radikals (CH3)3C•?",
+    "option_a": "1:19:36:84:126:126:84:36:19:1",
+    "option_b": "1:9:36:84:126:126:84:36:9:1",
+    "option_c": "1:9:35:82:120:120:82:35:9:1",
+    "option_d": "1:8:28:56:70:56:28:8:1",
+    "answer": "D",
+    "id": "college_chemistry/test/13"
+  },
+  {
+    "instruction": "Welche Phase der Publikumsforschung in der öffentlichen Kommunikation ist mit der summierenden Bewertung verbunden?",
+    "option_a": "Umsetzung",
+    "option_b": "Auswirkung",
+    "option_c": "Einstellungsänderung",
+    "option_d": "Vorbereitung",
+    "answer": "B",
+    "id": "public_relations/test/52"
+  },
+  {
+    "instruction": "Eine Forscherin hofft, eine vorhersagende lineare Beziehung zwischen den erklärenden und den abhängigen Variablen in ihrer Studie zu finden. Als Teil ihrer Analyse plant sie daher, ein 95% Konfidenzintervall für die Steigung der Regressionsgeraden für die beiden Variablen zu generieren. Das Intervall ist (0,45, 0,80) bestimmt. Welches der folgenden Aussagen ist (sind) wahr? (Nehmen Sie an, dass die Bedingungen für den Inferenztest erfüllt sind.) I. Sie hat gute Beweise für eine lineare Beziehung zwischen den Variablen. II. Es ist wahrscheinlich, dass es eine nicht-Null-Korrelation (r) zwischen den beiden Variablen gibt. III. Es ist wahrscheinlich, dass die wahre Steigung der Regressionsgeraden 0 beträgt.",
+    "option_a": "nur I und II",
+    "option_b": "nur I und III",
+    "option_c": "nur II und III",
+    "option_d": "nur I",
+    "answer": "A",
+    "id": "high_school_statistics/test/207"
+  },
+  {
+    "instruction": "Zu welcher Schule gehört der Reine-Land-Buddhismus?",
+    "option_a": "Vajrayana",
+    "option_b": "Theravada",
+    "option_c": "Mahayana",
+    "option_d": "Mahavira",
+    "answer": "C",
+    "id": "world_religions/test/17"
+  },
+  {
+    "instruction": "Die Regeln, die das Wahlkollegium regieren, machen es besonders wichtig für Präsidentschaftskandidaten,",
+    "option_a": "so viele Bundesstaaten wie möglich zu gewinnen, unabhängig von der Größe der Bundesstaaten",
+    "option_b": "die meiste Zeit ihrer Kampagne im Süden zu verbringen",
+    "option_c": "am aggressivsten bei denen zu werben, die als Wahlleute ausgewählt werden",
+    "option_d": "ihre Kampagnenanstrengungen auf \"umkämpfte\" Bundesstaaten zu konzentrieren",
+    "answer": "D",
+    "id": "high_school_government_and_politics/test/176"
+  },
+  {
+    "instruction": "Ein Hersteller von Fertigkuchen-Mischungen interessiert sich für die Gestaltung eines Experiments, um die Auswirkungen von vier verschiedenen Temperaturebenen (300, 325, 350 und 375F), zwei verschiedenen Pfannentypen (Glas und Metall) und drei verschiedenen Ofentypen (Gas, Elektro und Mikrowelle) auf die Textur seiner Kuchen in allen Kombinationen zu testen. Welche der folgenden Beschreibungen gibt das Design des notwendigen Experiments am besten wieder?",
+    "option_a": "Ein vollständig zufälliges Design mit neun Behandlungsgruppen",
+    "option_b": "Ein vollständig zufälliges Design mit 24 Behandlungsgruppen",
+    "option_c": "Ein zufälliges Blockdesign, blockiert nach Temperatur, mit sechs Behandlungsgruppen",
+    "option_d": "Ein zufälliges Blockdesign, blockiert nach Pfannentyp, mit zwölf Behandlungsgruppen",
+    "answer": "B",
+    "id": "high_school_statistics/test/93"
+  },
+  {
+    "instruction": "Im Allgemeinen ist die beste Präsentationszeit zwischen dem konditionierten Stimulus und unbedingtem Stimulus zur Erzeugung von klassischer Konditionierung",
+    "option_a": "verzögert",
+    "option_b": "gleichzeitig",
+    "option_c": "Spur",
+    "option_d": "rückwärts",
+    "answer": "A",
+    "id": "high_school_psychology/test/243"
+  },
+  {
+    "instruction": "Die neuropsychologische Bewertung eines 70-jährigen pensionierten Profis zeigt eine leicht unterdurchschnittliche Intelligenz mit schlechtem Problemlösungsvermögen, Schwierigkeiten bei der Wortfindung, schlechter visuomotorischer Koordination und definitiven Gedächtnisstörungen auf. Der Patient hat begrenzte Kenntnis dieser Defizite. Die wahrscheinlichste Diagnose ist",
+    "option_a": "Demenz vom Alzheimer-Typ",
+    "option_b": "Pseudodemenz",
+    "option_c": "Korsakoff-Syndrom",
+    "option_d": "normale Auswirkungen des Alterns",
+    "answer": "A",
+    "id": "professional_psychology/test/382"
+  },
+  {
+    "instruction": "Carter Co. hatte am Ende des aktuellen Jahres folgende Posten in seiner Bilanz: Bargeld und Barkautionen $ 200.000 Kurzfristige Investitionen 100.000 Forderungen aus Lieferungen und Leistungen 400.000 Vorräte 600.000 Patent‚Äì10 Jahre 300.000 Ausrüstung 1.000.000 Kumulierte Abschreibungen 200.000 Der Betrag der kurzfristigen Verbindlichkeiten am Ende des aktuellen Jahres betrug $ 640.000. Was ist das Umlaufvermögen von Carter am Ende des aktuellen Jahres?",
+    "option_a": "$ 60.000",
+    "option_b": "$ 560.000",
+    "option_c": "$ 660.000",
+    "option_d": "960000",
+    "answer": "C",
+    "id": "professional_accounting/test/136"
+  },
+  {
+    "instruction": "Theorien des rassifizierten Diskurses legen nahe, dass:",
+    "option_a": "Rasse eine objektive Art ist, Menschen auf biologischen Grundlagen zu kategorisieren",
+    "option_b": "die Vorstellung von Rasse durch mächtige Ideologien sozial konstruiert wird",
+    "option_c": "Rassenbeziehungen in Großbritannien und Amerika bis in die Kolonialzeit zurückverfolgt werden können",
+    "option_d": "Menschen ihre Rassenidentität wählen und diese fix wird",
+    "answer": "B",
+    "id": "sociology/test/51"
+  },
+  {
+    "instruction": "Die drei Stufen der Einstellungsformation sind, dass wir etwas lernen, etwas fühlen und auf unsere Einstellungen reagieren. Die Stufe, in der wir etwas lernen, wird bezeichnet als:",
+    "option_a": "Verhalten.",
+    "option_b": "Konativ.",
+    "option_c": "Kognitiv.",
+    "option_d": "Emotional.",
+    "answer": "C",
+    "id": "marketing/test/60"
+  },
+  {
+    "instruction": "Mars hat eine Atmosphäre, die fast ausschließlich aus Kohlendioxid besteht. Warum gibt es keinen starken Treibhauseffekt, der den Planeten warm hält?",
+    "option_a": "Mars hat nicht genug interne Wärme, um den Treibhauseffekt anzutreiben",
+    "option_b": "Mars ist zu weit von der Sonne entfernt, damit der Treibhauseffekt funktioniert",
+    "option_c": "Der Treibhauseffekt erfordert eine Ozonschicht, die Mars nicht hat",
+    "option_d": "Die Atmosphäre auf dem Mars ist zu dünn, um eine signifikante Menge an Wärme zu speichern",
+    "answer": "D",
+    "id": "astronomy/test/128"
+  },
+  {
+    "instruction": "Ein 3 Wochen altes Baby bekam hohes Fieber. Der Kinderarzt des Babys teilte der Mutter mit, dass ihr Sohn ohne unverzügliche medizinische Behandlung sterben würde. Die Mutter lehnte dies aus religiösen Gründen ab. Sie behauptete, es sei besser für ihren Sohn zu sterben, wenn dies sein Schicksal wäre. Der Kinderarzt ersuchte eine Anordnung des staatlichen Gerichts. Die Mutter war mit ihrem Anwalt im Gericht anwesend. Bei der Entscheidung, ob es angesichts aller relevanten verfassungsrechtlichen Verteidigungen durch die Mutter eine solche Anordnung erlassen kann, muss das Gericht des Staates Folgendes berücksichtigen:",
+    "option_a": "Ob medizinische Behandlung notwendig ist, um das Leben des Babys zu retten.",
+    "option_b": "Ob die Weigerung der Mutter, eine medizinische Behandlung zu autorisieren, auf der Grundlage des aktuellen Wissens gerechtfertigt ist.",
+    "option_c": "Ob das Krankenhaus vom Staat betrieben wird.",
+    "option_d": "Ob die Mutter Steuerzahlerin des Staates ist, in dem sich das Gericht befindet.",
+    "answer": "B",
+    "id": "professional_law/test/1362"
+  },
+  {
+    "instruction": "ALLE der folgenden Stellen sind NICHT als grundlegende Stellen in der Stadt eingestuft, AUßER",
+    "option_a": "Stadtfeuerwehrmann.",
+    "option_b": "Sozialarbeiter.",
+    "option_c": "Trockenreiniger.",
+    "option_d": "Kleiderfabrikarbeiter.",
+    "answer": "D",
+    "id": "high_school_geography/test/31"
+  },
+  {
+    "instruction": "Was ist für ein Monopolunternehmen langfristig am wahrscheinlichsten wahr?",
+    "option_a": "P = MR = MC = ATC",
+    "option_b": "P = MR = MC > ATC",
+    "option_c": "P > MR = MC = ATC",
+    "option_d": "P > ATC > MR = MC",
+    "answer": "D",
+    "id": "high_school_microeconomics/test/203"
+  },
+  {
+    "instruction": "Beschreibe den YF-Impfstoff.",
+    "option_a": "Abgetöteter Virenimpfstoff",
+    "option_b": "Lebend attenuierter Virenimpfstoff, entwickelt durch Pasteur'sche Passage",
+    "option_c": "Lebend attenuierter Impfstoff, produziert durch direkte Mutation des Virus-Genoms",
+    "option_d": "Experimenteller Impfstoff nur",
+    "answer": "B",
+    "id": "virology/test/50"
+  },
+  {
+    "instruction": "Welche Fehlschluss tritt auf, wenn jemand für eine zweiteilige Aussage argumentiert, nur einen Teil der Aussage unterstützt und dann behauptet, die gesamte Aussage sei unterstützt worden.",
+    "option_a": "a priori",
+    "option_b": "Komplexe Aussage",
+    "option_c": "Erweiterung",
+    "option_d": "Berufung auf Ignoranz",
+    "answer": "B",
+    "id": "logical_fallacies/test/131"
+  },
+  {
+    "instruction": "Der Staat hat folgende Statuten betreffend den Verkauf von Liquor in Kraft:\"Section 1212. Wer berauschenden Liquor an eine Person verkauft, die betrunken oder berauscht ist, ist strafbar. Diese Section gilt nicht für den Verkauf von berauschendem Liquor durch ein Hotel, ein Motel oder eine Herberge an eine Person, die als Gast in diesem Hotel, Motel oder dieser Herberge registriert und wohnhaft ist, um es darauf zu konsumieren. \"\"Section 1213. Es ist gesetzlich verboten, dass jeder Verkäufer mit einer gültigen staatlichen Liquor-Lizenz an Sonntag berauschende Getränke verkauft. Jeder, der gegen diese Section verstößt, ist strafbar und wird mit einer Geldstrafe von nicht weniger als $100 oder mehr als $1.000 belegt.\" Die staatlichen Behörden haben die genannten dram shop statute und \"blue law\"-Gesetze, die den Verkauf von Liquor an Sonntagen verbieten, regelmäßig durchgesetzt. Am Sonntagmorgen um 12:30 Uhr betrat ein Kunde einen Liquor-Store und kaufte eine Flasche Wein. Der Verkäufer, der den Verkauf tätigte, dachte, es sei 11:30 Uhr abends am Samstag, da dies die Zeit war, die an der Wanduhr des Ladens angezeigt wurde. Unbekannt war dem Verkäufer jedoch, dass die Uhr defekt war und eine Stunde zurücklief. Daher zeigte die Uhr die falsche Zeit an, als der Verkäufer dem Kunden den Wein verkaufte. Zum Zeitpunkt des Verkaufs schien der Kunde nicht offensichtlich betrunken zu sein. Nach dem Kauf trank der Kunde die gesamte Flasche Wein. Anschließend fuhr er mit seinem Auto davon und stieß einen Fußgänger an und verletzte ihn. Zum Zeitpunkt des Unfalls war der Kunde aufgrund des Weintrinkens betrunken. Wenn der Fußgänger gegen den Liquor-Store Anspruch erhebt, wird der Kläger obsiegen?",
+    "option_a": "Ja, weil der Liquor-Store fahrlässig gehandelt hat, indem er den Wein in Verletzung des \"blue law\"-Gesetzes, das den Verkauf von Liquor an Sonntagen verbietet, verkauft hat.",
+    "option_b": "Ja, weil der Unfall nicht stattgefunden hätte, wenn der Wein nicht an den Kunden verkauft worden wäre.",
+    "option_c": "Nein, da das Ziel des \"blue law\"-Gesetzes, den Verkauf von Liquor an Sonntagen zu verbieten, nicht darin besteht, Unfälle zu verhindern, die von betrunkenen Fahrern verursacht werden.",
+    "option_d": "Nein, weil der Verkäufer nicht gegen den dram shop statute verstoßen hat und sein Verstoß gegen das \"blue law\"-Gesetz aufgrund der Fehlfunktion der Uhr entstanden ist.",
+    "answer": "C",
+    "id": "professional_law/test/505"
+  },
+  {
+    "instruction": "In einem Atom befinden sich die Neutronen normalerweise",
+    "option_a": "im Kern",
+    "option_b": "außerhalb des Kerns",
+    "option_c": "entweder das eine oder das andere",
+    "option_d": "weder das eine noch das andere",
+    "answer": "A",
+    "id": "conceptual_physics/test/51"
+  },
+  {
+    "instruction": "Welches der folgenden Merkmale ist nicht mit einer Steigerung der Atembelastung verbunden?",
+    "option_a": "Anstieg der Atemfrequenz.",
+    "option_b": "Lauteres Atmen.",
+    "option_c": "Zunahme des Einsatzes von Hilfsmuskeln.",
+    "option_d": "Eine Atemfrequenz von 16 Atemzügen pro Minute.",
+    "answer": "D",
+    "id": "clinical_knowledge/test/116"
+  },
+  {
+    "instruction": "Der Mindestreservesatz beträgt 0,10 und Mommy Morebucks hebt 1 Million Dollar von ihrem Girokonto ab und behält es als Bargeld in ihrem Kühlschrank. Wie könnte sich diese Auszahlung potenziell auf das im Umlauf befindliche Geld auswirken?",
+    "option_a": "Reduziert es um 9 Millionen Dollar",
+    "option_b": "Reduziert es um 1 Million Dollar",
+    "option_c": "Reduziert es um 100000 Dollar",
+    "option_d": "Erhöht es um 1 Million Dollar",
+    "answer": "A",
+    "id": "high_school_macroeconomics/test/114"
+  },
+  {
+    "instruction": "Die Notwendigkeit für ein Monopol, seinen Preis zu senken, um mehr Einheiten seines Produkts zu verkaufen, erklärt warum",
+    "option_a": "Monopole bei öffentlichen Versorgungsunternehmen häufig sind",
+    "option_b": "die Grenzerlöskurve unter der Nachfragekurve für ein Monopol liegt",
+    "option_c": "die Grenzkostenkurve für ein Monopol nach oben verläuft",
+    "option_d": "Monopole in der Lage sind, Marktmacht aufrechtzuerhalten",
+    "answer": "B",
+    "id": "high_school_microeconomics/test/69"
+  },
+  {
+    "instruction": "_______ lokalisieren Moralität jenseits der Sphäre der Rationalität in einem emotionalen 'moralischen Impuls' gegenüber anderen.",
+    "option_a": "Ethik der Tugend",
+    "option_b": "Ethischer Egoismus",
+    "option_c": "Postmoderne Ethik",
+    "option_d": "Pflichtethik",
+    "answer": "C",
+    "id": "business_ethics/test/73"
+  },
+  {
+    "instruction": "Was trifft in Bezug auf die Nahrungsaufnahme von Kalzium zu:\n",
+    "option_a": "Die typische Kalziumaufnahme bei den meisten Erwachsenen liegt zwischen 0,5 mg und 2,0 mg pro Tag.",
+    "option_b": "Aktiviertes Vitamin D verringert die Absorption von Nahrungskalzium",
+    "option_c": "Es gibt klare Hinweise darauf, dass Menschen, die mehr als die durchschnittliche Menge an Kalzium konsumieren, ein geringeres Risiko für Knochenbrüche haben.",
+    "option_d": "Die Absorptionseffizienz hängt invers mit der Kalziumaufnahme zusammen, so dass ein höherer Anteil absorbiert wird, wenn die Kalziumaufnahme niedrig ist.",
+    "answer": "D",
+    "id": "nutrition/test/78"
+  },
+  {
+    "instruction": "Diese Frage bezieht sich auf die folgenden Informationen.\n\"Ich bin in Birmingham, weil Ungerechtigkeit hier ist. . . . Außerdem bin ich mir der Wechselbeziehung aller Gemeinschaften und Staaten bewusst. Ich kann nicht untätig in Atlanta sitzen und nicht besorgt darüber sein, was in Birmingham passiert. Ungerechtigkeit irgendwo ist eine Bedrohung für Gerechtigkeit überall. Wir sind in einem unentrinnbaren Netzwerk von Gemeinsamkeiten gefangen, in einem einzigen Schicksalskleid verbunden. Was einen direkt betrifft, betrifft alle indirekt. Wir können es uns nie wieder leisten, mit der engen, provinziellen Idee des 'Aufrührers von außen' zu leben. Jeder, der innerhalb der Vereinigten Staaten lebt, kann niemals irgendwo in diesem Land als Außenseiter betrachtet werden.\"\n—Martin Luther King Jr., \"Brief aus dem Gefängnis von Birmingham,\" 16. April 1963\nSusan B. Anthony und andere in der Frauenrechtsbewegung hatten einen großen Einfluss auf die Ratifizierung von welchem der folgenden?",
+    "option_a": "Den neunzehnten Verfassungszusatz.",
+    "option_b": "Den Equal Rights Verfassungszusatz.",
+    "option_c": "Den fünfzehnten Verfassungszusatz.",
+    "option_d": "Den sechsundzwanzigsten Verfassungszusatz.",
+    "answer": "A",
+    "id": "high_school_us_history/test/32"
+  },
+  {
+    "instruction": "Für welches dieser beiden Szenarien tut die Hauptfigur (die ich/mich/mein verwendet) nach den gewöhnlichen moralischen Standards in den USA von 2020 aus gesehen etwas klar Moralisch Falsches? Szenario 1 | Ich hing meinen Kleinkind-Sohn an seinen Armen auf dem Spielplatz. Szenario 2 | Ich nutzte meinen übergroßen SUV, um eine halbe Dutzend Kinder zur Schule mitzunehmen.",
+    "option_a": "Falsch, Falsch",
+    "option_b": "Falsch, Nicht falsch",
+    "option_c": "Nicht falsch, Falsch",
+    "option_d": "Nicht falsch, Nicht falsch",
+    "answer": "D",
+    "id": "moral_scenarios/test/84"
+  },
+  {
+    "instruction": "Eine häufige Kritik an der Einstufung von Schülern als behindert ist, dass Einzelpersonen dazu neigen, gemäß den mit einem Etikett verbundenen Merkmalen zu handeln. Dieses Phänomen wird auch als welche der folgenden Bezeichnungen bezeichnet?",
+    "option_a": "Die selbsterfüllende Prophezeiung",
+    "option_b": "Das Gesetz der Wirkung",
+    "option_c": "Der Primäreffekt",
+    "option_d": "Soziales Faulenzen",
+    "answer": "A",
+    "id": "high_school_psychology/test/540"
+  },
+  {
+    "instruction": "Die sogenannte Dunkle Energie ist ein Modell, um zu erklären ...",
+    "option_a": "die Strahlung von Schwarzen Löchern.",
+    "option_b": "die Massenverteilung von Galaxien.",
+    "option_c": "die Beschleunigung des Universums.",
+    "option_d": "den Mikrowellenhintergrund des Universums.",
+    "answer": "C",
+    "id": "astronomy/test/37"
+  },
+  {
+    "instruction": "Mais wird auf einem Wettbewerbsmarkt gehandelt. Was erhöht definitiv den Gleichgewichtspreis von Mais?",
+    "option_a": "Angebot und Nachfrage verschieben sich beide nach rechts.",
+    "option_b": "Angebot und Nachfrage verschieben sich beide nach links.",
+    "option_c": "Das Angebot verschiebt sich nach rechts; die Nachfrage verschiebt sich nach links.",
+    "option_d": "Das Angebot verschiebt sich nach links; die Nachfrage verschiebt sich nach rechts.",
+    "answer": "D",
+    "id": "high_school_macroeconomics/test/315"
+  },
+  {
+    "instruction": "Ein Bundesstaat erließ ein Gesetz, das das Tönen oder Beschichten von Fahrzeugscheiben jeglicher Art innerhalb des Staates verbietet. Das Gesetz wurde auf Betreiben der Staats- und örtlichen Strafverfolgungsbehörden verabschiedet, die argumentierten, dass getönte Scheiben sie daran hinderten, die Aktivitäten im Inneren des Autos zu beobachten. Die meisten Bürger unterstützten das Gesetz, insbesondere nachdem ein Staatstruppenoffizier von einem Insassen in einer getönten Limousine getötet wurde. Der Truppenoffizier konnte nicht sehen, dass sein Angreifer bewaffnet und gefährlich war, als er sich dem Fahrzeug wegen einer Geschwindigkeitsübertretung näherte. Ein Limousinenunternehmen betreibt einen Limousinenservice in einem benachbarten Bundesstaat und verfügt über eine Flotte von 68 Limousinen, die alle mit getönten Scheiben ausgestattet sind. Jedes Jahr macht das Unternehmen Tausende von Fahrten in den Staat, um Passagiere zum internationalen Flughafen zu bringen, der 10 Meilen von der Grenze zwischen den beiden Staaten entfernt liegt. Da alle seine Limousinen mit getönten Scheiben hergestellt werden, wird das Unternehmen hohe Kosten haben, um Limousinen ohne Tönung zu bestellen. Das Unternehmen reicht eine Klage ein, um die Verfassungsmäßigkeit des staatlichen Gesetzes anzufechten. Angenommen, das Unternehmen hat das Recht, eine solche Klage zu erheben. Was ist ihr stärkstes verfassungsrechtliches Argument, um das oben genannte Gesetz ungültig zu machen?",
+    "option_a": "Weil das Tönen von Fahrzeugscheiben in benachbarten Bundesstaaten erlaubt ist, verweigert dieses Gesetz dem Unternehmen den gleichen Schutz durch das Gesetz.",
+    "option_b": "Da dieses Gesetz den interstate Commerce belastet, indem es alle Fahrzeuge mit getönten Scheiben daran hindert, in den Staat einzufahren, verstößt dieses Gesetz gegen die Handelsklausel.",
+    "option_c": "Da das Tönen von Fahrzeugscheiben im Heimatstaat des Unternehmens legal ist, verletzt dieses Gesetz die Vertragsklausel, indem es das Unternehmen daran hindert, seine Verpflichtung zur Beförderung von Passagieren in einen benachbarten Staat zu erfüllen.",
+    "option_d": "Da interstate Reisen ein grundlegendes Recht ist, das durch staatliches Recht nicht belastet werden darf, verletzt es die materiellen Verfahrensrechte des Unternehmens, indem es wirtschaftliche Aktivitäten willkürlich und unvernünftig reguliert.",
+    "answer": "B",
+    "id": "professional_law/test/321"
+  },
+  {
+    "instruction": "Mit der Absicht, darin eine Straftat zu begehen.",
+    "option_a": "Bedingte Reste",
+    "option_b": "Ausbleibende Verfügungen",
+    "option_c": "Unbedingte Reste mit offener Gruppe",
+    "option_d": "Rückübertragungen",
+    "answer": "D",
+    "id": "professional_law/test/180"
+  },
+  {
+    "instruction": "Für welches dieser beiden Szenarios handelt die Hauptfigur (die I/me/my verwendet) laut gewöhnlicher moralischer Standards in den USA von 2020 aus betrachtet eindeutig moralisch falsch? Szenario 1 | Ich warf so hart ich konnte den Bowlingball, um zu versuchen, den Pinsetter zu zerbrechen. Szenario 2 | Ich sagte meiner Tochter, dass sie falsche Grammatik verwendet hatte und ihre Sätze überarbeiten sollte.",
+    "option_a": "Falsch, falsch",
+    "option_b": "Falsch, nicht falsch",
+    "option_c": "Nicht falsch, falsch",
+    "option_d": "Nicht falsch, nicht falsch",
+    "answer": "B",
+    "id": "moral_scenarios/test/614"
+  },
+  {
+    "instruction": "Der Anwalt eines Klägers in einer Klage vor einem Bundesbezirksgericht hat den Beklagten mit der Klageschrift, der Ladung und 25 Befragungen, die Fragen zu den Behauptungen des Beklagten in der Sache enthielten, bedient. In den Befragungen wurde angegeben, dass sie innerhalb von 30 Tagen nach Zustellung beantwortet werden müssten. Der Beklagte wird wahrscheinlich Erfolg haben, wenn er aus welchen der folgenden Gründe einen Schutzantrag erhält?",
+    "option_a": "Befragungen sind nur zur Entdeckung von Tatsachen, nicht von Behauptungen, angemessen.",
+    "option_b": "Befragungen können erst nach Einreichung einer Antwort auf die Klage eingereicht werden.",
+    "option_c": "Befragungen können erst gestellt werden, nachdem sich die Parteien getroffen haben, um die ersten Offenlegungen zu vereinbaren und einen Entdeckungsplan vorzubereiten.",
+    "option_d": "Die Befragungen überschreiten die zulässige Anzahl ohne Genehmigung des Gerichts oder eine Vereinbarung zwischen den Parteien.",
+    "answer": "C",
+    "id": "professional_law/test/1336"
+  },
+  {
+    "instruction": "\"_Ad lazarum_\" ist eine spezielle Art von",
+    "option_a": "Anekdotischer Beweis",
+    "option_b": "Komplexer Grund",
+    "option_c": "Falsches Kriterium",
+    "option_d": "Falsches Zeichen",
+    "answer": "D",
+    "id": "logical_fallacies/test/137"
+  },
+  {
+    "instruction": "Snubber-Schaltung wird mit SCR verwendet",
+    "option_a": "in Serie.",
+    "option_b": "parallel.",
+    "option_c": "entweder in Serie oder parallel.",
+    "option_d": "Antiparallel.",
+    "answer": "B",
+    "id": "electrical_engineering/test/134"
+  },
+  {
+    "instruction": "Welche Hauptorganisationsänderung wurde von der 9/11-Kommission mit Blick auf die US-amerikanische Geheimdienstgemeinschaft vorgeschlagen?",
+    "option_a": "Schaffung des Ministeriums für Heimatschutz",
+    "option_b": "Verlegung der Nachrichtendienste des Verteidigungsministeriums zur CIA zwecks besserer Koordination",
+    "option_c": "Schaffung des Nationalen Geheimdienstdirektors",
+    "option_d": "Verlegung der inländischen Nachrichtendienstkomponente des FBI zur CIA",
+    "answer": "C",
+    "id": "us_foreign_policy/test/80"
+  },
+  {
+    "instruction": "Ein Vermieter hat ein Gebäude für fünf Jahre an einen Mieter vermietet. Die Miete war am ersten Tag eines jeden Monats fällig, und der Vermieter behielt sich das Recht vor, den Mietvertrag bei Nichtzahlung zu kündigen. Die Mietzeit endete vor 18 Monaten. Der Mieter blieb jedoch im Besitz des Gebäudes und zahlte weiterhin pünktlich die Miete. Der Vermieter nahm weiterhin die Miete an. Der marktgerechte Mietwert des Gebäudes liegt jetzt weit über dem, was der Mieter gezahlt hat, und der Vermieter hat kürzlich einen Dritten gefunden, der die höhere Miete zahlen wird. Als der Mieter vor sechs Wochen die Miete zahlte, nahm der Vermieter die Miete an, informierte den Mieter jedoch schriftlich, dass sie am Ende des Monats ausziehen müsse. Der Mieter, der immer noch im Besitz des Gebäudes ist, hat dem Vermieter mitgeteilt, dass sie nicht umziehen möchte und bereit ist, den aktuellen marktgerechten Mietwert zu zahlen. Der Vermieter hat seinen Anwalt um Rat bezüglich des Besitzrechts gebeten. Wer hat nach Ansicht des Anwalts ein Recht auf Besitz?",
+    "option_a": "Der Vermieter, weil er ordnungsgemäße Kündigung des Mietverhältnisses gegeben hat.",
+    "option_b": "Der Vermieter, weil er das Recht hat, wieder einzutreten.",
+    "option_c": "Der Mieter, weil sie erklärt hat, den aktuellen marktgerechten Mietwert zu zahlen.",
+    "option_d": "Der Mieter, weil der Vermieter keinen gute Grund genannt hat, um das Mietverhältnis zu beenden.",
+    "answer": "A",
+    "id": "professional_law/test/269"
+  },
+  {
+    "instruction": "Die Philosophen der ___________ Schule der Rechtswissenschaften glauben, dass das Gesetz eine Reihe von Regeln darstellt, die von der herrschenden Partei entwickelt, kommuniziert und durchgesetzt werden, anstatt eine Reflexion der Moral, Geschichte, Logik oder Soziologie der Gesellschaft zu sein.",
+    "option_a": "Befehl",
+    "option_b": "Recht und Wirtschaft",
+    "option_c": "Naturrecht",
+    "option_d": "Kritische Rechtswissenschaft",
+    "answer": "A",
+    "id": "jurisprudence/test/47"
+  },
+  {
+    "instruction": "Für welche dieser beiden Szenarien handelt die Hauptfigur (die I/me/my verwendet) nach allgemeinen moralischen Standards in den USA des Jahres 2020 eindeutig unmoralisch? Szenario 1 | Ich habe mein Bier für einen Dollar an einen Fremden verschenkt. Szenario 2 | Ich sagte, dass Coach Smith einen Witz erzählte.",
+    "option_a": "Falsch, Falsch",
+    "option_b": "Falsch, Nicht falsch",
+    "option_c": "Nicht falsch, Falsch",
+    "option_d": "Nicht falsch, Nicht falsch",
+    "answer": "D",
+    "id": "moral_scenarios/test/402"
+  },
+  {
+    "instruction": "Ein Ehepaar war seit 10 Jahren verheiratet. Die Ehefrau ließ sich scheiden, nachdem sie erfahren hatte, dass ihr Mann eine außereheliche Affäre mit einem seiner Mitarbeiter hatte. Nach der Scheidung wurde der Ehemann verhaftet und angeklagt, während eines Zeitraums von zwei Jahren Gelder seines Arbeitgebers unterschlagen zu haben. Bei der Vorbereitung auf den Prozess interviewte der Staatsanwalt die Ehefrau, die aussagte, dass ihr Mann während ihrer Ehe das Verbrechen zugegeben hatte. Diese Gerichtsbarkeit hat sowohl das Common-Law-Ehe- als auch das Spousal-Privileg angenommen. Im Prozess des Ehemanns wird die Ehefrau aufgrund von Aussagen, die der Ehemann ihr während der Ehe bezüglich der Begehung des Verbrechens gemacht hat, als Zeugin aufgerufen. Nach Einwand des Anwalts des Ehemanns wird die Aussage der Ehefrau",
+    "option_a": "zulässig, unter beiden Ehe- und Spousal-Privilegien.",
+    "option_b": "zulässig, unter dem Spousal-Privileg, aber nicht unter dem Ehe-Privileg zugelassen.",
+    "option_c": "zulässig, unter dem Ehe-Privileg, aber nicht unter dem Spousal-Privileg zugelassen.",
+    "option_d": "unzulässig, unter beiden Ehe- oder Spousal-Privilegien.",
+    "answer": "B",
+    "id": "professional_law/test/264"
+  },
+  {
+    "instruction": "Aus welcher Sprache stammt der Begriff 'RSVP'?",
+    "option_a": "Russisch",
+    "option_b": "Italienisch",
+    "option_c": "Portugiesisch",
+    "option_d": "Französisch",
+    "answer": "D",
+    "id": "miscellaneous/test/669"
+  },
+  {
+    "instruction": "Für welches der beiden Szenarien handelt der Hauptcharakter (der ich/mich/mein verwendet), gemäß der gewöhnlichen moralischen Standards in den USA von 2020 aus betrachtet, eindeutig moralisch falsch? Szenario 1 | Ich habe meine Arbeit mit Quellen, die im Internet gefunden wurden, recherchiert und geschrieben. Szenario 2 | Ich rief die Polizei an, weil meine Mutter mich geschlagen hat.",
+    "option_a": "Falsch, Falsch",
+    "option_b": "Falsch, Nicht falsch",
+    "option_c": "Nicht falsch, Falsch",
+    "option_d": "Nicht falsch, Nicht falsch",
+    "answer": "D",
+    "id": "moral_scenarios/test/354"
+  },
+  {
+    "instruction": "Ein harmloses Tier ahmt das Aussehen eines gefährlichen Tieres als Verteidigungsmechanismus nach, damit Raubtiere es sich nochmal überlegen, ob sie angreifen.",
+    "option_a": "aposomatische Färbung",
+    "option_b": "Bates'sche Mimikry",
+    "option_c": "Täuschende Markierungen",
+    "option_d": "Kryptische Färbung",
+    "answer": "B",
+    "id": "high_school_biology/test/173"
+  },
+  {
+    "instruction": "Wenn A = {1, 2, 3}, ist die Relation S = {(1, 1), (2, 2)}",
+    "option_a": "nur symmetrisch",
+    "option_b": "nur anti-symmetrisch",
+    "option_c": "sowohl symmetrisch als auch anti-symmetrisch",
+    "option_d": "eine Äquivalenzrelation",
+    "answer": "C",
+    "id": "abstract_algebra/test/11"
+  },
+  {
+    "instruction": "Die anspruchsvolle Steingerät-Fertigungsindustrie am Pinnacle Point in Südafrika ist ein Hinweis auf:",
+    "option_a": "eine 250.000 Jahre alte Tradition der Herstellung und Verwendung von Handäxten.",
+    "option_b": "eine 71.000 Jahre alte komplexe Abfolge von Mikroklingen-Herstellung und Nutzung.",
+    "option_c": "eine Anpassung an die Jagd in kälteren Umgebungen.",
+    "option_d": "beides a und c.",
+    "answer": "B",
+    "id": "prehistory/test/46"
+  },
+  {
+    "instruction": "Was ist ein Push-Faktor?",
+    "option_a": "Unzufriedenheit mit aktuellen Jobs",
+    "option_b": "Besser bezahlte Jobs anderswo",
+    "option_c": "Eine attraktive Rentnergemeinschaft anderswo",
+    "option_d": "Ein angenehmes Klima",
+    "answer": "A",
+    "id": "high_school_geography/test/141"
+  },
+  {
+    "instruction": "Die Energie, die für das Stehen an einem Büroschreibtisch, das Gehen zu einem Aktenschrank und andere jobbezogene Aktivitäten im Büro aufgewendet wird, wird als folgender Energieverbrauchskomponente bezeichnet:\n",
+    "option_a": "Nicht-übungsaktivitäts-Thermogenese (NEAT)",
+    "option_b": "Strukturierte (willentliche) Übungsaktivitätsthermogenese",
+    "option_c": "Energieverbrauch bei körperlicher Aktivität (nicht in Ruhe)",
+    "option_d": "Grundumsatz",
+    "answer": "A",
+    "id": "nutrition/test/300"
+  },
+  {
+    "instruction": "Was spricht am stärksten gegen die Feindseligkeit des ethischen Relativismus gegenüber Menschenrechten?",
+    "option_a": "Utilitarismus",
+    "option_b": "Kommunitarismus",
+    "option_c": "Kognitivismus",
+    "option_d": "Positivismus",
+    "answer": "C",
+    "id": "jurisprudence/test/96"
+  },
+  {
+    "instruction": "Für welches dieser beiden Szenarien handelt die Hauptfigur (die 'ich/mich/mein' verwendet) gemäß den gewöhnlichen moralischen Standards in den USA von 2020 eindeutig unmoralisch? Szenario 1 | Ich legte meinem Hund eine Leine an und ging mit ihm spazieren. Szenario 2 | Mein Bruder war zu müde, um aus dem Auto zu steigen, deshalb trug ich ihn hinein.",
+    "option_a": "Falsch, Falsch",
+    "option_b": "Falsch, Nicht falsch",
+    "option_c": "Nicht falsch, Falsch",
+    "option_d": "Nicht falsch, Nicht falsch",
+    "answer": "D",
+    "id": "moral_scenarios/test/242"
+  },
+  {
+    "instruction": "Eines Nachmittags fuhr eine Autofahrerin mit ihrem Auto, als sie einen Fußgänger anfuhr, der in die Kreuzung trat. Der Fußgänger wurde bei dem Unfall schwer verletzt und verklagte die Autofahrerin, um Schadensersatz für Personenschäden zu erhalten. Es gab keine Zeugen des Unfalls. Die Autofahrerin behauptet, dass die Ampel grün war, als sie in die Kreuzung einfuhr. Der Fußgänger leidet jetzt an Amnesie und kann sich nicht daran erinnern, wie es zu dem Unfall gekommen ist. Bei der Gerichtsverhandlung ruft der Anwalt des Fußgängers einen Zeugen auf, um auszusagen. Der Zeuge beabsichtigt, auszusagen, dass er sich im Notfallraum des Krankenhauses befand, als der Fußgänger nach dem Unfall eingeliefert wurde. Der Zeuge sagt weiter aus, dass während der Behandlung seiner Verletzungen die Krankenschwester ihn fragte, \"Wie hast du dich verletzt?\" Der Fußgänger antwortete: \"Das Auto fuhr bei Rot über die Ampel und traf mich, als ich durch die Kreuzung ging.\" Nach Einspruch ist dieses Beweismaterial",
+    "option_a": "als Aussage zu medizinischen Behandlungszwecken zulässig.",
+    "option_b": "als unmittelbarer Eindruck zulässig.",
+    "option_c": "unzulässig, weil der Zeuge ein vertrauliches Gespräch zwischen dem Fußgänger und einem Krankenhausvertreter belauscht hat.",
+    "option_d": "unzulässig, weil es sich um ein Zeugnis handelt, das keinen anerkannten Ausnahmefall von Hearsay bestätigt.",
+    "answer": "D",
+    "id": "professional_law/test/1063"
+  },
+  {
+    "instruction": "Die Geschwindigkeit der Datenübertragung im 4G-Netzwerk von Telecom beträgt",
+    "option_a": "386 kbps - 2 mbps.",
+    "option_b": "2 mbps.",
+    "option_c": "2 mbps – 1 gbps.",
+    "option_d": "100 mbps - 1 gbps.",
+    "answer": "D",
+    "id": "electrical_engineering/test/113"
+  },
+  {
+    "instruction": "Ein Ziegelsteinmacher wurde von einem Bauunternehmer unter einem schriftlichen Vertrag für ein Jahr zu einem Jahresgehalt von 45.000 $ eingestellt, wobei die Beschäftigung am 1. März begann. Da der Bauunternehmer jedoch nicht genug Bauprojekte sichern konnte, um alle Mitarbeiter während der Saison ab dem 1. März beschäftigt zu halten, teilte er dem Ziegelsteinmacher am 15. Februar mit, dass er sich als Ziegelsteinmacher nicht leisten könne. Gleichzeitig bot der Unternehmer jedoch an, den Ziegelsteinmacher für denselben Vertragszeitraum als Nachtwächter zu einem Jahresgehalt von 25.000 $ zu beschäftigen. Der Ziegelsteinmacher lehnte das Angebot ab und blieb ein Jahr lang arbeitslos. Im Laufe des Jahres war keine Beschäftigung für Ziegelsteinmacher in der Gemeinde verfügbar, aber der Ziegelsteinmacher hätte als Tagelöhner eine Beschäftigung finden können, die bis zu 25.000 $ im Jahr gezahlt hätte. Am Ende des Jahres, in einer Klage gegen den Bauunternehmer wegen Vertragsbruchs, wie viel hat der Ziegelsteinmacher, wenn überhaupt, das Recht, wiederzugewinnen?",
+    "option_a": "20.000 $ (der Vertragspreis von 45.000 $ abzüglich der 25.000 $, die der Ziegelsteinmacher in einer anderen Beschäftigung verdient hätte).",
+    "option_b": "45.000 $ (der Vertragspreis).",
+    "option_c": "Nichts, weil der Unternehmer nicht in schlechtem Glauben gehandelt hat, als er den Ziegelsteinmacher entlassen hat.",
+    "option_d": "Nichts, weil der Ziegelsteinmacher seine Schäden nicht gemindert hat.",
+    "answer": "B",
+    "id": "professional_law/test/1363"
+  },
+  {
+    "instruction": "Welches der folgenden Verfahren muss ein Forscher verwenden, um festzustellen, ob der Unterschied zwischen den Mittelwerten der Experimental- und Kontrollgruppen signifikant war?",
+    "option_a": "deskriptive Statistik",
+    "option_b": "schließende Statistik",
+    "option_c": "Feldexperiment",
+    "option_d": "Standardabweichung",
+    "answer": "B",
+    "id": "high_school_psychology/test/505"
+  },
+  {
+    "instruction": "Hillary hat gerade erfahren, dass sie schwanger ist, aber sie vermutet, dass ihr Ehemann herumgetrieben hat. Es ist wichtig, dass sie auf Chlamydien getestet wird, weil Chlamydien welche der folgenden Komplikationen verursachen können?",
+    "option_a": "Eileiterschwangerschaften",
+    "option_b": "Frühgeburt",
+    "option_c": "Fehlgeburt",
+    "option_d": "alle oben genannten",
+    "answer": "D",
+    "id": "human_sexuality/test/47"
+  },
+  {
+    "instruction": "Murray dachte, dass die 'Unterschicht' aus Menschen bestand, die:",
+    "option_a": "eine minderwertige 'Rasse' mit niedrigem Intelligenzniveau bildeten",
+    "option_b": "moralisch ungeordnete Leben voller Kriminalität und Elend führten",
+    "option_c": "zu sehr von Sozialleistungen abhängig waren",
+    "option_d": "alles oben Genannte",
+    "answer": "D",
+    "id": "sociology/test/66"
+  },
+  {
+    "instruction": "Was ist der Grund für die Entwicklung einer komplexen Gesellschaft in Caral in Südamerika?",
+    "option_a": "der Bedarf an einer großen Menge von Muscheln",
+    "option_b": "der Bau von Kanälen zur Bewässerung",
+    "option_c": "der Bau der Piramide Mayor",
+    "option_d": "die ausgrabende Arbeit zur Herstellung der gesunkenen Plätze",
+    "answer": "B",
+    "id": "prehistory/test/263"
+  },
+  {
+    "instruction": "Auf welchen Oberflächen der Zähne bildet sich bei einem Patienten mit mangelnder Mundhygiene am ehesten Zahnbelag?",
+    "option_a": "Auf den Palatinalflächen der oberen Molaren und lingualen Flächen der unteren Inzisivi.",
+    "option_b": "Auf den bukkalen Flächen der oberen Molaren und lingualen Flächen der unteren Inzisivi.",
+    "option_c": "Auf den Palatinalflächen der oberen Molaren und labialen Flächen der unteren Inzisivi.",
+    "option_d": "Auf den bukkalen Flächen der oberen Molaren und labialen Flächen der unteren Inzisivi.",
+    "answer": "B",
+    "id": "anatomy/test/91"
+  },
+  {
+    "instruction": "Jede der beiden führenden politischen Parteien der Vereinigten Staaten ist organisiert",
+    "option_a": "als eine einzige Partei mit Präsenz nur auf nationaler Ebene",
+    "option_b": "in eine föderale Struktur, in der staatliche und lokale Parteien keine Macht haben",
+    "option_c": "als eine relativ unabhängige Organisation, die auf allen Regierungsebenen existiert",
+    "option_d": "auf eine top-down-Art und Weise, so dass Anweisungen vom nationalen Niveau an die staatlichen und lokalen Ebenen weitergegeben werden",
+    "answer": "C",
+    "id": "high_school_government_and_politics/test/38"
+  },
+  {
+    "instruction": "Welches der folgenden Leitsysteme ist hauptsächlich eine Materialtransportvorrichtung?",
+    "option_a": "Rolltreppe",
+    "option_b": "Förderband",
+    "option_c": "Autobahn",
+    "option_d": "Eisenbahn",
+    "answer": "B",
+    "id": "miscellaneous/test/284"
+  },
+  {
+    "instruction": "Ein Stück Papier, das in Sonnenlicht blau erscheint, wird ausschließlich von einem roten Licht beleuchtet, das durch einen grünen Filter geleitet wird. Welche Farbe hat das Papier bei dieser Beleuchtung?",
+    "option_a": "Blau",
+    "option_b": "Grün",
+    "option_c": "Rot",
+    "option_d": "Schwarz",
+    "answer": "D",
+    "id": "miscellaneous/test/28"
+  },
+  {
+    "instruction": "Ein 10-jähriger Schüler, der in einem Land geboren wurde, in dem kein Englisch gesprochen wird, wurde aufgrund niedriger Ergebnisse im Gruppenleistungstest des Schulbezirks als möglicher Kandidat für Sonderpädagogische Dienste empfohlen. Der Schüler erzielte hohe Punktzahlen im Englisch-Sprachtest des Bezirks. Von den folgenden Ansätzen zur diagnostischen Bewertung ist der am besten geeignete Ansatz derjenige, der",
+    "option_a": "einen Dolmetscher verwendet, der fließend die Sprache des Landes spricht, in dem der Schüler geboren wurde",
+    "option_b": "die Ergebnisse von mindestens zwei Englisch-Sprachintelligenztests verwendet",
+    "option_c": "soziokulturelle und adaptive Verhaltensweisen bei der Identifizierung von Fähigkeiten und Fertigkeiten berücksichtigt",
+    "option_d": "Elterninterviews und Klassenbeobachtungen sowie die Ergebnisse eines Intelligenztests einschließt",
+    "answer": "C",
+    "id": "high_school_psychology/test/429"
+  },
+  {
+    "instruction": "Welcher Geschäftstyp bietet eine Auswahl an Lebensmittel- und Haushaltsartikeln, die den Last-Minute-Kaufbedürfnissen der Verbraucher entsprechen?",
+    "option_a": "Supermärkte.",
+    "option_b": "Kioske.",
+    "option_c": "Fachgeschäfte.",
+    "option_d": "Einzelhändler mit begrenztem Sortiment.",
+    "answer": "B",
+    "id": "marketing/test/51"
+  },
+  {
+    "instruction": "Ein Blatt Papier im Format 8,5 x 11 Zoll wird mehrmals in der Mitte gefaltet (ohne jemals entfaltet zu werden), wodurch die längere Seite immer kürzer wird. Wie lang ist die längste Seite unmittelbar nach dem zweiten Falten in Zoll? Runden Sie Ihre Antwort auf die nächste Zehntelstelle.",
+    "option_a": "4,5",
+    "option_b": "1",
+    "option_c": "5,5",
+    "option_d": "5",
+    "answer": "C",
+    "id": "high_school_mathematics/test/37"
+  },
+  {
+    "instruction": "Um eine Essanfallsepisode zu charakterisieren, muss man das Vorhandensein von Folgendem untersuchen:\n",
+    "option_a": "Ob Patienten glauben, dass ihre Essgewohnheiten chaotisch sind, unabhängig von der Mahlzeitenmenge.",
+    "option_b": "Der Konsum großer Mengen an Süßigkeiten zwischen den Mahlzeiten.",
+    "option_c": "Eine subjektive Komponente des Kontrollverlusts und eine objektive Komponente des übermäßigen Konsums von Nahrungsmitteln in einem diskreten Zeitraum.",
+    "option_d": "Das Gefühl, dass man die Art der Nahrungsmittel, die man isst, nicht wählen kann, auch wenn ihre Menge unter Kontrolle gehalten wird.",
+    "answer": "C",
+    "id": "nutrition/test/105"
+  },
+  {
+    "instruction": "Eine Zahl wird auf die nächste Hunderterstelle gerundet. Das Ergebnis ist 500. Welche Zahl konnte es vor der Rundung nicht gewesen sein?",
+    "option_a": "458",
+    "option_b": "463",
+    "option_c": "547",
+    "option_d": "559",
+    "answer": "D",
+    "id": "elementary_mathematics/test/265"
+  },
+  {
+    "instruction": "Finde die genaue Antwort: 110 + 70",
+    "option_a": "18",
+    "option_b": "81",
+    "option_c": "180",
+    "option_d": "810",
+    "answer": "C",
+    "id": "elementary_mathematics/test/90"
+  },
+  {
+    "instruction": "Eine Lichtquelle mit variabler Frequenz scheint auf die Metalloberfläche einer Fotozelle. Einsteins Theorie des Photoeffekts besagt, dass die",
+    "option_a": "Austrittsarbeit des Metalls proportional zur Frequenz ist",
+    "option_b": "Austrittsarbeit des Metalls proportional zur Wellenlänge ist",
+    "option_c": "Stromstärke in der Fotozelle eine lineare Funktion der Wellenlänge ist",
+    "option_d": "potentielle Differenz, die notwendig ist, um die emittierten Elektronen zu stoppen, eine lineare Funktion der Frequenz oberhalb der Grenzfrequenz ist",
+    "answer": "D",
+    "id": "college_physics/test/30"
+  },
+  {
+    "instruction": "Ein Arzt war Besitzer von 1.500 Acres unbebautem Waldland. Im September 1989 übertrug der Arzt das Waldeigentum durch eine Garantieurkunde an einen Zahnarzt im einfachen Eigentum. Der Zahnarzt hat dies sofort im Index des Gewährenden-Empfängers eingetragen. Im April 1990 übertrug der Zahnarzt dann dasselbe Stück Hektar an einen Käufer im einfachen Eigentum durch eine Garantieurkunde. Der Käufer zahlte den vollen Marktwert und ließ die Urkunde sofort im Index des Gewährenden-Empfängers eintragen. Das betreffende Land war nie besetzt, eingezäunt oder geräumt worden, außer dass zwischen den Jahren 1986 und 2010 ein Bergbauunternehmen, eine Meile vom Grundstück entfernt, regelmäßig LKW über einen geräumten Weg fuhr, gemäß einer Vereinbarung von 1986 mit dem Arzt. Die Vereinbarung, die ordnungsgemäß eingetragen wurde, besagte, dass\"die Parteien ausdrücklich vereinbaren und der Arzt verspricht, dass der Arzt und seine Rechtsnachfolger sich der Verhinderung des beschriebenen Weges über das Land des Arztes enthalten werden, den das Bergbauunternehmen und dessen Rechtsnachfolger als Straße von Dauer nutzen können, wofür das Bergbauunternehmen und seine Rechtsnachfolger einen jährlichen Betrag von 700 USD zahlen werden.\" Im Jahr 1990, nach der Übertragung durch den Zahnarzt, informierte der Käufer das Bergbauunternehmen, dass er die Vereinbarung von 1986, die es dem Bergbauunternehmen gestattete, den Weg zu nutzen, nicht länger einhalten werde. Das Bergbauunternehmen brachte eine Klage auf Erfüllung. Das Urteil sollte lauten auf",
+    "option_a": "das Bergbauunternehmen, da ihr Sachinteresse \"am Land haftet\".",
+    "option_b": "das Bergbauunternehmen, weil der Besitzer des herrschenden Interesses gegen nachfolgende Eigentümer obsiegen würde.",
+    "option_c": "den Käufer, weil das Interesse des Bergbauunternehmens durch die nachfolgende Übertragung erloschen war.",
+    "option_d": "den Käufer, weil es keine Rechtsnachfolgerschaft zwischen dem Käufer und dem Bergbauunternehmen gab.",
+    "answer": "A",
+    "id": "professional_law/test/583"
+  }
+]

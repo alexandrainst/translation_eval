@@ -1,0 +1,770 @@
+[
+  {
+    "title": "Super_Bowl_50",
+    "context": "Met nog 4:51 te gaan in de wedstrijd kreeg Carolina de bal op hun eigen 24-yard lijn met de kans om een game-winning drive op te zetten, en keek al snel tegen een 3de-en-9 aan. In het volgende spel ontdeed Miller de bal van Newton en nadat verschillende spelers naar de bal doken, stuiterde de bal ver terug en werd hij hersteld door Ward, die de bal vijf yards teruglegde naar de 4-yard lijn van de Panthers. Hoewel verschillende spelers in de hoop doken om te proberen de bal terug te krijgen, deed Newton dat niet en zijn gebrek aan agressie leverde hem later zware kritiek op. Ondertussen werd de aanval van Denver drie keer uit de eindzone gehouden, maar een penalty op cornerback Josh Norman gaf de Broncos een nieuwe set downs. Toen scoorde Anderson met een 2-yard touchdown run en Manning voltooide een pass op Bennie Fowler voor een 2-punts conversie, waardoor Denver een 24-10 voorsprong nam met nog 3:08 te gaan en de wedstrijd in feite op slot ging. Carolina kreeg nog twee drives, maar slaagde er in geen van beide in een first down te scoren.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 72,
+            "text": "24"
+          }
+        ],
+        "id": "56beca913aeaaa14008c946d",
+        "question": "Op welke yard line begon Carolina met nog 4:51 te spelen?"
+      }
+    ]
+  },
+  {
+    "title": "Warschau",
+    "context": "Vlakbij, in Ogród Saski (de Saksische Tuin), was het Zomertheater in bedrijf van 1870 tot 1939 en in het interbellum omvatte het theatercomplex ook Momus, het eerste literaire cabaret van Warschau, en Leon Schillers muziektheater Melodram. Het Wojciech Bogusławski Theater (1922-26) was het beste voorbeeld van het \"Poolse monumentale theater\". Vanaf het midden van de jaren 1930 huisvestte het gebouw van het Grote Theater het Upati Instituut voor Dramatische Kunsten - de eerste door de staat beheerde academie voor dramatische kunst, met een acteerafdeling en een afdeling voor toneelregie.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 28,
+            "text": "Saksische tuin"
+          }
+        ],
+        "id": "57339c16d058e614000b5ec6",
+        "question": "Waar was het Zomertheater gevestigd?"
+      }
+    ]
+  },
+  {
+    "title": "Normandiërs",
+    "context": "Voor de komst van Rollo verschilde de bevolking niet van die van Picardië of Île-de-France, die als \"Frankisch\" werden beschouwd. Eerdere Viking kolonisten waren begonnen met hun aankomst in de jaren 880, maar waren verdeeld over kolonies in het oosten (Roumois en Pays de Caux) rond de lage Seine vallei en in het westen op het Cotentin schiereiland, en werden gescheiden door traditionele pagii, waar de bevolking ongeveer gelijk bleef met bijna geen buitenlandse kolonisten. Tot Rollo's contingenten die Normandië en delen van de Atlantische kust plunderden en zich er uiteindelijk vestigden, behoorden Denen, Noren, Noorse Gaels, Orkney Vikingen, mogelijk Zweden en Anglo-Danen uit de Engelse Danelaw die onder Noorse controle stond.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 18,
+            "text": "Rollo"
+          }
+        ],
+        "id": "56dde1d966d3e219004dad8d",
+        "question": "Wie gaf de oorspronkelijke vikingkolonisten bij hun aankomst een gemeenschappelijke identiteit?"
+      }
+    ]
+  },
+  {
+    "title": "Nikola_Tesla",
+    "context": "In 1900 kreeg Tesla patenten voor een \"systeem voor het overbrengen van elektrische energie\" en \"een elektrische zender\". Toen Guglielmo Marconi in 1901 zijn beroemde allereerste trans-Atlantische radiotransmissie uitvoerde, grapte Tesla dat dit was gedaan met 17 Tesla-patenten, hoewel er weinig is om deze bewering te staven. Dit was het begin van een jarenlange strijd om patenten op radio, waarbij Tesla's patenten in 1903 werden toegewezen, gevolgd door een omgekeerde beslissing ten gunste van Marconi in 1904. In 1943 herstelde een beslissing van het Hooggerechtshof van de Verenigde Staten de eerdere patenten van Tesla, Oliver Lodge en John Stone. Het hof verklaarde dat hun beslissing geen invloed had op Marconi's claim als de eerste die radiotransmissie bereikte, alleen dat aangezien Marconi's aanspraak op bepaalde patenten twijfelachtig was, hij geen inbreuk op diezelfde patenten kon claimen (er zijn beweringen dat het Hooggerechtshof probeerde een claim van de Marconi Company tegen de Amerikaanse regering in de Eerste Wereldoorlog teniet te doen door simpelweg Tesla's eerdere patent te herstellen).",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 3,
+            "text": "1900"
+          }
+        ],
+        "id": "56e0fc3f7aa994140058e877",
+        "question": "Wanneer verkreeg Tesla zijn patent op elektrische zenders?"
+      }
+    ]
+  },
+  {
+    "title": "Computationele_complexiteitstheorie",
+    "context": "Computationele complexiteitstheorie is een tak van de theorie van computation in de theoretische informatica die zich richt op het classificeren van computationele problemen volgens hun inherente moeilijkheid, en het relateren van deze klassen aan elkaar. Onder een rekenprobleem wordt een taak verstaan die in principe door een computer opgelost kan worden, wat gelijk staat aan de stelling dat het probleem opgelost kan worden door een mechanische toepassing van wiskundige stappen, zoals een algoritme.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 186,
+            "text": "inherente moeilijkheid"
+          }
+        ],
+        "id": "56e16182e3433e1400422e29",
+        "question": "Naar welk hoofdkenmerk worden rekenproblemen geclassificeerd met behulp van de computationele complexiteitstheorie?"
+      }
+    ]
+  },
+  {
+    "title": "Leraar",
+    "context": "Vroeger was lijfstraffen (het geven van stokslagen of stokslagen om de leerling fysieke pijn te bezorgen) een van de meest voorkomende vormen van discipline op school in een groot deel van de wereld. De meeste westerse landen en enkele andere hebben het nu verboden, maar in de Verenigde Staten is het nog steeds legaal na een uitspraak van het Amerikaanse Hooggerechtshof in 1977 dat tampons niet in strijd zijn met de Amerikaanse grondwet.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 278,
+            "text": "Verenigde Staten"
+          }
+        ],
+        "id": "56e7586d37bdd419002c3eb5",
+        "question": "In welk Westers land zijn lijfstraffen nog wel toegestaan?"
+      }
+    ]
+  },
+  {
+    "title": "Maarten Luther",
+    "context": "Luthers hymnen werden vaak opgeroepen door bepaalde gebeurtenissen in zijn leven en de zich ontvouwende Reformatie. Dit gedrag begon met het vernemen van de executie van Johann Esch en Heinrich Voes, de eerste personen die door de Rooms-Katholieke Kerk wegens Lutherse opvattingen werden gemarteld, wat Luther aanzette tot het schrijven van de hymne \"Ein neues Lied wir haben an\" (\"Een nieuw lied verheffen wij\"), die in het Engels algemeen bekend is onder de vertaling van John C. Messenger's vertaling met de titel en eerste regel \"Flung to the Heedless Winds\" en gezongen op de melodie Ibstone gecomponeerd in 1875 door Maria C. Tiddeman.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 52,
+            "text": "gebeurtenissen in zijn leven"
+          }
+        ],
+        "id": "56f8720eaef237190062608f",
+        "question": "Wat bracht Luther ertoe om hymnen te schrijven?"
+      }
+    ]
+  },
+  {
+    "title": "Zuid-Californië",
+    "context": "Tot de professionele sportteams in Zuid-Californië behoren teams uit de NFL (Los Angeles Rams, San Diego Chargers); NBA (Los Angeles Lakers, Los Angeles Clippers); MLB (Los Angeles Dodgers, Los Angeles Angels of Anaheim, San Diego Padres); NHL (Los Angeles Kings, Anaheim Ducks); en MLS (LA Galaxy).",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 245,
+            "text": "Los Angeles Kings"
+          }
+        ],
+        "id": "5706143575f01819005e7953",
+        "question": "Wat is naast de Anaheim Ducks het andere NHL-team dat in Zuid-Californië woont?"
+      }
+    ]
+  },
+  {
+    "title": "Sky_(Verenigd_Koninkrijk)",
+    "context": "De overeenkomsten omvatten vaste jaarlijkse vergoedingen van £30 miljoen voor de kanalen, waarbij beide zenderaanbieders extra betalingen kunnen ontvangen als hun kanalen aan bepaalde prestatiegerelateerde doelen voldoen. Op dit moment is er geen indicatie of de nieuwe overeenkomst de extra Video On Demand en High Definition content omvat die eerder door BSkyB werd aangeboden. Als onderdeel van de overeenkomsten stemden zowel BSkyB als Virgin Media ermee in om alle procedures van het High Court tegen elkaar met betrekking tot de doorgifte van hun respectieve basiskanalen te beëindigen.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 242,
+            "text": "geen indicatie"
+          }
+        ],
+        "id": "57097d63ed30961900e841fd",
+        "question": "Omvat de nieuwe overeenkomst Video on demand en High Definition?"
+      }
+    ]
+  },
+  {
+    "title": "Victoria_(Australië)",
+    "context": "Er zijn ook verschillende kleinere goederenvervoerders en talrijke toeristische spoorlijnen die gebruik maken van lijnen die ooit deel uitmaakten van een staatssysteem. Victoriaanse lijnen gebruiken voornamelijk het 1600 mm breedspoor. De interstatelijke hoofdlijnen en een aantal aftakkingen in het westen van de staat zijn echter omgebouwd tot het standaardspoor van 1.435 mm (4 ft 8 1⁄2 in). Twee toeristische spoorlijnen rijden op smalspoorlijnen van 760 mm (2 ft 6 in). Dit zijn de overblijfselen van vijf voormalige staatslijnen die in bergachtige gebieden werden aangelegd.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": -1,
+            "text": "1.435 mm (4 ft 8 1⁄2 in) standaardbreedte"
+          }
+        ],
+        "id": "570d47b8b3d812140066d62e",
+        "question": "Naar welke spoorbreedte zijn sommige lijnen in het westen van Victoria veranderd?"
+      }
+    ]
+  },
+  {
+    "title": "Hugenoot",
+    "context": "De meeste hugenotengemeenten (of individuen) in Noord-Amerika sloten zich uiteindelijk aan bij andere protestantse kerkgenootschappen met meer leden. De Hugenoten pasten zich snel aan en trouwden vaak buiten hun directe Franse gemeenschap, wat leidde tot hun assimilatie. Hun nakomelingen bleven in veel families tot ver in de negentiende eeuw Franse voor- en achternamen gebruiken voor hun kinderen. Geassimileerd leverden de Fransen talrijke bijdragen aan het economische leven in de Verenigde Staten, vooral als kooplieden en ambachtslieden in de late koloniale en vroege federale perioden. Zo richtte E.I. du Pont, een oud-leerling van Lavoisier, de Eleutherian buskruitfabrieken op.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 313,
+            "text": "tot ver in de negentiende eeuw"
+          }
+        ],
+        "id": "57111713a58dae1900cd6c03",
+        "question": "Hoe lang bleven Hugenoten Franse namen gebruiken?"
+      }
+    ]
+  },
+  {
+    "title": "Stoommachine",
+    "context": "De warmte die nodig is om het water te koken en de stoom te leveren kan afkomstig zijn van verschillende bronnen, meestal van de verbranding van brandbare materialen met een geschikte toevoer van lucht in een gesloten ruimte (ook wel verbrandingskamer, vuurkist genoemd). In sommige gevallen is de warmtebron een kernreactor, geothermische energie, zonne-energie of afvalwarmte van een verbrandingsmotor of industrieel proces. In het geval van model- of speelgoedstoommotoren kan de warmtebron een elektrisch verwarmingselement zijn.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 129,
+            "text": "verbranding van brandbare materialen"
+          }
+        ],
+        "id": "571144d1a58dae1900cd6d6e",
+        "question": "Wat is de gebruikelijke warmtebron voor kokend water in de stoommachine?"
+      }
+    ]
+  },
+  {
+    "title": "Zuurstof",
+    "context": "Hyperbare (hoge druk) geneeskunde maakt gebruik van speciale zuurstofkamers om de partiële druk van O\n2te verhogen rond de patiënt en, indien nodig, de medische staf. Koolmonoxidevergiftiging, gasgangreen en decompressieziekte (de 'bochten') worden soms behandeld met deze apparaten. Een verhoogde O\n2concentratie in de longen helpt om koolmonoxide uit de heemgroep van hemoglobine te verdringen. Zuurstofgas is giftig voor de anaerobe bacteriën die gasgangreen veroorzaken, dus het verhogen van de partiële druk helpt om ze te doden. Decompressieziekte treedt op bij duikers die na een duik te snel decompresseren, waardoor er bellen inert gas, meestal stikstof en helium, in hun bloed ontstaan. Het zo snel mogelijk verhogen van de O\n2 zo snel mogelijk te verhogen maakt deel uit van de behandeling.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 535,
+            "text": "Decompressieziekte"
+          }
+        ],
+        "id": "571cd3b55efbb31900334e06",
+        "question": "Wat gebeurt er na een duik waarbij een duiker te snel decompresseert?"
+      }
+    ]
+  },
+  {
+    "title": "1973_olie_crisis",
+    "context": "Sommige kopers betreurden de kleine afmetingen van de eerste Japanse compacte auto's en zowel Toyota als Nissan (toen bekend als Datsun) introduceerden grotere auto's zoals de Toyota Corona Mark II, de Toyota Cressida, de Mazda 616 en Datsun 810, die extra passagiersruimte en voorzieningen zoals airconditioning, stuurbekrachtiging, AM-FM-radio's en zelfs elektrische ramen en centrale vergrendeling toevoegden zonder de prijs van de auto te verhogen. Een decennium na de oliecrisis van 1973 openden Honda, Toyota en Nissan, getroffen door de vrijwillige exportbeperkingen van 1981, assemblagefabrieken in de VS en richtten hun luxedivisies op (respectievelijk Acura, Lexus en Infiniti) om zich te onderscheiden van hun massamerken.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 176,
+            "text": "Toyota Corona Mark II"
+          }
+        ],
+        "id": "572659535951b619008f7040",
+        "question": "Noem een grotere auto waar Toyota mee kwam toen kopers hun beklag deden over de kleine compacte auto's?"
+      }
+    ]
+  },
+  {
+    "title": "Apollo_programma",
+    "context": "Grissom, White en Chaffee besloten hun vlucht Apollo 1 te noemen als motivatie voor de eerste bemande vlucht. Ze trainden en voerden tests uit van hun ruimteschip op North American en in de hoogtekamer op het Kennedy Space Center. Een \"plugs-out\" test was gepland voor januari, die een aftelling van de lancering op LC-34 zou simuleren waarbij het ruimteschip zou overschakelen van pad-voeding naar interne voeding. Indien succesvol, zou dit worden gevolgd door een meer rigoureuze countdown simulatie test dichter bij de 21 februari lancering, met zowel het ruimtevaartuig als de draagraket van brandstof voorzien.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 190,
+            "text": "hoogtekamer"
+          }
+        ],
+        "id": "5725db4aec44d21400f3d6bd",
+        "question": "Waar voerde de bemanning van Apollo 1 testen uit op Kennedy Space Center?"
+      }
+    ]
+  },
+  {
+    "title": "Europese_Unie_recht",
+    "context": "Na de verkiezing van de Britse Labourpartij in de regering in 1997 onderschreef het Verenigd Koninkrijk formeel de Overeenkomst betreffende de sociale politiek, waardoor deze met kleine wijzigingen kon worden opgenomen als het sociale hoofdstuk van het Verdrag van Amsterdam van 1997. Het Verenigd Koninkrijk nam vervolgens de belangrijkste wetgeving aan die eerder was overeengekomen in het kader van de Overeenkomst betreffende de sociale politiek, de Richtlijn inzake ondernemingsraden uit 1994, die raadpleging van werknemers in bedrijven verplicht stelde, en de Richtlijn inzake ouderschapsverlof uit 1996. In de 10 jaar na het Verdrag van Amsterdam van 1997 en de goedkeuring van het Sociale Hoofdstuk heeft de Europese Unie beleidsinitiatieven genomen op verschillende sociale beleidsterreinen, waaronder arbeids- en arbeidsverhoudingen, gelijke kansen, gezondheid en veiligheid, volksgezondheid, bescherming van kinderen, gehandicapten en ouderen, armoede, migrerende werknemers, onderwijs, opleiding en jeugd.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 503,
+            "text": "raadpleging van werknemers in bedrijven"
+          }
+        ],
+        "id": "5726a5525951b619008f78e1",
+        "question": "Wat vereiste de Richtlijn Ondernemingsraad?"
+      }
+    ]
+  },
+  {
+    "title": "Amazone_regenwoud",
+    "context": "De behoeften van sojaboeren zijn gebruikt om veel van de controversiële transportprojecten in het Amazonegebied te rechtvaardigen. De eerste twee snelwegen openden met succes het regenwoud en leidden tot meer nederzettingen en ontbossing. De gemiddelde jaarlijkse ontbossing tussen 2000 en 2005 (22.392 km2 per jaar) was 18% hoger dan in de vijf jaar daarvoor (19.018 km2 per jaar). Hoewel de ontbossing in het Braziliaanse Amazonegebied tussen 2004 en 2014 aanzienlijk is afgenomen, is er tot op de dag van vandaag sprake van een toename.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 17,
+            "text": "soja"
+          }
+        ],
+        "id": "572a005f1d046914007796b7",
+        "question": "Snelwegen in het Amazonewoud werden voornamelijk aangelegd voor welk soort boeren?"
+      }
+    ]
+  },
+  {
+    "title": "Ctenophora",
+    "context": "De relatie van ctenoforen tot de rest van de Metazoa is erg belangrijk voor ons begrip van de vroege evolutie van dieren en het ontstaan van meercelligheid. Er wordt al vele jaren over gediscussieerd. Ctenoforen zouden het zustergeslacht zijn van de Bilateria, van de Cnidaria, van de Cnidaria, de Placozoa en de Bilateria, en van alle andere dierlijke phyla. Een reeks studies die keken naar de aan- en afwezigheid van leden van genfamilies en signaalwegen (bijv. homeoboxen, nucleaire receptoren, de Wnt signaalweg en natriumkanalen) toonden bewijs dat congruent is met de laatste twee scenario's, dat ctenoforen ofwel zus zijn van Cnidaria, Placozoa en Bilateria of zus van alle andere dierlijke fyla. Verschillende recentere studies waarin de volledige genomen van ctenoforen werden vergeleken met andere genomen van dieren hebben ook bevestigd dat ctenoforen zuster zijn van alle andere dieren. Dit standpunt zou suggereren dat neurale en spiercel typen ofwel verloren gingen in belangrijke dierlijke lijnen (bijv. Porifera) of dat ze onafhankelijk evolueerden in de ctenofoor lijn. Andere onderzoekers hebben echter betoogd dat de plaatsing van Ctenophora als zuster van alle andere dieren een statistische anomalie is, veroorzaakt door de hoge evolutiesnelheid in de genomen van ctenoforen, en dat Porifera (sponzen) in plaats daarvan het vroegst-verschillende dierlijke phylum is. Ctenoforen en sponzen zijn ook de enige bekende dierlijke phyla die geen echte hox-genen hebben.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 1305,
+            "text": "Porifera"
+          }
+        ],
+        "id": "57269016708984140094ca42",
+        "question": "Wat is volgens sommige onderzoekers het vroegst verwijderde dierlijke phylum?"
+      }
+    ]
+  },
+  {
+    "title": "Fresno,Californië",
+    "context": "Er waren 158.349 huishoudens, waarvan er 68.511 (43,3%) kinderen jonger dan 18 jaar inwoonden, 69.284 (43,8%) samenwonende paren van verschillend geslacht waren, 30.547 (19,3%) een vrouwelijke huiseigenaar zonder echtgenoot hadden, 11.698 (7,4%) een mannelijke huiseigenaar zonder echtgenote hadden. Er waren 12.843 (8,1%) ongehuwde partners van verschillend geslacht en 1.388 (0,9%) gehuwde stellen of partners van hetzelfde geslacht. 35.064 huishoudens (22,1%) bestonden uit individuen en 12.344 (7,8%) hadden iemand alleen wonen die 65 jaar of ouder was. De gemiddelde grootte van een huishouden was 3,07. Er waren 111.529 gezinnen (70,4% van alle huishoudens); de gemiddelde gezinsgrootte was 3,62.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": -1,
+            "text": "68,511"
+          }
+        ],
+        "id": "5725f8f5ec44d21400f3d7b1",
+        "question": "In hoeveel huishoudens wonen kinderen jonger dan 18 jaar?"
+      }
+    ]
+  },
+  {
+    "title": "Pakket_schakelen",
+    "context": "ARPANET en SITA HLN werden operationeel in 1969. Voor de introductie van X.25 in 1973 waren er ongeveer twintig verschillende netwerktechnologieën ontwikkeld. Twee fundamentele verschillen betroffen de verdeling van functies en taken tussen de hosts aan de rand van het netwerk en de netwerkkern. In het datagramsysteem hebben de hosts de verantwoordelijkheid om te zorgen voor een ordelijke levering van pakketten. Het User Datagram Protocol (UDP) is een voorbeeld van een datagramprotocol. In het virtuele oproepsysteem garandeert het netwerk de opeenvolgende levering van gegevens aan de host. Dit resulteert in een eenvoudigere host interface met minder functionaliteit dan in het datagram model. De X.25 protocol suite maakt gebruik van dit netwerktype.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": -1,
+            "text": "UserDatagram Protocol"
+          }
+        ],
+        "id": "57263c78ec44d21400f3dc7e",
+        "question": "X.25 gebruikt welk type netwerk"
+      }
+    ]
+  },
+  {
+    "title": "Zwarte_Dood",
+    "context": "Er zijn verschillende alternatieven voor Y. pestis naar voren gebracht. Twigg suggereerde dat de oorzaak een vorm van miltvuur was en Norman Cantor (2001) dacht dat het misschien een combinatie was van miltvuur en andere pandemieën. Scott en Duncan hebben betoogd dat de pandemie een vorm van infectieziekte was die zich kenmerkt als hemorragische pest, vergelijkbaar met Ebola. Archeoloog Barney Sloane heeft betoogd dat er onvoldoende bewijs is voor het uitsterven van een groot aantal ratten in de archeologische gegevens van de middeleeuwse waterkant in Londen en dat de pest zich te snel verspreidde om de stelling te ondersteunen dat de Y. pestis werd verspreid door vlooien op ratten; hij stelt dat de overdracht van mens tot mens moet zijn geweest. Er is echter geen enkele alternatieve oplossing die algemeen geaccepteerd is. Veel geleerden die pleiten voor Y. pestis als het belangrijkste agens van de pandemie, suggereren dat de omvang en symptomen kunnen worden verklaard door een combinatie van builenpest met andere ziekten, waaronder tyfus, pokken en infecties van de luchtwegen. Naast de builenpest wijzen anderen op bijkomende septikemische (een soort \"bloedvergiftiging\") en pneumonische (een door de lucht verspreide plaag die de longen aanvalt vóór de rest van het lichaam) vormen van de pest, die de duur van uitbraken door de seizoenen heen verlengen en helpen verklaren waarom het sterftecijfer hoog is en er bijkomende symptomen worden vastgesteld. In 2014 kondigden wetenschappers van Public Health England de resultaten aan van een onderzoek van 25 lichamen die waren opgegraven in het gebied Clerkenwell in Londen en van testamenten die in die periode in Londen waren geregistreerd.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": -1,
+            "text": "een combinatie van miltvuur en andere pandemieën"
+          }
+        ],
+        "id": "5726534d708984140094c26e",
+        "question": "Wat was de theorie van Norman Cantor over de pest?"
+      }
+    ]
+  },
+  {
+    "title": "Geologie",
+    "context": "In het laboratorium analyseren stratigrafen monsters van stratigrafische secties die uit het veld terugkomen, zoals die van boorkernen. Stratigrafisten analyseren ook gegevens van geofysische onderzoeken die de locaties van stratigrafische eenheden in de ondergrond laten zien. Geofysische gegevens en boorputlogs kunnen gecombineerd worden om een beter beeld van de ondergrond te krijgen en stratigrafisten gebruiken vaak computerprogramma's om dit in drie dimensies te doen. Stratigrafen kunnen deze gegevens vervolgens gebruiken om oude processen aan het aardoppervlak te reconstrueren, vroegere omgevingen te interpreteren en gebieden voor water-, kolen- en koolwaterstofwinning te lokaliseren.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 306,
+            "text": "putlogs"
+          }
+        ],
+        "id": "57268066708984140094c823",
+        "question": "Wat kan gecombineerd worden met geofysische gegevens om een beter beeld van de ondergrond te krijgen?"
+      }
+    ]
+  },
+  {
+    "title": "Newcastle_upon_Tyne",
+    "context": "Lindisfarne is een folkrockgroep met een sterke band met Tyneside. Hun beroemdste nummer, \"Fog on the Tyne\" (1971), werd in 1990 gecoverd door Geordie ex-voetballer Paul Gascoigne. Venom, door velen beschouwd als de grondleggers van black metal en zeer invloedrijk voor de gehele extreme metalscene, werd in 1979 in Newcastle opgericht. Folkmetalband Skyclad, vaak beschouwd als de eerste folkmetalband, werd ook opgericht in Newcastle na het uiteenvallen van Martin Walkyier thrashmetalband Sabbat. Andy Taylor, voormalig leadgitarist van Duran Duran, werd hier geboren in 1961. Brian Johnson was lid van de plaatselijke rockband Geordie voordat hij de leadzanger van AC/DC werd.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 181,
+            "text": "Venom"
+          }
+        ],
+        "id": "5726847f708984140094c8ad",
+        "question": "Welke band wordt door velen beschouwd als de eerste black metal groep?"
+      }
+    ]
+  },
+  {
+    "title": "Victoria_en_Albert_Museum",
+    "context": "In 1857 schonk John Sheepshanks 233 schilderijen, voornamelijk van hedendaagse Britse kunstenaars, en een vergelijkbaar aantal tekeningen aan het museum met de bedoeling een 'A National Gallery of British Art' te vormen, een rol die sindsdien is overgenomen door Tate Britain; vertegenwoordigde kunstenaars zijn William Blake, James Barry, Henry Fuseli, Sir Edwin Henry Landseer, Sir David Wilkie, William Mulready, William Powell Frith, Millais en Hippolyte Delaroche. Hoewel enkele werken van Constable met het legaat van Sheepshanks naar het museum kwamen, werd het merendeel van de werken van de kunstenaar geschonken door zijn dochter Isabel in 1888, waaronder het grote aantal schetsen in olieverf, waarvan de belangrijkste de olieverfschets op ware grootte uit 1821 voor The Hay Wain is. Andere kunstenaars met werken in de collectie zijn: Bernardino Fungai, Marcus Gheeraerts de Jonge, Domenico di Pace Beccafumi, Fioravante Ferramola, Jan Brueghel de Oude, Anthony van Dyck, Ludovico Carracci, Antonio Verrio, Giovanni Battista Tiepolo, Domenico Tiepolo, Canaletto, Francis Hayman, Pompeo Batoni, Benjamin West, Paul Sandby, Richard Wilson, William Etty, Henry Fuseli, Sir Thomas Lawrence, James Barry, Francis Danby, Richard Parkes Bonington en Alphonse Legros.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 3,
+            "text": "1857"
+          }
+        ],
+        "id": "5726f4a0708984140094d6e9",
+        "question": "In welk jaar schonk John Sheepshanks een grote collectie schilderijen?"
+      }
+    ]
+  },
+  {
+    "title": "Amerikaanse_omroep",
+    "context": "In 2000 lanceerde ABC een webgebaseerde promotiecampagne rond het cirkelvormige logo, ook wel \"de stip\" genoemd, waarin stripfiguur Little Dot bezoekers opriep om \"de stip te downloaden\", een programma dat ervoor zorgde dat het ABC-logo rond het scherm vloog en zich in de rechterbenedenhoek vestigde. Het netwerk huurde de Troika Design Group in om de identiteit voor 2001-2002 te ontwerpen en te produceren, die de zwart-gele kleuren van het logo bleef gebruiken en stippen en strepen in verschillende promotie- en identificatiespots toonde.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": -1,
+            "text": "zwart-geel"
+          }
+        ],
+        "id": "572734af708984140094dae5",
+        "question": "Welke kleuren had het ABC logo van 2001?"
+      }
+    ]
+  },
+  {
+    "title": "Genghis_Khan",
+    "context": "Terwijl Jamukha en Temüjin in hun vriendschap uit elkaar dreven, begonnen ze elk hun macht te consolideren en werden ze al snel rivalen. Jamukha steunde de traditionele Mongoolse aristocratie, terwijl Temüjin een meritocratische methode volgde en een bredere, maar lagere klasse, volgelingen aantrok. Door zijn eerdere nederlaag tegen de Merkits en een proclamatie van de sjamaan Kokochu dat de Eeuwige Blauwe Lucht de wereld voor Temüjin had gereserveerd, begon Temüjin aan de macht te komen. In 1186 werd Temüjin verkozen tot khan van de Mongolen. Jamukha, die bedreigd werd door de snelle opkomst van Temüjin, nam echter snel maatregelen om Temüjins ambities een halt toe te roepen. In 1187 lanceerde hij een aanval op zijn voormalige vriend met een leger van dertigduizend soldaten. Temüjin verzamelde haastig zijn volgelingen om zich tegen de aanval te verdedigen, maar hij werd beslissend verslagen in de Slag bij Dalan Balzhut. Jamukha gruwelde enorm en schaadde zijn imago door zeventig jonge mannelijke gevangenen levend te koken in ketels, waardoor veel van zijn potentiële volgelingen van hem vervreemden en sympathie voor Temüjin opwekten. Toghrul werd als beschermheer van Temüjin verbannen naar de Qara Khitai. Het leven van Temüjin voor de volgende tien jaar is erg onduidelijk, omdat historische verslagen meestal zwijgen over die periode.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 153,
+            "text": "de traditionele Mongoolse aristocratie"
+          }
+        ],
+        "id": "5726acc1f1498d1400e8e6ca",
+        "question": "Wie steunde Jamukha die geen deel uitmaakten van Temüjins machtsbasis?"
+      }
+    ]
+  },
+  {
+    "title": "Apotheek",
+    "context": "De vooruitgang die in het Midden-Oosten werd geboekt op het gebied van plantkunde en scheikunde leidde ertoe dat de geneeskunde in de middeleeuwse islam de farmacologie aanzienlijk ontwikkelde. Muhammad ibn Zakarīya Rāzi (Rhazes) (865-915), bijvoorbeeld, bevorderde het medische gebruik van chemische verbindingen. Abu al-Qasim al-Zahrawi (Abulcasis) (936-1013) pionierde met de bereiding van medicijnen door sublimatie en destillatie. Zijn Liber servitoris is bijzonder interessant, omdat het de lezer recepten verschaft en uitlegt hoe de `simples' te bereiden waaruit de complexe medicijnen werden samengesteld die toen algemeen gebruikt werden. Sabur Ibn Sahl (869) was echter de eerste arts die een farmacopoedia opstartte, waarin hij een grote verscheidenheid aan geneesmiddelen en remedies voor kwalen beschreef. Al-Biruni (973-1050) schreef een van de meest waardevolle islamitische werken over farmacologie, getiteld Kitab al-Saydalah (Het Boek der Geneesmiddelen), waarin hij de eigenschappen van geneesmiddelen beschrijft en de rol van de farmacie en de functies en taken van de apotheker uiteenzet. Ook Avicenna beschreef niet minder dan 700 preparaten, hun eigenschappen, werkingsmechanismen en indicaties. Hij wijdde zelfs een heel deel aan eenvoudige geneesmiddelen in De Canon van de Geneeskunde. Van grote invloed waren ook de werken van al-Maridini van Bagdad en Caïro en Ibn al-Wafid (1008-1074), die beide meer dan vijftig keer in het Latijn werden gedrukt, als De Medicinis universalibus et particularibus door 'Mesue' de jongere, en de Medicamentis simplicibus door 'Abenguefit'. Peter van Abano (1250-1316) vertaalde het werk van al-Maridini en voegde er een supplement aan toe onder de titel De Veneris. De bijdragen van Al-Muwaffaq op dit gebied zijn ook baanbrekend. In de 10e eeuw schreef hij The foundations of the true properties of Remedies, waarin hij onder andere arseenoxide beschreef en bekend was met kiezelzuur. Hij maakte een duidelijk onderscheid tussen natriumcarbonaat en kaliumcarbonaat en vestigde de aandacht op de giftige aard van koperverbindingen, vooral kopervitriool, en ook loodverbindingen. Hij beschrijft ook de destillatie van zeewater om te drinken.[verificatie nodig]",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 71,
+            "text": "plantkunde en scheikunde"
+          }
+        ],
+        "id": "5726ddf6f1498d1400e8ee04",
+        "question": "Ontwikkelingen in welke wetenschappers beïnvloedden het ontstaan van de farmacologie in de middeleeuwse Islam?"
+      }
+    ]
+  },
+  {
+    "title": "Immuunsysteem",
+    "context": "De mechanismen die gebruikt worden om het adaptieve immuunsysteem te omzeilen zijn ingewikkelder. De eenvoudigste aanpak is het snel veranderen van niet-essentiële epitopen (aminozuren en/of suikers) op het oppervlak van de ziekteverwekker, terwijl essentiële epitopen verborgen blijven. Dit wordt antigene variatie genoemd. Een voorbeeld hiervan is HIV, dat snel muteert, zodat de eiwitten op zijn virale omhulsel die essentieel zijn om de doelcel binnen te dringen, voortdurend veranderen. Deze frequente veranderingen in antigenen kunnen het falen van vaccins tegen dit virus verklaren. De parasiet Trypanosoma brucei gebruikt een vergelijkbare strategie, waarbij hij voortdurend het ene type oppervlakte-eiwit vervangt door een ander, waardoor hij de antilichaamrespons een stap voor blijft. Het maskeren van antigenen met gastheermoleculen is een andere veelgebruikte strategie om detectie door het immuunsysteem te vermijden. Bij HIV wordt het omhulsel dat de virion omhult gevormd door het buitenste membraan van de gastheercel; zulke \"zelf-omhulde\" virussen maken het moeilijk voor het immuunsysteem om ze te identificeren als \"niet-zelf\" structuren.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 350,
+            "text": "HIV"
+          }
+        ],
+        "id": "572a0e4b6aef051400155215",
+        "question": "Wat is een voorbeeld van een virus dat antigene variatie gebruikt?"
+      }
+    ]
+  },
+  {
+    "title": "Burgerlijke ongehoorzaamheid",
+    "context": "Sommige burgerlijke ongehoorzamen voelen zich verplicht om hun straf te aanvaarden omdat ze geloven in de geldigheid van het sociaal contract, dat iedereen verplicht om de wetten te gehoorzamen die een regering die aan bepaalde normen van legitimiteit voldoet, heeft opgesteld, of om anders de straffen te ondergaan die in de wet staan. Andere burgerlijke ongehoorzamen die voorstander zijn van het bestaan van een regering geloven nog steeds niet in de legitimiteit van hun eigen regering, of geloven niet in de legitimiteit van een bepaalde wet die de regering heeft uitgevaardigd. En nog andere burgerlijke ongehoorzamen, die anarchist zijn, geloven niet in de legitimiteit van welke regering dan ook en zien daarom geen noodzaak om straf te aanvaarden voor een overtreding van de strafwet die geen inbreuk maakt op de rechten van anderen.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": -1,
+            "text": "hun geloof in de geldigheid van het sociaal contract"
+          }
+        ],
+        "id": "5728eb1a3acd2414000e01c6",
+        "question": "Waarom is acceptatie van straf nodig?"
+      }
+    ]
+  },
+  {
+    "title": "Bouw",
+    "context": "Engineering News-Record (ENR) is een vakblad voor de bouwindustrie. Elk jaar verzamelt en rapporteert ENR gegevens over de grootte van ontwerp- en bouwbedrijven. Ze publiceren een lijst van de grootste bedrijven in de Verenigde Staten (Top-40) en ook een lijst van de grootste wereldwijde bedrijven (Top-250, op basis van de hoeveelheid werk die ze buiten hun thuisland doen). In 2014 stelde ENR de gegevens samen in negen marktsegmenten. Ze waren onderverdeeld in transport, aardolie, gebouwen, elektriciteit, industrie, water, productie, riool/afval, telecom, gevaarlijk afval en een tiende categorie voor andere projecten. In hun rapportage over de Top 400 gebruikten ze gegevens over transport, riolering, gevaarlijk afval en water om bedrijven als zware aannemers te rangschikken.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 380,
+            "text": "2014"
+          }
+        ],
+        "id": "57273e50dd62a815002e9a04",
+        "question": "In welk jaar heeft ENR gegevens verzameld in negen marktsegmenten?"
+      }
+    ]
+  },
+  {
+    "title": "Privéschool",
+    "context": "In de laatste jaren van het apartheidstijdperk kregen ouders op blanke overheidsscholen de optie om over te stappen op een \"semi-private\" vorm die Model C werd genoemd, en veel van deze scholen veranderden hun toelatingsbeleid om kinderen van andere rassen toe te laten. Na de overgang naar de democratie werd de wettelijke vorm van \"Model C\" afgeschaft, maar de term wordt nog steeds gebruikt om overheidsscholen aan te duiden die vroeger voorbehouden waren aan blanke kinderen. Deze scholen hebben de neiging om betere academische resultaten te behalen dan overheidsscholen die vroeger gereserveerd waren voor andere rassen. Voormalige \"Model C\"-scholen zijn geen privéscholen, omdat ze onder staatscontrole staan. Alle scholen in Zuid-Afrika (zowel onafhankelijke scholen als openbare scholen) hebben het recht om verplicht schoolgeld te vragen, en voormalige model C-scholen vragen meestal veel meer schoolgeld dan andere openbare scholen.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": -1,
+            "text": "overheidsscholen die vroeger voorbehouden waren aan blanke kinderen"
+          }
+        ],
+        "id": "57275409708984140094dc35",
+        "question": "Welke soorten scholen worden na de apartheid \"Model C\"-scholen genoemd?"
+      }
+    ]
+  },
+  {
+    "title": "Harvard Universiteit",
+    "context": "Undergraduate toelating tot Harvard wordt door de Carnegie Foundation gekarakteriseerd als \"selectiever, lagere transfer-in\". Harvard College accepteerde 5,3% van de aanvragers voor de klas van 2019, een laagterecord en het op één na laagste toelatingspercentage van alle nationale universiteiten. Harvard College beëindigde het Early Action-programma in 2007 omdat het programma aanvragers met lage inkomens en ondervertegenwoordigde minderheden die zich aanmelden voor selectieve universiteiten zou benadelen. Voor de klas van 2016 werd het Early Action-programma echter opnieuw geïntroduceerd.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 355,
+            "text": "2007"
+          }
+        ],
+        "id": "5727d1c93acd2414000ded40",
+        "question": "In welk jaar beëindigde Harvard het Early Action-programma?"
+      }
+    ]
+  },
+  {
+    "title": "Jacksonville,Florida",
+    "context": "Jacksonville ligt in de regio First Coast in het noordoosten van Florida en is gecentreerd aan de oevers van de St. Johns River, ongeveer 40 km ten zuiden van de staatsgrens met Georgia en ongeveer 550 km ten noorden van Miami. De Jacksonville Beaches gemeenschappen liggen langs de aangrenzende Atlantische kust. Het gebied werd oorspronkelijk bewoond door het Timucua-volk en was in 1564 de locatie van de Franse kolonie Fort Caroline, een van de vroegste Europese nederzettingen in wat nu het vasteland van de Verenigde Staten is. Onder Brits bewind groeide de nederzetting op het smalle punt in de rivier waar vee overstak, bij de Seminole bekend als Wacca Pilatka en bij de Britten als Cow Ford. In 1822, een jaar nadat de Verenigde Staten Florida hadden overgenomen van Spanje, werd daar een stad gesticht die vernoemd was naar Andrew Jackson, de eerste militaire gouverneur van het Florida Territory en de zevende president van de Verenigde Staten.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": -1,
+            "text": "340 mijl"
+          }
+        ],
+        "id": "5727cb4b2ca10214002d9677",
+        "question": "Hoe ver is Jacksonville van Miami?"
+      }
+    ]
+  },
+  {
+    "title": "Economische_ongelijkheid",
+    "context": "Hoewel wordt erkend dat economische groei een centrale rol kan spelen bij menselijke ontwikkeling, armoedebestrijding en het behalen van de millenniumdoelstellingen voor ontwikkeling, wordt in de ontwikkelingsgemeenschap steeds meer ingezien dat er speciale inspanningen moeten worden geleverd om ervoor te zorgen dat armere delen van de samenleving kunnen deelnemen aan de economische groei. Het effect van economische groei op armoedebestrijding - de groei-elasticiteit van armoede - kan afhangen van het bestaande niveau van ongelijkheid. Zo kan een land met een lage ongelijkheid, een groeipercentage van 2% per hoofd van de bevolking en 40% van de bevolking die in armoede leeft, de armoede in tien jaar halveren, maar een land met een hoge ongelijkheid zou er bijna 60 jaar over doen om dezelfde reductie te bereiken. In de woorden van Ban Ki-Moon, secretaris-generaal van de Verenigde Naties: \"Economische groei is noodzakelijk, maar niet voldoende om vooruitgang te boeken op het gebied van armoedebestrijding.\"",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 249,
+            "text": "speciale inspanningen"
+          }
+        ],
+        "id": "572a1a5c6aef051400155284",
+        "question": "Wat moet er gebeuren om ervoor te zorgen dat armere leden van de samenleving kunnen deelnemen aan de economische groei?"
+      }
+    ]
+  },
+  {
+    "title": "Dokter_Wie",
+    "context": "De meest frequente muzikale bijdrager tijdens de eerste 15 jaar was Dudley Simpson, die ook bekend staat om zijn thema- en toneelmuziek voor Blake's 7 en om zijn beklemmende themamuziek en score voor de originele 1970-versie van The Tomorrow People. Simpsons eerste Doctor Who-score was Planet of Giants (1964) en hij schreef muziek voor veel avonturen in de jaren 60 en 70, waaronder de meeste verhalen uit de Jon Pertwee/Tom Baker-periode, eindigend met The Horns of Nimon (1979). Hij maakte ook een cameo in The Talons of Weng-Chiang (als een Music Hall dirigent).",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": -1,
+            "text": "de jaren 1960 en 1970"
+          }
+        ],
+        "id": "57281a952ca10214002d9dec",
+        "question": "In welke decennia leverde Dudley Simpson de meeste muzikale bijdragen aan Doctor Who?"
+      }
+    ]
+  },
+  {
+    "title": "Universiteit van Chicago",
+    "context": "De eerste gebouwen van de campus van de Universiteit van Chicago, die deel uitmaken van wat nu bekend staat als de Main Quadrangles, maakten deel uit van een \"masterplan\" dat was bedacht door twee trustees van de Universiteit van Chicago en was uitgezet door de architect van Chicago, Henry Ives Cobb. De Main Quadrangles bestaan uit zes vierhoeken, elk omringd door gebouwen, die grenzen aan één grotere vierhoek. De gebouwen van de Main Quadrangles werden ontworpen door Cobb, Shepley, Rutan en Coolidge, Holabird & Roche en andere architectenbureaus in een mengeling van Victoriaanse gotiek en Collegiale gotiek, naar het voorbeeld van de colleges van de Universiteit van Oxford. (Mitchell Tower is bijvoorbeeld gemodelleerd naar de Magdalen Tower van Oxford en de universiteitsgebouwen, Hutchinson Hall, zijn een kopie van Christ Church Hall)",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 827,
+            "text": "Christ Church Hall"
+          }
+        ],
+        "id": "57284b904b864d19001648e6",
+        "question": "Hutchinson Hall is ontworpen om te lijken op welke Oxford Hall?"
+      }
+    ]
+  },
+  {
+    "title": "Yuan_dynastie",
+    "context": "De historicus Frederick W. Mote schreef dat het gebruik van de term \"sociale klassen\" voor dit systeem misleidend was en dat de positie van mensen binnen het vierklassensysteem geen indicatie was van hun werkelijke sociale macht en rijkdom, maar slechts \"graden van privilege\" inhield. de positie van een persoon binnen de klassen was dus geen garantie voor zijn status, aangezien er rijke Chinezen waren met een goede sociale positie terwijl er minder rijke Mongolen en Semu's waren dan Mongolen en Semu's die in armoede leefden en slecht behandeld werden.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 14,
+            "text": "Frederick W. Mote"
+          }
+        ],
+        "id": "5728848cff5b5019007da298",
+        "question": "Wie vond dat het sociale klassensysteem van de Yuan geen sociale klassen mocht worden genoemd?"
+      }
+    ]
+  },
+  {
+    "title": "Kenia",
+    "context": "Kenia scoort laag op de corruptieperceptie-index (CPI) van Transparency International, een graadmeter voor de corruptie in de publieke sector in verschillende landen. In 2012 stond het land op de 139e plaats van 176 landen in de CPI, met een score van 27/100. Er zijn echter verschillende belangrijke ontwikkelingen. Er zijn echter een aantal belangrijke ontwikkelingen met betrekking tot het beteugelen van corruptie door de Keniaanse regering, bijvoorbeeld de oprichting van een nieuwe en onafhankelijke Ethics and Anti-Corruption Commission (EACC).",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": -1,
+            "text": "de oprichting van een nieuwe, onafhankelijke commissie voor ethiek en corruptiebestrijding"
+          }
+        ],
+        "id": "57290b21af94a219006a9fd2",
+        "question": "Hoe gaat Kenia corruptie tegen?"
+      }
+    ]
+  },
+  {
+    "title": "Intergouvernementeel_panel_over klimaatverandering",
+    "context": "Het derde evaluatierapport (TAR) bevatte een prominente grafiek met het label \"Millennial Northern Hemisphere temperature reconstruction\", gebaseerd op een artikel uit 1999 van Michael E. Mann, Raymond S. Bradley en Malcolm K. Hughes (MBH99), waarnaar wordt verwezen als de \"hockeystickgrafiek\". Deze grafiek was een uitbreiding van de vergelijkbare grafiek in figuur 3.20 uit het tweede evaluatierapport van het IPCC uit 1995 en verschilde van een schema in het eerste evaluatierapport dat geen temperatuureenheden bevatte, maar grotere variaties in de mondiale temperatuur over de afgelopen 1000 jaar leek weer te geven, en hogere temperaturen tijdens de Middeleeuwse Warme Periode dan halverwege de 20e eeuw. Het schema was geen werkelijke plot van gegevens en was gebaseerd op een diagram van temperaturen in Midden-Engeland, waarbij de temperaturen werden verhoogd op basis van documentair bewijs van middeleeuwse wijngaarden in Engeland. Zelfs met deze verhoging kwam het maximum dat werd weergegeven voor de Middeleeuwse Warme Periode niet overeen met de temperaturen die in 2007 in Midden-Engeland werden gemeten. De bevinding van MBH99 werd ondersteund door aangehaalde reconstructies van Jones et al. 1998, Pollack, Huang & Shen 1998, Crowley & Lowery 2000 en Briffa 2000, waarbij verschillende gegevens en methoden werden gebruikt. De reconstructies van Jones et al. en Briffa werden in figuur 2.21 van het IPCC-rapport vergeleken met de MBH99-reconstructie.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 177,
+            "text": "Michael E. Mann, Raymond S. Bradley en Malcolm K. Hughes"
+          }
+        ],
+        "id": "57294209af94a219006aa202",
+        "question": "Wie schreef het artikel waarop de \"Millennial Northern Hemisphere temperature reconstruction\" grafiek was gebaseerd?"
+      }
+    ]
+  },
+  {
+    "title": "Chloroplast",
+    "context": "Er bestaan een aantal veel voorkomende misvattingen over de buitenste en binnenste membranen van chloroplasten. Het feit dat chloroplasten omgeven zijn door een dubbel membraan wordt vaak aangehaald als bewijs dat ze afstammen van endosymbiotische cyanobacteriën. Dit wordt vaak geïnterpreteerd als zou het buitenste chloroplastmembraan het product zijn van het celmembraan van de gastheer dat is gevouwen om een blaasje te vormen dat de voorouderlijke cyanobacterie omgeeft - wat niet waar is - beide chloroplastmembranen zijn homoloog aan de oorspronkelijke dubbele membranen van de cyanobacterie.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 528,
+            "text": "homoloog"
+          }
+        ],
+        "id": "57296d1b1d0469140077940f",
+        "question": "Hoe verhouden beide chloroplastmembranen zich tot de oorspronkelijke dubbele membranen van de cyanobacterie?"
+      }
+    ]
+  },
+  {
+    "title": "Eerste_nummer",
+    "context": "In het bijzonder wordt deze norm kleiner als een getal met p wordt vermenigvuldigd, in schril contrast met de gebruikelijke absolute waarde (ook wel oneindig priemgetal genoemd). Terwijl het invullen van Q (ruwweg, het vullen van de gaten) met betrekking tot de absolute waarde het veld van reële getallen oplevert, levert het invullen met betrekking tot de p-adische norm |-|p het veld van p-adische getallen op. Dit zijn in wezen alle mogelijke manieren om Q af te ronden, volgens de stelling van Ostrowski. Bepaalde rekenkundige vragen met betrekking tot Q of meer algemene globale velden kunnen heen en weer worden overgebracht naar de voltooide (of lokale) velden. Dit lokaal-globaal principe onderstreept opnieuw het belang van priemgetallen voor de getaltheorie.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 259,
+            "text": "de absolute waarde"
+          }
+        ],
+        "id": "5729a26d6aef05140015505c",
+        "question": "Het invullen van Q ten opzichte van wat levert het veld van reële getallen op?"
+      }
+    ]
+  },
+  {
+    "title": "Rijn",
+    "context": "De Rijn-Maasdelta, het belangrijkste natuurgebied van Nederland, begint bij Millingen aan de Rijn, vlakbij de Nederlands-Duitse grens met de splitsing van de Rijn in Waal en Nederrijn. Omdat de Rijn het meeste water aanvoert, wordt meestal de kortere term Rijndelta gebruikt. Deze naam wordt echter ook gebruikt voor de rivierdelta waar de Rijn uitmondt in het Bodenmeer, dus het is duidelijker om de grotere Rijn-Maasdelta te noemen, of zelfs Rijn-Maas-Schelde delta, aangezien de Schelde in dezelfde delta uitmondt.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 3,
+            "text": "Rijn-Maas"
+          }
+        ],
+        "id": "572ff673b2c2fd1400568669",
+        "question": "Wat is de naam van de delta in Nederland?"
+      }
+    ]
+  },
+  {
+    "title": "Schots_Parlement",
+    "context": "Een ander type commissie wordt normaal gesproken ingesteld om wetsvoorstellen van particulieren te onderzoeken die bij het Schotse parlement worden ingediend door een externe partij of initiatiefnemer die geen lid is van het Schotse parlement of de Schotse regering. Particuliere wetsvoorstellen hebben normaal gesproken betrekking op grootschalige ontwikkelingsprojecten, zoals infrastructuurprojecten waarvoor land of onroerend goed nodig is. Er zijn Private Bill Committees opgericht om wetgeving te onderzoeken over zaken als de ontwikkeling van het Edinburgh Tram Network, de Glasgow Airport Rail Link, de Airdrie-Bathgate Rail Link en uitbreidingen van de National Gallery of Scotland.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 15,
+            "text": "commissie"
+          }
+        ],
+        "id": "572fc8a904bcaa1900d76d1f",
+        "question": "Wat is ingesteld om wetsvoorstellen te onderzoeken die door buitenstaanders van de partij zijn ingediend?"
+      }
+    ]
+  },
+  {
+    "title": "Islamisme",
+    "context": "Terwijl hij rechten en filosofie studeerde in Engeland en Duitsland, werd Iqbal lid van de Londense afdeling van de All India Muslim League. In 1908 keerde hij terug naar Lahore. Terwijl hij zijn tijd verdeelde tussen zijn advocatenpraktijk en filosofische poëzie, bleef Iqbal actief in de Moslimliga. Hij was geen voorstander van Indiase betrokkenheid bij de Eerste Wereldoorlog en bleef in nauw contact met politieke moslimleiders zoals Muhammad Ali Johar en Muhammad Ali Jinnah. Hij was een criticus van het mainstream Indiase nationalistische en secularistische Indian National Congress. Iqbal's zeven Engelse lezingen werden in 1934 gepubliceerd door Oxford University press in een boek met de titel The Reconstruction of Religious Thought in Islam. Deze lezingen gaan over de rol van de Islam als religie en als politieke en juridische filosofie in de moderne tijd.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": -1,
+            "text": "All India Moslimliga"
+          }
+        ],
+        "id": "572ffee1947a6a140053cf15",
+        "question": "Bij welke organisatie sloot Iqbal zich aan in Londen?"
+      }
+    ]
+  },
+  {
+    "title": "Imperialisme",
+    "context": "De Royal Geographical Society van Londen en andere geografische genootschappen in Europa hadden grote invloed en konden reizigers financieren die terugkwamen met verhalen over hun ontdekkingen. Politieke geografen zoals Friedrich Ratzel uit Duitsland en Halford Mackinder uit Groot-Brittannië steunden ook het imperialisme. Ratzel geloofde dat expansie noodzakelijk was voor het overleven van een staat, terwijl Mackinder de imperiale expansie van Groot-Brittannië steunde; deze twee argumenten domineerden decennialang de discipline.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 276,
+            "text": "Groot-Brittannië"
+          }
+        ],
+        "id": "573088da069b53140083216c",
+        "question": "Waar werd Halford Mackinder geboren?"
+      }
+    ]
+  },
+  {
+    "title": "Verenigde_Methodistenkerk",
+    "context": "De beweging die zou uitgroeien tot de United Methodist Church begon halverwege de 18e eeuw binnen de Church of England. Een kleine groep studenten, onder wie John Wesley, Charles Wesley en George Whitefield, kwam bijeen op de campus van de universiteit van Oxford. Ze richtten zich op Bijbelstudie, methodische bestudering van de Schrift en een heilig leven. Andere studenten bespotten hen en zeiden dat ze de \"Heilige Club\" en \"de Methodisten\" waren, omdat ze methodisch en uitzonderlijk gedetailleerd waren in hun bijbelstudie, opvattingen en gedisciplineerde levensstijl. Uiteindelijk begonnen de zogenaamde Methodisten individuele genootschappen of klassen voor leden van de Church of England die een religieuzer leven wilden leiden.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 452,
+            "text": "omdat ze methodisch en uitzonderlijk gedetailleerd waren in hun bijbelstudie"
+          }
+        ],
+        "id": "57309921396df919000961f8",
+        "question": "Waarom werd de studentengroep \"de Methodisten\" genoemd?"
+      }
+    ]
+  },
+  {
+    "title": "Franse_en_Indische_oorlog",
+    "context": "Nadat Washington was teruggekeerd naar Williamsburg, gaf Dinwiddie hem opdracht een grotere troepenmacht te leiden om Trent bij te staan in zijn werk. Onderweg vernam Washington dat Trent zich had teruggetrokken. Omdat Tanaghrisson steun aan de Britten had beloofd, ging Washington verder naar Fort Duquesne en ontmoette de Mingo leider. Toen hij hoorde dat er een Franse verkenner in de buurt was, verraste Washington, samen met Tanaghrisson en zijn groep, de Canadezen op 28 mei in wat bekend werd als de Slag bij Jumonville Glen. Ze doodden veel Canadezen, waaronder hun bevelvoerend officier, Joseph Coulon de Jumonville, wiens hoofd naar verluidt door Tanaghrisson met een tomahawk werd opengereten. De historicus Fred Anderson suggereert dat Tanaghrisson handelde om de steun van de Britten te winnen en het gezag over zijn eigen mensen terug te krijgen. Die waren geneigd om de Fransen te steunen, met wie ze lange handelsbetrekkingen hadden. Een van Tanaghrisson's mannen vertelde Contrecoeur dat Jumonville was gedood door Brits musketvuur.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": -1,
+            "text": "veel Canadezen, waaronder hun bevelhebber, Joseph Coulon de Jumonville"
+          }
+        ],
+        "id": "5733f309d058e614000b6649",
+        "question": "Wat waren de slachtoffers van de strijd?"
+      }
+    ]
+  },
+  {
+    "title": "Kracht",
+    "context": "De ontwikkeling van fundamentele theorieën voor krachten verliep langs de lijnen van eenwording van ongelijksoortige ideeën. Isaac Newton verenigde bijvoorbeeld de kracht die verantwoordelijk is voor objecten die aan het oppervlak van de aarde vallen met de kracht die verantwoordelijk is voor de banen van de hemelmechanica in zijn universele gravitatietheorie. Michael Faraday en James Clerk Maxwell toonden aan dat elektrische en magnetische krachten verenigd waren in één consistente theorie van elektromagnetisme. In de 20e eeuw leidde de ontwikkeling van de kwantummechanica tot het moderne inzicht dat de eerste drie fundamentele krachten (behalve zwaartekracht) manifestaties zijn van materie (fermionen) die op elkaar inwerken door virtuele deeltjes uit te wisselen die ijkbosonen worden genoemd. Dit standaardmodel van de deeltjesfysica veronderstelt een overeenkomst tussen de krachten en leidde wetenschappers ertoe om de eenwording van de zwakke en elektromagnetische krachten te voorspellen in de elektrozwaktheorie, die vervolgens werd bevestigd door observatie. De volledige formulering van het standaardmodel voorspelt een nog niet waargenomen Higgs-mechanisme, maar waarnemingen zoals neutrino-oscillaties geven aan dat het standaardmodel onvolledig is. Een Grand Unified Theory die de combinatie van de elektrozwakke wisselwerking met de sterke kracht mogelijk maakt, wordt als een mogelijkheid gezien en kandidaat-theorieën zoals supersymmetrie worden voorgesteld om enkele van de onopgeloste problemen in de natuurkunde op te lossen. Natuurkundigen proberen nog steeds zelfconsistente unificatiemodellen te ontwikkelen die alle vier fundamentele interacties zouden combineren in een theorie van alles. Einstein heeft dit geprobeerd en gefaald, maar momenteel is de snaartheorie de populairste benadering om deze vraag te beantwoorden.:212-219",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 1606,
+            "text": "unificatie"
+          }
+        ],
+        "id": "5737821cc3c5551400e51f1b",
+        "question": "Wat voor soort zelfconsistente modellen proberen natuurkundigen te maken die een theorie van alles zouden creëren?"
+      }
+    ]
+  }
+]

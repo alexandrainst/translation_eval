@@ -1,0 +1,770 @@
+[
+  {
+    "title": "Super_Bowl_50",
+    "context": "Med 4:51 tilbage af den ordinære spilletid fik Carolina bolden på deres egen 24-yardlinje med en chance for at sætte gang i et spilafgørende drive, og snart stod de over for 3rd-and-9. På det næste spil strippede Miller bolden fra Newton, og efter at flere spillere dykkede efter den, tog den et langt hop bagud og blev erobret af Ward, som returnerede den fem yards til Panthers' 4-yardlinje. Selvom flere spillere kastede sig ned i bunken for at forsøge at gribe bolden, gjorde Newton det ikke, og hans manglende aggression fik senere hård kritik. I mellemtiden blev Denvers angreb holdt ude af end zone i tre spil, men en holding penalty på cornerback Josh Norman gav Broncos et nyt sæt downs. Så scorede Anderson på et 2-yard touchdown-løb, og Manning gennemførte et kast til Bennie Fowler for en 2-point conversion, hvilket gav Denver en føring på 24-10 med 3:08 tilbage og i bund og grund afgjorde kampen. Carolina havde yderligere to drives, men formåede ikke at få et first down på hvert af dem.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 77,
+            "text": "24"
+          }
+        ],
+        "id": "56beca913aeaaa14008c946d",
+        "question": "På hvilken yardlinje begyndte Carolina med 4:51 tilbage af kampen?"
+      }
+    ]
+  },
+  {
+    "title": "Warszawa",
+    "context": "I nærheden, i Ogród Saski (den saksiske have), var sommerteatret i drift fra 1870 til 1939, og i mellemkrigstiden omfattede teaterkomplekset også Momus, Warszawas første litterære kabaret, og Leon Schillers musikteater Melodram. Wojciech Bogusławski-teatret (1922-26) var det bedste eksempel på \"polsk monumentalteater\". Fra midten af 1930'erne husede Det Store Teaters bygning Upati Institute of Dramatic Arts - det første statsdrevne akademi for dramatisk kunst med en afdeling for skuespil og en afdeling for sceneinstruktioner.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 27,
+            "text": "Den Saksiske Have"
+          }
+        ],
+        "id": "57339c16d058e614000b5ec6",
+        "question": "Hvor lå sommerteatret?"
+      }
+    ]
+  },
+  {
+    "title": "Normannerne",
+    "context": "Før Rollo ankom, adskilte befolkningen sig ikke fra Picardiet eller Île-de-France, som blev betragtet som \"frankiske\". Tidligere vikingebosættere var begyndt at ankomme i 880'erne, men var delt mellem kolonier i øst (Roumois og Pays de Caux) omkring den lave Seine-dal og i vest på Cotentin-halvøen, og var adskilt af traditionelle pagii, hvor befolkningen forblev omtrent den samme med næsten ingen udenlandske bosættere. Rollos kontingenter, der plyndrede og i sidste ende bosatte sig i Normandiet og dele af Atlanterhavskysten, omfattede danskere, nordmænd, nordiske gælere, Orkney-vikinger, muligvis svenskere og anglo-danskere fra det engelske Danelagen under nordisk kontrol.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 4,
+            "text": "Rollo"
+          }
+        ],
+        "id": "56dde1d966d3e219004dad8d",
+        "question": "Hvem gav de oprindelige vikingebosættere en fælles identitet, da de ankom?"
+      }
+    ]
+  },
+  {
+    "title": "Nikola_Tesla",
+    "context": "I 1900 fik Tesla patent på et \"system til transmission af elektrisk energi\" og \"en elektrisk sender.\" Da Guglielmo Marconi lavede sin berømte første transatlantiske radiotransmission nogensinde i 1901, spøgte Tesla med, at det var gjort med 17 Tesla-patenter, selvom der ikke er meget, der understøtter denne påstand. Dette var begyndelsen på mange års patentkampe om radio, hvor Teslas patenter blev opretholdt i 1903, efterfulgt af en omvendt afgørelse til fordel for Marconi i 1904. I 1943 genindsatte USA's højesteret Teslas, Oliver Lodges og John Stones tidligere patenter. Domstolen erklærede, at deres afgørelse ikke havde nogen betydning for Marconis påstand om at være den første til at opnå radiotransmission, men at eftersom Marconis krav på visse patenter var tvivlsomme, kunne han ikke kræve krænkelse af de samme patenter (der er påstande om, at højesteret forsøgte at annullere et krav fra Marconi Company mod den amerikanske regering under Første Verdenskrig ved blot at genoprette Teslas tidligere patent).",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 2,
+            "text": "1900"
+          }
+        ],
+        "id": "56e0fc3f7aa994140058e877",
+        "question": "Hvornår fik Tesla patent på sin elektriske sender?"
+      }
+    ]
+  },
+  {
+    "title": "Beregningsmæssig_kompleksitetsteori",
+    "context": "Teori om beregningskompleksitet er en gren af teorien om beregning inden for teoretisk datalogi, der fokuserer på at klassificere beregningsproblemer efter deres iboende sværhedsgrad og relatere disse klasser til hinanden. Et beregningsproblem forstås som en opgave, der i princippet kan løses af en computer, hvilket svarer til at sige, at problemet kan løses ved mekanisk anvendelse af matematiske trin, såsom en algoritme.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 162,
+            "text": "iboende sværhedsgrad"
+          }
+        ],
+        "id": "56e16182e3433e1400422e29",
+        "question": "Efter hvilken hovedattribut klassificeres beregningsproblemer ved hjælp af beregningskompleksitetsteori?"
+      }
+    ]
+  },
+  {
+    "title": "Lærer",
+    "context": "Før i tiden var korporlig afstraffelse (smæk eller padling eller stokkeslag eller remme eller birching for at påføre eleven fysisk smerte) en af de mest almindelige former for skoledisciplin i store dele af verden. De fleste vestlige lande, og nogle andre, har nu forbudt det, men det er stadig lovligt i USA efter en amerikansk højesteretsdom i 1977, som fastslog, at padling ikke var i strid med den amerikanske forfatning.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": -1,
+            "text": "De Forenede Stater"
+          }
+        ],
+        "id": "56e7586d37bdd419002c3eb5",
+        "question": "I hvilket vestligt land er korporlig afstraffelse stadig tilladt?"
+      }
+    ]
+  },
+  {
+    "title": "Martin_Luther",
+    "context": "Luthers salmer blev ofte fremkaldt af særlige begivenheder i hans liv og den igangværende reformation. Denne adfærd startede med, at han hørte om henrettelsen af Johann Esch og Heinrich Voes, de første personer, der blev martyrdræbt af den romersk-katolske kirke for lutherske synspunkter, hvilket fik Luther til at skrive salmen \"Ein neues Lied wir heben an\" (\"En ny sang vi rejser\"), som generelt er kendt på engelsk af John C. Messenger. Messengers oversættelse med titlen og første linje \"Flung to the Heedless Winds\" og sunget til melodien Ibstone komponeret i 1875 af Maria C. Tiddeman.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 46,
+            "text": "begivenheder i hans liv"
+          }
+        ],
+        "id": "56f8720eaef237190062608f",
+        "question": "Hvad fik Luther til at skrive salmer?"
+      }
+    ]
+  },
+  {
+    "title": "Sydlige_Californien",
+    "context": "Professionelle sportshold i det sydlige Californien omfatter hold fra NFL (Los Angeles Rams, San Diego Chargers); NBA (Los Angeles Lakers, Los Angeles Clippers); MLB (Los Angeles Dodgers, Los Angeles Angels of Anaheim, San Diego Padres); NHL (Los Angeles Kings, Anaheim Ducks); og MLS (LA Galaxy).",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 243,
+            "text": "Los Angeles Kings"
+          }
+        ],
+        "id": "5706143575f01819005e7953",
+        "question": "Hvad er det andet NHL-hold ud over Anaheim Ducks, der bor i det sydlige Californien?"
+      }
+    ]
+  },
+  {
+    "title": "Sky_(United_Kingdom)",
+    "context": "Aftalerne omfatter faste årlige transportgebyrer på 30 mio. pund for kanalerne, og begge kanaludbydere kan sikre sig yderligere betalinger, hvis deres kanaler opfylder visse præstationsrelaterede mål. I øjeblikket er der ingen indikation af, om den nye aftale omfatter yderligere Video On Demand og High Definition-indhold, som tidligere blev tilbudt af BSkyB. Som en del af aftalerne indvilligede både BSkyB og Virgin Media i at afslutte alle retssager ved højesteret mod hinanden vedrørende transport af deres respektive basiskanaler.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 221,
+            "text": "ingen indikation"
+          }
+        ],
+        "id": "57097d63ed30961900e841fd",
+        "question": "Omfatter den nye aftale Video on demand og High Definition?"
+      }
+    ]
+  },
+  {
+    "title": "Victoria_(Australien)",
+    "context": "Der er også flere mindre godsoperatører og adskillige turistbaner, der kører på strækninger, som engang var en del af et statsejet system. De victorianske linjer bruger hovedsageligt 1.600 mm (5 ft 3 in) bred sporvidde. Men hovedruterne mellem delstaterne samt en række sidebaner i den vestlige del af staten er blevet konverteret til 1.435 mm (4 ft 8 1⁄2 in) standardsporvidde. To turistbaner kører på 760 mm smalsporede strækninger, som er resterne af fem tidligere statsejede strækninger, der blev bygget i bjergrige områder.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": -1,
+            "text": "1.435 mm (4 ft 8 1⁄2 in) standard sporvidde"
+          }
+        ],
+        "id": "570d47b8b3d812140066d62e",
+        "question": "Hvilken sporvidde er nogle linjer blevet ændret til i den vestlige del af Victoria?"
+      }
+    ]
+  },
+  {
+    "title": "Huguenot",
+    "context": "De fleste af huguenotmenighederne (eller enkeltpersoner) i Nordamerika sluttede sig til andre protestantiske kirkesamfund med flere medlemmer. Huguenotterne tilpassede sig hurtigt og giftede sig ofte uden for deres umiddelbare franske samfund, hvilket førte til deres assimilation. Deres efterkommere fortsatte i mange familier med at bruge franske fornavne og efternavne til deres børn langt op i det 19. århundrede. De assimilerede franskmænd ydede talrige bidrag til USA's økonomiske liv, især som købmænd og håndværkere i slutningen af kolonitiden og begyndelsen af den føderale periode. For eksempel etablerede E.I. du Pont, en tidligere elev af Lavoisier, de eleutherske krudtmøller.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": -1,
+            "text": "langt op i det nittende århundrede"
+          }
+        ],
+        "id": "57111713a58dae1900cd6c03",
+        "question": "Hvor længe fortsatte huguenotterne med at bruge franske navne?"
+      }
+    ]
+  },
+  {
+    "title": "Steam_engine",
+    "context": "Den varme, der kræves for at koge vandet og levere dampen, kan komme fra forskellige kilder, oftest fra afbrænding af brændbare materialer med en passende lufttilførsel i et lukket rum (også kaldet forbrændingskammer, ildkammer). I nogle tilfælde er varmekilden en atomreaktor, geotermisk energi, solenergi eller spildvarme fra en forbrændingsmotor eller en industriel proces. I tilfælde af model- eller legetøjsdampmaskiner kan varmekilden være et elektrisk varmeelement.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": -1,
+            "text": "forbrænding af brændbare materialer"
+          }
+        ],
+        "id": "571144d1a58dae1900cd6d6e",
+        "question": "Hvad er den sædvanlige varmekilde til kogende vand i en dampmaskine?"
+      }
+    ]
+  },
+  {
+    "title": "Ilt",
+    "context": "Hyperbarisk (højtryks) medicin bruger særlige iltkamre til at øge partialtrykket af O\n2 omkring patienten og, når det er nødvendigt, det medicinske personale. Kulilteforgiftning, gasbrand og dekompressionssyge (\"the bends\") behandles nogle gange ved hjælp af disse apparater. Øget O\n2-koncentrationen i lungerne hjælper med at fortrænge kulilte fra hæmgruppen i hæmoglobin. Ilt er giftigt for de anaerobe bakterier, der forårsager gasbrand, så et øget partialtryk hjælper med at dræbe dem. Dekompressionssyge opstår hos dykkere, der dekomprimerer for hurtigt efter et dyk, hvilket resulterer i, at der dannes bobler af inert gas, mest nitrogen og helium, i deres blod. At øge trykket af O\n2 så hurtigt som muligt er en del af behandlingen.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 490,
+            "text": "Dekompressionssyge"
+          }
+        ],
+        "id": "571cd3b55efbb31900334e06",
+        "question": "Hvad sker der efter et dyk, hvor en dykker dekomprimerer for hurtigt?"
+      }
+    ]
+  },
+  {
+    "title": "1973_olie_krise",
+    "context": "Nogle købere klagede over, at de første japanske kompaktbiler var for små, og både Toyota og Nissan (dengang kendt som Datsun) introducerede større biler som Toyota Corona Mark II, Toyota Cressida, Mazda 616 og Datsun 810, som gav mere plads til passagererne og flere bekvemmeligheder som aircondition, servostyring, AM-FM-radioer og endda elruder og centrallås uden at øge bilens pris. Et årti efter oliekrisen i 1973 åbnede Honda, Toyota og Nissan, der var ramt af de frivillige eksportrestriktioner fra 1981, amerikanske samlefabrikker og etablerede deres luksusdivisioner (henholdsvis Acura, Lexus og Infiniti) for at adskille sig fra deres massemarkedsmærker.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 158,
+            "text": "Toyota Corona Mark II"
+          }
+        ],
+        "id": "572659535951b619008f7040",
+        "question": "Nævn en større bil, som Toyota kom op med, da køberne klagede over de små kompakte biler?"
+      }
+    ]
+  },
+  {
+    "title": "Apollo_program",
+    "context": "Grissom, White og Chaffee besluttede at navngive deres flyvning Apollo 1 som et motiverende fokus på den første bemandede flyvning. De trænede og gennemførte tests af deres rumfartøj på North American og i højdekammeret på Kennedy Space Center. En \"plugs-out\"-test var planlagt til januar, som skulle simulere en nedtælling til opsendelse på LC-34, hvor rumfartøjet skiftede fra strømforsyning fra rampen til intern strømforsyning. Hvis det lykkedes, ville det blive efterfulgt af en mere grundig nedtællingssimuleringstest tættere på opsendelsen den 21. februar, hvor både rumfartøj og løfteraket ville være forsynet med brændstof.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 206,
+            "text": "højdekammeret"
+          }
+        ],
+        "id": "5725db4aec44d21400f3d6bd",
+        "question": "Hvor gennemførte Apollo 1's besætning tests på Kennedy Space Center?"
+      }
+    ]
+  },
+  {
+    "title": "Europæisk_Unions_lovgivning",
+    "context": "Efter valget af det britiske Labour-parti til regering i 1997, tilsluttede Storbritannien sig formelt aftalen om socialpolitik, hvilket gjorde det muligt at inkludere den med mindre ændringer som det sociale kapitel i Amsterdam-traktaten fra 1997. Storbritannien vedtog efterfølgende den vigtigste lovgivning, der tidligere var aftalt under aftalen om socialpolitik, direktivet om samarbejdsudvalg fra 1994, som krævede høring af arbejdsstyrken i virksomhederne, og direktivet om forældreorlov fra 1996. I de 10 år, der er gået siden Amsterdam-traktaten i 1997 og vedtagelsen af det sociale kapitel, har EU taget politiske initiativer på forskellige socialpolitiske områder, herunder arbejdsmarkedsrelationer, lige muligheder, sundhed og sikkerhed, folkesundhed, beskyttelse af børn, handicappede og ældre, fattigdom, vandrende arbejdstagere, uddannelse og ungdom.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 420,
+            "text": "høring af arbejdsstyrken i virksomheder"
+          }
+        ],
+        "id": "5726a5525951b619008f78e1",
+        "question": "Hvad krævede direktivet om samarbejdsudvalg?"
+      }
+    ]
+  },
+  {
+    "title": "Amazonas_regnskov",
+    "context": "Sojabøndernes behov er blevet brugt til at retfærdiggøre mange af de kontroversielle transportprojekter, der i øjeblikket er under udvikling i Amazonas. De to første motorveje åbnede med succes regnskoven op og førte til øget bosætning og skovrydning. Den gennemsnitlige årlige afskovningsrate fra 2000 til 2005 (22.392 km2 eller 8.646 sq mi pr. år) var 18% højere end i de foregående fem år (19.018 km2 eller 7.343 sq mi pr. år). Selvom afskovningen er faldet markant i det brasilianske Amazonas mellem 2004 og 2014, har der været en stigning frem til i dag.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 0,
+            "text": "soja"
+          }
+        ],
+        "id": "572a005f1d046914007796b7",
+        "question": "Motorveje i Amazonas' regnskov blev primært bygget til hvilken slags landmænd?"
+      }
+    ]
+  },
+  {
+    "title": "Ctenophora",
+    "context": "Ctenophorernes forhold til resten af Metazoa er meget vigtigt for vores forståelse af dyrenes tidlige evolution og oprindelsen af flercellethed. Det har været genstand for debat i mange år. Ctenophores er blevet påstået at være søsterlinjen til Bilateria, søster til Cnidaria, søster til Cnidaria, Placozoa og Bilateria, og søster til alle andre dyrerækker. En række undersøgelser, der så på tilstedeværelsen og fraværet af medlemmer af genfamilier og signalveje (f.eks. homeoboxer, nukleare receptorer, Wnt-signalvejen og natriumkanaler), viste beviser, der stemte overens med de to sidstnævnte scenarier, at ctenophores enten er søster til Cnidaria, Placozoa og Bilateria eller søster til alle andre dyrerækker. Flere nyere studier, der sammenligner komplette sekventerede genomer af pighuder med andre sekventerede dyregenomer, har også understøttet pighuder som søsterlinje til alle andre dyr. Denne holdning antyder, at neural- og muskelcelletyper enten gik tabt i større dyrelinjer (f.eks. Porifera), eller at de udviklede sig uafhængigt i ctenoforernes linje. Andre forskere har dog argumenteret for, at placeringen af Ctenophora som søster til alle andre dyr er en statistisk anomali forårsaget af den høje evolutionshastighed i ctenophore-genomer, og at Porifera (svampe) i stedet er den tidligst divergerende dyreslægt. Ctenophores og svampe er også de eneste kendte dyregrupper, der mangler ægte hox-gener.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 1263,
+            "text": "Porifera"
+          }
+        ],
+        "id": "57269016708984140094ca42",
+        "question": "Hvad mener nogle forskere, at den tidligste dyregruppe er?"
+      }
+    ]
+  },
+  {
+    "title": "Fresno,_California",
+    "context": "Der var 158.349 husstande, hvoraf 68.511 (43,3%) havde børn under 18 år boende, 69.284 (43,8%) var ægtepar af forskelligt køn, der boede sammen, 30.547 (19,3%) havde en kvindelig husholder uden en mand til stede, 11.698 (7,4%) havde en mandlig husholder uden en kone til stede. Der var 12.843 (8,1%) ugifte partnerskaber af forskelligt køn, og 1.388 (0,9%) ægtepar eller partnerskaber af samme køn. 35.064 husstande (22,1%) bestod af enkeltpersoner, og 12.344 (7,8%) havde en person boende alene, som var 65 år eller ældre. Den gennemsnitlige husstandsstørrelse var 3,07. Der var 111.529 familier (70,4% af alle husstande); den gennemsnitlige familiestørrelse var 3,62.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": -1,
+            "text": "68,511"
+          }
+        ],
+        "id": "5725f8f5ec44d21400f3d7b1",
+        "question": "Hvor mange husstande har børn under 18 år boende?"
+      }
+    ]
+  },
+  {
+    "title": "Pakke_switching",
+    "context": "ARPANET og SITA HLN blev operationelle i 1969. Før introduktionen af X.25 i 1973 var der blevet udviklet omkring tyve forskellige netværksteknologier. To fundamentale forskelle involverede fordelingen af funktioner og opgaver mellem værterne i udkanten af netværket og netværkskernen. I datagramsystemet har værterne ansvaret for at sikre en ordentlig levering af pakkerne. User Datagram Protocol (UDP) er et eksempel på en datagramprotokol. I det virtuelle opkaldssystem garanterer netværket sekventiel levering af data til værten. Det resulterer i en enklere værtsgrænseflade med mindre funktionalitet end i datagrammodellen. X.25-protokolpakken bruger denne netværkstype.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 374,
+            "text": "User Datagram Protocol"
+          }
+        ],
+        "id": "57263c78ec44d21400f3dc7e",
+        "question": "X.25 bruger hvilken type netværkstype"
+      }
+    ]
+  },
+  {
+    "title": "Sort_Død",
+    "context": "En række alternativer til Y. pestis er blevet foreslået. Twigg foreslog, at årsagen var en form for miltbrand, og Norman Cantor (2001) mente, at det kunne have været en kombination af miltbrand og andre pandemier. Scott og Duncan har argumenteret for, at pandemien var en form for smitsom sygdom, der karakteriseres som hæmoragisk pest i lighed med ebola. Arkæologen Barney Sloane har argumenteret for, at der ikke er tilstrækkelige beviser for udryddelsen af et stort antal rotter i de arkæologiske optegnelser fra den middelalderlige havnefront i London, og at pesten spredte sig for hurtigt til at støtte tesen om, at Y. pestis blev spredt fra lopper på rotter; han argumenterer for, at overførslen må være sket fra person til person. Men ingen enkelt alternativ løsning har opnået udbredt accept. Mange forskere, der argumenterer for Y. pestis som pandemiens vigtigste agens, foreslår, at dens omfang og symptomer kan forklares ved en kombination af byldepest med andre sygdomme, herunder tyfus, kopper og luftvejsinfektioner. Ud over byldepest-infektionen peger andre på yderligere septikæmiske (en form for \"blodforgiftning\") og pneumoniske (en luftbåren pest, der angriber lungerne før resten af kroppen) former for pest, som forlænger varigheden af udbruddene gennem sæsonerne og hjælper med at forklare den høje dødelighed og de yderligere registrerede symptomer. I 2014 offentliggjorde forskere fra Public Health England resultaterne af en undersøgelse af 25 lig opgravet fra Clerkenwell-området i London, samt af testamenter registreret i London i perioden, som understøttede lungepesthypotesen.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 166,
+            "text": "en kombination af miltbrand og andre pandemier"
+          }
+        ],
+        "id": "5726534d708984140094c26e",
+        "question": "Hvad var Norman Cantors teori om pesten?"
+      }
+    ]
+  },
+  {
+    "title": "Geologi",
+    "context": "I laboratoriet analyserer stratigrafer prøver af stratigrafiske sektioner, der kan returneres fra felten, f.eks. fra borekerner. Stratigrafer analyserer også data fra geofysiske undersøgelser, der viser placeringen af stratigrafiske enheder i undergrunden. Geofysiske data og borehulslogs kan kombineres for at give et bedre billede af undergrunden, og stratigrafer bruger ofte computerprogrammer til at gøre dette i tre dimensioner. Stratigrafer kan derefter bruge disse data til at rekonstruere gamle processer, der fandt sted på jordens overflade, fortolke tidligere miljøer og lokalisere områder til udvinding af vand, kul og kulbrinter.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": -1,
+            "text": "brøndlogs"
+          }
+        ],
+        "id": "57268066708984140094c823",
+        "question": "Hvad kan kombineres med geofysiske data for at give et bedre billede af undergrunden?"
+      }
+    ]
+  },
+  {
+    "title": "Newcastle_upon_Tyne",
+    "context": "Lindisfarne er en folkrock-gruppe med en stærk forbindelse til Tyneside. Deres mest berømte sang, \"Fog on the Tyne\" (1971), blev i 1990 coveret af den tidligere fodboldspiller Paul Gascoigne fra Geordie. Venom, som af mange anses for at være ophavsmændene til black metal og ekstremt indflydelsesrige på den ekstreme metalscene som helhed, blev dannet i Newcastle i 1979. Folk metal-bandet Skyclad, der ofte betragtes som det første folk metal-band, blev også dannet i Newcastle efter opløsningen af Martin Walkyiers thrash metal-band, Sabbat. Andy Taylor, tidligere leadguitarist i Duran Duran, blev født her i 1961. Brian Johnson var medlem af det lokale rockband Geordie, før han blev forsanger i AC/DC.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 204,
+            "text": "Venom"
+          }
+        ],
+        "id": "5726847f708984140094c8ad",
+        "question": "Hvilket band anses af mange for at være den første black metal-gruppe?"
+      }
+    ]
+  },
+  {
+    "title": "Victoria_og_Albert_Museum",
+    "context": "I 1857 donerede John Sheepshanks 233 malerier, hovedsageligt af samtidige britiske kunstnere, og et lignende antal tegninger til museet med det formål at danne et \"A National Gallery of British Art\", en rolle, som Tate Britain siden har påtaget sig. De repræsenterede kunstnere er William Blake, James Barry, Henry Fuseli, Sir Edwin Henry Landseer, Sir David Wilkie, William Mulready, William Powell Frith, Millais og Hippolyte Delaroche. Selvom nogle af Constables værker kom til museet med Sheepshanks legat, blev størstedelen af kunstnerens værker doneret af hans datter Isabel i 1888, herunder det store antal skitser i olie, hvoraf den mest betydningsfulde er olieskitsen til The Hay Wain fra 1821 i fuld størrelse. Andre kunstnere med værker i samlingen inkluderer: Bernardino Fungai, Marcus Gheeraerts den Yngre, Domenico di Pace Beccafumi, Fioravante Ferramola, Jan Brueghel den Ældre, Anthony van Dyck, Ludovico Carracci, Antonio Verrio, Giovanni Battista Tiepolo, Domenico Tiepolo, Canaletto, Francis Hayman, Pompeo Batoni, Benjamin West, Paul Sandby, Richard Wilson, William Etty, Henry Fuseli, Sir Thomas Lawrence, James Barry, Francis Danby, Richard Parkes Bonington og Alphonse Legros.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 2,
+            "text": "1857"
+          }
+        ],
+        "id": "5726f4a0708984140094d6e9",
+        "question": "I hvilket år donerede John Sheepshanks en stor samling malerier?"
+      }
+    ]
+  },
+  {
+    "title": "American_Broadcasting_Company",
+    "context": "I 2000 lancerede ABC en webbaseret reklamekampagne med fokus på sit cirkellogo, også kaldet \"the dot\", hvor tegneseriefiguren Little Dot opfordrede besøgende til at \"downloade the dot\", et program, som ville få ABC-logoet til at flyve rundt på skærmen og sætte sig i nederste højre hjørne. Netværket hyrede Troika Design Group til at designe og producere deres 2001-02-identitet, som fortsatte med at bruge logoets sort-gule farver og indeholdt prikker og striber i forskellige reklame- og identifikationsspots.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": -1,
+            "text": "sort og gul"
+          }
+        ],
+        "id": "572734af708984140094dae5",
+        "question": "Hvilke farver havde ABC's logo i 2001?"
+      }
+    ]
+  },
+  {
+    "title": "Genghis_Khan",
+    "context": "Da Jamukha og Temüjin gled fra hinanden i deres venskab, begyndte de hver især at konsolidere magten og blev snart rivaler. Jamukha støttede det traditionelle mongolske aristokrati, mens Temüjin fulgte en meritokratisk metode og tiltrak en bredere, men lavere klasse, af tilhængere. På grund af sit tidligere nederlag til merkitterne og en proklamation fra shamanen Kokochu om, at den evige blå himmel havde afsat verden til Temüjin, begyndte Temüjin at stige i graderne. I 1186 blev Temüjin valgt til mongolernes khan. Men Jamukha, der var truet af Temüjins hurtige opstigning, gik hurtigt i gang med at stoppe Temüjins ambitioner. I 1187 indledte han et angreb mod sin tidligere ven med en hær på 30.000 mand. Temüjin skyndte sig at samle sine tilhængere for at forsvare sig mod angrebet, men han blev afgørende slået i slaget ved Dalan Balzhut. Jamukha forfærdede folk meget og skadede sit image ved at koge halvfjerds unge mandlige fanger levende i kedler, hvilket fremmedgjorde mange af hans potentielle tilhængere og fremkaldte sympati for Temüjin. Toghrul, som var Temüjins beskytter, blev forvist til Qara Khitai. Temüjins liv i de næste ti år er meget uklart, da de historiske optegnelser stort set er tavse om den periode.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 141,
+            "text": "det traditionelle mongolske aristokrati"
+          }
+        ],
+        "id": "5726acc1f1498d1400e8e6ca",
+        "question": "Hvem støttede Jamukha, som ikke var en del af Temüjins magtbase?"
+      }
+    ]
+  },
+  {
+    "title": "Apotek",
+    "context": "De fremskridt, der blev gjort i Mellemøsten inden for botanik og kemi, fik medicinen i middelalderens islam til at udvikle farmakologien betydeligt. Muhammad ibn Zakarīya Rāzi (Rhazes) (865-915) arbejdede for eksempel for at fremme den medicinske brug af kemiske forbindelser. Abu al-Qasim al-Zahrawi (Abulcasis) (936-1013) var pioner inden for fremstilling af medicin ved sublimering og destillation. Hans Liber servitoris er af særlig interesse, da den giver læseren opskrifter og forklarer, hvordan man fremstiller de \"enkle\" stoffer, som blev brugt til at sammensætte de komplekse lægemidler, der blev brugt dengang. Sabur Ibn Sahl (d 869) var dog den første læge, der påbegyndte en farmakopædi, hvor han beskrev en lang række lægemidler og remedier mod lidelser. Al-Biruni (973-1050) skrev et af de mest værdifulde islamiske værker om farmakologi med titlen Kitab al-Saydalah (Bogen om stoffer), hvor han detaljeret beskrev stoffernes egenskaber og skitserede apotekets rolle og farmaceutens funktioner og pligter. Avicenna beskrev også ikke mindre end 700 præparater, deres egenskaber, virkningsmåder og indikationer. Han dedikerede faktisk et helt bind til simple lægemidler i The Canon of Medicine. Af stor betydning var også værkerne af al-Maridini fra Baghdad og Kairo og Ibn al-Wafid (1008-1074), som begge blev trykt på latin mere end halvtreds gange som De Medicinis universalibus et particularibus af 'Mesue' den yngre og Medicamentis simplicibus af 'Abenguefit'. Peter af Abano (1250-1316) oversatte og tilføjede et supplement til al-Maridinis værk under titlen De Veneris. Al-Muwaffaqs bidrag på området er også banebrydende. Han levede i det 10. århundrede og skrev The foundations of the true properties of Remedies, hvor han bl.a. beskrev arsenoxid og var bekendt med kiselsyre. Han skelnede klart mellem natriumkarbonat og kaliumkarbonat og gjorde opmærksom på kobberforbindelsers giftighed, især kobbervitriol, og også blyforbindelser. Han beskriver også destillation af havvand til drikkevand[verifikation nødvendig]",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 54,
+            "text": "botanik og kemi"
+          }
+        ],
+        "id": "5726ddf6f1498d1400e8ee04",
+        "question": "Hvilke videnskabers udvikling påvirkede skabelsen af farmakologi i middelalderens islam?"
+      }
+    ]
+  },
+  {
+    "title": "Immunsystem",
+    "context": "De mekanismer, der bruges til at undgå det adaptive immunsystem, er mere komplicerede. Den enkleste tilgang er hurtigt at ændre ikke-essentielle epitoper (aminosyrer og/eller sukkerarter) på patogenets overflade, mens de essentielle epitoper holdes skjult. Dette kaldes antigenisk variation. Et eksempel er HIV, som muterer hurtigt, så proteinerne på virushylsteret, som er essentielle for at komme ind i værtscellen, ændrer sig konstant. Disse hyppige ændringer i antigener kan forklare de fejlslagne vacciner rettet mod denne virus. Parasitten Trypanosoma brucei bruger en lignende strategi, hvor den konstant skifter en type overfladeprotein ud med en anden, så den kan være et skridt foran antistofresponsen. Maskering af antigener med værtsmolekyler er en anden almindelig strategi til at undgå at blive opdaget af immunsystemet. I HIV er den hinde, der dækker virionen, dannet af værtscellens yderste membran; sådanne \"selvindhyllede\" vira gør det svært for immunsystemet at identificere dem som \"ikke-selvstændige\" strukturer.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 307,
+            "text": "HIV"
+          }
+        ],
+        "id": "572a0e4b6aef051400155215",
+        "question": "Hvad er et eksempel på en virus, der bruger antigenisk variation?"
+      }
+    ]
+  },
+  {
+    "title": "Civil ulydighed",
+    "context": "Nogle civile ulydige føler, at det påhviler dem at acceptere straf på grund af deres tro på gyldigheden af den sociale kontrakt, som anses for at binde alle til at adlyde de love, som en regering, der opfylder visse standarder for legitimitet, har etableret, eller ellers lide de straffe, der er fastsat i loven. Andre civile ulydige, som går ind for eksistensen af en regering, tror stadig ikke på legitimiteten af deres egen regering eller på legitimiteten af en bestemt lov, som den har vedtaget. Og endnu andre civile ulydige, som er anarkister, tror ikke på legitimiteten af nogen regering og ser derfor ingen grund til at acceptere straf for en overtrædelse af straffeloven, som ikke krænker andres rettigheder.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 79,
+            "text": "deres tro på gyldigheden af den sociale kontrakt"
+          }
+        ],
+        "id": "5728eb1a3acd2414000e01c6",
+        "question": "Hvorfor er behovet for at acceptere straf nødvendigt?"
+      }
+    ]
+  },
+  {
+    "title": "Konstruktion",
+    "context": "Engineering News-Record (ENR) er et fagblad for byggebranchen. Hvert år indsamler og rapporterer ENR data om størrelsen af design- og byggevirksomheder. De udgiver en liste over de største virksomheder i USA (Top-40) og også en liste over de største globale virksomheder (Top-250, efter mængden af arbejde, de udfører uden for deres hjemland). I 2014 indsamlede ENR data i ni markedssegmenter. Det var opdelt i transport, olie, bygninger, energi, industri, vand, produktion, kloak/affald, telekommunikation, farligt affald plus en tiende kategori for andre projekter. I deres rapportering om Top 400 brugte de data om transport, kloakering, farligt affald og vand til at rangordne firmaer som tunge entreprenører.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 346,
+            "text": "2014"
+          }
+        ],
+        "id": "57273e50dd62a815002e9a04",
+        "question": "I hvilket år indsamlede ENR data i ni markedssegmenter?"
+      }
+    ]
+  },
+  {
+    "title": "Privat_skole",
+    "context": "I de sidste år af apartheidtiden fik forældre på hvide offentlige skoler mulighed for at konvertere til en \"halvprivat\" form kaldet Model C, og mange af disse skoler ændrede deres optagelsespolitik til at acceptere børn af andre racer. Efter overgangen til demokrati blev den juridiske form for \"Model C\" afskaffet, men udtrykket bruges fortsat til at beskrive offentlige skoler, der tidligere var forbeholdt hvide børn. Disse skoler har tendens til at give bedre akademiske resultater end offentlige skoler, der tidligere var forbeholdt andre racegrupper. Tidligere \"Model C\"-skoler er ikke privatskoler, da de er statskontrollerede. Alle skoler i Sydafrika (herunder både uafhængige skoler og offentlige skoler) har ret til at fastsætte obligatoriske skolepenge, og tidligere model C-skoler har tendens til at fastsætte meget højere skolepenge end andre offentlige skoler.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 361,
+            "text": "offentlige skoler, der tidligere var forbeholdt hvide børn"
+          }
+        ],
+        "id": "57275409708984140094dc35",
+        "question": "Hvilke typer skoler blev efter apartheid omtalt som \"Model C\"-skoler?"
+      }
+    ]
+  },
+  {
+    "title": "Harvard_Universitet",
+    "context": "Optagelse på Harvard karakteriseres af Carnegie Foundation som \"mere selektiv, lavere transfer-in\". Harvard College accepterede 5,3% af ansøgerne til 2019-klassen, hvilket er rekordlavt og den næstlaveste acceptrate blandt alle nationale universiteter. Harvard College indstillede sit Early Admissions-program i 2007, da man mente, at programmet forfordelte ansøgere med lav indkomst og underrepræsenterede minoriteter, der søgte ind på selektive universiteter, men for årgang 2016 genindførte man et Early Action-program.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 312,
+            "text": "2007"
+          }
+        ],
+        "id": "5727d1c93acd2414000ded40",
+        "question": "I hvilket år afsluttede Harvard sit program for tidlig optagelse?"
+      }
+    ]
+  },
+  {
+    "title": "Jacksonville,_Florida",
+    "context": "Jacksonville ligger i First Coast-regionen i det nordøstlige Florida og er centreret på bredden af St. Johns River, ca. 40 km syd for statsgrænsen til Georgia og ca. 550 km nord for Miami. Jacksonville Beaches ligger langs den tilstødende Atlanterhavskyst. Området var oprindeligt beboet af Timucua-folket, og i 1564 var det stedet for den franske koloni Fort Caroline, en af de tidligste europæiske bosættelser i det, der nu er det kontinentale USA. Under britisk styre voksede bosættelsen ved det smalle punkt i floden, hvor kvæget krydsede, kendt som Wacca Pilatka for seminolefolket og Cow Ford for briterne. Der blev grundlagt en by i 1822, et år efter at USA havde fået Florida fra Spanien; den blev opkaldt efter Andrew Jackson, den første militærguvernør i Florida-territoriet og USA's syvende præsident.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": -1,
+            "text": "340 miles"
+          }
+        ],
+        "id": "5727cb4b2ca10214002d9677",
+        "question": "Hvor langt ligger Jacksonville fra Miami?"
+      }
+    ]
+  },
+  {
+    "title": "Økonomisk_ulighed",
+    "context": "Samtidig med at man anerkender den centrale rolle, som økonomisk vækst potentielt kan spille for menneskelig udvikling, fattigdomsbekæmpelse og opfyldelsen af millenniumudviklingsmålene, er det ved at blive almindeligt anerkendt i udviklingssamfundet, at der skal gøres en særlig indsats for at sikre, at de fattigere dele af samfundet er i stand til at deltage i den økonomiske vækst. Effekten af økonomisk vækst på fattigdomsreduktion - fattigdommens vækstelasticitet - kan afhænge af det eksisterende niveau af ulighed. For eksempel kan et land med lav ulighed og en vækstrate på 2 % pr. indbygger, hvor 40 % af befolkningen lever i fattigdom, halvere fattigdommen på ti år, mens et land med høj ulighed vil være næsten 60 år om at opnå den samme reduktion. Med FN's generalsekretær Ban Ki-Moons ord: \"Selv om økonomisk vækst er nødvendig, er den ikke tilstrækkelig til at gøre fremskridt med at reducere fattigdommen.\"",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": -1,
+            "text": "særlige indsatser"
+          }
+        ],
+        "id": "572a1a5c6aef051400155284",
+        "question": "Hvad skal der gøres for at sikre, at de fattigste medlemmer af samfundet kan deltage i den økonomiske vækst?"
+      }
+    ]
+  },
+  {
+    "title": "Doctor_Who",
+    "context": "Den hyppigste musikalske bidragyder i de første 15 år var Dudley Simpson, som også er kendt for sin tema- og underlægningsmusik til Blake's 7, og for sin hjemsøgende temamusik og musik til den originale 1970'er-version af The Tomorrow People. Simpsons første Doctor Who-score var Planet of Giants (1964), og han fortsatte med at skrive musik til mange eventyr i 1960'erne og 1970'erne, herunder de fleste af historierne i Jon Pertwee/Tom Baker-perioderne, der sluttede med The Horns of Nimon (1979). Han havde også en cameo-optræden i The Talons of Weng-Chiang (som dirigent i et musikhus).",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 362,
+            "text": "1960'erne og 1970'erne"
+          }
+        ],
+        "id": "57281a952ca10214002d9dec",
+        "question": "I hvilke årtier var Dudley Simpson mest aktiv med at bidrage til Doctor Who?"
+      }
+    ]
+  },
+  {
+    "title": "University_of_Chicago",
+    "context": "De første bygninger på University of Chicagos campus, som udgør det, der nu er kendt som Main Quadrangles, var en del af en \"masterplan\" udtænkt af to bestyrelsesmedlemmer fra University of Chicago og tegnet af Chicago-arkitekten Henry Ives Cobb. Main Quadrangles består af seks firkanter, som hver især er omgivet af bygninger, der grænser op til en større firkant. Bygningerne i Main Quadrangles blev tegnet af Cobb, Shepley, Rutan and Coolidge, Holabird & Roche og andre arkitektfirmaer i en blanding af victoriansk gotik og kollegial gotik efter forbillede fra kollegierne på universitetet i Oxford. (Mitchell Tower er for eksempel modelleret efter Oxfords Magdalen Tower, og universitetets fællesbygning, Hutchinson Hall, er en kopi af Christ Church Hall)",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 741,
+            "text": "Christ Church Hall"
+          }
+        ],
+        "id": "57284b904b864d19001648e6",
+        "question": "Hutchinson Hall blev designet til at ligne hvilken Oxford-sal?"
+      }
+    ]
+  },
+  {
+    "title": "Yuan_dynasty",
+    "context": "Historikeren Frederick W. Mote skrev, at brugen af udtrykket \"sociale klasser\" for dette system var misvisende, og at folks position inden for fireklassesystemet ikke var en indikation af deres faktiske sociale magt og rigdom, men blot medførte \"grader af privilegier\" som de var berettiget til institutionelt og juridisk, så en persons position inden for klasserne var ikke en garanti for deres position, da der var rige og socialt velstående kinesere, mens der var færre rige mongoler og semuer, end der var mongoler og semuer, der levede i fattigdom og blev dårligt behandlet.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 13,
+            "text": "Frederick W. Mote"
+          }
+        ],
+        "id": "5728848cff5b5019007da298",
+        "question": "Hvem mente, at Yuans sociale klassesystem ikke skulle kaldes sociale klasser?"
+      }
+    ]
+  },
+  {
+    "title": "Kenya",
+    "context": "Kenya rangerer lavt på Transparency Internationals Corruption Perception Index (CPI), en måling, der forsøger at måle udbredelsen af korruption i den offentlige sektor i forskellige lande. I 2012 lå landet på en 139. plads ud af 176 lande i CPI med en score på 27/100. Den kenyanske regering har dog gjort en del for at dæmme op for korruptionen, f.eks. med oprettelsen af en ny og uafhængig kommission for etik og antikorruption (EACC).",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": -1,
+            "text": "etableringen af en ny og uafhængig kommission for etik og antikorruption"
+          }
+        ],
+        "id": "57290b21af94a219006a9fd2",
+        "question": "Hvordan dæmmer Kenya op for korruption?"
+      }
+    ]
+  },
+  {
+    "title": "Mellemstatsligt_panel_om_klimaforandringer",
+    "context": "Den tredje vurderingsrapport (TAR) fremhævede en graf mærket \"Millennial Northern Hemisphere temperature reconstruction\" baseret på en artikel fra 1999 af Michael E. Mann, Raymond S. Bradley og Malcolm K. Hughes (MBH99), som er blevet omtalt som \"hockeystavgrafen\". Denne graf udvidede den lignende graf i figur 3.20 fra IPCC's anden vurderingsrapport fra 1995 og adskilte sig fra en skematisk fremstilling i den første vurderingsrapport, som manglede temperaturenheder, men så ud til at vise større globale temperaturvariationer i løbet af de sidste 1000 år og højere temperaturer i den middelalderlige varmeperiode end i midten af det 20. århundrede. Skemaet var ikke et faktisk plot af data og var baseret på et diagram over temperaturer i det centrale England, hvor temperaturerne var forhøjet på baggrund af dokumentarisk bevis for middelalderlige vinmarker i England. Selv med denne stigning nåede det viste maksimum for den middelalderlige varmeperiode ikke op på de temperaturer, der blev registreret i det centrale England i 2007. MBH99's resultat blev understøttet af rekonstruktioner af Jones et al. 1998, Pollack, Huang & Shen 1998, Crowley & Lowery 2000 og Briffa 2000, som brugte forskellige data og metoder. Jones et al.s og Briffas rekonstruktioner blev overlejret med MBH99-rekonstruktionen i figur 2.21 i IPCC-rapporten.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 155,
+            "text": "Michael E. Mann, Raymond S. Bradley og Malcolm K. Hughes"
+          }
+        ],
+        "id": "57294209af94a219006aa202",
+        "question": "Hvem skrev den artikel, som grafen \"Millennial Northern Hemisphere temperature reconstruction\" var baseret på?"
+      }
+    ]
+  },
+  {
+    "title": "Kloroplast",
+    "context": "Der er nogle almindelige misforståelser om kloroplasternes ydre og indre membraner. Det faktum, at kloroplaster er omgivet af en dobbeltmembran, nævnes ofte som bevis på, at de er efterkommere af endosymbiotiske cyanobakterier. Dette tolkes ofte som, at den ydre kloroplastmembran er et produkt af værtens cellemembran, der folder sig og danner en vesikel, som omgiver den oprindelige cyanobakterie - hvilket ikke er sandt - begge kloroplastmembraner er homologe med cyanobakteriens oprindelige dobbeltmembraner.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 454,
+            "text": "homologe"
+          }
+        ],
+        "id": "57296d1b1d0469140077940f",
+        "question": "Hvordan er begge kloroplastmembraner sammenlignet med cyanobakteriens oprindelige dobbeltmembraner?"
+      }
+    ]
+  },
+  {
+    "title": "Primtal",
+    "context": "Især bliver denne norm mindre, når et tal ganges med p, i skarp kontrast til den sædvanlige absolutte værdi (også kaldet det uendelige primtal). Mens komplettering af Q (groft sagt at udfylde hullerne) med hensyn til den absolutte værdi giver feltet af reelle tal, giver komplettering med hensyn til den p-adiske norm |-|p feltet af p-adiske tal. Dette er stort set alle mulige måder at fuldføre Q på, ifølge Ostrowskis sætning. Visse aritmetiske spørgsmål relateret til Q eller mere generelle globale felter kan overføres frem og tilbage til de fuldstændige (eller lokale) felter. Dette lokale-globale princip understreger igen betydningen af primtal for talteori.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 217,
+            "text": "den absolutte værdi"
+          }
+        ],
+        "id": "5729a26d6aef05140015505c",
+        "question": "Komplettering af Q med hensyn til hvad vil producere feltet af reelle tal?"
+      }
+    ]
+  },
+  {
+    "title": "Rhinen",
+    "context": "Rhin-Maas-deltaet, den vigtigste naturregion i Holland, begynder nær Millingen aan de Rijn, tæt på den hollandsk-tyske grænse med opdelingen af Rhinen i Waal og Nederrijn. Da Rhinen bidrager med det meste af vandet, bruges ofte den kortere betegnelse Rhinen Delta. Dette navn bruges dog også om det floddelta, hvor Rhinen løber ud i Bodensøen, så det er mere klart at kalde det større delta for Rhin-Maas-deltaet eller endda Rhin-Maas-Schelde-deltaet, da Schelde ender i det samme delta.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": -1,
+            "text": "Rhinen-Maas"
+          }
+        ],
+        "id": "572ff673b2c2fd1400568669",
+        "question": "Hvad er navnet på deltaet i Holland?"
+      }
+    ]
+  },
+  {
+    "title": "Det skotske_parlament",
+    "context": "En anden type udvalg oprettes normalt for at undersøge private lovforslag, der forelægges det skotske parlament af en ekstern part eller initiativtager, som ikke er medlem af det skotske parlament eller den skotske regering. Private lovforslag vedrører normalt store udviklingsprojekter som f.eks. infrastrukturprojekter, der kræver brug af jord eller ejendom. Private Bill Committees er blevet nedsat til at overveje lovgivning om emner som udviklingen af Edinburghs sporvognsnetværk, Glasgow Airport Rail Link, Airdrie-Bathgate Rail Link og udvidelser af National Gallery of Scotland.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 14,
+            "text": "udvalg"
+          }
+        ],
+        "id": "572fc8a904bcaa1900d76d1f",
+        "question": "Hvad er nedsat til at granske private lovforslag, der er indsendt af folk uden for partiet?"
+      }
+    ]
+  },
+  {
+    "title": "Islamisme",
+    "context": "Mens han studerede jura og filosofi i England og Tyskland, blev Iqbal medlem af London-afdelingen af All India Muslim League. Han vendte tilbage til Lahore i 1908. Mens han delte sin tid mellem advokatpraksis og filosofisk poesi, forblev Iqbal aktiv i Muslim League. Han støttede ikke indisk involvering i Første Verdenskrig og forblev i tæt kontakt med muslimske politiske ledere som Muhammad Ali Johar og Muhammad Ali Jinnah. Han var en kritiker af den indiske nationalistiske og sekularistiske hovedstrømning Indian National Congress. Iqbals syv engelske forelæsninger blev udgivet af Oxford University Press i 1934 i en bog med titlen The Reconstruction of Religious Thought in Islam. Disse forelæsninger handler om islams rolle som religion og som politisk og juridisk filosofi i den moderne tidsalder.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 101,
+            "text": "All India Muslim League"
+          }
+        ],
+        "id": "572ffee1947a6a140053cf15",
+        "question": "Hvilken organisation blev Iqbal medlem af i London?"
+      }
+    ]
+  },
+  {
+    "title": "Imperialisme",
+    "context": "Royal Geographical Society i London og andre geografiske selskaber i Europa havde stor indflydelse og var i stand til at finansiere rejsende, der kom tilbage med fortællinger om deres opdagelser. Politiske geografer som Friedrich Ratzel fra Tyskland og Halford Mackinder fra Storbritannien støttede også imperialismen. Ratzel mente, at ekspansion var nødvendig for en stats overlevelse, mens Mackinder støttede Storbritanniens imperiale ekspansion; disse to argumenter dominerede disciplinen i årtier.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": -1,
+            "text": "I Storbritannien"
+          }
+        ],
+        "id": "573088da069b53140083216c",
+        "question": "Hvor blev Halford Mackinder født?"
+      }
+    ]
+  },
+  {
+    "title": "United_Methodist_Church",
+    "context": "Den bevægelse, der skulle blive til The United Methodist Church, begyndte i midten af det 18. århundrede inden for Church of England. En lille gruppe studerende, heriblandt John Wesley, Charles Wesley og George Whitefield, mødtes på Oxford Universitets campus. De fokuserede på bibelstudier, metodiske studier af skrifterne og på at leve et helligt liv. Andre studerende hånede dem og sagde, at de var \"den hellige klub\" og \"metodisterne\", fordi de var metodiske og usædvanligt detaljerede i deres bibelstudier, meninger og disciplinerede livsstil. Til sidst startede de såkaldte metodister individuelle selskaber eller klasser for medlemmer af Church of England, som ønskede at leve et mere religiøst liv.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 446,
+            "text": "de var metodiske og usædvanligt detaljerede i deres bibelstudier"
+          }
+        ],
+        "id": "57309921396df919000961f8",
+        "question": "Hvorfor blev studentergruppen kaldt \"metodisterne\"?"
+      }
+    ]
+  },
+  {
+    "title": "Fransk_og_Indiansk_Krig",
+    "context": "Da Washington var vendt tilbage til Williamsburg, beordrede Dinwiddie ham til at lede en større styrke, der skulle hjælpe Trent i hans arbejde. Undervejs hørte Washington om Trents tilbagetog. Da Tanaghrisson havde lovet at støtte briterne, fortsatte Washington mod Fort Duquesne og mødtes med Mingolederen. Washington hørte om en fransk spejdergruppe i området, og sammen med Tanaghrisson og hans gruppe overraskede de canadierne den 28. maj i det, der blev kendt som slaget ved Jumonville Glen. De dræbte mange af canadierne, inklusive deres øverstbefalende, Joseph Coulon de Jumonville, hvis hoved efter sigende blev sprækket op af Tanaghrisson med en tomahawk. Historikeren Fred Anderson mener, at Tanaghrisson handlede for at få støtte fra briterne og genvinde autoriteten over sit eget folk. De havde været tilbøjelige til at støtte franskmændene, som de havde haft lange handelsforbindelser med. En af Tanaghrissons mænd fortalte Contrecoeur, at Jumonville var blevet dræbt af britisk musketild.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 507,
+            "text": "mange af canadierne, inklusive deres øverstbefalende, Joseph Coulon de Jumonville"
+          }
+        ],
+        "id": "5733f309d058e614000b6649",
+        "question": "Hvad var tabene i slaget?"
+      }
+    ]
+  },
+  {
+    "title": "Kraft",
+    "context": "Udviklingen af fundamentale teorier for kræfter gik i retning af at forene forskellige ideer. For eksempel forenede Isaac Newton den kraft, der er ansvarlig for, at objekter falder på jordens overflade, med den kraft, der er ansvarlig for himmelmekanikkens baner, i sin universelle teori om gravitation. Michael Faraday og James Clerk Maxwell demonstrerede, at elektriske og magnetiske kræfter var forenede gennem én konsistent teori om elektromagnetisme. I det 20. århundrede førte udviklingen af kvantemekanikken til en moderne forståelse af, at de tre første fundamentale kræfter (alle undtagen tyngdekraften) er manifestationer af stof (fermioner), der interagerer ved at udveksle virtuelle partikler kaldet gauge-bosoner. Denne standardmodel for partikelfysik forudsætter en lighed mellem kræfterne og fik forskere til at forudsige foreningen af de svage og elektromagnetiske kræfter i den elektrosvage teori, som efterfølgende blev bekræftet af observationer. Den komplette formulering af standardmodellen forudsiger en endnu uobserveret Higgs-mekanisme, men observationer som neutrinooscillationer indikerer, at standardmodellen er ufuldstændig. En Grand Unified Theory, der tillader kombinationen af den elektrosvage vekselvirkning med den stærke kraft, holdes for en mulighed med kandidatteorier som supersymmetri, der foreslås for at imødekomme nogle af de udestående uløste problemer i fysikken. Fysikere forsøger stadig at udvikle selvkonsistente foreningsmodeller, der kan kombinere alle fire fundamentale vekselvirkninger i en teori om alting. Einstein forsøgte og fejlede i denne bestræbelse, men i øjeblikket er den mest populære tilgang til at besvare dette spørgsmål strengteorien.:212-219",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 1459,
+            "text": "forening"
+          }
+        ],
+        "id": "5737821cc3c5551400e51f1b",
+        "question": "Hvilken slags selvkonsistente modeller forsøger fysikerne at lave for at skabe en teori om alting?"
+      }
+    ]
+  }
+]

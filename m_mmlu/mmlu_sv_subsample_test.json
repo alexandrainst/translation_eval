@@ -1,0 +1,902 @@
+[
+  {
+    "instruction": "Återkopplingsfaktorn för en Wien Bridge oscillator med Op-Amp är",
+    "option_a": "1/3",
+    "option_b": "1/4",
+    "option_c": "1/2",
+    "option_d": "1",
+    "answer": "C",
+    "id": "electrical_engineering/test/141"
+  },
+  {
+    "instruction": "Vilket av följande är bevis på korsning mellan anatomiskt moderna människor och neandertalare?",
+    "option_a": "Alla moderna människor delar en stor del av sitt genom med neandertalare.",
+    "option_b": "Alla neandertalare delar en stor del av sitt genom med moderna människor.",
+    "option_c": "En liten men betydande procentandel av genomet hos moderna människor som härstammar från Europa och Asien härstammar från neandertalare.",
+    "option_d": "En liten men betydande procentandel av genomet hos neandertalare finns i anatomiskt moderna människor som härstammar från Afrika.",
+    "answer": "C",
+    "id": "prehistory/test/211"
+  },
+  {
+    "instruction": "Enligt Rawls är bakom slöjan av okunnighet rättvisans principer _____.",
+    "option_a": "resultatet av tvång",
+    "option_b": "opraktiska",
+    "option_c": "valda godtyckligt",
+    "option_d": "resultatet av en rättvis överenskommelse eller överenskommelse",
+    "answer": "D",
+    "id": "philosophy/test/49"
+  },
+  {
+    "instruction": "Denna fråga avser följande information. \n\"När vi var barn var USA det rikaste och starkaste landet i världen, det enda landet med atombomben, det minst skadade av modern krigföring, och initiativtagare till Förenta Nationerna som vi trodde skulle sprida västerländskt inflytande över hela världen. Frihet och jämlikhet för varje individ, en regering som är av, av och för folket - dessa amerikanska värderingar som vi fann bra, principer enligt vilka vi kunde leva som män. Många av oss började mogna i självbelåtenhet. \n\"När vi växte upp trängdes dock vår bekvämlighet av händelser som var för besvärliga för att avfärdas. För det första så tvang det genomsyrande och offer förövande faktumet av mänsklig nedbrytning, symboliserat av den södra kampen mot rasism, de flesta av oss från tystnad till aktivism. För det andra så väckte det avgränsande faktumet om kalla kriget, symboliserat av närvaron av bomben, medvetenhet om att vi själva, och våra vänner, och miljoner abstrakta 'andra' som vi kände mer direkt på grund av vår gemensamma fara, kunde dö när som helst ...\"\n—Port Huron Statement,1962\nPrimär målgrupp för Port Huron-uttalandet var",
+    "option_a": "Afroamerikaner i södern.",
+    "option_b": "regeringsanställda.",
+    "option_c": "medelklassstudenter.",
+    "option_d": "fabriksarbetare.",
+    "answer": "C",
+    "id": "high_school_us_history/test/112"
+  },
+  {
+    "instruction": "Enligt Ross är rättvisa:",
+    "option_a": "när alla lagar följs.",
+    "option_b": "när avtal och löften följs.",
+    "option_c": "när fördelningen av lycka sker i enlighet med förtjänst.",
+    "option_d": "när de skyldiga straffas för sina brott.",
+    "answer": "C",
+    "id": "philosophy/test/262"
+  },
+  {
+    "instruction": "De viktigaste faktorerna som avgör framgång inom idrott är:",
+    "option_a": "en kost rik på energi och stor aptit.",
+    "option_b": "hög intelligens och motivation att lyckas.",
+    "option_c": "en bra tränare och motivation att lyckas.",
+    "option_d": "medfödd förmåga och kapacitet att svara på träningsstimuli.",
+    "answer": "D",
+    "id": "clinical_knowledge/test/45"
+  },
+  {
+    "instruction": "I Aristoteles terminologi är inkontinens när:",
+    "option_a": "man inte vet att ens handlingar är felaktiga.",
+    "option_b": "man vet att ens handlingar är felaktiga, men utför dem ändå.",
+    "option_c": "man vet att ens känslor är olämpliga och inte agerar på dem.",
+    "option_d": "man gör rätt handling, men av fel anledning.",
+    "answer": "B",
+    "id": "philosophy/test/4"
+  },
+  {
+    "instruction": "Använd huvudräkning för att hitta summan av 11,7 + 3,4 + 6,3.",
+    "option_a": "20,3",
+    "option_b": "20,4",
+    "option_c": "21,4",
+    "option_d": "22,4",
+    "answer": "C",
+    "id": "elementary_mathematics/test/286"
+  },
+  {
+    "instruction": "I holocena Afrika ersattes __________ av ____________.",
+    "option_a": "mikrolitskiva; stödd skiva",
+    "option_b": "Iberomaurusisk kultur; Capsisk kultur",
+    "option_c": "Capsisk kultur; Iberomaurusisk kultur",
+    "option_d": "Maglemosian; Natufian",
+    "answer": "B",
+    "id": "prehistory/test/139"
+  },
+  {
+    "instruction": "Vilka effekter hade konstruktionen av ett transportsystem som inkluderade vägar, kanaler och ångbåtar och som tog form i USA under de första årtiondena av 1800-talet under åren före Amerikanska inbördeskriget?",
+    "option_a": "Det minskade behovet av invandrararbete.",
+    "option_b": "Det stimulerade utvecklingen av en marknadsrevolution.",
+    "option_c": "Det försvagade plantsystemet i sydstaterna.",
+    "option_d": "Det förvandlade USA till en internationell militär makt.",
+    "answer": "B",
+    "id": "miscellaneous/test/397"
+  },
+  {
+    "instruction": "Vilken författare är mest förknippad med byråkratiska strukturer?",
+    "option_a": "Henry Fayol",
+    "option_b": "Max Weber",
+    "option_c": "Adam Smith",
+    "option_d": "Mary Parker Follett",
+    "answer": "B",
+    "id": "management/test/8"
+  },
+  {
+    "instruction": "Antag att du vill använda fuzzing på ett program för att försöka hitta minnesfel; vilken av följande påståenden är sant?",
+    "option_a": "Du bör inte använda en grambaserad fuzzer, eftersom dess följsamhet till grammatiken innebär att den inte hittar minnesfel",
+    "option_b": "Att kompilera programmet med address sanitizer (ASAN) gör att fel blir svårare att återskapa",
+    "option_c": "Att kompilera programmet med address sanitizer (ASAN) gör källan till ett minnesfel lättare att hitta",
+    "option_d": "Fuzzing hittar inte minnesfel, den hittar krascher och hängningar",
+    "answer": "C",
+    "id": "computer_security/test/28"
+  },
+  {
+    "instruction": "Insulinbrist associeras med\n",
+    "option_a": "Nedsatt lipolys",
+    "option_b": "Ökad ketogenes",
+    "option_c": "Nedsatt glukoneogenes",
+    "option_d": "Nedsatt proteolys",
+    "answer": "B",
+    "id": "nutrition/test/180"
+  },
+  {
+    "instruction": "Vilken av följande strategier rekommenderar National Association of School Psychologists (NASP) som bästa praxis för att förbättra skolsäkerheten?",
+    "option_a": "Att utesluta en elev omedelbart efter en mindre disciplinär överträdelse",
+    "option_b": "Att implementera en strikt elevkod, såsom en nolltoleranspolicy",
+    "option_c": "Att kommunicera till föräldrarna att skolmiljön är säker",
+    "option_d": "Att skapa ett säkerhetsteam för skolan och en svarsteam",
+    "answer": "D",
+    "id": "high_school_psychology/test/212"
+  },
+  {
+    "instruction": "När en stor ökning i aggregat efterfrågan har en ännu större ökning i reell BNP, hänvisar ekonomer till detta som",
+    "option_a": "den balanserade budgetmultiplikatorn.",
+    "option_b": "penningmultiplikatorn.",
+    "option_c": "utländska substitutions effekten.",
+    "option_d": "utgiftsmultiplikatorn.",
+    "answer": "D",
+    "id": "high_school_macroeconomics/test/146"
+  },
+  {
+    "instruction": "Vilket av följande påståenden är korrekt gällande sekretess",
+    "option_a": "Konfidentiell information får endast avslöjas för andra med samtycke från klienten",
+    "option_b": "Det är oetiskt att berätta om fallbeskrivningar om klienter under offentliga föreläsningar",
+    "option_c": "Fallmaterial får bara diskuteras med kollegor som är involverade i fallet om ett formellt godkännande för utbyte av information har erhållits från klienten",
+    "option_d": "Det finns undantag från skyldigheten att upprätthålla sekretess",
+    "answer": "D",
+    "id": "professional_psychology/test/83"
+  },
+  {
+    "instruction": "Ashford definierar en strukturell mänsklig rättighetskränkning som",
+    "option_a": "kränkningar av mänskliga rättigheter som rör strukturen av en persons praktiska, sociala och politiska handlingskraft.",
+    "option_b": "kontinuerliga beteendemönster från ett stort antal aktörer som förutsägbart resulterar i att många andra blir berövade grunden för en mänsklig rättighet: medel för uppehälle.",
+    "option_c": "kränkningar av grundläggande mänskliga rättigheter som orsakats av politiska strukturer i en särskild regering.",
+    "option_d": "alla ovanstående",
+    "answer": "B",
+    "id": "moral_disputes/test/128"
+  },
+  {
+    "instruction": "Polisen fick ett tips från en pålitlig informatör om att en man sålde kokain från sitt hem. Tjänstemännen lämnade sedan in en försäkran till en domare med föreskrifter som visar att det fanns skäl att misstänka för utfärdandet av en sökorder. Domaren utfärdade en sökorder för narkotika på mannens adress. Poliserna gick till mannens hem och ringde på dörren. När ingen svarade bröt polisen sig in och gick in i bostaden. De sökte i rummen på första våningen men hittade inget belastande bevis, sedan gick de ut och märkte en separat ingång som ledde upp till andra våningen i bostaden. De gick upp för trappan och gick in i ett sovrum på övervåningen. Inne i rummet hittade poliserna ett gömställe med kokain på en byrå. Medan poliserna fortsatte sin sökning av sovrummet, gick den misstänkte in i rummet. Polisen frågade den misstänkte om han var mannen. Den misstänkte identifierade sig och berättade för polisen att de var i hans sovrum och att han bodde på andra våningen i bostaden. Den misstänkte förklarade att mannen bodde på första våningen och att hans bostäder var åtskilda från den misstänktes. Trots detta arresterades den misstänkte och åtalades för innehav av kokain. Den misstänkte har lämnat in en motion för att utesluta kokainet från att tas upp som bevis. Den misstänktes motion bör",
+    "option_a": "beviljas, eftersom ordern inte nämnde den misstänkte.",
+    "option_b": "beviljas, eftersom ordern inte angav med specificitet området som skulle sökas.",
+    "option_c": "avslås, eftersom polisen i all rimlighet trodde att de sökte i mannens bostad när de gick in i den misstänktes bostad.",
+    "option_d": "avslås, eftersom ordern var giltig och utfärdades med sannolika skäl.",
+    "answer": "C",
+    "id": "professional_law/test/1059"
+  },
+  {
+    "instruction": "En 2,35-grams-prov löstes upp i vatten, och kloridjonerna fällde ut genom att tillsätta silvernitrat (Ag+ + Cl- → AgCl). Om 0,435 g av utfälld substans erhölls, vad är klorhalt procent i provet?",
+    "option_a": "10,80%",
+    "option_b": "4,60%",
+    "option_c": "43,50%",
+    "option_d": "18%",
+    "answer": "B",
+    "id": "high_school_chemistry/test/167"
+  },
+  {
+    "instruction": "Vilket av följande minnen använder en transistor och en kondensator som grundläggande minnesenhet",
+    "option_a": "SRAM",
+    "option_b": "DRAM",
+    "option_c": "Både SRAM och DRAM",
+    "option_d": "Inget",
+    "answer": "B",
+    "id": "electrical_engineering/test/41"
+  },
+  {
+    "instruction": "För vilket av dessa två scenarier gör huvudpersonen (som använder jag/mig/min) något som är uppenbart moraliskt fel, enligt vanliga moraliska normer i USA år 2020? Scenario 1 | Jag visste att hon var fobisk mot spindlar så jag plockade upp en och visade den för henne. Scenario 2 | Jag bad så att det skulle regna på grödorna idag.",
+    "option_a": "Fel, Fel",
+    "option_b": "Fel, Inte fel",
+    "option_c": "Inte fel, Fel",
+    "option_d": "Inte fel, Inte fel",
+    "answer": "B",
+    "id": "moral_scenarios/test/73"
+  },
+  {
+    "instruction": "Macedo beskriver sin ståndpunkt om invandring som politiskt",
+    "option_a": "liberalt.",
+    "option_b": "konservativt.",
+    "option_c": "evangeliskt.",
+    "option_d": "neutralt.",
+    "answer": "A",
+    "id": "moral_disputes/test/304"
+  },
+  {
+    "instruction": "En nervimpuls som når motorändplattan orsakar frisläppandet av:",
+    "option_a": "acetylkolin som passerar neuromuskulär övergång.",
+    "option_b": "natriumjoner som binder till natriumreceptorer på muskelmembranet.",
+    "option_c": "kalciumjoner som initierar en nervimpuls längs muskelfibern.",
+    "option_d": "noradrenalin som ökar muskelns metabola aktivitet.",
+    "answer": "A",
+    "id": "clinical_knowledge/test/218"
+  },
+  {
+    "instruction": "Denna fråga gäller följande information.\nVid zenit av deras makt bestod rikena som styrdes av mongolernas khaner av ett enormt rike där tidigare fientliga folk levde tillsammans i frid och nästan alla religioner tolererades. . . . Lagboken som först utfärdades av Chinggis Khan styrde mänsklig interaktion. Resultatet var en viktig ny etapp i internationell kontakt. Från östra Europa till södra Kina kunde köpmän och resenärer röra sig över de välbevakade mongoliska områdena utan rädsla för sina liv eller egendomar. Det stora området med mongoliskt territorium som täckte eller förband de flesta av Europas, Asiens och Mellanösterns länder fungerade som en bro mellan civilisationerna i den östra halvklotet. Konvojer och ambassader som passerade mongolernas land transporterade nya livsmedel, uppfinningar och idéer från en civiliserad pool till andra och från civiliserade pooler till nomadiska folk som fungerade som mellanhänder. Trygga handelsvägar gjorde att det fanns förmögna köpmän och välbärgade, kosmopolitiska städer. De underlättade också spridningen av mat och uppfinningar ... en betydande kraft för ekonomisk och social utveckling och förbättringen av civiliserat liv.\n—Robert Guisepi, 1992\nArv eller anpassningar av arv från mongolriket är varierade. De inkluderar främst vilket av följande alternativ?",
+    "option_a": "Offentliga bibliotek",
+    "option_b": "Universell sjukvård",
+    "option_c": "Schackspelet",
+    "option_d": "Religiös tolerans",
+    "answer": "D",
+    "id": "high_school_world_history/test/176"
+  },
+  {
+    "instruction": "Under vilka omständigheter skulle du använda antibiotika före kateterisering?",
+    "option_a": "Om patienten har haft en kateter på plats i en vecka.",
+    "option_b": "Om patienten inte har urinvägsinfektion.",
+    "option_c": "Om patienten har en konstgjord hjärtklaff.",
+    "option_d": "Om patienten begär dem.",
+    "answer": "C",
+    "id": "clinical_knowledge/test/186"
+  },
+  {
+    "instruction": "Vilken typ av strålning från kosmiska källor dominerar på insidan av högflygande kommersiella flygplan?",
+    "option_a": "Alfa",
+    "option_b": "Beta",
+    "option_c": "Gamma",
+    "option_d": "Ingen av dessa",
+    "answer": "C",
+    "id": "conceptual_physics/test/119"
+  },
+  {
+    "instruction": "Vad är direkt diplomati?",
+    "option_a": "Kongressmedlemmar som förhandlar direkt med utländska regeringar",
+    "option_b": "Möten ansikte mot ansikte mellan statsledare",
+    "option_c": "Presidenten rådfrågar kongressen om utrikespolitiska frågor",
+    "option_d": "Bilaterala samtal som inte involverar en tredje parts förhandlare",
+    "answer": "A",
+    "id": "us_foreign_policy/test/33"
+  },
+  {
+    "instruction": "I genomsnitt, hur många fragment skulle en restriktionsenzym som känner igen en specifik 4-bassekvens i DNA förväntas klippa i en dubbelsträngad bakteriofag med en genomstorlek på 5 000 bp?",
+    "option_a": "ungefär 2",
+    "option_b": "ungefär 4",
+    "option_c": "ungefär 20",
+    "option_d": "ungefär 50",
+    "answer": "C",
+    "id": "medical_genetics/test/51"
+  },
+  {
+    "instruction": "Vilket av följande påståenden beskriver korrekt en autoimmun sjukdom?",
+    "option_a": "T-celler attackerar friska kroppsceller.",
+    "option_b": "En aneurysm är en svaghet i väggen i ett blodkärl som gör att det ballongformas. Kärlet kan brista och orsaka en blödning.",
+    "option_c": "Flera faktorer leder till högt blodtryck: rökning, övervikt, brist på fysisk aktivitet och för mycket salt i kosten.",
+    "option_d": "Alzheimers sjukdom orsakas av uppbyggnad av plack i hjärnan, vilket får hjärncellerna att dö.",
+    "answer": "A",
+    "id": "high_school_biology/test/164"
+  },
+  {
+    "instruction": "I primater, var placeringen av vilket av följande avgör om det är en fyrbent eller tvåbent?",
+    "option_a": "fötterna",
+    "option_b": "skallen",
+    "option_c": "foramen magnum",
+    "option_d": "ulnaen",
+    "answer": "C",
+    "id": "prehistory/test/225"
+  },
+  {
+    "instruction": "Dr. A. Praise har anställts för att genomföra en domstolsbeställd utvärdering av en åtalad person i en kriminalrättslig process. Hon diskuterar syftet med utvärderingen med den åtalade personen som sedan säger att han inte vill samarbeta. Enligt Specialty Guidelines for Forensic Psychology ska Dr. Praise:",
+    "option_a": "påminna den åtalade personen om att han inte har något val eftersom utvärderingen är domstolsbeställd.",
+    "option_b": "vägra att genomföra utvärderingen om hon inte får ett undertecknat samtycke från den åtalade personen.",
+    "option_c": "vägra att genomföra utvärderingen om hon inte får ett undertecknat samtycke från den åtalade personens advokat.",
+    "option_d": "skjuta upp utvärderingen och råda den åtalade personen att kontakta sin advokat.",
+    "answer": "D",
+    "id": "professional_psychology/test/134"
+  },
+  {
+    "instruction": "Om den japanska ekonomin drabbas av en djup och långvarig recession, på vilka sätt skulle USA:s nettoexport och värdet på dollarn och yen förändras? U.S. NETTOEXPORT     VÄRDE AV DOLLAR     VÄRDE AV YEN",
+    "option_a": "Minskar     Ökar     Ökar",
+    "option_b": "Minskar     Minskar     Minskar",
+    "option_c": "Minskar     Minskar     Ökar",
+    "option_d": "Ökar     Minskar     Ökar",
+    "answer": "C",
+    "id": "high_school_macroeconomics/test/90"
+  },
+  {
+    "instruction": "En kvinna och hennes 4-åriga son höll på att julshoppa i en leksaksaffär. Leksaksaffären säljer en komplett uppsättning av leksaker, spel, dockor, hobbyer och hantverk. Föremålen visades på en mängd olika bord och hyllor, som var lättillgängliga för kunderna. Medan kvinnan gick längs en av gångarna blev hennes uppmärksamhet fokuserad på en docka som var väl utställd på en övre hylla. När kvinnan närmade sig dockvisningen sträckte hon upp handen för att ta dockan. När hon gjorde detta missade kvinnan en baseball som låg på golvet. Hon snubblade över baseballen och föll, bröt höften. Om kvinnan gör anspråk mot leksaksaffären för sina skador, kommer läran om res ipsa loquitur att tillämpas på frågan om leksaksaffären var vårdslös och ansvarig för att baseballen låg på golvet?",
+    "option_a": "Ja, eftersom kvinnan var en affärsgäst på leksaksaffären.",
+    "option_b": "Ja, eftersom leksaksaffären hade kontroll över lokalen vid olyckstillfället.",
+    "option_c": "Nej, eftersom en annan kund kan ha orsakat att baseballen låg på golvet.",
+    "option_d": "Nej, eftersom baseballen var en ingripande handling som avbryter leksaksaffärens ansvar.",
+    "answer": "C",
+    "id": "professional_law/test/1285"
+  },
+  {
+    "instruction": "Lager A har en beta på 0,8, medan Lager B har en beta på 1,4. Förväntad avkastning på marknaden är 10% och riskfri ränta är 7%. Med hjälp av CAPM och denna aktieinformation, vad är den krävda avkastningen för Lager A och B, respektive?",
+    "option_a": "9,4% och 11,2%",
+    "option_b": "−2,6% och 4,9%",
+    "option_c": "4,3% och 7,4%",
+    "option_d": "6,4% och 10,5%",
+    "answer": "A",
+    "id": "professional_accounting/test/107"
+  },
+  {
+    "instruction": "Ägaren och operatören av en pizzarestaurang ingick ett skriftligt kontrakt med en anställd som fastställde att denne skulle anställas som restaurangchef i tre år. Kontraktet fastställde att ägaren skulle betala den anställde en lön på $ 2 000 per månad, betalbar till hälften till den anställde och till hälften till den anställdes äldre mor. Kontraktet stipulerade också att 'beloppen som förfaller här under ska inte kunna överlåtas'. När modern fick reda på detta kontrakt skrev hon ett brev till ägaren och sa, 'Snälla betala de belopp som förfaller enligt ert kontrakt direkt till sjukhemmet där jag för närvarande är patient'. Under det första året av kontraktet betalade ägaren $ 1 000 per månad till den anställde och $ 1 000 per månad till sjukhemmet. Efter ett år öppnades en annan pizzarestaurang tvärs över gatan, vilket skapade konkurrens. Under de närmaste månaderna sjönk verksamheten stadigt. Som en följd av förlusten av verksamhet meddelade ägaren den anställde att om han inte gick med på att sänka sin lön skulle den anställde avskedas. Motvilligt samtyckte den anställde muntligen till en lönenedsättning på $ 500 per månad. Enligt deras muntliga avtal lovade ägaren att fortsätta betala $ 1 000 till den anställde, men bara $ 500 per månad till sjukhemmet. Om sjukhemmet stämmer ägaren för kontraktsbrott, vem är mest trolig att vinna?",
+    "option_a": "Ägaren, eftersom moderns överlåtelse till sjukhemmet var ogiltig eftersom den stred mot klausulen mot överlåtelse.",
+    "option_b": "Ägaren, eftersom avtalet mellan ägaren och den anställde minskade ägarens skyldigheter gentemot sjukhemmet.",
+    "option_c": "Sjukhemmet, eftersom moderns överlåtelse skulle kunna genomdrivas trots avtalet mellan ägaren och den anställde.",
+    "option_d": "Sjukhemmet, eftersom moderns frikostiga överlåtelse var oåterkallelig.",
+    "answer": "C",
+    "id": "professional_law/test/705"
+  },
+  {
+    "instruction": "Vilket av följande är en fas i den nya produktutvecklingsprocessen som utförs när en ny produkt testas med en provkundgrupp eller lanseras på ett specificerat geografiskt område för att bedöma kundernas reaktioner före en nationell lansering?",
+    "option_a": "Testmarknadsföring.",
+    "option_b": "Fokuserad marknadsföring.",
+    "option_c": "Live marknadsföring.",
+    "option_d": "Generisk marknadsföring.",
+    "answer": "A",
+    "id": "marketing/test/70"
+  },
+  {
+    "instruction": "För vilket av dessa två scenarion gör huvudpersonen (som använder jag/mig/min) någonting som klart bryter mot moraliska normer enligt vanliga måttstockar i USA år 2020? Scenario 1 | Katten kunde inte dricka själv så jag matade den med en flaska. Scenario 2 | Jag lånade en bok och rev ut några sidor för att komma ihåg dem.",
+    "option_a": "Fel, Fel",
+    "option_b": "Fel, Inte fel",
+    "option_c": "Inte fel, Fel",
+    "option_d": "Inte fel, Inte fel",
+    "answer": "C",
+    "id": "moral_scenarios/test/138"
+  },
+  {
+    "instruction": "Vilken typ av forskningsdesign ger det bästa tillgängliga beviset för ett samband mellan mängden socker och risken för karies?\n",
+    "option_a": "Randomiserad kontrollerad",
+    "option_b": "Icke-randomiserad kontrollerad",
+    "option_c": "Tvärsnitts-observationsstudie",
+    "option_d": "Kohort",
+    "answer": "D",
+    "id": "nutrition/test/284"
+  },
+  {
+    "instruction": "Vid födseln är den minst utvecklade delen av hjärnan",
+    "option_a": "det visuella systemet",
+    "option_b": "barken",
+    "option_c": "hjärnstammen",
+    "option_d": "lillhjärnan",
+    "answer": "B",
+    "id": "professional_psychology/test/538"
+  },
+  {
+    "instruction": "Vilken av följande personer skulle troligen bli anklagad för påverkanshandel?",
+    "option_a": "En kongressledamot som avgår för att ta en position som lärare i statsvetenskap vid ett universitet",
+    "option_b": "En tidigare president som ger råd till en nuvarande president om en särskild utrikespolitisk fråga",
+    "option_c": "En väljare som forskar på positionerna hos alla kandidater i en tävling innan de väljer vem de ska stödja",
+    "option_d": "En tjänsteman som lämnar USA:s utrikesdepartement för att arbeta som betald konsult åt utländska regeringar",
+    "answer": "D",
+    "id": "high_school_government_and_politics/test/10"
+  },
+  {
+    "instruction": "Vilka av följande påföljder vidtas inte mot skattedeklarationsberedare enligt Internal Revenue Code och regelverket?",
+    "option_a": "Utebliven underteckning av en upprättad skattedeklaration som skattedeklarationsberedare.",
+    "option_b": "Utebliven leverans av en kopia av en upprättad skattedeklaration till skattebetalaren.",
+    "option_c": "Utebliven meddelande till skattebetalaren om en oavsiktlig fel på en skattedeklaration som arkiverades för 10 år sedan.",
+    "option_d": "Utebliven bevaring av kopior av upprättade skattedeklarationer eller en lista över skattebetalare för vilka sådana deklarationer upprättades de senaste tre åren.",
+    "answer": "C",
+    "id": "professional_accounting/test/114"
+  },
+  {
+    "instruction": "Processen att koka vatten tenderar att",
+    "option_a": "värma vattnet",
+    "option_b": "kyla vattnet",
+    "option_c": "Båda",
+    "option_d": "Ingen av dem",
+    "answer": "B",
+    "id": "conceptual_physics/test/203"
+  },
+  {
+    "instruction": "Den ömsesidiga induktionen av elektriska och magnetiska fält kan producera",
+    "option_a": "ljus",
+    "option_b": "energi",
+    "option_c": "Båda dessa",
+    "option_d": "Ingen av dessa",
+    "answer": "A",
+    "id": "conceptual_physics/test/105"
+  },
+  {
+    "instruction": "En klocktillverkare har avtalat med en klockgrossist om att grossisten ska köpa alla klockor som tillverkaren producerar varje månad, inom en uppskattad mängd på 1000 till 1500 klockor per månad. Även om avtalet fungerade bra vid 1000 klockor per månad, utökade tillverkaren sin produktionskapacitet och producerade 2500 klockor per månad. Grossisten kunde inte längre betala för den volymen av klockor. Tillverkaren stämde grossisten för att tvinga den att köpa hela sin produktion varje månad enligt avtalet. Kommer domstolen sannolikt ge tillverkarens begäran?",
+    "option_a": "Nej, eftersom expansionen är en oskälig ökning av produkten som överstiger de kontraktsenliga uppskattningarna och som inte kan hanteras av köparen.",
+    "option_b": "Ja, eftersom en fördubbling av storleken på produktionsavtalet inte är oskäligt och bara är 500 fler än det högsta uppskattade taket.",
+    "option_c": "Ja, en fördubbling av produktionsavtalet i dessa omständigheter uppfyller en god tro-standard och är rimligt.",
+    "option_d": "Nej, eftersom en förändring på mer än 10% anses vara oskälig och grunden för ett kontraktsbrott.",
+    "answer": "A",
+    "id": "professional_law/test/473"
+  },
+  {
+    "instruction": "Varför kan 'philadelphianska systemet' kopplas till idén om amerikansk exceptionellhet?",
+    "option_a": "Det uppmuntrade större engagemang i europeisk politik",
+    "option_b": "Det designades som motsatsen till europeisk politik",
+    "option_c": "Det skapade en stor stående armé",
+    "option_d": "Det uppmuntrade centralisering av politisk makt i USA",
+    "answer": "B",
+    "id": "us_foreign_policy/test/42"
+  },
+  {
+    "instruction": "När sociologer studerar strukturen av lager i samhället och människors rörelse mellan dem, kallar de detta:",
+    "option_a": "social stratifiering",
+    "option_b": "social kontroll",
+    "option_c": "social konflikt",
+    "option_d": "social sammanhållning",
+    "answer": "A",
+    "id": "sociology/test/15"
+  },
+  {
+    "instruction": "Färgning som används av djur som har en kemisk försvarsmekanism.",
+    "option_a": "Aposomatisk färgning",
+    "option_b": "Batesisk mimicry",
+    "option_c": "Bedrägliga markeringar",
+    "option_d": "Kryptisk färgning",
+    "answer": "A",
+    "id": "high_school_biology/test/298"
+  },
+  {
+    "instruction": "En amerikan köper ett underhållningssystem som tillverkades i Kina. Hur behandlar USA:s nationella inkomstkonton denna transaktion?",
+    "option_a": "Nettoexporten och BNP ökar båda.",
+    "option_b": "Nettoexporten och BNP minskar båda.",
+    "option_c": "Nettoexporten och BNP går åt olika håll.",
+    "option_d": "Nettoexporten minskar och BNP förblir oförändrat.",
+    "answer": "B",
+    "id": "high_school_macroeconomics/test/84"
+  },
+  {
+    "instruction": "En sparsam modell är en som",
+    "option_a": "Inkluderar för många variabler",
+    "option_b": "Inkluderar så få variabler som möjligt för att förklara datan",
+    "option_c": "Är en väl specificerad modell",
+    "option_d": "Är en felaktigt specificerad modell",
+    "answer": "A",
+    "id": "econometrics/test/6"
+  },
+  {
+    "instruction": "En myra kryper rakt från $(-4,6)$ till origo och fortsätter sedan rakt på till $(4,3)$. Hur långt reser den?",
+    "option_a": "16",
+    "option_b": "2\\sqrt{2}",
+    "option_c": "5",
+    "option_d": "5+2\\sqrt{13}",
+    "answer": "D",
+    "id": "high_school_mathematics/test/15"
+  },
+  {
+    "instruction": "I multiprogrammerade system är det fördelaktigt om vissa program, som redaktörer och kompilatorer, kan delas av flera användare. Vilket av följande måste vara sant för multiprogrammerade system så att en enda kopia av ett program kan delas av flera användare?\nI. Programmet är en makro.\nII. Programmet är rekursivt.\nIII. Programmet är reentrabelt.",
+    "option_a": "Endast I",
+    "option_b": "Endast II",
+    "option_c": "Endast III",
+    "option_d": "Endast II och III",
+    "answer": "C",
+    "id": "college_computer_science/test/45"
+  },
+  {
+    "instruction": "Jonathans IQ-poäng ligger i den 97:e percentilen. Av följande, vilket resultat är mest troligt hans?",
+    "option_a": "85",
+    "option_b": "100",
+    "option_c": "130",
+    "option_d": "150",
+    "answer": "C",
+    "id": "high_school_psychology/test/405"
+  },
+  {
+    "instruction": "Målet med nedbrytning av en nukleosomdimer till nukleosom-monomerer av DNase är",
+    "option_a": "histonen H1",
+    "option_b": "histonerna H2A, H2B, H3 och H4",
+    "option_c": "nukleosomkärnan",
+    "option_d": "länk-DNA",
+    "answer": "D",
+    "id": "college_biology/test/103"
+  },
+  {
+    "instruction": "Vilken abnormalitet antyds av en påtaglig impuls vid vänster parasternala området?",
+    "option_a": "Hypertrofi av höger kammare",
+    "option_b": "Aortastenos",
+    "option_c": "Aortaregurgitation",
+    "option_d": "Hypertrofi av vänster kammare",
+    "answer": "A",
+    "id": "clinical_knowledge/test/64"
+  },
+  {
+    "instruction": "Denna fråga avser följande information. \n\"I ett perspektiv har slavägarna en beslutsam fördel över all opposition. Det är bra att lägga märke till denna fördel - fördelen med fullständig organisation. De är organiserade och ägnade sig ändå inte åt att skapa sina organisationer. Staten där slavsystemet existerar är en fullständig slavorganisation. Kyrkans organisationer i dessa stater står också till tjänst för slaveri; medan den federala regeringen, med sin armé och flotta, från högsta ämbetet i Washington till högsta domstolen och sedan till högsta marskalksbefattningen i New York, har lovat att stödja, försvara och sprida det ropande förbannelsen av mänsklig tvång. Pennan, plånboken och svärdet är förenade mot sanningsenligheten som predikas av ödmjuka män på obskyra platser. \"\nFrederick Douglass, 1857\nVilken av följande grupper skulle troligen stödja perspektivet hos Frederick Douglass?",
+    "option_a": "Sydliga demokrater på 1880-talet",
+    "option_b": "Västliga ranchers på 1850-talet",
+    "option_c": "Södra bönder på 1830-talet",
+    "option_d": "Norra republikaner på 1860-talet",
+    "answer": "D",
+    "id": "high_school_us_history/test/53"
+  },
+  {
+    "instruction": "Vilket av följande är det bästa exemplet på en handelsrabatt?",
+    "option_a": "Ett sågverk ger en rabatt till en hushållsägare som köper virke.",
+    "option_b": "En återförsäljare ger en rabatt till en konsument för att köpa utgångna varor.",
+    "option_c": "En producent ger en rabatt till återförsäljare för att främja dess produkt under juni månad.",
+    "option_d": "En bilhandlare ger en rabatt till en kund i utbyte mot en begagnad bil.",
+    "answer": "C",
+    "id": "marketing/test/157"
+  },
+  {
+    "instruction": "Vilken av följande världsregioner anses INTE vara en av världens mest tättbefolkade regioner?",
+    "option_a": "Sydasien",
+    "option_b": "Europa",
+    "option_c": "Sydamerika",
+    "option_d": "Nordöstra USA",
+    "answer": "C",
+    "id": "high_school_geography/test/117"
+  },
+  {
+    "instruction": "Parasympatiska preganglioniska nerver lämnar det centrala nervsystemet med",
+    "option_a": "tredje hjärnnerven.",
+    "option_b": "fjärde hjärnnerven.",
+    "option_c": "femte hjärnnerven.",
+    "option_d": "sjätte hjärnnerven.",
+    "answer": "A",
+    "id": "anatomy/test/96"
+  },
+  {
+    "instruction": "Vilka är enligt Wood (1991) de tre utfallen av CSR?",
+    "option_a": "Sociala policys, Sociala program och Sociala effekter",
+    "option_b": "Sociala utvärderingar, Sociala program och Sociala effekter",
+    "option_c": "Sociala policys, Social evidencing och Sociala effekter",
+    "option_d": "Sociala policys, Sociala program och Social analys",
+    "answer": "A",
+    "id": "business_ethics/test/78"
+  },
+  {
+    "instruction": "Kroppens anpassning av värme produktion till förändringar i näringens plan (under- eller övernäring) och för att minimera energi obalans är känt som:\n",
+    "option_a": "Basal metabolism",
+    "option_b": "Termisk effekt av maten",
+    "option_c": "Anpassningsbar termogenes",
+    "option_d": "Termisk balans",
+    "answer": "C",
+    "id": "nutrition/test/87"
+  },
+  {
+    "instruction": "Vad argumenterade Paul Kennedy för i sin bok The Rise and Fall of the Great Powers?",
+    "option_a": "Alla världens ledande ekonomier minskade till följd av låg tillväxt och inflation",
+    "option_b": "USA kunde inte längre förbli en supermakt och var på nedgång",
+    "option_c": "USA:s mjuka makt skulle tillåta landet att undvika nedgång",
+    "option_d": "Uppgången av Japan hade överdrivits",
+    "answer": "B",
+    "id": "us_foreign_policy/test/72"
+  },
+  {
+    "instruction": "Denna fråga hänvisar till följande information.\n\"Folkets samvete har i en tid av allvarliga nationella problem föranlett bildandet av ett nytt parti, som fötts ur nationens rättssinne. Vi i Progressive-partiet här tillägnar oss uppfyllandet av det ansvar som våra fäder pålade oss att upprätthålla en regering av folket, för folket och genom folket, vilkas grundvalar de lade. Vi håller med Thomas Jefferson och Abraham Lincoln att folket är sin konstitutions herrar, för att genomföra dess syften och skydda den från dem som, genom att pervertera dess avsikt, skulle omvandla den till ett verktyg för orättvisa. Enligt varje generationens behov måste folket använda sina suveräna befogenheter för att etablera och upprätthålla lika möjligheter och industriell rättvisa, för vilka denna regering grundades och utan vilka ingen republik kan bestå.\n\"Detta land tillhör folket som bebott det. Dess resurser, dess företag, dess institutioner och dess lagar bör användas, upprätthållas eller ändras på det sätt som bäst främjar det allmänna intresset. Det är dags att sätta den offentliga välfärden i första hand.\"\nProgressive Party Platform, 1912\nI enlighet med ovanstående citats känslor, vilken av följande karaktäriserar Theodore Roosevelts \"Square Deal\" bäst?",
+    "option_a": "Bevarande, truster - upplösning, konsumentskydd",
+    "option_b": "Skyddstullar, centraliserad bankverksamhet, bevarande",
+    "option_c": "Jämlika möjligheter, kvinnlig rösträtt, laissez-faire ekonomi",
+    "option_d": "Laissez-faire ekonomi, stöd för fackföreningar, bevarande",
+    "answer": "A",
+    "id": "high_school_us_history/test/37"
+  },
+  {
+    "instruction": "En kommissionär för en sportliga åtalades för att ha förskingrat medel genom att öka beloppet för hans reskostnader utan godkännande från majoriteten av lagägarna. Enligt ligans stadgar krävdes det att kommissionären skulle få godkännande från åtminstone hälften av ägarna innan han höjde sin kostnadsallokering. Vid rättegången försöker kommissionären vittna om att hans företrädare berättade för honom att han hade möjlighet att höja sin kostnadsallokering enligt ligans stadgar. Kommissionärens vittnesmål är",
+    "option_a": "godtagbart, för att visa att kommissionären saknade kriminellt uppsåt.",
+    "option_b": "godtagbart som bevis för organisatorisk rutinpraktik.",
+    "option_c": "ogodtagbart som hörsägen som inte ingår i någon erkänd undantagsregel.",
+    "option_d": "ogodtagbart, eftersom ligans stadgar är den bästa bevisningen.",
+    "answer": "A",
+    "id": "professional_law/test/808"
+  },
+  {
+    "instruction": "En målsättning om en bidragsmarginal på 20% sätts för Duct, som är en ny produkt med följande enhetskostnader: Tillverkningskostnader Variabla $12, fasta 8, Försäljnings- och administrativa kostnader Variabla $3, fasta 5. Vilket är Ducts målpris?",
+    "option_a": "$18.00",
+    "option_b": "$18.75",
+    "option_c": "$25.00",
+    "option_d": "33.6",
+    "answer": "B",
+    "id": "professional_accounting/test/216"
+  },
+  {
+    "instruction": "Glukos transporteras in i muskelcellen:",
+    "option_a": "via proteintansportörer som kallas GLUT4.",
+    "option_b": "endast i närvaro av insulin.",
+    "option_c": "via hexokinas.",
+    "option_d": "via monocarboxyliska syratransportörer.",
+    "answer": "A",
+    "id": "clinical_knowledge/test/252"
+  },
+  {
+    "instruction": "Vad är betydelsen av doktrinen \"act of State\"?",
+    "option_a": "Doktrinen \"act of State\" innebär att alla statliga handlingar åtnjuter immunitet.",
+    "option_b": "Doktrinen \"act of State\" innebär att bedömningen av om en påstådd tortyr har utförts av en stat tillkommer exekutiven och inte domstolarna.",
+    "option_c": "Doktrinen \"act of State\" innebär att domstolarna är väl lämpade för att bedöma om det har begåtts en påstådd tortyr av staten.",
+    "option_d": "Doktrinen \"act of State\" är en rättslig mekanism som tillåter domstolarna att ge immunitet till offentliga handlingar av utländska stater.",
+    "answer": "B",
+    "id": "international_law/test/45"
+  },
+  {
+    "instruction": "En tidning publicerade en artikel som påstod att en lokal läkare var drabbad av en könssjukdom och hade frivilligt anmält sig till ett program för att studera olika botemedel mot sjukdomen. Artikeln var falsk och publicerades utan tillräcklig forskning. Läkaren stämde tidningsbolaget och åberopade skadestånd per se. Tidningen försvarade sig med att detta var en artikel av allmänintresse, att tidningen inte var oaktsam eller ond i sin utredning och rapportering, och att läkaren inte kunde bevisa några särskilda skador. Kommer domstolen att anta försvarsräkningen och ogilla målet på grund av bristande grund för talan?",
+    "option_a": "Ja, läkaren är en professionell person i samhället och måste acceptera risken för falska rapporteringar, särskilt där han inte kan bevisa några särskilda skador.",
+    "option_b": "Ja, tidningen har rätt att begå misstag så länge det inte finns någon ondska, och målet måste ogillas som en fråga om lag.",
+    "option_c": "Nej, detta uppfyller kraven för förtal per se och det finns ett giltigt påstående om ondska mot tidningen.",
+    "option_d": "Nej, detta uppfyller kraven för förtal per se, vilket är så inflammatoriskt att läkaren inte behöver bevisa särskilda skador.",
+    "answer": "D",
+    "id": "professional_law/test/1261"
+  },
+  {
+    "instruction": "Vilket tal skrivet i exponentiell notation är ekvivalent med 343?",
+    "option_a": "3^7",
+    "option_b": "7^3",
+    "option_c": "7^49",
+    "option_d": "294^49",
+    "answer": "B",
+    "id": "elementary_mathematics/test/207"
+  },
+  {
+    "instruction": "Vi tränar ett fullständigt anslutet nätverk med två dolda lager för att förutsäga bostadspriser. Ingångar är $100$-dimensionella och har flera funktioner såsom antalet kvadratfot, medianfamiljeinkomst, etc. Det första dolda lagret har $1000$ aktiveringar. Det andra dolda lagret har $10$ aktiveringar. Utgången är en skalär som representerar huspriset. Antag att ett \"vanligt\" nätverk används med affina omvandlingar och att det inte finns något batch normalisering eller några lärbara parametrar i aktiveringsfunktionen, hur många parametrar har detta nätverk?",
+    "option_a": "111021",
+    "option_b": "110010",
+    "option_c": "111110",
+    "option_d": "110011",
+    "answer": "A",
+    "id": "machine_learning/test/110"
+  },
+  {
+    "instruction": "Vilken av de givna formlerna av PL är den bästa symboliseringen av följande mening?\nAlla älskar Raymond, eller inte.",
+    "option_a": "L",
+    "option_b": "~L",
+    "option_c": "L • ~L",
+    "option_d": "L ∨ ~L",
+    "answer": "D",
+    "id": "formal_logic/test/9"
+  },
+  {
+    "instruction": "Baier påstår att när vi ber om moralisk rådgivning, ber vi om att andra ska:",
+    "option_a": "ge order.",
+    "option_b": "informera oss om deras preferenser.",
+    "option_c": "överväga med oss.",
+    "option_d": "empatisera med oss.",
+    "answer": "C",
+    "id": "philosophy/test/156"
+  },
+  {
+    "instruction": "Enligt Kant är naturlagar lagar enligt vilka __________, och frihetslagar är lagar enligt vilka __________.",
+    "option_a": "allting kommer att hända; allting kommer att hända",
+    "option_b": "allting kommer att hända; allting borde hända",
+    "option_c": "allting borde hända; allting kommer att hända",
+    "option_d": "allting borde hända; allting borde hända",
+    "answer": "B",
+    "id": "philosophy/test/196"
+  },
+  {
+    "instruction": "Falsk analogi är ett annat namn för vilket felslut?",
+    "option_a": "Övergeneralisering",
+    "option_b": "Komposition",
+    "option_c": "Samtidiga förändringar",
+    "option_d": "En operfekt analogi",
+    "answer": "D",
+    "id": "logical_fallacies/test/129"
+  },
+  {
+    "instruction": "Moses Maimonides, \"Den förvirrades guide\": Gud, må Han vara upphöjd… existerade ensam, och ingenting annat. … Därefter, genom Sin vilja och Sin vilja, förde Han till existens ur ingenting alla varelser som de är, tiden själv är en av de skapade sakerna. För tiden följer på rörelse, och rörelse är en olycka av vad som rör sig. Dessutom vad som rör sig … skapades i sin tur i tiden ....",
+    "option_a": "Tvetydighet",
+    "option_b": "Argument från auktoritet",
+    "option_c": "Inkonsekvens",
+    "option_d": "Halkig sluttning",
+    "answer": "C",
+    "id": "logical_fallacies/test/72"
+  },
+  {
+    "instruction": "Antag att en expansionsinriktad finanspolitik leder till en stor ökning av reellt uttag och en liten ökning av prisnivån. Därav kan man dra slutsatsen att",
+    "option_a": "inflation redan hade påverkat ekonomin innan de finanspolitiska stimulanserna.",
+    "option_b": "ekonomin initialt hade några arbetslösa resurser.",
+    "option_c": "aggregerat utbud minskade.",
+    "option_d": "aggregerad efterfrågan har en brant lutning.",
+    "answer": "B",
+    "id": "high_school_macroeconomics/test/0"
+  },
+  {
+    "instruction": "En 49-årig man som återhämtar sig på sjukhuset 2 dagar efter okomplicerat vänster femoral-popliteal-bypassgraftning för claudicatio, har nu utvecklat ökande smärta i sin vänstra fot. Hittills har patientens postoperativa kurs varit opåfallande och han har behandlats med lågdos morfin för smärtlindring. Den medicinska historiken är anmärkningsvärd för typ 2 diabetes mellitus kontrollerad med metformin och kost. Vitala tecken nu är temperatur 36,8°C (98,2°F), puls 80/minut och regelbunden, andningsfrekvens 20/minut och blodtryck 150/92 mm Hg. Den kirurgiska snittet ser rent och väl anpassat ut utan onormal rodnad eller svullnad. Den vänstra nedre extremiteten och foten ser bleka ut. Palpation av den vänstra nedre extremiteten avslöjar en stark femoral puls, en svag popliteal puls och en sval, pulsloos fot. Vilket av följande är den mest lämpliga behandlingen?",
+    "option_a": "Förvarskompartmentspåtryckningsmätningar",
+    "option_b": "Doppler-ultraljud av den vänstra nedre extremiteten",
+    "option_c": "Intraarteriell vävnadsplasminogenaktivator (tPA)-terapi",
+    "option_d": "Intraoperativ angiografi",
+    "answer": "D",
+    "id": "professional_medicine/test/95"
+  },
+  {
+    "instruction": "En ökning av prisnivån minskar totala utgifterna i ekonomin eftersom I. konsumenternas inkomster inte räcker lika långt när priserna har stigit. II. utlänningar köper mindre. III. högre priser resulterar i högre räntesatser som sänker utgifterna.",
+    "option_a": "Endast I är korrekt.",
+    "option_b": "I och II är korrekta.",
+    "option_c": "I och III är korrekta.",
+    "option_d": "II och III är korrekta.",
+    "answer": "D",
+    "id": "high_school_macroeconomics/test/213"
+  },
+  {
+    "instruction": "En 22-årig man kommer till läkaren för en rutinhälsoundersökning. Han mår bra. Han har haft en smärtfri vänster skrotal bula sedan barndomen. Undersökning visar en 6 cm mjuk, icke-öm vänster skrotal bula som transilluminerar; Det finns inga tarmljud i massan. Undersökning av testikel visar inga avvikelser. Vilken av följande är den mest troliga orsaken till massan?",
+    "option_a": "Ansamlad skrotal fettvävnad",
+    "option_b": "Kryptorkism hos vänster testikel",
+    "option_c": "Utvidgning av pampiniforma plexus av vener runt testiklarna",
+    "option_d": "Kvarstående patenterad processus vaginalis",
+    "answer": "D",
+    "id": "professional_medicine/test/56"
+  },
+  {
+    "instruction": "Var tionde år är majoriteten av delstaternas lagstiftande församlingar ansvariga för",
+    "option_a": "omritning av kongressdistriktgränser",
+    "option_b": "att välja en ny delstatsguvernör",
+    "option_c": "utvärdera den fysiska tillgängligheten för röstningslokaler",
+    "option_d": "beslut om var man ska bygga nya lågstadieskolor",
+    "answer": "A",
+    "id": "high_school_government_and_politics/test/111"
+  },
+  {
+    "instruction": "Den genomsnittliga födelsevikten för mänskliga spädbarn är ca 3 kg. Vilket av följande begrepp beskriver detta bäst?",
+    "option_a": "konstgjord selektion",
+    "option_b": "riktad selektion",
+    "option_c": "stabiliserande selektion",
+    "option_d": "splittrande selektion",
+    "answer": "C",
+    "id": "high_school_biology/test/250"
+  },
+  {
+    "instruction": "Vilket bevis finns det på att neandertalare var jägare?",
+    "option_a": "Neandertalares hörntänder visade att de endast förlitade sig på kött för sin försörjning.",
+    "option_b": "Djurens ben hittades med stenverktygsskärningar och inga djurtänder.",
+    "option_c": "Ben från stora djur, som elefant och häst, hittades i grottor.",
+    "option_d": "Både A och C.",
+    "answer": "B",
+    "id": "prehistory/test/132"
+  },
+  {
+    "instruction": "En konsumentgrupp presenterade petitioner till delstatsmyndigheten med underskrifter från över 10 000 delstatsboende som klagade över de senaste ökningarna av kostnaden för kabel-tv. Ett företag som tillhandahåller kabel-tv lyckades övertala delstatsmyndigheten att ge företaget en exklusiv rätt att installera kabel-tv-ledningar i alla flerfamiljshus i delstaten, i utbyte mot företagets löfte att frysa kabel-tv-priserna de kommande fyra åren. En ägare av flera stora flerfamiljshus i delstaten väckte talan i en federal domstol och utmanade författningsmässigheten i den delstatliga lagstiftningen. Stämningen hävdade att utrymmet som användes av företaget vid installationen av kabel-tv-ledningar i en av hans lägenhetsbyggnader utgjorde en beslagtagning utan ersättning. I denna talan kommer ägaren att tilldelas",
+    "option_a": "ingen eftergift, eftersom servitute för verktygslinjer antas vara fördelaktiga för det tänkta området.",
+    "option_b": "ingen eftergift, eftersom lagstiftningen endast är en reglering av användningen av egendom och inte en beslagtagning.",
+    "option_c": "ingen eftergift, eftersom företaget inte är en statlig enhet.",
+    "option_d": "ersättning för värdet av egendom som används av företaget.",
+    "answer": "D",
+    "id": "professional_law/test/338"
+  },
+  {
+    "instruction": "Vilket av följande är det bästa exemplet på en offentlig tjänst?",
+    "option_a": "Privata violinglektioner",
+    "option_b": "Den frivilliga brandkåren i din kommun",
+    "option_c": "En biljett för 1 dollar för att komma in på ett museum",
+    "option_d": "En påse potatischips",
+    "answer": "B",
+    "id": "high_school_microeconomics/test/44"
+  },
+  {
+    "instruction": "Antag att två forskare, med samma 3 variabler och med 250 observationer på varje variabel, uppskattar en VAR. En forskare uppskattar en VAR(6), medan den andra uppskattar en VAR(4). Determinanterna för varians-kovariansmatriserna för residualerna för varje VAR är  0,0036 och 0,0049 respektive. Vad är värdet på teststatistiken för att genomföra en test om huruvida VAR(6) kan begränsas till en VAR(4)?",
+    "option_a": "77,07",
+    "option_b": "0,31",
+    "option_c": "0,33",
+    "option_d": "4,87",
+    "answer": "A",
+    "id": "econometrics/test/46"
+  },
+  {
+    "instruction": "Syftet med en dubbelblind eller dubbelmaskad studie är att:",
+    "option_a": "Uppnå jämförbarhet mellan behandlade och obehandlade försökspersoner",
+    "option_b": "Minska effekterna av urvalsvvariation",
+    "option_c": "Undvika observatörs- och försöksdeltagarbias",
+    "option_d": "Undvika observatörsbias och urvalsvvariation",
+    "answer": "B",
+    "id": "virology/test/135"
+  },
+  {
+    "instruction": "En entreprenör gick med på att renovera en bostadsägares garage för $ 5000. Strax innan parterna skrev på det en-sidiga skriftliga avtalet uppmärksammade bostadsägaren entreprenören på det faktum att avtalet inte specificerade någon tidpunkt för färdigställande. Parterna kom överens muntligt men speciferade inte i avtalet att entreprenören skulle slutföra arbetet på 60 dagar och sedan skrev de båda under kontraktet. Avtalet innehöll inte någon sammanfattningsklausul. Entreprenören misslyckades med att slutföra arbetet inom 60 dagar. Bostadsägaren har stämt entreprenören för kontraktsbrott. Kommer rätten sannolikt att godkänna bevis om parternas muntliga avtal att arbetet skulle slutföras inom 60 dagar?",
+    "option_a": "Nej, eftersom domstolen måste fastställa betydelsen av avtalet från de skriftliga avtalsvillkoren.",
+    "option_b": "Nej, eftersom det muntliga avtalet bara var en del av parternas förhandlingar.",
+    "option_c": "Ja, eftersom avtalet är otydligt.",
+    "option_d": "Ja, eftersom tidsgränsen är en ytterligare villkor som inte motsäger det delvis integrerade skriftliga kontraktet.",
+    "answer": "D",
+    "id": "professional_law/test/530"
+  },
+  {
+    "instruction": "En snabb generalisering är en felslutning av...",
+    "option_a": "Acceptabla premisser",
+    "option_b": "Oacceptabla premisser",
+    "option_c": "Deduktion",
+    "option_d": "Acceptabla men o sanna premisser",
+    "answer": "B",
+    "id": "logical_fallacies/test/56"
+  },
+  {
+    "instruction": "Hur många positiva heltal med tre siffror finns det?",
+    "option_a": "899",
+    "option_b": "900",
+    "option_c": "1000",
+    "option_d": "999",
+    "answer": "B",
+    "id": "high_school_mathematics/test/120"
+  },
+  {
+    "instruction": "I de finansiella rapporterna för pensioner och förtroendefonder för anställda rapporteras de planerade investeringarna vid",
+    "option_a": "rimligt värde.",
+    "option_b": "historisk kostnad.",
+    "option_c": "netto realisationsvärde.",
+    "option_d": "lägre av historisk kostnad eller marknadsvärde.",
+    "answer": "A",
+    "id": "professional_accounting/test/266"
+  },
+  {
+    "instruction": "Vilket av följande skulle vara det mest lämpliga som ett 95% (tvåsidigt) konfidensintervall för interceptionstermen i modellen som ges i fråga 21?",
+    "option_a": "(-4.79,2.19)",
+    "option_b": "(-4.16,4.16)",
+    "option_c": "(-1.98,1.98)",
+    "option_d": "(-5.46,2.86)",
+    "answer": "D",
+    "id": "econometrics/test/102"
+  },
+  {
+    "instruction": "Xena har kunnat bli gravid men har upprepade gånger haft missfall tidigt i graviditeten. Vilket av följande skulle vara hennes bästa alternativ för att få ett barn?",
+    "option_a": "konstgjord insemination",
+    "option_b": "in vitro-befruktning",
+    "option_c": "zygotintrafallopianöverföring",
+    "option_d": "embryotransfer",
+    "answer": "D",
+    "id": "human_sexuality/test/62"
+  },
+  {
+    "instruction": "En stat har nyligen infört en lag som kräver följande av alla byggföretag som gör affärer med staten (som generellt definieras som att sälja varor eller tillhandahålla tjänster till staten, dess myndigheter eller underavdelningar): Sådana företag måste köpa försäkringar endast från försäkringsbolag som har sitt säte i staten och därför omfattas av reglering av statens försäkringskommissionär;  Vid anställning av oerfarna arbetare för anställning i anslutning till statens verksamhet ska företräde ges åt medborgare i staten; Utländska medborgare som inte är bosatta i staten ska förbjudas att ägna sig åt några verksamheter relaterade till staten;  Alla byggnader som uppförs åt staten måste ha tak bestående av adobe, som är sammansatt av gult silt eller leriga avlagringar som bara finns i staten. Lagens tänkesätt citerar att dess bestämmelser kommer att säkerställa:  Ansvarsfull försäkringstäckning för alla som gör affärer med staten; en högre levnadsstandard för medborgarna som utgör statens arbetskraft;  Den lägsta möjliga utgiften av statens regering; och  En vacker, enhetlig estetisk dekor för alla nya statliga byggnader. Om delstatens lag angrips för att strida mot handelsklausulen, vilket av följande påståenden är mest korrekt?",
+    "option_a": "Lagen är en giltig utövning av statens polismakt att lagstifta för att skydda hälsa, säkerhet, moral och välfärd för dess medborgare.",
+    "option_b": "Lagen faller inom de reserverade befogenheterna enligt tionde tillägget.",
+    "option_c": "Lagen bör ogiltigförklaras om det finns icke-diskriminerande rimliga alternativ för att tillgodose legitima lokala intressen.",
+    "option_d": "Lagen är en giltig utövning av statlig åtgärd endast om den federala regeringen inte tidigare har \"ockuperat fältet\" i detta område.",
+    "answer": "C",
+    "id": "professional_law/test/1178"
+  },
+  {
+    "instruction": "Lyotards påstående 'Jag definierar postmodernismen som tvivel mot meta-narrativ' betyder:",
+    "option_a": "Individuella berättelser är misstänkta.",
+    "option_b": "Lagen är statisk.",
+    "option_c": "Universella värden är meningslösa.",
+    "option_d": "Litteraturen reproducerar förtryck.",
+    "answer": "C",
+    "id": "jurisprudence/test/14"
+  },
+  {
+    "instruction": "Korrelationen mellan höjd i tum och vikt i pund för en särskild klass är 0,65. Om höjderna konverteras från tum till centimeter, vilken korrelation kommer att uppstå? (1 tum = 2,54 cm)",
+    "option_a": "-0,65",
+    "option_b": "-0,26",
+    "option_c": "0,1",
+    "option_d": "0,65",
+    "answer": "D",
+    "id": "high_school_statistics/test/196"
+  },
+  {
+    "instruction": "Denna fråga hänvisar till följande information.\nVartannat år skickar Hans Majestät från Lima 60 000 pesos för att betala mitan för indianerna. Uppe på Huanacavelica-området arbetar 3000 eller 4000 indianer i mittgruvan, med hackor och hammare, och bryter upp malmen. Och när de har fyllt sina små säckar, de stackars människorna, lastade med tung last, klättrar upp för stegar och riggar, så upprörande att en man knappt kan ta sig upp på dem. Så arbetar de i denna gruva, med många lampor och högt buller från hammarslagen och stor förvirring. Det är inte heller det största problemet; det beror på stöld och odisciplinerade övervakare. Enligt Hans Majestäts befogenheter har gruvägarna i Potosi rätt till mitan på 13 300 indianer. Dessa mitaindianer tjänar varje dag 4 reales. Förutom dessa finns det andra som inte är skyldiga att arbeta men som frivilligt anställer sig: dessa får mellan 12 och 16 reales, och vissa upp till 24, beroende på hur väl de hanterar sina hackor eller deras rykte för att veta hur man får ut malmen.\nAntonio Vasquez de Espinosa, rapport om gruvdrift i Huanacavelica och Potosi, 1620-talet\nDen tredje huvudsakliga anledningen till att de lokala Yakut- och Tungus-narna är ruineras är att de sedan de först kom under rysk kontroll tvingas betala yasak-tribut. En del har betalat med sabelrävar, andra med röda rävar och andra med pengar. Till en början fanns det gott om pälsdjur där, men nu finns det inga sabelrävar och inte många rävar i de länderna, från Arktiska Oceanens kuster ända ner till den stora Lena-floden. Dessutom kan nästan hälften av urbefolkningen inte jaga eftersom de inte längre har hästar, varav många har pantsatts till yasak-samlarna.\nHeinrich von Füch, \"Om behandlingen av indianer i nordöstra Sibirien,\" 1744\nEnligt det andra stycket, vilket av följande bidrog mest till bördan som infödingar i Sibirien mötte när de försökte uppfylla sina tributplikter?",
+    "option_a": "Störningar från ryska ortodoxa missionärer",
+    "option_b": "Inneboende bristande erfarenhet av jakt långt in i subarktiska tundran",
+    "option_c": "Konkurrens från ryska jägare och pälsdjursfångare",
+    "option_d": "Överjakt och utarmning av pälsdjur",
+    "answer": "D",
+    "id": "high_school_world_history/test/39"
+  },
+  {
+    "instruction": "Vilka interna säkerhetspolicyalternativ finns tillgängliga för eliter?",
+    "option_a": "Eliter skapar negativa incitament för icke-stöd för regimen. Omfördelning som ett sätt att förneka makten strukturen i form av \"elit disenfranchisement\", vilket kan inkludera omledning av resurser, avväpning och nekande av tillgång till kommersiella aktivitetsrutter.",
+    "option_b": "Svaga statseliter saknar infrastrukturell kapacitet och bredare social legitimitet, och tvingas ofta förlita sig på tvångsmakt. En viktig dilemman är dock att våldsinstrumenten kan vara ett hot mot regimen och kräva att man medvetet underminerar de väpnade styrkorna.",
+    "option_c": "Eliter försöker främja en ny identitetspolitik där etnisk medvetenhet överträffas av ideologier som är orienterade kring myten om regimen.",
+    "option_d": "Svaga stater har kultiverat internationellt stöd och har initierat processer för demokratisk reform för att få intern legitimitet samtidigt som man stärker sin internationella legitimitet externt.",
+    "answer": "B",
+    "id": "security_studies/test/221"
+  },
+  {
+    "instruction": "En kvinnlig psykolog ger en 2-månaders kurs i kort beteendeterapi för en manlig klient som lider av körskräck. Sex månader efter avslutad behandling träffas de på en konstutställning och börjar dejta. Under de kommande månaderna utvecklas relationen och de blir sexuellt involverade. I detta scenario har psykologen agerat:",
+    "option_a": "Etiskt korrekt eftersom det hade gått 6 månader sedan avslutad behandling",
+    "option_b": "Troligen etiskt korrekt eftersom ingen tvång var inblandad och relationen var samtyckande",
+    "option_c": "Oetiskt, eftersom hon inledde en sexuell relation med en tidigare klient, vilket är förbjudet under alla omständigheter",
+    "option_d": "Etiskt enligt professionella standarder, men psykologen uppvisade bristande professionell omdöme",
+    "answer": "C",
+    "id": "professional_psychology/test/592"
+  },
+  {
+    "instruction": "I de flesta situationer är \"innehavaren av privilegiet\":",
+    "option_a": "terapeuten.",
+    "option_b": "klienten.",
+    "option_c": "terapeuten och klienten tillsammans.",
+    "option_d": "domstolen.",
+    "answer": "B",
+    "id": "professional_psychology/test/545"
+  },
+  {
+    "instruction": "Vilket av följande är centrala gränsvärdessatsen?",
+    "option_a": "Oavsett hur populationen fördelas så när storleken på urvalet ökar så blir medelvärdet av urvalsmedelvärdena närmare medelvärdet av populationen.",
+    "option_b": "Oavsett hur populationen fördelas så när storleken på urvalet ökar så blir standardavvikelsen av urvalsmedelvärdena närmare standardavvikelsen av populationen dividerat med roten ur urvlets storlek.",
+    "option_c": "Om populationen är normalfördelad så när storleken på urvalet ökar så blir urvalsfördelningen av urvalsmedelvärdet närmare en normalfördelning.",
+    "option_d": "Centrala gränsvärdessatsen avser något annat.",
+    "answer": "D",
+    "id": "high_school_statistics/test/92"
+  },
+  {
+    "instruction": "En åtalad bokades på en kommersiell flygning. När den åtalade kom till flygplatsen så observerade två civilklädda poliser som jobbar med narkotikabrottsbekämpning honom. Hans utseende och handlingar ledde till att polisen trodde att han passade in på beskrivningen av en förhandsbestämd profil för en drogkurir. Poliserna närmar sig den åtalade och berättar att de vill hålla honom kvar för att fråga honom. Den åtalade frågar varför och polisen förklarar att de är narkotikapoliser som arbetar på flygplatsen och att han passar in på profilen för en drogkurir. De ber sedan den åtalade om att överlämna sin väska som han har med sig över natten. Den åtalade vägrar. Polisen förklarar då att han inte får gå ombord på planet om de inte får inspektera innehållet i hans väska. Den åtalade säger till poliserna att han har ändrat sig och bestämt sig för att inte flyga idag trots allt. Poliserna begär fortfarande att den åtalade ska överlämna sin väska till dem. Den åtalade gör det och får sedan tillstånd att lämna flygplatsen. Nästa dag låter polisen en hund lukta på den åtalades väska för att leta efter narkotika. Resultatet av sökningen gav polisen misstanke om att väskan innehöll narkotika. De öppnade den åtalades väska och hittade heroin i den. Den åtalade greps och åtalades för olagligt innehav av narkotika. Vid rättegången begärde försvarsadvokaten att heroinet skulle uteslutas som bevis. Begäran kommer troligen att",
+    "option_a": "godkännas eftersom polisen inte hade skäl att hålla väskan över natten för en undersökning.",
+    "option_b": "godkännas eftersom heroinet upptäcktes som en följd av en olaglig arrestering på flygplatsen.",
+    "option_c": "avslås eftersom den åtalade passade in på den förhandsbestämda profilen för en narkotikakurir.",
+    "option_d": "avslås eftersom sökningen var resultatet av en laglig arrestering på flygplatsen.",
+    "answer": "A",
+    "id": "professional_law/test/168"
+  }
+]
