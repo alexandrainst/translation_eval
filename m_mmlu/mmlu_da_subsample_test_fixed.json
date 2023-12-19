@@ -342,11 +342,11 @@
     "id": "business_ethics/test/48"
   },
   {
-    "instruction": "Hver af følgende er et trin taget af en terapeut, der anvender systematisk desensibilisering UNDTAGEN",
+    "instruction": "Hvert af følgende er et trin taget af en terapeut, der anvender systematisk desensibilisering UNDTAGEN",
     "option_a": "at hjælpe klienten med at opleve den ønskede tilstand af afslapning gennem hypnose",
     "option_b": "at lære klienten at slappe af gennem teknikker som dyb vejrtrækning",
-    "option_c": "at konstruere en hierarki af frygtede billeder",
-    "option_d": "at instruere klienten i at forestille sig hvert frygtede billede, mens de opretholder en afslappet tilstand",
+    "option_c": "at konstruere et hierarki af skræmmende billeder",
+    "option_d": "at instruere klienten i at forestille sig hvert skræmmende billede, mens de opretholder en afslappet tilstand",
     "answer": "A",
     "id": "high_school_psychology/test/237"
   },
@@ -504,7 +504,7 @@
     "id": "professional_law/test/327"
   },
   {
-    "instruction": "En kvinde gik til et kommercielt byggeri til et forretningsmøde. Efter mødet blev hun skadet i bygningens elevator, da den pludselig faldt ned til kælderen fra tredje sal. Hun sagsøgte bygningens ejer, men ved retssagen var den eneste bevis, hun havde angående spørgsmålet om forsømmelse, at hun var i elevatoren, da den svigtede. Vil retsdommeren afvise sagen som en lov sag, uden at lade den gå til juryen?",
+    "instruction": "En kvinde gik til et forretningsmøde i en kommerciel bygning. Efter mødet blev hun skadet i bygningens elevator, da den pludselig faldt ned til kælderen fra tredje sal. Hun sagsøgte bygningens ejer, men ved retssagen var det eneste bevis, hun havde angående spørgsmålet om forsømmelse, at hun var i elevatoren, da den svigtede. Vil retsdommeren afvise sagen som en lovsag, uden at lade den gå til juryen?",
     "option_a": "Ja, fordi den skadede altid har bevisbyrden for at bevise forsømmelse.",
     "option_b": "Ja, fordi det ikke kan antages, at bygningens ejer var uagtsom.",
     "option_c": "Nej, fordi elevatoren var under ejerens eksklusive kontrol og ulykker af denne art sker ikke normalt i fravær af forsømmelse.",
