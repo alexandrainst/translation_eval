@@ -37,7 +37,8 @@ elementary_mathematics/test/296, 0, 0, 0, 0
 nutrition/test/146, 0, 0, 0, 0
 college_mathematics/test/28, 0, 0, 0, 0
 business_ethics/test/48, 1, 1, 1, 1
-high_school_psychology/test/237, 0, 0, 0, 0
+high_school_psychology/test/237, 0, 0, 0, 1
+high_school_psychology/test/337, 0, 0, 1, 0
 moral_scenarios/test/616, 0, 0, 1, 1
 high_school_statistics/test/136, 0, 0, 0, 0
 astronomy/test/77, 0, 0, 0, 0
@@ -54,6 +55,7 @@ abstract_algebra/test/99, 0, 0, 0, 1
 human_aging/test/151, 0, 0, 0, 0
 marketing/test/82, 0, 0, 0, 0
 professional_law/test/327, 1, 0, 1, 1
+professional_law/test/263, 1, 0, 1, 1
 human_aging/test/111, 0, 0, 0, 1
 clinical_knowledge/test/20, 0,0,0,0
 astronomy/test/146, 0,0,0,0
