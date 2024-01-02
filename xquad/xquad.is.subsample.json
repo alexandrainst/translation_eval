@@ -1,0 +1,770 @@
+[
+  {
+    "title": "Super_Bowl_50",
+    "context": "Þegar 4:51 var eftir af leiknum fékk Carolina boltann á eigin 24 metra línu með tækifæri til að koma upp leiksoppum og mætti fljótlega í 3.-9. sæti. Í næsta leik tróð Miller boltanum frá Newton og eftir að nokkrir leikmenn dúkkuðu fyrir honum tók hann langa skothvelli aftur á bak og var endurheimtur af Ward sem skilaði honum fimm metra á 4 metra línu Panthers. Þrátt fyrir að nokkrir leikmenn dúkkuðu í staupnum til að reyna að endurheimta hann gerði Newton það ekki og skortur hans á árásargirni vann hann síðar upp mikla gagnrýni. Á sama tíma var sókn Denver haldið utan endaslóða í þrjá leiki en vítaspyrna á hornamanninn Josh Norman gaf Broncos nýjan víti. Þá skoraði Anderson á 2 metra snertimark og Manning fullkomnaði sendingu á Bennie Fowler í 2 stiga skipti sem skilaði 24-10 forystu þegar 3:08 var eftir og í meginatriðum setti leikinn í gang. Carolina átti tvo sóknarleiki til viðbótar en náði ekki að koma fyrsta markinu niður á hvorum.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 62,
+            "text": "24"
+          }
+        ],
+        "id": "56beca913aeaaa14008c946d",
+        "question": "Á hvaða stiku byrjaði Karólína þegar 4:51 var eftir af leiknum?"
+      }
+    ]
+  },
+  {
+    "title": "Varsjá",
+    "context": "Í nágrenninu, í Ogrod Saski (Saxson-garðinum), var Sumarleikhúsið starfrækt frá 1870 til 1939 og á millistríðsárunum var einnig Momus, fyrsta bókmenntaskáldskaparhús Varsjár, og söngleikur Leons Schillers, Melodram. Leikhús Wojciechs Boguslawski (1922-26), var besta dæmið um „pólskt minnisvarðaleikhús“. Frá miðjum 1930 hýsti Stóra leikhúsið Upati-leiklistarháskólann, fyrstu ríkisreknu akademíuna í leiklist, með leiklistardeild og leikstjórnardeild.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": -1,
+            "text": "Saxlandagarðurinn"
+          }
+        ],
+        "id": "57339c16d058e614000b5ec6",
+        "question": "Hvar var Sumarleikhúsið staðsett?"
+      }
+    ]
+  },
+  {
+    "title": "Normannar",
+    "context": "Fyrir komu Rollos var ekki munur á íbúafjölda hans og Picardy eða Ile-de-France sem voru taldir „franskir“. Eldri víkingabyggðir höfðu byrjað að koma til landsins um 880 en skiptust á milli nýlendna í austri (Roumois og Pays de Caux) í kringum Niður-Sínudal og í vestri á Cotentin-skaga og voru aðskildar með hefðbundnum pagii, þar sem íbúafjöldi var nokkurn veginn sá sami og nánast engir erlendir landnemar. Meðal þeirra sem réðust inn í og settust að lokum að í Normandí og hluta af Atlantshafsströndinni voru Danir, Norðmenn, norrænir Gaelsmenn, Orkneyingar, hugsanlega Svíar og engilsaxneskir Danir frá enska Danmörku undir stjórn Norðmanna.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": -1,
+            "text": "Rúlla"
+          }
+        ],
+        "id": "56dde1d966d3e219004dad8d",
+        "question": "Hverjir gáfu upphaflegum norrænum landnemum sameiginlega sjálfsmynd við komuna til landsins?"
+      }
+    ]
+  },
+  {
+    "title": "Nikola_Tesla",
+    "context": "Árið 1900 fékk Tesla einkaleyfi fyrir „kerfi til að flytja rafmagn“ og „rafmagnssendi“. Þegar Guglielmo Marconi gerði hina frægu fyrstu útvarpssendingu sína yfir Atlantshafið árið 1901 kvað Tesla að það hefði verið gert með 17 einkaleyfum frá Tesla, þótt lítið sé til sem styður þessa fullyrðingu. Þetta var upphafið að áralöngum einkaleyfabaráttu vegna útvarps, þar sem einkaleyfi Tesla voru staðfest árið 1903, og síðan var tekin öfug ákvörðun í þágu Marconi árið 1904. Árið 1943 var tekin ákvörðun hæstaréttar Bandaríkjanna um að endurheimta fyrri einkaleyfi Tesla, Oliver Lodge og John Stone. Dómstóllinn lýsti því yfir að ákvörðun þeirra hefði engin áhrif á kröfu Marconi sem fyrstur til að ná útvarpssendingu, bara að þar sem kröfur Marconi til ákveðinna einkaleyfa væru vafasamar gæti hann ekki krafist brota á þessum sömu einkaleyfum (það eru fullyrðingar um að hæstiréttur hafi verið að reyna að ógilda kröfu Marconi fyrirtækisins á hendur bandarískum stjórnvöldum vegna fyrri heimsstyrjaldarinnar með því að endurheimta einfaldlega fyrra einkaleyfi Tesla).",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 5,
+            "text": "1900"
+          }
+        ],
+        "id": "56e0fc3f7aa994140058e877",
+        "question": "Hvenær fékk Tesla einkaleyfi á rafmagnssendinum?"
+      }
+    ]
+  },
+  {
+    "title": "Computational_complexity_theory",
+    "context": "Reiknifræðileg flækjustigskenning (e. Computational complexity theory) er grein af kenningum um reikning í fræðilegum tölvunarfræði sem fjallar um að flokka reiknivanda eftir innbyggðum erfiðleikum og tengja þá flokka innbyrðis. Reiknivanda er ætlað að vera verkefni sem er í grundvallaratriðum mögulegt að leysa í tölvu, sem jafngildir því að segja að hægt sé að leysa vandamálið með vélrænni beitingu stærðfræðilegra þrepa, eins og reiknirits.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": -1,
+            "text": "eðlislægir erfiðleikar"
+          }
+        ],
+        "id": "56e16182e3433e1400422e29",
+        "question": "Hvaða eiginleikar flokka reiknivandamál eftir því að beita kenningum um margbreytileika í útreikningum?"
+      }
+    ]
+  },
+  {
+    "title": "Kennari",
+    "context": "Fyrr á tímum voru líkamsrefsingar (þvingun eða klofningur eða að stinga eða strjúka eða hrifsa til sín nemanda til að valda líkamlegum sársauka) algengasta form agabrota í skólum víða um heim. Flest vestræn ríki og sum önnur hafa nú bannað slíkt en það er enn löglegt í Bandaríkjunum í kjölfar niðurstöðu hæstaréttar Bandaríkjanna árið 1977 þar sem niðurstaðan var sú að klofningur bryti ekki gegn stjórnarskrá Bandaríkjanna.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": -1,
+            "text": "Bandaríkin"
+          }
+        ],
+        "id": "56e7586d37bdd419002c3eb5",
+        "question": "Hvaða vestrænt ríki er ennþá heimilt að beita líkams- og hegningarrefsingum?"
+      }
+    ]
+  },
+  {
+    "title": "Martin_Luther",
+    "context": "Lúther var oft hrifinn af ákveðnum atburðum í lífi sínu og hinni óhugnanlegu siðbót. Þetta atferli hófst með því að hann lærði af aftöku Johanns Esch og Heinrichs Voes, fyrstu einstaklinganna sem rómversk-kaþólska kirkjan píslarvætti vegna lútherskra skoðana, og fékk Lúther til að semja sálminn „Ein neues Lied wir heben an“ („Nýtt kvæði sem við rísum upp“), sem er almennt þekkt á ensku eftir þýðingu John C. Messengers með titlinum og fyrstu línunni „Flung to the Heedless Winds“ og sungið við lag Ibstone sem Maria C. Tiddeman samdi árið 1875.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": -1,
+            "text": "atburði í lífi hans"
+          }
+        ],
+        "id": "56f8720eaef237190062608f",
+        "question": "Hvað varð til þess að Lúther skrifaði sálma?"
+      }
+    ]
+  },
+  {
+    "title": "Southern _ California",
+    "context": "Íþróttalið í Suður-Kaliforníu eru m.a. lið úr NFL (Los Angeles Rams, San Diego Chargers); NBA (Los Angeles Lakers, Los Angeles Clippers); MLB (Los Angeles Dodgers, Los Angeles Angels of Anaheim, San Diego Padres); NHL (Los Angeles Kings, Anaheim Ducks); og MLS (LA Galaxy).",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 219,
+            "text": "Los Angeles Kings"
+          }
+        ],
+        "id": "5706143575f01819005e7953",
+        "question": "Hvað er annað NHL lið fyrir utan Anaheim Ducks sem er búsett í Suður-Kaliforníu?"
+      }
+    ]
+  },
+  {
+    "title": "Sky _ (United _ Kingdom)",
+    "context": "Samningarnir fela í sér fast árlegt flutningsgjald sem nemur 30 m.kr. fyrir rásirnar og geta báðir rásbirgjar tryggt sér viðbótarþakgreiðslur ef rásirnar þeirra ná ákveðnum frammistöðutengdum markmiðum. Ekki liggur fyrir hvort nýi samningurinn feli í sér viðbótarefni á borð við Video On Demand og High Definition sem áður hafði verið í boði hjá BSkyB. Hluti af samningunum er að BSkyB og Virgin Media hafa samið um að binda enda á öll mál sem höfðað hafa verið fyrir Hæstarétti hvor gegn öðrum og varða flutning á grunnrásum hvors um sig.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": -1,
+            "text": "engin ábending"
+          }
+        ],
+        "id": "57097d63ed30961900e841fd",
+        "question": "Felur nýi samningurinn í sér Myndband eftir pöntun og Háskerpu?"
+      }
+    ]
+  },
+  {
+    "title": "Victoria_(Ástralía)",
+    "context": "Einnig eru nokkrir smærri farmflytjendur og fjöldi ferðamannalesta sem liggja yfir línum sem áður voru hluti af kerfi í eigu ríkisins. Sigurlínur nota aðallega 1.600 mm (5 ft 3 in) breiða mælivísinn. Hins vegar hafa stofnleiðir milli ríkja, sem og fjöldi greina í vesturhluta ríkisins verið færðar yfir í 1.435 mm (4 ft 8 1/2 in) staðalmælivísi. Tvær ferðamannalestar liggja yfir 760 mm (2 ft 6 in) mjórri mælivísalínum sem eru leifar fimm lína sem áður voru í eigu ríkisins og voru byggðar á fjalllendi.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": -1,
+            "text": "1.435 mm (4 ft 8 1/2 in) staðalmælir"
+          }
+        ],
+        "id": "570d47b8b3d812140066d62e",
+        "question": "Að hvaða marki hefur einhverjum línum verið breytt vestan Viktoríu?"
+      }
+    ]
+  },
+  {
+    "title": "Huguenot",
+    "context": "Flestir söfnuðir (eða einstaklingar) húgenotta í Norður-Ameríku tengdust að lokum öðrum söfnuðum mótmælenda með fleiri meðlimum. Húgenottar aðlöguðust fljótt og giftu sig oft utan sinna nánustu franskra samfélaga sem leiddi til aðlögunar þeirra. Afkomendur þeirra í mörgum fjölskyldum notuðu frönsk eiginnöfn og kenninöfn fyrir börn sín langt fram á nítjándu öld. Aðlögun Frakka hafði í för með sér margvísleg framlög til efnahagslífs Bandaríkjanna, einkum sem kaupmenn og handverksmenn á síðnýlendutímanum og á fyrstu öld sambandsríkjanna. Sem dæmi má nefna að E.I. du Pont, fyrrum nemandi Lavoisier, stofnaði Eleutherian byssupúðurverksmiðjurnar.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 337,
+            "text": "langt fram á nítjándu öld"
+          }
+        ],
+        "id": "57111713a58dae1900cd6c03",
+        "question": "Hve lengi héldu húgenottar áfram að nota frönsk nöfn?"
+      }
+    ]
+  },
+  {
+    "title": "Gufu _ vél",
+    "context": "Varmi sem þarf til að sjóða vatnið og gefa gufuna getur verið fenginn úr ýmsum áttum, oftast með því að brenna eldfim efni með viðeigandi loftbólum í lokuðu rými (kallast ýmist brunahólf, eldhólf). Í sumum tilvikum er varmalindin kjarnakljúfur, jarðvarmi, sólarorka eða úrgangsvarmi frá brunahreyfli eða iðnaðarferli. Í tilviki líkana- eða leikfangaspíravéla getur varmalindin verið rafmagnshitunarelement.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": -1,
+            "text": "brenna eldfimum efnum"
+          }
+        ],
+        "id": "571144d1a58dae1900cd6d6e",
+        "question": "Hver er venjulegur uppruni hita fyrir sjóðandi vatn í gufuvélinni?"
+      }
+    ]
+  },
+  {
+    "title": "Súrefni",
+    "context": "Háþrýstilækningar nota sérstök súrefnishólf til að auka hlutþrýsting O 2 í kringum sjúklinginn og þegar þörf er á, heilbrigðisstarfsfólk. Kolsýrueitrun, gasæðabólga og þrýstiveiki (beygjuveiki) eru stundum meðhöndluð með þessum tækjum. Aukinn styrkur O 2 í lungum hjálpar til við að færa kolsýring frá hemhópi blóðrauðans. Súrefnisgas er eitrað loftfirrtum bakteríum sem valda gasæðabólgu og því hjálpar aukin hlutþrýstingur til við að drepa þær. Þrýstiveiki kemur fram hjá kafara sem þrýsta of hratt niður eftir köfun og myndast þá óvirkar loftbólur, aðallega köfnunarefni og helíum, í blóði þeirra. Hluti af meðferðinni er að auka þrýsting O 2 sem fyrst.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": -1,
+            "text": "Þunglyndissjúkdómur"
+          }
+        ],
+        "id": "571cd3b55efbb31900334e06",
+        "question": "Hvað gerist eftir köfun þar sem kafarinn þjappar sér of hratt niður?"
+      }
+    ]
+  },
+  {
+    "title": "1973 _ oil _ crisis",
+    "context": "Sumir kaupendur harmuðu smæð fyrstu japansku jeppanna og bæði Toyota og Nissan (sem þá hét Datsun) kynntu stærri bíla á borð við Toyota Corona Mark II, Toyota Cressida, Mazda 616 og Datsun 810 sem bættu við rými fyrir farþega og auka þægindi á borð við loftræstingu, aflstýringu, AM-FM talstöðvar og jafnvel aflglugga og aðallæsingu án þess að hækka verð bílsins. Áratug eftir olíukreppuna 1973 opnuðu Honda, Toyota og Nissan, sem urðu fyrir barðinu á frjálsum útflutningshöftum 1981, samsetningarverksmiðjur í Bandaríkjunum og stofnuðu lúxusdeildir (Acura, Lexus og Infiniti, í þeirri röð) til að aðgreina sig frá fjöldamarkaðsvörumerkjum sínum.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 129,
+            "text": "Toyota Corona Mark II"
+          }
+        ],
+        "id": "572659535951b619008f7040",
+        "question": "Nefndu stærri bíl sem Toyota kom með þegar kaupendur hörmuðu litlu compact-bílana?"
+      }
+    ]
+  },
+  {
+    "title": "Apollo_program",
+    "context": "Grissom, White og Chaffee ákváðu að nefna flug sitt Apollo 1 sem hvatningu fyrir fyrsta mönnuða flugið. Þeir þjálfuðu og gerðu prófanir á geimfarinu í Norður-Ameríku og í lofthæðarklefanum í Kennedy geimvísindamiðstöðinni. Stefnt var að því að gera „plugs-out“ prófun í janúar þar sem líkt yrði eftir niðurtalningu á LC-34 þar sem geimfarið færist frá púða yfir í innra afl. Ef það tækist yrði fylgt eftir með strangari niðurtalningarprófun nær upptökunni 21. febrúar þar sem bæði geimfarið og geimfarið væru knúin.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": -1,
+            "text": "hæðarhólf"
+          }
+        ],
+        "id": "5725db4aec44d21400f3d6bd",
+        "question": "Hvar framkvæmdu áhafnir Apollo 1 tilraunir í Kennedy geimstöðinni?"
+      }
+    ]
+  },
+  {
+    "title": "European_Union_law",
+    "context": "Í kjölfar kosninga breska Verkamannaflokksins til ríkisstjórnar árið 1997 gerði Bretland formlegast aðili að samningnum um félagsmálastefnuna sem gerði það kleift að fella hann inn í félagsmálakafla Amsterdam-sáttmálans árið 1997 með smávægilegum breytingum. Í kjölfarið samþykkti Bretland helstu löggjöf sem áður hafði verið samþykkt samkvæmt samningnum um félagsmálastefnuna, tilskipun um vinnuráð frá 1994 þar sem krafist var samráðs við vinnuafl í fyrirtækjum og tilskipun um fæðingarorlof frá 1996. Á 10 árum eftir Amsterdam-sáttmálann 1997 og samþykkt félagsmálakaflans hefur Evrópusambandið tekið frumkvæði að stefnumótun á ýmsum sviðum félagsmálastefnunnar, þ.m.t. í samskiptum vinnumarkaðar og atvinnulífs, jöfnum tækifærum, heilbrigði og öryggi, lýðheilsu, vernd barna, fatlaðra og aldraðra, fátækt, farandverkafólki, menntun, þjálfun og æskulýðsmálum.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": -1,
+            "text": "Samráð um vinnuafl í fyrirtækjum"
+          }
+        ],
+        "id": "5726a5525951b619008f78e1",
+        "question": "Hvað krafðist tilskipunin um vinnuráð?"
+      }
+    ]
+  },
+  {
+    "title": "Amazon_rainforest",
+    "context": "Þarfir sojabænda hafa verið notaðar til að réttlæta margar af þeim umdeildu samgönguframkvæmdum sem nú eru í gangi í Amazon. Fyrstu tvær þjóðvegirnir opnuðu regnskóginn með góðum árangri og leiddu til aukinnar byggðar og skógeyðingar. Árleg meðaleyðing skóga frá 2000 til 2005 (22.392 km2 eða 8.646 sq mi á ári) var 18% meiri en síðustu fimm árin (19.018 km2 eða 7.343 sq mi á ári). Þrátt fyrir að skógeyðing hafi minnkað umtalsvert í Amazon í Brasilíu á árunum 2004 til 2014 hefur aukning orðið til dagsins í dag.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 7,
+            "text": "soja"
+          }
+        ],
+        "id": "572a005f1d046914007796b7",
+        "question": "Þjóðvegir sem byggðir voru í Amazon regnskóginum voru fyrst og fremst byggðir fyrir hvers konar bændur?"
+      }
+    ]
+  },
+  {
+    "title": "Ctenophora",
+    "context": "Samband ctenophores við önnur dýr af ættkvíslinni Metazoa er mjög mikilvægt til að skilja fyrstu þróun dýra og uppruna fjölfrumuleika. Það hefur verið í umræðunni í mörg ár. Ctenophores hafa verið taldar vera systurættkvísl við Bilateria, systurættkvísl við Cnidaria, systurættkvísl við Cnidaria, Placozoa og Bilateria og systurættkvísl við öll önnur dýrafýla. Röð rannsókna sem skoðuðu hvort og þá hvernig erfðaefni og boðleiðir (t.d. hómókossar, kjarnaviðtakar, Wnt boðleiðir og natríum boðleiðir) væru til staðar sýndu vísbendingar sem samræmdust síðarnefndu tveimur atburðarrásunum, að ctenophores væru annaðhvort systurættkvísl við Cnidaria, Placozoa og Bilateria eða systurættkvísl við öll önnur dýrafýla. Nokkrar nýlegri rannsóknir sem báru saman heilar raðgreindar erfðamengisgerðir ctenophores við aðrar raðgreindar erfðamengisgerðir dýra hafa einnig stutt það að ctenophores séu systurættkvísl við öll önnur dýr. Þessi staða myndi benda til þess að taugafrumu- og vöðvafrumugerðir væru annaðhvort týndar í helstu dýraættkvíslum (t.d. Porifera) eða að þær þróuðust sjálfstætt í ctenophore ættkvíslinni. Aðrir rannsakendur hafa þó haldið því fram að staðsetning Ctenophores sem systurættkvísl við öll önnur dýr sé tölfræðilegt frávik sem orsakast af miklum hraða þróunar í ctenophore erfðamenginu og að Porifera (svampar) sé elsta dýrafýlan sem greinir á milli. Ctenophores og svampar eru einnig einu þekktu dýrafýlurnar sem skortir raunveruleg hox gen.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 1311,
+            "text": "Porifera"
+          }
+        ],
+        "id": "57269016708984140094ca42",
+        "question": "Hvað telja sumir vísindamenn að sé elsta dýrafylkið sem hefur verið greint frá?"
+      }
+    ]
+  },
+  {
+    "title": "Fresno, Kalifornía",
+    "context": "Á 158.349 heimilum bjuggu börn undir 18 ára aldri, þar af voru 68.511 (43.3%) með börn undir 18 ára aldri í sambúð, 69.284 (43.8%) voru hjón af gagnstæðu kyni í sambúð, 30.547 (19.3%) voru með konu í sambúð án eiginmanns, 11.698 (7.4%) voru með karlmann í sambúð án eiginkonu. Á 12.843 (8.1%) voru ógift hjón af gagnstæðu kyni í sambúð og 1.388 (0.9%) voru hjón eða sambúðarfólk af sama kyni. Á 35.064 (22.1%) heimilum bjuggu einstaklingar og á 12.344 (7.8%) var einhver í sambúð sem var 65 ára eða eldri. Meðalfjöldi á heimili var 3.07. Fjölskyldur voru 111.529 (70.4% allra heimila), meðalfjöldi á heimili var 3.62.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": -1,
+            "text": "68,511"
+          }
+        ],
+        "id": "5725f8f5ec44d21400f3d7b1",
+        "question": "Hve mörg heimili eru með börn undir 18 ára aldri á heimilinu?"
+      }
+    ]
+  },
+  {
+    "title": "Pakki_skipti",
+    "context": "Árið 1969 hófu ARPANET og SITA HLN starfsemi. Fyrir innleiðingu X.25 árið 1973 höfðu um tuttugu mismunandi nettæknir verið þróaðar. Tveir grundvallarmunur fólst í verkaskiptingu milli hýsingaraðila á jaðri netsins og netkjarna. Í gagnagram kerfinu bera hýsingaraðilar ábyrgð á að tryggja skipulega afhendingu pakka. UDP (User Datagram Protocol) er dæmi um gagnagram samskiptamáta. Í sýndarsímakerfinu tryggir netið raðbundna afhendingu gagna til hýsingaraðila. Þetta leiðir til einfaldara hýsingarviðmóts með minni virkni en í gagnagram líkaninu. X.25 samskiptamátasvítan notar þessa netgerð.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": -1,
+            "text": "Samskiptamáti fyrir gagnagram (e. User Datagram Protocol)"
+          }
+        ],
+        "id": "57263c78ec44d21400f3dc7e",
+        "question": "X.25 notar hvaða netgerð"
+      }
+    ]
+  },
+  {
+    "title": "Black_Death",
+    "context": "Ýmsar aðrar lausnir en Y. pestis hafa verið settar fram. Twigg taldi að orsökin væri ein tegund miltisbrands og Norman Cantor (2001) taldi að hugsanlega hefði verið um sambland af miltisbrandi og öðrum heimsfaröldrum að ræða. Scott og Duncan hafa haldið því fram að heimsfaraldurinn hafi verið ein tegund smitsjúkdóma sem einkennist af blæðandi plágu sem svipar til ebólu. Barney Sloane fornleifafræðingur hefur haldið því fram að ekki séu nægar sannanir fyrir útrýmingu fjölda rotta í fornleifaskráningu miðalda vatnasvæðisins í London og að plágan hafi dreifst of hratt til að styðja þá kenningu að Y. pestis hafi borist með flóum á rottur, hann heldur því fram að smit hafi verið einstaklingsbundið. Engin önnur lausn hefur þó náð almennri viðurkenningu. Margir fræðimenn sem halda því fram að Y. pestis hafi verið helsti áhrifavaldur heimsfaraldursins benda á að útbreiðsla hans og einkenni megi skýra með samblandi af bólusótt og öðrum sjúkdómum, þar á meðal taugaveiki, bólusótt og öndunarfærasýkingum. Auk bólusóttar benda aðrir á fleiri gerðir af plágunni, sem eru blóðeitrun (e. septicemic) og pneumonia (e. pneumonia) sem herja á lungun á undan öðrum hlutum líkamans, sem lengir tímalengd faraldursins yfir árstíðirnar og hjálpar til við að skýra háa dánartíðni og fleiri skráð einkenni. Árið 2014 tilkynntu vísindamenn hjá Public Health England niðurstöður rannsóknar á 25 líkum sem voru grafin upp úr Clerkenwell svæðinu í London, sem og á erfðaskrám sem skráðar voru í London á tímabilinu, sem studdu tilgátuna um pneumonia.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 168,
+            "text": "sambland af miltisbrandi og öðrum heimsfaröldrum"
+          }
+        ],
+        "id": "5726534d708984140094c26e",
+        "question": "Hver var kenning Norman Cantor um pláguna?"
+      }
+    ]
+  },
+  {
+    "title": "Jarðfræði",
+    "context": "Jarðlagamælar greina sýni af jarðlagasniðum sem hægt er að skila frá vettvangi, til dæmis úr borkjörnum. Jarðlagamælar greina einnig gögn úr jarðeðlisfræðilegum rannsóknum sem sýna staðsetningu jarðlagaeininga í undirlaginu. Hægt er að sameina jarðeðlisfræðileg gögn og brunnskýrslur til að fá betri sýn á undirlagið og nota jarðlagamælar oft tölvuforrit til þess í þrívídd. Jarðlagamælar geta síðan notað þessi gögn til að endurgera forn ferli sem eiga sér stað á yfirborði jarðar, túlka umhverfi fyrri tíma og staðsetja svæði fyrir vatns-, kola- og kolvetnisvinnslu.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": -1,
+            "text": "brunnlogn"
+          }
+        ],
+        "id": "57268066708984140094c823",
+        "question": "Hvað er hægt að tengja við jarðeðlisfræðileg gögn til að fá betri sýn á undirslagið?"
+      }
+    ]
+  },
+  {
+    "title": "Newcastle_upon_Tyne",
+    "context": "Lindisfarne er þjóðlagarokksveit með sterka tengingu við Tyne-fjöll. Frægasta lag þeirra, „Fog on the Tyne“ (1971), var tekið fyrir af Paul Gascoigne, fyrrum knattspyrnumanni Geordie árið 1990. Venom, sem margir telja upphafsmenn svarta metalsins og afar áhrifamikið fyrir öfgametal-senuna í heild, var stofnað í Newcastle árið 1979. Folk metal hljómsveitin Skyclad, sem oft er talin fyrsta folk-metal hljómsveitin, var einnig stofnuð í Newcastle eftir að Martin Walkyier þrass-metal-hljómsveitin Sabbat hætti störfum. Andy Taylor, fyrrum aðalgítarleikari Duran Duran, er fæddur hér á landi árið 1961. Brian Johnson var meðlimur í rokkhljómsveitinni Geordie áður en hann varð aðalrödd í AC/DC.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 194,
+            "text": "Venom"
+          }
+        ],
+        "id": "5726847f708984140094c8ad",
+        "question": "Hvaða hljómsveit telur fjöldi fólks vera fyrstu svartmálmsveitina?"
+      }
+    ]
+  },
+  {
+    "title": "Victoria_and_Albert_Museum",
+    "context": "Árið 1857 gaf John Sheepshanks safninu 233 málverk, aðallega eftir breska samtímalistamenn, og svipaðan fjölda teikninga í þeim tilgangi að stofna „A National Gallery of British Art“, en Tate Britain tók síðan við því hlutverki. Listamennirnir sem eiga fulltrúa í safninu eru William Blake, James Barry, Henry Fuseli, Sir Edwin Henry Landseer, Sir David Wilkie, William Mulready, William Powell Frith, Millais og Hippolyte Delaroche. Þrátt fyrir að nokkur verk Constables hafi komið í safnið með beiðni Sheepshanks, var meirihluti listamannsins gefinn af dóttur hans Isabel árið 1888, þar á meðal mikill fjöldi skissa í olíu, en sú merkilegasta var olíuskissa í fullri stærð fyrir The Hay Wain árið 1821. Aðrir listamenn með verk í safninu eru: Bernardino Fungai, Marcus Gheeraerts yngri, Domenico di Pace Beccafumi, Fioravante Ferramola, Jan Brueghel eldri, Anthony van Dyck, Ludovico Carracci, Antonio Verrio, Giovanni Battista Tiepolo, Domenico Tiepolo, Canaletto, Francis Hayman, Pompeo Batoni, Benjamin West, Paul Sandby, Richard Wilson, William Etty, Henry Fuseli, Sir Thomas Lawrence, James Barry, Francis Danby, Richard Parkes Bonington og Alphonse Legros.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 5,
+            "text": "1857"
+          }
+        ],
+        "id": "5726f4a0708984140094d6e9",
+        "question": "Hvaða ár gaf John Sheepshanks stórt málverkasafn?"
+      }
+    ]
+  },
+  {
+    "title": "American _ Broadcasting _ Company",
+    "context": "Árið 2000 setti ABC á laggirnar auglýsingaherferð á vefnum sem snéri að hringmerki sínu, einnig kallað „the dot“, þar sem teiknimyndasögupersónan Little Dot hvatti gesti til að „download the dot“, forrit sem myndi láta merki ABC fljúga um skjáinn og setjast í neðra hornið. Netsíðan réð Troika Design Group til að hanna og framleiða auðkenni sitt 2001-02, sem hélt áfram að nota svart-og-gulu litina á merkinu og sýndi punkta og rendur á ýmsum kynningar- og auðkennisstöðum.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": -1,
+            "text": "svart-og-gult"
+          }
+        ],
+        "id": "572734af708984140094dae5",
+        "question": "Hvaða litir voru á merki ABC 2001?"
+      }
+    ]
+  },
+  {
+    "title": "Genghis_Khan",
+    "context": "Jamukha og Temujin slitu vinskap sínum og tóku að styrkja hvor annan í sessi og urðu fljótlega keppinautar. Jamukha studdi hefðbundið aðalsveldi Mongóla en Temujin fylgdi verðskuldaðri aðferð og laðaði að sér breiðari hóp fylgjenda sem þó voru af lægri stéttum. Vegna fyrri ósigurs hans gegn Merkítum og yfirlýsingu sjamansins Kokochu um að hinn eilífi blái himinn hefði sett heiminn til hliðar fyrir Temujin fór Temujin að rísa til valda. Árið 1186 var Temujin kjörinn konungur Mongóla. Jamukha var þó ógnað af hraðri uppgangi Temujins og var fljótur að stöðva metnað hans. Árið 1187 gerði hann árás á fyrrum vin sinn með þrjátíu þúsund manna her. Temujin safnaði fylgjendum sínum saman í flýti til að verjast árásinni en hann var barinn af alefli í orrustunni við Dalan Balzhut. Jamukha skelfdi fólk mjög og skaðaði ímynd sína með því að sjóða sjötíu unga karlmenn sem voru í haldi lifandi í kviðum, gera marga mögulega fylgjendur sína fráhverfa og vekja samúð með Temujin. Toghrul, sem verndari Temujins, var sendur í útlegð til Qara Khitai. Líf Temujins næstu tíu árin er mjög óljóst þar sem sögulegar heimildir eru að mestu þöglar um það tímabil.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": -1,
+            "text": "hinn hefðbundni mongólski aðalsmaður"
+          }
+        ],
+        "id": "5726acc1f1498d1400e8e6ca",
+        "question": "Hverjir studdu Jamukha sem ekki voru hluti af valdakjarna Temujin?"
+      }
+    ]
+  },
+  {
+    "title": "Lyfjafræði",
+    "context": "Framfarir í grasa- og efnafræði í Mið-Austurlöndum leiddu til þess að læknisfræði í íslam á miðöldum varð að miklu leyti lyfjafræðileg. Múhameð ibn Zakariya Razi (Rhazes) (865-915) var til að mynda frumkvöðull í að efla notkun efnasambanda í læknisfræði. Abu al-Qasim al-Zahrawi (Abulcasis) (936-1013) var frumkvöðull í að útbúa lyf með uppgufun og eimingu. Liber servitoris hans er sérstaklega áhugaverður þar sem hann gefur lesandanum uppskriftir og útskýrir hvernig á að útbúa „einföldu“ lyfin sem flóknu lyfin sem þá voru almennt notuð voru blönduð úr. Sabur Ibn Sahl (d. 869) var hins vegar fyrsti læknirinn sem hóf lyfjafræðilega fræðimennsku og lýsti þar fjölmörgum lyfjum og úrræðum við kvillum. Al-Biruni (973-1050) skrifaði eitt verðmætasta íslamska rit um lyfjafræði, Kitab al-Saydalah (Lyfjabókin), þar sem hann greindi frá eiginleikum lyfja og gerði grein fyrir hlutverki lyfjabúðarinnar og hlutverki og skyldum lyfjafræðingsins. Avicenna lýsti líka ekki færri en 700 lyfjablöndum, eiginleikum þeirra, verkunarmáta og ábendingum. Hann helgaði í raun heilt bindi af einföldum lyfjum í The Canon of Medicine. Einnig höfðu verk al-Maridinis frá Bagdad og Kaíró og Ibn al-Wafid (1008-1074) mikil áhrif, en bæði voru þau prentuð á latínu meira en fimmtíu sinnum, annars vegar De Medicinis universalibus et particularibus eftir „Mesue“ yngri og hins vegar Medicamentis simplicibus eftir „Abenguefit“. Pétur frá Abano (1250-1316) þýddi og bætti viðbót við verk al-Maridinis undir titlinum De Veneris. Framlag Al-Muwaffaqs á þessu sviði er einnig frumkvöðlaverk. Hann var uppi á 10. öld og skrifaði undirstöður eiginleika úrræða, meðal annars lýsti hann arsen oxíði og var kunnugur kísilsýru. Hann gerði skýran greinarmun á natríum karbónati og kalíum karbónati og vakti athygli á eiturvirkni koparefna, sérstaklega koparvítríóls, og einnig blýefna. Hann lýsir einnig eimingu sjávarvatns til drykkjar. [Nauðsynleg staðfesting]",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": -1,
+            "text": "grasafræði og efnafræði"
+          }
+        ],
+        "id": "5726ddf6f1498d1400e8ee04",
+        "question": "Þróun vísindanna sem hafði áhrif á sköpun lyfjafræðinnar í íslam á miðöldum?"
+      }
+    ]
+  },
+  {
+    "title": "Immune_system",
+    "context": "Aðferðirnar sem notaðar eru til að komast hjá aðlögunarfærum ónæmiskerfisins eru flóknari. Einfaldasta aðferðin er að breyta hratt ónauðsynlegum frumuþráðum (amínósýrum og/eða sykrum) á yfirborði sýkilsins en halda nauðsynlegum frumuþráðum leyndum. Þetta kallast mótefnavakabreyting. Dæmi um þetta er HIV sem stökkbreytist hratt og því eru próteinin á veiruhjúpnum sem eru nauðsynleg fyrir inngöngu í markfrumu hýsilsins stöðugt að breytast. Þessar tíðum breytingum á mótefnavökum gæti verið skýringin á því að bóluefni sem beinast að þessari veiru bregðast. Sníkjudýrið Trypanosoma brucei notar svipaða aðferð og skiptir stöðugt um eina gerð af yfirborðspróteini fyrir aðra og getur þannig haldið sér einu skrefi á undan mótefnasvöruninni. Að hylja mótefnavaka með hýsilsameindum er önnur algeng aðferð til að koma í veg fyrir að ónæmiskerfið greini þá. Í HIV er umslagið sem hylur veiruna myndað úr ystu himnu hýsilfrumu; slíkar „sjálfs-hjúpaðar“ veirur gera ónæmiskerfinu erfitt fyrir að greina þær sem „ósjálfstæðar“ byggingar.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 301,
+            "text": "HIV"
+          }
+        ],
+        "id": "572a0e4b6aef051400155215",
+        "question": "Hvað er dæmi um vírus sem notar mótefnavakabreytileika?"
+      }
+    ]
+  },
+  {
+    "title": "Civil_disobedience",
+    "context": "Sumir borgaralegir óhlýðnissinnar telja það skyldu sína að sætta sig við refsingu vegna trúar sinnar á gildi samfélagssáttmálans sem er talinn binda alla til að hlýða lögum sem ríkisstjórn sem uppfyllir ákveðin lögmætisskilyrði hefur sett eða að öðrum kosti verða fyrir þeim viðurlögum sem sett eru fram í lögunum. Aðrir borgaralegir óhlýðnissinnar sem eru hlynntir tilvist ríkisstjórnar trúa ekki enn á lögmæti þeirrar ríkisstjórnar sem þeir tilheyra eða trúa ekki á lögmæti tiltekinna laga sem hún hefur sett. Og enn aðrir borgaralegir óhlýðnissinnar sem eru stjórnleysingjar trúa ekki á lögmæti ríkisstjórnar og telja því enga þörf á að sætta sig við refsingu fyrir brot á refsilögum sem brjóta ekki á réttindum annarra.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": -1,
+            "text": "trú þeirra á gildi félagssáttmálans"
+          }
+        ],
+        "id": "5728eb1a3acd2414000e01c6",
+        "question": "Hvers vegna er þörf á viðurkenningu refsinga?"
+      }
+    ]
+  },
+  {
+    "title": "Byggingarstarfsemi",
+    "context": "Verkfræðiblaðið ENR (Engineering News-Record) er fagtímarit fyrir byggingariðnaðinn. Ár hvert taka ENR saman og greina frá gögnum um stærð hönnunar- og byggingarfyrirtækja. Þeir birta lista yfir stærstu fyrirtæki Bandaríkjanna (Top-40) og einnig lista yfir stærstu fyrirtæki heims (Top-250, eftir því hversu mikið fyrirtækin vinna utan heimalandsins). Árið 2014 tók ENR saman gögnin í níu markaðshlutum. Þeim var skipt í flutninga, olíu, byggingar, orku, iðnað, vatn, framleiðslu, fráveitu/úrgang, fjarskipti, hættulegan úrgang auk tíunda flokks fyrir önnur verkefni. Í skýrslu sinni um Top 400 notuðu þeir gögn um flutninga, fráveitu, hættulegan úrgang og vatn til að flokka fyrirtæki sem stórverktaka.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 357,
+            "text": "2014"
+          }
+        ],
+        "id": "57273e50dd62a815002e9a04",
+        "question": "Hvaða ár tók ENR saman gögn í níu markaðshlutum?"
+      }
+    ]
+  },
+  {
+    "title": "Einka _ skóli",
+    "context": "Á lokaárum aðskilnaðarstefnunnar var foreldrum í ríkisreknum skólum gefin kostur á að breyta yfir í „hálf-einkaskóla“ sem kallaðir voru „fyrirmynd C“ og margir þessara skóla breyttu inntökustefnu sinni þannig að þeir tóku við börnum af öðrum kynþáttum. Í kjölfar breytinganna yfir í lýðræði var rekstrarformið „fyrirmynd C“ afnumið en hugtakið er þó enn notað um ríkisrekna skóla sem áður voru ætlaðir hvítum börnum. Þessir skólar hafa tilhneigingu til að skila betri námsárangri en ríkisreknir skólar sem áður voru ætlaðir öðrum kynþáttum. Fyrrum „fyrirmynd C“ skólar eru ekki einkaskólar, þar sem þeir eru ríkisreknir. Allir skólar í Suður-Afríku (þar með taldir bæði sjálfstæðir skólar og opinberir skólar) hafa rétt til að ákveða skólagjöld og áður „fyrirmynd C“ skólar hafa tilhneigingu til að ákveða mun hærri skólagjöld en aðrir opinberir skólar.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": -1,
+            "text": "ríkisreknir skólar sem áður voru ætlaðir hvítum börnum"
+          }
+        ],
+        "id": "57275409708984140094dc35",
+        "question": "Hvaða skólar eru nefndir „fyrirmyndarskólar“ eftir aðskilnaðarstefnuna?"
+      }
+    ]
+  },
+  {
+    "title": "Harvard _ University",
+    "context": "Carnegie-stofnunin segir að inntökur í grunnnám í Harvard einkennist af „sérhæfðari og lægri yfirfærslu“. Harvard College tók við 5,3% af umsækjendum í árganginn 2019 sem er met og næstlægsta inntökuhlutfall allra háskóla landsins. Harvard College lauk inntökuáætlun sinni árið 2007 þar sem talið var að áætlunin kæmi illa niður á lágtekjufólki og minnihluta umsækjenda sem sóttu um í sérhæfðum háskólum en fyrir árganginn 2016 var þó innleitt Early Action áætlun.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 278,
+            "text": "2007"
+          }
+        ],
+        "id": "5727d1c93acd2414000ded40",
+        "question": "Hvaða ár lauk Harvard inntökunámi?"
+      }
+    ]
+  },
+  {
+    "title": "Jacksonville, Flórída",
+    "context": "Jacksonville er í First Coast héraðinu í norðausturhluta Flórída og er miðja St. Johns árinnar, um 25 mílur (40 km) sunnan við Georgíufylkislínuna og um 340 mílur (550 km) norðan við Miami. Samfélögin á Jacksonville Beach eru meðfram aðliggjandi Atlantshafsströnd. Á svæðinu bjuggu upphaflega Timucua-fólk og árið 1564 var franska nýlendan Fort Caroline, ein elsta evrópska byggðin í því sem nú er meginland Bandaríkjanna. Undir stjórn Breta óx byggð á þeim þrönga stað í ánni þar sem nautgripir fóru yfir, þekkt sem Wacca Pilatka til Seminole og Cow Ford til Breta. Þar var settur á fót þéttur bær árið 1822, ári eftir að Bandaríkin fengu Flórída frá Spáni; hann var nefndur eftir Andrew Jackson, fyrsta herstjóra Flórídasvæðisins og sjöunda forseta Bandaríkjanna.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 153,
+            "text": "340 mílur"
+          }
+        ],
+        "id": "5727cb4b2ca10214002d9677",
+        "question": "Hversu langt er Jacksonville frá Miami?"
+      }
+    ]
+  },
+  {
+    "title": "Economic _ inequality",
+    "context": "Þrátt fyrir að viðurkennt sé að hagvöxtur geti gegnt lykilhlutverki í þróun mannsins, minnkun fátæktar og því að þúsaldarmarkmiðin náist er það að verða almennt viðurkennt meðal þróunarsamfélagsins að gera þurfi sérstakt átak til að tryggja að fátækari hópar samfélagsins geti tekið þátt í hagvexti. Áhrif hagvaxtar á minnkun fátæktar - teygjanleiki fátæktar í vexti - getur verið háður því hversu mikill ójöfnuður er til staðar. Til dæmis getur land með lítinn ójöfnuð, þar sem hagvöxtur er 2% á mann og 40% íbúa búa við fátækt, helmingað fátækt á tíu árum, en land með mikinn ójöfnuð myndi taka nærri 60 ár að ná sömu minnkun. Í orðum Ban Ki-Moon, framkvæmdastjóra Sameinuðu þjóðanna: „Á meðan hagvöxtur er nauðsynlegur, nægir hann ekki til að árangur náist í að draga úr fátækt.“",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 212,
+            "text": "sérstakt átak"
+          }
+        ],
+        "id": "572a1a5c6aef051400155284",
+        "question": "Hvað þarf að gera til að tryggja að fátækari þjóðfélagsþegnar geti tekið þátt í hagvexti?"
+      }
+    ]
+  },
+  {
+    "title": "Doktor _ Who",
+    "context": "Sá sem oftast kom fram í tónlistarlífinu fyrstu 15 árin var Dudley Simpson, sem er einnig þekktur fyrir þema- og tilfallandi tónlist sína fyrir Blake's 7, og fyrir þrástef og tóntegundir í upprunalegu útgáfu The Tomorrow People frá 1970. Fyrsta Doctor Who-tóntegund Simpsons var Planet of Giants (1964) og hann skrifaði tónlist fyrir mörg ævintýri frá 1960 og 1970, þar á meðal flestar sögur frá tímabili Jon Pertwee/Tom Baker sem endaði með The Horns of Nimon (1979). Hann kom einnig fram sem tökumaður í The Talons of Weng-Chiang (sem stjórnandi tónlistarhúss).",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 352,
+            "text": "1960 og 1970"
+          }
+        ],
+        "id": "57281a952ca10214002d9dec",
+        "question": "Á hvaða áratugum var Dudley Simpson virkasti þáttastjórnandinn í Doctor Who?"
+      }
+    ]
+  },
+  {
+    "title": "University _ of _ Chicago",
+    "context": "Fyrstu byggingar háskólasvæðisins í Chicago, sem mynda það sem nú er kallað „aðalflaugar“, voru hluti af „aðalskipulagi“ sem tveir trúnaðarmenn háskólans í Chicago höfðu gert og Chicago arkitektinn Henry Ives Cobb teiknaði. Aðalflaugar eru sex ferhyrningar sem hver um sig er umlukinn byggingum sem liggja að einum stærri ferhyrningi. Byggingar aðalflaugar voru hannaðar af Cobb, Shepley, Rutan og Coolidge, Holabird & Roche og fleiri arkitektastofum í blöndu af viktoríanskum gotneskum og Collegiate gotneskum stíl, sem er mynstur á háskólasvæði Oxford. ( Mitchell Tower er til dæmis fyrirmynd Magdalen Tower í Oxford og háskólasamfélagið, Hutchinson Hall, er eftirlíking Christ Church Hall.)",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": -1,
+            "text": "Kristskirkjuhöll"
+          }
+        ],
+        "id": "57284b904b864d19001648e6",
+        "question": "Hutchinson Hall var hannað til að líta út eins og Oxford Hall?"
+      }
+    ]
+  },
+  {
+    "title": "Yuan_dynasty",
+    "context": "Sagnfræðingurinn Frederick W. Mote taldi að notkun hugtaksins „félagsstéttir“ fyrir þetta kerfi væri villandi og að staða fólks innan fjórflokkakerfisins væri ekki vísbending um raunverulegt félagslegt vald þess og auð heldur fæli hún bara í sér „stig forréttinda“ sem það ætti rétt á stofnanalega og lagalega, þannig að staða einstaklings innan stéttanna væri ekki trygging fyrir stöðu hans, þar sem ríkir og vel stæðir Kínverjar væru til staðar á meðan það væru ekki eins ríkir Mongólar og Semúar og Mongólar og Semúar sem byggju við fátækt og illa meðferð.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 17,
+            "text": "Frederick W. Mote"
+          }
+        ],
+        "id": "5728848cff5b5019007da298",
+        "question": "Hverjum fannst að ekki ætti að kalla félagsstéttakerfi Yuan?"
+      }
+    ]
+  },
+  {
+    "title": "Kenía",
+    "context": "Kenía er í neðsta sæti á Corruption Perception Index (CPI) sem er mælikvarði Transparency International sem metur algengi spillingar í opinberum rekstri í ýmsum löndum. Árið 2012 var landið í 139. sæti af 176 löndum á CPI, með einkunnina 27/100. Þó er ýmislegt sem hefur gerst til að stemma stigu við spillingu frá stjórnvöldum í Kenía, til dæmis stofnun nýrrar og óháðrar siða- og spillingarnefndar (EACC).",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": -1,
+            "text": "um stofnun nýrrar og óháðrar siða- og spillingarnefndar"
+          }
+        ],
+        "id": "57290b21af94a219006a9fd2",
+        "question": "Hvernig vinnur Kenýa gegn spillingu?"
+      }
+    ]
+  },
+  {
+    "title": "Milliríkjanefnd _ um _ loftslagsbreytingar",
+    "context": "Í þriðju matsskýrslunni (TAR) var áberandi línurit sem merkt var „Millennial Northern Hemisphere temperature reconstruction“ og byggt á grein eftir Michael E. Mann, Raymond S. Bradley og Malcolm K. Hughes frá árinu 1999, sem nefnt hefur verið „hockey stick graph“. Þetta línurit náði yfir svipað línurit og á mynd 3.20 í annarri matsskýrslu IPCC frá árinu 1995 og var ólíkt töflureikniriti í fyrri matsskýrslunni sem skorti hitaeiningar, en virtist sýna meiri hitabreytingar á heimsvísu síðustu 1000 árin og hærra hitastig á miðaldahitaskeiðinu en um miðja 20. öld. Teikningin var ekki raunverulegt töflureiknirit heldur var hún byggð á töflureiknirit af hitastigi í mið-Englandi, þar sem hitastig hækkaði á grundvelli heimilda um miðaldavínekrur í Englandi. Þrátt fyrir þessa hækkun náði hámarkið sem hún sýndi fyrir miðaldahitaskeiðið ekki hitastigi sem var skráð í mið-Englandi árið 2007. Niðurstöður MBH99 voru studdar með tilvitnuðum endurgerðum Jones o.fl. 1998, Pollack, Huang & Shen 1998, Crowley & Lowery 2000 og Briffa 2000, þar sem notuð voru mismunandi gögn og aðferðir. Endurgerðir Jones o.fl. og Briffa voru lagðar saman við MBH99 endurgerðina á mynd 2.21 í IPCC skýrslunni.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 148,
+            "text": "Michael E. Mann, Raymond S. Bradley og Malcolm K. Hughes"
+          }
+        ],
+        "id": "57294209af94a219006aa202",
+        "question": "Hver skrifaði ritgerðina sem „Millennial Northern Hemisphere temperature reconstruction“ grafið byggðist á?"
+      }
+    ]
+  },
+  {
+    "title": "Klóróplast",
+    "context": "Ýmsar ranghugmyndir eru um ytri og innri klórplasthimnur. Sú staðreynd að klórplasthimnur eru umluktar tvöfaldri himnu er oft nefnd sem sönnun þess að þær séu afkomendur sýanóbaktería sem eru sambýlisbakteríur. Þetta er oft túlkað sem svo að ytri klórplasthimnan sé afurð frumuhimnu hýsilsins sem fellur saman og myndar blöðru sem umlykur forfeður sýanóbakteríanna-sem er ekki rétt-báðar klórplasthimnurnar eru einsleitar og upprunalegar tvöfaldar himnur sýanóbakteríanna.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": -1,
+            "text": "samkynja"
+          }
+        ],
+        "id": "57296d1b1d0469140077940f",
+        "question": "Hvernig eru báðar klórplasthimnurnar samanborið við upprunalegar tvöfaldar himnur blábaktería?"
+      }
+    ]
+  },
+  {
+    "title": "Prime_number",
+    "context": "Þetta norm minnkar einkum þegar tala er margfölduð með p, sem er í hrópandi andstöðu við venjulegt algildi (einnig nefnt óendanlegt forskeyti). Á meðan það að ljúka við Q (í grófum dráttum að fylla í eyðurnar) með tilliti til algildis gefur svið rauntalna, þá gefur það að ljúka við p-adic normið |-|p svið p-adic talna. Þetta eru í meginatriðum allar mögulegar leiðir til að ljúka við Q, samkvæmt setningu Ostrowskis. Hægt er að færa ákveðnar reiknispurningar sem tengjast Q eða almennari hnattrænum reitum fram og til baka yfir á fullgerðu (eða staðbundnu) reitina. Þetta staðbundna-hnattræna regluverk undirstrikar enn og aftur mikilvægi forskeyta fyrir talnafræði.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": -1,
+            "text": "algildið"
+          }
+        ],
+        "id": "5729a26d6aef05140015505c",
+        "question": "Lokaverkefni Spurning með tilliti til þess hvað muni mynda reit rauntalna?"
+      }
+    ]
+  },
+  {
+    "title": "Rín",
+    "context": "Rínar-Meuse ósinn, mikilvægasta náttúrusvæði Hollands, hefst nálægt Millingen aan de Rijn, nálægt landamærum Hollands og Þýskalands, með skiptingu Rínar í Waal og Nederrijn. Þar sem Rínarfljót leggur til mestan hluta vatnsins er styttra heitið Rínarfljót yfirleitt notað. Þetta heiti er þó einnig notað yfir ósafljótið þar sem Rín rennur í Constance vatnið, svo það er skýrara að kalla það Rínar-Meuse ós eða jafnvel Rínar-Meuse-Scheldt ós, þar sem Scheldt endar í sama ósa.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": -1,
+            "text": "Rín-Meuse"
+          }
+        ],
+        "id": "572ff673b2c2fd1400568669",
+        "question": "Hvað heitir Delta í Hollandi?"
+      }
+    ]
+  },
+  {
+    "title": "Scottish_Parliament",
+    "context": "Önnur tegund nefnda er venjulega skipuð til að fjalla um einkafrumvörp sem utanaðkomandi aðili eða verkefnisstjóri, sem ekki á sæti í skoska þinginu eða skosku ríkisstjórninni, leggur fyrir skoska þingið. Einkafrumvörp tengjast yfirleitt stórum þróunarverkefnum eins og innviðaframkvæmdum sem krefjast notkunar lands eða eigna. Einkafrumvarpanefndir hafa verið settar á laggirnar til að fjalla um löggjöf um málefni eins og þróun sporbílakerfisins í Edinborg, tengingu Glasgow flugvallar við Glasgow flugvöll, tengingu Airdrie-Bathgate járnbrauta og viðbyggingu við National Gallery of Scotland.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 13,
+            "text": "nefnd"
+          }
+        ],
+        "id": "572fc8a904bcaa1900d76d1f",
+        "question": "Hvað er sett á laggirnar til að grandskoða einkafrumvörp sem utanaðkomandi aðilar leggja fram?"
+      }
+    ]
+  },
+  {
+    "title": "Íslamismi",
+    "context": "Meðan hann stundaði nám í lögfræði og heimspeki í Englandi og Þýskalandi gerðist hann meðlimur í Lundúnadeild Bandalags múslíma á Indlandi. Hann kom aftur til Lahore árið 1908. Meðan hann skipti tíma sínum á milli lögfræði og heimspekilegrar ljóðagerðar hafði hann verið virkur í Bandalagi múslíma. Hann studdi ekki þátttöku Indverja í fyrri heimsstyrjöldinni og var í nánu sambandi við pólitíska leiðtoga múslíma á borð við Múhameð Ali Jóhar og Múhameð Ali Jinnah. Hann var gagnrýnandi hins hefðbundna indverska þjóðernissinnaða og veraldlega indverska þjóðarþings. Ensku fyrirlestrarnir sjö voru gefnir út af Oxford University Press árið 1934 í bók sem ber heitið The Reconstruction of Religious Thought in Islam. Fyrirlestrarnir fjalla um hlutverk íslam sem trúarbragða og einnig um stjórnmála- og lagaheimspeki í nútímanum.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": -1,
+            "text": "All India Muslim League"
+          }
+        ],
+        "id": "572ffee1947a6a140053cf15",
+        "question": "Hvaða samtökum gekk Iqbal til liðs við í London?"
+      }
+    ]
+  },
+  {
+    "title": "Keisaraveldi",
+    "context": "Royal Geographical Society of London og fleiri landfræðifélög í Evrópu höfðu mikil áhrif og gátu fjármagnað ferðalanga sem komu til baka með sögur af uppgötvunum sínum. Þessi félög voru einnig vettvangur fyrir ferðamenn til að deila þessum sögum. Pólitískir landfræðingar eins og Friedrich Ratzel frá Þýskalandi og Halford Mackinder frá Bretlandi studdu einnig heimsvaldastefnuna. Ratzel taldi útþenslu nauðsynlega til að ríki lifði af á meðan Mackinder studdi útþenslu Bretlands; þessi tvö rök voru ráðandi í fræðigreininni í áratugi.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 337,
+            "text": "Bretland"
+          }
+        ],
+        "id": "573088da069b53140083216c",
+        "question": "Hvar fæddist Halford Mackinder?"
+      }
+    ]
+  },
+  {
+    "title": "United_Methodist_Church",
+    "context": "Hreyfingin sem varð að Sameinaðri kirkjuaðferðafræði hófst um miðja 18. öld innan Ensku kirkjunnar. Fámennur hópur nemenda, John Wesley, Charles Wesley og George Whitefield, hittust á skólalóð Oxford háskóla. Þeir lögðu áherslu á biblíunám, aðferðafræðilegt nám í ritningu og að lifa heilögu lífi. Aðrir nemendur gerðu grín að þeim og sögðu þá vera „Hólaglubbann“ og „meþódistana“, þeir væru aðferðafræðilegir og einstaklega nákvæmir í biblíunámi sínu, skoðunum og agaðri lífsstíl. Að lokum stofnuðu svokallaðir meþódistar einstaklingsfélög eða stéttir fyrir meðlimi ensku kirkjunnar sem vildu lifa trúarlífi.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": -1,
+            "text": "að vera aðferðagóðir og einstaklega nákvæmir í biblíunámi sínu"
+          }
+        ],
+        "id": "57309921396df919000961f8",
+        "question": "Hvers vegna var nemendahópurinn kallaður „aðferðafræðingarnir“?"
+      }
+    ]
+  },
+  {
+    "title": "Franska_og_indverska_stríðið",
+    "context": "Eftir að Washington var kominn aftur til Williamsburg skipaði Dinwiddie honum að leiða stærri her til að aðstoða Trent við störf sín. Á leiðinni frétti Washington af því að Trent væri að hörfa. Þar sem Tanaghrisson hafði lofað Bretum stuðningi hélt Washington áfram í átt að Fort Duquesne og hitti leiðtoga Mingo. Að frétta af franskri skátasveit á svæðinu, Washington, með Tanaghrisson og flokki hans kom Kanadamönnum á óvart 28. maí í því sem varð að svokölluðu Jumonville Glen bardaga. Þeir drápu marga Kanadamenn, þar á meðal yfirmann þeirra, Joseph Coulon de Jumonville, en Tanaghrisson sagði að hann hefði klofið höfuð hans með tomahawk. Sagnfræðingurinn Fred Anderson bendir á að Tanaghrisson hafi verið að vinna að því að fá stuðning Breta og endurheimta vald yfir eigin þjóð. Þeir höfðu verið hallir undir stuðning Frakka sem þeir áttu í löngu viðskiptasambandi við. Einn af mönnum Tanaghrisson sagði Contrecoeur að Jumonville hefði fallið fyrir skotum Breta.",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": -1,
+            "text": "margir Kanadamenn, þar á meðal yfirmaður þeirra, Joseph Coulon de Jumonville"
+          }
+        ],
+        "id": "5733f309d058e614000b6649",
+        "question": "Hvert var mannfall í bardögum?"
+      }
+    ]
+  },
+  {
+    "title": "Kraftur",
+    "context": "Þróun grundvallarkenninga um krafta fór fram á svipuðum nótum og sameining ólíkra hugmynda. Isaac Newton sameinaði til dæmis kraftinn sem veldur því að hlutir falla við yfirborð jarðar og kraftinn sem veldur því að himinhringrásir ganga í gegnum himinhvolfið í alheimsþyngdarkenningu sinni. Michael Faraday og James Clerk Maxwell sýndu fram á að raf- og segulkraftar sameinuðust með einni samræmdri kenningu um rafsegulfræði. Á 20. öld leiddi þróun skammtafræðinnar til nútímaskilnings á því að fyrstu þrír grundvallarkraftarnir (allir nema þyngdaraflið) eru birtingarmyndir efnis (ferjónir) sem víxlverka með því að skiptast á sýndarögnum sem kallast mælifóson. Þetta staðlaða líkan af eðlisfræði einda sýnir líkindi milli kraftanna og leiddi til þess að vísindamenn spáðu fyrir um sameiningu veiku og rafsegulskraftanna í rafveiku kenningunni sem síðan var staðfest með mælingum. Fullmótuð framsetning staðlaða líkansins spáir fyrir um enn ógreindan Higgs-gang, en athuganir á borð við neutrino sveiflur benda til þess að staðlaða líkanið sé ófullkomið. Stórsameinuð kenning sem gerir ráð fyrir samspili rafveiku og sterku kraftanna er talin vera möguleiki þar sem til eru kenningar á borð við ofursamhverfu sem ætlað er að taka á ýmsum óleystum vandamálum í eðlisfræði. Eðlisfræðingar eru enn að reyna að þróa sjálfsögð sameiningarlíkön sem myndu sameina öll fjögur grundvallarsamskiptin í kenningu um allt. Einstein reyndi það og mistókst, en vinsælasta aðferðin til að svara þessari spurningu er strengjakenningin.: 212-219",
+    "qa": [
+      {
+        "answers": [
+          {
+            "answer_start": 1323,
+            "text": "sameining"
+          }
+        ],
+        "id": "5737821cc3c5551400e51f1b",
+        "question": "Hvers konar sjálfsögð líkön eru eðlisfræðingar að reyna að búa til sem myndu skapa kenningu um allt?"
+      }
+    ]
+  }
+]
