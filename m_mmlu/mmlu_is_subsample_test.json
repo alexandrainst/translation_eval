@@ -1,0 +1,902 @@
+[
+  {
+    "instruction": "Staðhæfing 1| ImageNet hefur myndir í mismunandi upplausnum. Staðhæfing 2| Caltech-101 hefur fleiri myndir en ImageNet.",
+    "option_a": "True, True",
+    "option_b": "False, False",
+    "option_c": "True, False",
+    "option_d": "Fals, True",
+    "answer": "C",
+    "id": "machine_learning/test/90"
+  },
+  {
+    "instruction": "Klukkan 10:00 þann 14. nóvember var ökumaður að aka bifreið sinni eftir Aðalstræti. Þegar ökumaðurinn var að nálgast gatnamót Aðalstrætis og Fyrstu breiðgötu birtist skyndilega fyrir honum ökumaður sem ók beint í gegnum rautt ljós. Til að forðast ökumanninn ók ökumaðurinn bíl sínum út á gangstéttina. Bíllinn lenti í djúpri holu á gangstéttinni. Þessi holugerð hafði verið í höndum byggingafyrirtækis sem hafði verið að gera við vatnsfallsbrot fyrr um daginn. Byggingafyrirtækið hafði verið leigt af vatnsveitu sveitarfélagsins. Þrátt fyrir að byggingafyrirtækið hefði reist viðvörunarskilti sem benti gangandi vegfarendum á holuna var engin girðing eða hindrun umhverfis hana. Þegar bíll ökumannsins féll í holuna rofnaði vatnsfallið og vatn flæddi inn í bílinn. Á skömmum tíma drukknaði ökumaðurinn í bílnum sem fylltist hratt af vatni og gat ekki flúið. Í ólögmætri andlátsaðgerð bús ökumannsins gegn vatnsveitu sveitarfélagsins mun búið líklegast",
+    "option_a": "ríkja, vegna þess að friðhelgi ríkja myndi ekki tengjast skyldum sem ekki eru framseljanlegar, sem eru í eðli sínu einkaeignarréttarlegar.",
+    "option_b": "ríkjandi, því borgarstjórn bæri stranga ábyrgð á því að tryggja ekki að viðgerð á vatnsaðgangi væri rétt unnin.",
+    "option_c": "ekki ráðið, þar sem vatnsveita sveitarfélagsins bæri ekki ábyrgð á vanrækslu sjálfstæðs verktaka síns.",
+    "option_d": "ekki ríkjandi, því friðhelgi ríkis fylgir störfum sem eru í eðli sínu stjórnvaldsverkefni.",
+    "answer": "A",
+    "id": "professional_law/test/268"
+  },
+  {
+    "instruction": "Það eru þrír mismunandi hlutar sem hægt er að sitja í í hafnaboltagarði. Hér að neðan er lýst þeim fjölda sem hægt er að sitja í hverjum hluta. * rauði hlutinn tekur 200 manns í sæti * blái hlutinn tekur 20 færri í sæti en sá rauði * grænn hlutinn tekur 2 sinnum fleiri í sæti en sá blái Hver er heildarfjöldi þeirra sem hægt er að sitja í hafnaboltagarðinum?",
+    "option_a": "260",
+    "option_b": "380",
+    "option_c": "640",
+    "option_d": "740",
+    "answer": "D",
+    "id": "elementary_mathematics/test/186"
+  },
+  {
+    "instruction": "Hvað heitir á ensku spádómstextinn sem einnig er kallaður Yijing?",
+    "option_a": "Klassík skjala",
+    "option_b": "The Lotus Sutra",
+    "option_c": "Blómið Garland Sutra",
+    "option_d": "Klassíkin í breytingum",
+    "answer": "D",
+    "id": "world_religions/test/148"
+  },
+  {
+    "instruction": "Maður var í réttarhöldum vegna manndráps. Maðurinn var á ganginum fyrir utan dómsalinn að ræða við saksóknara sinn í frímínútum. Í samtali þeirra sagði maðurinn: „Hvað ef ég dræpi hann, stórmál.“ Yfirheyrsla yfir manninum fór fram hjá dómara sem dæmdi þegar hann var að ganga niður ganginn að salerninu. Dómarinn tilkynnti svo saksóknara um ummæli mannsins. Eftir að réttarhöld eru endurvakin kallar saksóknari dómarann sem vitni til að bera vitni um það sem hann heyrði sakborninginn segja sakborningi sínum. Má kalla dómarann sem vitni ef saksóknari ákærða mótmælir?",
+    "option_a": "Nei, vegna þess að greinargerð mannsins var trúnaðarsamskipti og varin samkvæmt réttindum lögmanns og skjólstæðings.",
+    "option_b": "Nei, því dómari má ekki bera vitni í máli sem hann er í forsjá yfir.",
+    "option_c": "Já, því dómara ber skylda til að afhenda ákæruvaldinu sakargögn.",
+    "option_d": "Já, því yfirlýsing mannsins var ekki trúnaðarsamskipti.",
+    "answer": "B",
+    "id": "professional_law/test/438"
+  },
+  {
+    "instruction": "Samkvæmt stöðuyfirliti um handleiðslu í skólasálfræði sem gefið er út af NASP (National Association of School Psychologists) hvaða atriði hér á eftir eru réttust varðandi það hverjir skólasálfræðingar verða í handleiðslu í skólaumdæmi?",
+    "option_a": "Þeir þurfa einungis að sinna handleiðslu skólasálfræðinga sem ekki hafa fulla löggildingu eða starfsleyfi og allra nema í skólasálfræði.",
+    "option_b": "Þeir eiga að sinna faglegu eftirliti en ekki stjórnsýslulegu.",
+    "option_c": "Þeir eru hæfir til að gegna starfi umsjónarkennara að loknu eins árs starfsferli sem skólasálfræðingar.",
+    "option_d": "Þeir skulu hafa löggildingu skólasálfræðings eða löggildingu skólasálfræðings.",
+    "answer": "D",
+    "id": "high_school_psychology/test/7"
+  },
+  {
+    "instruction": "Hvað er sleði?",
+    "option_a": "Það er nafnlaus útgáfa af moksturssleða",
+    "option_b": "Það er röð af nops á undan innskotnu skeljakóða, gagnlegt þegar skilaheimilisfang er óþekkt",
+    "option_c": "Það er aðferð til að fjarlægja núll bæti úr skeljakóða",
+    "option_d": "Það er annað heiti á greinakennslu í enda röðar af nops",
+    "answer": "B",
+    "id": "computer_security/test/74"
+  },
+  {
+    "instruction": "Í hvorri sviðsmyndinni gerir aðalpersónan (sem notar ég/mig/mín) eitthvað augljóslega siðferðilega rangt samkvæmt almennum siðferðilegum viðmiðum í Bandaríkjunum frá og með árinu 2020? Sviðsmynd 1 | Ég fékk lánaða bók og tók myndir af nokkrum síðum til að muna eftir þeim. Sviðsmynd 2 | Ég afritaði svör úr bók á lokuðu bókaprófi í skólanum.",
+    "option_a": "Rangt, rangt",
+    "option_b": "Rangt, ekki rangt",
+    "option_c": "Ekki rangt, rangt",
+    "option_d": "Ekki rangt, Ekki rangt",
+    "answer": "C",
+    "id": "moral_scenarios/test/390"
+  },
+  {
+    "instruction": "Í hvorri þessara sviðsmynda gerir aðalpersónan (sem notar ég/mig/minn) eitthvað augljóslega siðferðilega rangt samkvæmt almennum siðferðilegum viðmiðum í Bandaríkjunum frá og með árinu 2020? Sviðsmynd 1 | Ég hvatti glæpamenn oft til að vinna gegn lögreglunni. Sviðsmynd 2 | Ég söng rómantískt lag fyrir konuna mína í jarðarför pabba hennar.",
+    "option_a": "Rangt, rangt",
+    "option_b": "Rangt, ekki rangt",
+    "option_c": "Ekki rangt, rangt",
+    "option_d": "Ekki rangt, Ekki rangt",
+    "answer": "A",
+    "id": "moral_scenarios/test/246"
+  },
+  {
+    "instruction": "Carens heldur því fram að til dæmis hafi frjálslynd jafnréttishyggja ekkert að segja um það hvort að þeldökkur læknir hafi siðferðislega skyldu til að starfa í samfélagi þeldökkra. Ástæðan fyrir því er sú að einu takmörkin sem frjálslynd jafnréttishyggja setur siðferðislegum skyldum einstaklinga, samkvæmt Carens, er að þeir",
+    "option_a": "ekki að stangast á við þau réttindi og skyldur sem sjálf frjálslynd jafnréttisstefna mælir fyrir um.",
+    "option_b": "að vera í samræmi við nytjahyggjusiðferðileg sjónarmið.",
+    "option_c": "ekki stangast á við eðlilegar varfærniskröfur.",
+    "option_d": "ekkert af ofantöldu",
+    "answer": "A",
+    "id": "moral_disputes/test/229"
+  },
+  {
+    "instruction": "Hvert af eftirfarandi efnaástandi einkennist af þéttri samsetningu agna sem leiðir til stöðugrar, afmarkaðrar lögunar og afmarkaðs rúmmáls?",
+    "option_a": "Solid",
+    "option_b": "Vökvi",
+    "option_c": "Gas",
+    "option_d": "Plasma",
+    "answer": "A",
+    "id": "miscellaneous/test/419"
+  },
+  {
+    "instruction": "Hvert er flatarmál, í ferningseiningum, fernings með hliðar sem eru jafnlangar og radíus hrings með ummálið 12\\pi$einingar?",
+    "option_a": "10",
+    "option_b": "11",
+    "option_c": "12",
+    "option_d": "36",
+    "answer": "D",
+    "id": "high_school_mathematics/test/224"
+  },
+  {
+    "instruction": "NH4 + (aq) + NO2-(aq) - N2 (g) + 2H2O(l) Með því að hækka hitastigið í ofangreindu hvarfi eykst hvarfhraðinn. Hver af eftirfarandi er EKKI ástæða fyrir því að hækkað hitastig auki hvarfhraða?",
+    "option_a": "Þá eru meiri líkur á að kjarnakljúfarnir yfirstígi virkjunarorkuna.",
+    "option_b": "Árekstrum milli hvarfefnasameinda mun fjölga.",
+    "option_c": "Meiri dreifing á hvarfefnasameindum mun hafa mikinn hraða.",
+    "option_d": "Aðrar hvarfleiðir verða til við hærra hitastig.",
+    "answer": "D",
+    "id": "high_school_chemistry/test/38"
+  },
+  {
+    "instruction": "Hvað merkir Dworkin með „merkingarstimplinum“?",
+    "option_a": "Málfar laganna er almennt óskýrt.",
+    "option_b": "Rök lögfræðinga snúast yfirleitt um málfar.",
+    "option_c": "Dómarar eru bráð málfarslegs misskilnings.",
+    "option_d": "Reglan um viðurkenningu getur ekki gert fulla grein fyrir rétthæð.",
+    "answer": "D",
+    "id": "jurisprudence/test/49"
+  },
+  {
+    "instruction": "Efra Egyptaland er ________ af Neðra Egyptalandi.",
+    "option_a": "norður",
+    "option_b": "suður",
+    "option_c": "austur",
+    "option_d": "vestur",
+    "answer": "B",
+    "id": "prehistory/test/212"
+  },
+  {
+    "instruction": "Hver eru helstu umbrotsefni alkóhóls?",
+    "option_a": "Asetaldehýð, asetat,",
+    "option_b": "Pýrúvat, beta-hýdroxýbútýrat,",
+    "option_c": "Acetýl-CoA, lípíð,",
+    "option_d": "Aseton, laktat",
+    "answer": "A",
+    "id": "nutrition/test/299"
+  },
+  {
+    "instruction": "Hvaða orðatiltæki táknar setninguna hér fyrir neðan? 3 færri en tala, p",
+    "option_a": "3-p",
+    "option_b": "p+3",
+    "option_c": "3/p",
+    "option_d": "p-3",
+    "answer": "D",
+    "id": "elementary_mathematics/test/37"
+  },
+  {
+    "instruction": "Útistandandi hlutabréf í Toft hf. voru 120000 talsins þann 1. janúar. Þann 1. apríl var útgefin 40000 hlutabréf til viðbótar. Útistandandi hlutabréf í heildina voru 10000 talsins og var 5 kr. arður á hlut gefinn upp á árinu. Hreinar tekjur ársins námu 480000 kr. Hvað á Toft að telja til hagnaðar á hlut á árinu?",
+    "option_a": "$2.69",
+    "option_b": "$2.87",
+    "option_c": "$3.00",
+    "option_d": "3.2",
+    "answer": "B",
+    "id": "professional_accounting/test/83"
+  },
+  {
+    "instruction": "2,35 gramma sýni var leyst upp í vatni og klóríðjónirnar felldar út með því að bæta við silfurnítrati (Ag + + Cl--AgCl). Ef 0,335 g af botnfalli fengust, hvert er hlutfall klórs í sýninu?",
+    "option_a": "10.80%",
+    "option_b": "4.60%",
+    "option_c": "43.50%",
+    "option_d": "18%",
+    "answer": "B",
+    "id": "high_school_chemistry/test/167"
+  },
+  {
+    "instruction": "Hvar í fyrsta fjórðungi er rósin r = sin 3. með lóðréttan snertiflöt?",
+    "option_a": "hvergi",
+    "option_b": "th = 0,39",
+    "option_c": "th= 0,47",
+    "option_d": "th = 0,52",
+    "answer": "C",
+    "id": "high_school_mathematics/test/245"
+  },
+  {
+    "instruction": "Hvað sigldi Kólumbus með mörg skip í fyrstu ferð sinni til „nýja heimsins“?",
+    "option_a": "Tveir",
+    "option_b": "Þrír",
+    "option_c": "Fimm",
+    "option_d": "Tíu",
+    "answer": "B",
+    "id": "miscellaneous/test/628"
+  },
+  {
+    "instruction": "Þessi spurning vísar til eftirfarandi upplýsinga. Það er eðlilegt, það eru forréttindi, ég ætla að fara lengra, það eru réttindi, sem allir frjálsir menn halda fram, að þeir eigi rétt á að kvarta þegar þeir verða fyrir skaða. Þeir eiga rétt á að sýna opinberlega fram á misbeitingu valds í sem sterkustu skilmálum, að setja nágranna sína á vörður sínar gegn handverki eða opnu ofbeldi valdhafa og að halda því fram af hugrekki að þeir hafi tilfinningu fyrir blessun frelsisins, þeim verðmætum sem þeir leggja í það og ályktun þeirra af allri hættu að varðveita það sem eina mestu blessun sem himinninn getur veitt... En að lokum: Spurningin fyrir dómstólnum og ykkur, herrar dómnefndarinnar, er ekki lítils eða einkamál. Hún er ekki málstaður eins fátæks prentara, né New York einnar, sem þið reynið nú. Nei! Hún getur í framhaldi af því haft áhrif á alla frjálsa menn sem búa undir breskri stjórn á meginlandi Ameríku. Það er besta málstaðurinn. Það er málstaður frelsisins. Og ég efast ekki um að réttlát framkoma ykkar í dag mun ekki aðeins veita ykkur rétt til kærleika og virðingar samborgara ykkar, heldur mun hver sá maður sem kýs frelsi fram yfir þrælalíf blessa ykkur og heiðra sem menn sem hafa staðið fyrir tilraunum til harðstjórnar, og með óhlutdrægum og óspilltum úrskurði lagt göfugan grunn að því að tryggja okkur, útrásarvíkingunum og nágrönnum okkar, það sem náttúran og lögin í landinu hafa gefið okkur rétt til frelsis til að bæði afhjúpa og andmæla gerræðislegu valdi (í þessum heimshlutum að minnsta kosti) með því að tala og skrifa sannleikann. --Andrew Hamilton, lokaorð, meiðyrðamál blaðastjórans John Peter Zenger, 4. ágúst 1735 Árangur Hamiltons í Zenger-málinu endurspeglar með beinum hætti hvor af eftirfarandi?",
+    "option_a": "Vilji Bandaríkjamanna fá sjálfstæði frá Stóra-Bretlandi",
+    "option_b": "Höfnun Bandaríkjamanna á hugmyndum upplýsingarinnar",
+    "option_c": "Löng hefð fyrir sjálfstjórn í nýlendum Bandaríkjamanna",
+    "option_d": "Efnahagsleg tengsl Bandaríkjanna og Bretlands veikjast",
+    "answer": "C",
+    "id": "high_school_us_history/test/31"
+  },
+  {
+    "instruction": "Í tómarúmi hefur hlutur enga",
+    "option_a": "flotkraftur",
+    "option_b": "massi",
+    "option_c": "þyngd",
+    "option_d": "Allt þetta",
+    "answer": "A",
+    "id": "conceptual_physics/test/20"
+  },
+  {
+    "instruction": "Hvort þessara steinda er erfiðast á Mohs-kvarðanum?",
+    "option_a": "Kjarval",
+    "option_b": "Kvars",
+    "option_c": "Apatite",
+    "option_d": "Kalsít",
+    "answer": "A",
+    "id": "miscellaneous/test/451"
+  },
+  {
+    "instruction": "Vetrarbrautin er hluti af risastórri ofurþyrpingu sem er 160 Mpc í þvermál. Hvað heitir þessi ofurþyrping?",
+    "option_a": "Virgo",
+    "option_b": "Laniakea",
+    "option_c": "Myndhöggvari",
+    "option_d": "Bootes",
+    "answer": "B",
+    "id": "astronomy/test/14"
+  },
+  {
+    "instruction": "Til að hvetja til innritunar í framhaldsskóla veitir ríki 200 kr. undanþágu frá skatti fyrir þá sem stunda fullt nám við framhaldsskóla innan ríkisins. Kvenkyns nemendum sem stunda hálft nám er enn heimilt að fá 100 kr. undanþágu frá skatti en karlkyns nemendum sem stunda hálft nám er ekki lengur heimilt að fá neina undanþágu frá skatti. Hver af eftirfarandi atriðum er réttasta niðurstaðan í réttarreglum stjórnskipunarréttar varðandi undanþágu frá skatti fyrir nemendur sem stunda hálft nám?",
+    "option_a": "Skattaundanþágan yrði ógilt sem synjun á tilhlýðilegu ferli.",
+    "option_b": "Skattaundanþágan yrði ógilt sem brot á jafnréttisákvæðinu.",
+    "option_c": "Skattaráðstöfunin yrði áfram innan efnislegrar gjaldskyldu.",
+    "option_d": "Skattaráðstöfunin yrði því haldið til streitu þar sem sveitarstjórn hefur heimild til að skattleggja mismunandi hópa manna með ójöfnum hætti.",
+    "answer": "B",
+    "id": "professional_law/test/1054"
+  },
+  {
+    "instruction": "Melanie eyðir hádegisverðspeningum sínum daglega í að neyta epla, sem kosta 1 dollara hvert, og appelsínur, sem kosta 2 dollara hvert. Á núverandi neyslustigi er jaðarnotagildi Melanie á eplum 12 og jaðarnotagildi appelsínur eru 18. Ef Melanie hefur þegar eytt öllum hádegisverðspeningum sínum, hvernig ætti hún þá að breyta neysluákvörðun sinni til að hámarka notagildi?",
+    "option_a": "Hún ætti ekki að gera neinar breytingar, hún er að neyta þess notagildis að hámarka samsetningu epla og appelsína.",
+    "option_b": "Hún ætti að auka eplaneyslu sína og minnka appelsíneyslu sína þar til jaðarnyt á dollara er jafnt fyrir báða.",
+    "option_c": "Hún ætti að minnka eplaneyslu sína og auka appelsíneyslu sína þar til jaðarnyt á dollara er jafnt fyrir báða.",
+    "option_d": "Hún ætti að auka eplamatið og minnka appelsínuneysluna þar til jaðarnytjar eru jafnar fyrir báða.",
+    "answer": "B",
+    "id": "high_school_microeconomics/test/186"
+  },
+  {
+    "instruction": "Ef nafnvirði landsframleiðslu er 6000 kr. og staðvirði landsframleiðslu er 200 kr. þá er raunvirði landsframleiðslu",
+    "option_a": "$30 ",
+    "option_b": "$3,000 ",
+    "option_c": "$12,000 ",
+    "option_d": "$1,200 ",
+    "answer": "B",
+    "id": "high_school_macroeconomics/test/294"
+  },
+  {
+    "instruction": "Hversu mörg brot á takmörkunarensím sem þekkir ákveðna 4 basa röð í DNA að meðaltali að kljúfa tvíþátta bakteríuþráð með 5.000 bp genamengisstærð í?",
+    "option_a": "um 2",
+    "option_b": "um 4",
+    "option_c": "um 20",
+    "option_d": "um 50",
+    "answer": "C",
+    "id": "medical_genetics/test/51"
+  },
+  {
+    "instruction": "Hvaða orðapar jafngildir breytu sem hefur hærra gildi en núll?",
+    "option_a": "3(x+2) og 3x+2",
+    "option_b": "4d + 2e og 8d + e",
+    "option_c": "f + f + g og 3fg",
+    "option_d": "b + b + c og 2b + 3c",
+    "answer": "D",
+    "id": "elementary_mathematics/test/184"
+  },
+  {
+    "instruction": "Hvað hét hljómsveitin Huey Lewis?",
+    "option_a": "Fréttatíminn",
+    "option_b": "The Attractions",
+    "option_c": "The Silver Bullet Band",
+    "option_d": "Louie og Dewey",
+    "answer": "A",
+    "id": "miscellaneous/test/730"
+  },
+  {
+    "instruction": "Samkvæmt einu viðmiði um mismunun, undir hvaða af eftirfarandi skilyrðum væri óhætt að fullyrða að valpróf mismuni ekki tilteknum kynþætti",
+    "option_a": "Enginn úr hópnum hefur sótt um stöðu hjá fyrirtækinu sem notar prófið",
+    "option_b": "\"Handbók prófsins sýnir fram á að prófið gildir fyrir margvísleg störf",
+    "option_c": "Prófið hafnar umsækjendum af ólíkum kynþáttum í sama hlutfalli",
+    "option_d": "Ekki fýsilegt að gera aðskildar réttmætisrannsóknir á karlkyns og kvenkyns starfsmönnum",
+    "answer": "C",
+    "id": "professional_psychology/test/352"
+  },
+  {
+    "instruction": "Hvert er hlutfall línustyrks í EPR rófi t-Bu rótarinnar (CH3)3C*?",
+    "option_a": "1:19:36:84:126:126:84:36:19:1",
+    "option_b": "1:9:36:84:126:126:84:36:9:1",
+    "option_c": "1:9:35:82:120:120:82:35:9:1",
+    "option_d": "1:8:28:56:70:56:28:8:1",
+    "answer": "D",
+    "id": "college_chemistry/test/13"
+  },
+  {
+    "instruction": "Hvaða áfangi í áhorfsrannsóknum tengist lokamati?",
+    "option_a": "Framkvæmd",
+    "option_b": "Áhrif",
+    "option_c": "Viðhorfsbreyting",
+    "option_d": "Undirbúningur",
+    "answer": "B",
+    "id": "public_relations/test/52"
+  },
+  {
+    "instruction": "Rannsakandi vonast til að finna forspársamband á milli skýri- og svarbreyta í rannsókn sinni. Í samræmi við það ætlar hún að búa til 95% öryggisbil fyrir hallatölu aðhvarfslínunnar fyrir breyturnar tvær. Bilið er ákvarðað sem (0,45, 0,80). Hvort af eftirfarandi er (eru) satt? (Gerum ráð fyrir að skilyrði fyrir ályktun séu uppfyllt.) I. Hún hefur góðar sannanir fyrir línulegu sambandi á milli breytanna. II. Líklegt er að það sé núllpunkts fylgni (r) á milli breytanna tveggja. III. Líklegt er að raunveruleg hallatala aðhvarfslínunnar sé 0.",
+    "option_a": "Eingöngu I og II",
+    "option_b": "Eingöngu I og III",
+    "option_c": "Einungis II og III",
+    "option_d": "Ég bara",
+    "answer": "A",
+    "id": "high_school_statistics/test/207"
+  },
+  {
+    "instruction": "Hreinslandsbúddismi tilheyrir hvaða skóla?",
+    "option_a": "Vajrayana",
+    "option_b": "Theravada",
+    "option_c": "Mahayana",
+    "option_d": "Mahavira",
+    "answer": "C",
+    "id": "world_religions/test/17"
+  },
+  {
+    "instruction": "Í reglum um kjördæmisþing er sérstaklega mikilvægt að forsetaframbjóðendur",
+    "option_a": "vinna sem flest ríki, óháð stærð ríkjanna",
+    "option_b": "eyða mestum tíma í kosningabaráttu á Suðurnesjum",
+    "option_c": "kosningabaráttan mest á meðal þeirra sem verða fyrir valinu",
+    "option_d": "að beina baráttu sinni að „baráttulöndum“",
+    "answer": "D",
+    "id": "high_school_government_and_politics/test/176"
+  },
+  {
+    "instruction": "Framleiðandi tilbúinna kökublandna hefur áhuga á að hanna tilraun til að prófa áhrif fjögurra mismunandi hitastigs (300, 325, 350 og 375F), tveggja mismunandi gerða af pönnum (gler og málmur) og þriggja mismunandi gerða af ofnum (gas, rafmagn og örbylgjuofn) á áferð kökunnar, í öllum samsetningum. Hvert af eftirfarandi er besta lýsingin á hönnun nauðsynlegrar tilraunar?",
+    "option_a": "Slembivalsaðferð með níu meðferðarhópum",
+    "option_b": "Slembivalsrannsókn með 24 meðferðarhópum",
+    "option_c": "Slembiröðuð blokkagerð, blokkuð eftir hitastigi, með sex meðferðarhópum",
+    "option_d": "Slembivalið blokkakerfi, blokkað eftir tegund pönnu, með 12 meðferðarhópum",
+    "answer": "B",
+    "id": "high_school_statistics/test/93"
+  },
+  {
+    "instruction": "Almennt er besti birtingartíminn milli skilyrts og óskilyrts áreitis til að framkalla klassíska skilyrðingu",
+    "option_a": "tafsamt",
+    "option_b": "samtímis",
+    "option_c": "snefill",
+    "option_d": "afturábak",
+    "answer": "A",
+    "id": "high_school_psychology/test/243"
+  },
+  {
+    "instruction": "Taugasálfræðilegt mat 70 ára starfslokasjúklings bendir til lágrar meðalgreindar með lélegri lausnaleit, erfiðleikum við orðaleit, lélegri samhæfingu sjónhreyfiathafna og greinilegri minnisskerðingu. Sjúklingurinn hefur takmarkaða vitund um þessa þætti. Líklegasta greiningin er",
+    "option_a": "Heilabilun af Alzheimers-gerð",
+    "option_b": "gervidementia",
+    "option_c": "Korsakoffs heilkenni",
+    "option_d": "eðlileg öldrunaráhrif",
+    "answer": "A",
+    "id": "professional_psychology/test/382"
+  },
+  {
+    "instruction": "Carter Co. hafði eftirfarandi liði í efnahagsreikningi sínum í lok ársins: Handbært fé og ígildi handbærs fjár 200000 kr. Skammtímafjárfestingar 100000 Reikningstekjur 400000 Birgðir 600000 Einkaleyfi, 10 ár 300000 Búnaður 1000000 Uppsafnaðar afskriftir 200000 Upphæð skammtímaskulda í lok ársins var 640000 kr. Hvert er veltufé Carter í lok ársins?",
+    "option_a": "$60,000",
+    "option_b": "$560,000",
+    "option_c": "$660,000",
+    "option_d": "960000",
+    "answer": "C",
+    "id": "professional_accounting/test/136"
+  },
+  {
+    "instruction": "Kenningar um kynþáttabundna orðræðu benda til þess að:",
+    "option_a": "kynþáttur er hlutlæg leið til að flokka fólk á líffræðilegum forsendum",
+    "option_b": "hugmyndin um kynþáttinn er félagslega mótuð í krafti hugmyndafræði",
+    "option_c": "Kynþáttafordómar í Bretlandi og Ameríku má rekja til nýlendutímans",
+    "option_d": "fólk velur sér kynþáttaímynd og það festist",
+    "answer": "B",
+    "id": "sociology/test/51"
+  },
+  {
+    "instruction": "Þrjú stig viðhorfsmyndunar eru að við lærum eitthvað, við finnum eitthvað og við bregðumst við viðhorfum okkar. Stigið að við lærum eitthvað nefnist:",
+    "option_a": "Hegðun.",
+    "option_b": "Conative.",
+    "option_c": "Vitsmunaleg.",
+    "option_d": "Tilfinningalegur.",
+    "answer": "C",
+    "id": "marketing/test/60"
+  },
+  {
+    "instruction": "Mars hefur lofthjúp sem er nær eingöngu koltvísýringur. Hvers vegna eru ekki mikil gróðurhúsaáhrif sem halda hlýleika plánetunnar?",
+    "option_a": "Mars hefur ekki nægan innri varma til að knýja fram gróðurhúsaáhrif",
+    "option_b": "Mars er of langt frá sólinni til að gróðurhúsaáhrifin virki",
+    "option_c": "gróðurhúsaáhrifin krefjast ósonlags sem Mars hefur ekki",
+    "option_d": "lofthjúpurinn á Mars er of þunnur til að fanga umtalsvert magn af varma",
+    "answer": "D",
+    "id": "astronomy/test/128"
+  },
+  {
+    "instruction": "3 vikna gamalt barn, kom niður með mjög háan hita. Barnalæknir barnsins tjáði móður að sonur hennar myndi deyja nema hann fengi tafarlausa læknismeðferð. Móðirin andmælti á grundvelli trúar. Hún hélt því fram að það væri betra fyrir son hennar að deyja ef það væru örlög hans. Barnalæknirinn leitaði úrskurðar hjá ríkisrétti. Móðirin var viðstödd með lögmann sinn við dóminn. Við ákvörðun um hvort heimilt sé að gefa út slíkan úrskurð þrátt fyrir alla viðeigandi stjórnarskrárvörn móður, hvaða af eftirfarandi atriðum þarf ríkisréttur að taka afstöðu til?",
+    "option_a": "Hvort læknismeðferð sé nauðsynleg til að bjarga lífi barnsins.",
+    "option_b": "Hvort synjun móður á leyfi til læknismeðferðar sé réttlætanleg á grundvelli núverandi þekkingar.",
+    "option_c": "Hvort spítalinn sé í eigu og rekstri ríkisins.",
+    "option_d": "Hvort móðirin sé skattgreiðandi þess ríkis þar sem dómstóllinn er staðsettur.",
+    "answer": "B",
+    "id": "professional_law/test/1362"
+  },
+  {
+    "instruction": "Allt eftirfarandi eru störf sem ekki teljast til grunnstarfa hjá borginni UNDANÞÁGUR",
+    "option_a": "slökkviliðsstjóri borgarinnar.",
+    "option_b": "félagsráðgjafi.",
+    "option_c": "þurrhreinsi.",
+    "option_d": "starfsmaður fataverksmiðju.",
+    "answer": "D",
+    "id": "high_school_geography/test/31"
+  },
+  {
+    "instruction": "Hvert af eftirfarandi atriðum er líklegast að einokunarfyrirtæki geti staðið undir til lengri tíma litið?",
+    "option_a": "P = MR = MC = ATC",
+    "option_b": "P = MR = MC > ATC",
+    "option_c": "P> MR = MC = ATC",
+    "option_d": "P> ATC> MR = MC",
+    "answer": "D",
+    "id": "high_school_microeconomics/test/203"
+  },
+  {
+    "instruction": "Lýsa bóluefninu fyrir YF.",
+    "option_a": "Drepið bóluefni gegn veirunni",
+    "option_b": "Lifandi veikluð veirubóluefni þróuð með Pasteurian-aðferð",
+    "option_c": "Lifandi veiklað bóluefni framleitt með beinni stökkbreytingu á erfðamengi veirunnar",
+    "option_d": "Eingöngu bóluefni í tilraunaskyni",
+    "answer": "B",
+    "id": "virology/test/50"
+  },
+  {
+    "instruction": "Það er sú fallbeyging sem á sér stað þegar einhver rökstyður tveggja hluta tillögu, styður aðeins einn hluta tillögunnar en heldur því síðan fram að öll tillagan hafi verið studd.",
+    "option_a": "a priori",
+    "option_b": "Flókið tilvik",
+    "option_c": "Útvíkkun",
+    "option_d": "Höfnuðu fáfræði",
+    "answer": "B",
+    "id": "logical_fallacies/test/131"
+  },
+  {
+    "instruction": "Ríkið hefur eftirfarandi samþykktir varðandi áfengissölu í gildi: „Þáttur 1212. Sá sem selur ölvunarakstur til einstaklings sem er ölvaður eða ölvuð, gerist sekur um misferli. Þessi liður gildir ekki þegar um er að ræða sölu á ölvunarakstri á hóteli, móteli eða gistiheimili til einstaklings sem er skráður og búsettur sem gestur á slíku hóteli, móteli eða gistiheimili til neyslu á athafnasvæði þess.“ „Þáttur 1213. Ólögmætt er fyrir sölumann með gilt áfengisleyfi frá ríkinu að selja ölvunarakstur á sunnudegi. Sá sem brýtur gegn þessum lið gerist sekur um misferli og skal sæta sektum að lágmarki 100 kr. eða hærri en 1.000 kr.“ „Ríkisyfirvöld hafa reglulega framfylgt áðurnefndum samþykktum um leikhúsverslanir og „blá lög“ sem banna áfengissölu á sunnudögum. Klukkan 12:30 að morgni sunnudags gekk viðskiptavinur inn í áfengisverslun og keypti vínflösku. Sá sem sá um söluna, hélt að klukkan væri 11:30 aðfaranótt laugardags vegna þess að það var sá tími sem sýndur var á veggklukku verslunarinnar. Klukkusalinn vissi ekki að klukkuna vantaði og var klukkuna að keyra klukkutíma á eftir. Klukkan sýndi því rangan tíma þegar sá sem sá um söluna seldi viðskiptavininum vínið. Þegar sá sem sá um söluna virtist ekki vera sýnilega ölvaður. Eftir að hafa gert kaupin drakk viðskiptavinurinn alla vínflöskuna. Hann ók svo af stað í bíl sínum og lenti á gangandi vegfaranda og slasaði hann. Við slysið var viðskiptavinurinn ölvaður af því að hafa drukkið vínið. Ef gangandi vegfarandi gerir kröfu á hendur áfengisversluninni, mun stefnandi þá ganga fram fyrir skjöldu?",
+    "option_a": "Já, vegna þess að áfengisverslunin var að vanrækja lögin með því að selja vínið í trássi við bláu lögin sem banna sunnudagssölu áfengis.",
+    "option_b": "Já, því slysið hefði ekki orðið heldur vegna sölu á víninu til viðskiptavinarins.",
+    "option_c": "Nei, því tilgangur „bláu laganna“ um bann við áfengissölu á sunnudögum var ekki að koma í veg fyrir slys af völdum ökumanna sem keyrðu ölvaðir.",
+    "option_d": "Nei, vegna þess að skrifstofumaðurinn braut ekki gegn leiklistarlögunum og brot hans á bláu lögunum var vegna bilunar í klukkunni.",
+    "answer": "C",
+    "id": "professional_law/test/505"
+  },
+  {
+    "instruction": "Nifteindir í frumeindir finnast yfirleitt",
+    "option_a": "inni í kjarnanum",
+    "option_b": "utan kjarnans",
+    "option_c": "Annað hvort þessara",
+    "option_d": "Hvorugt þessara",
+    "answer": "A",
+    "id": "conceptual_physics/test/51"
+  },
+  {
+    "instruction": "Hvað af eftirfarandi tengist ekki aukinni öndun?",
+    "option_a": "Aukning á öndunartíðni.",
+    "option_b": "Hávaðasamur andardráttur.",
+    "option_c": "Aukin notkun á aukavöðvum.",
+    "option_d": "Öndunartíðni 16 andardrættir á mínútu.",
+    "answer": "D",
+    "id": "clinical_knowledge/test/116"
+  },
+  {
+    "instruction": "Varasjóðshlutfallið er .10 og mamma Morebucks tekur út 1 milljón dollara af tékkareikningi sínum og geymir sem reiðufé í kæli. Hvaða áhrif hefur þessi úttekt á peninga í umferð?",
+    "option_a": "Lækkar hana um 9 milljónir",
+    "option_b": "Lækkar hann um 1 milljón dala",
+    "option_c": "Lækkar hann um 100.000 kr.",
+    "option_d": "Eykur hann um 1 milljón dala",
+    "answer": "A",
+    "id": "high_school_macroeconomics/test/114"
+  },
+  {
+    "instruction": "Nauðsyn þess að einokunarfyrirtæki lækki verð sitt til að selja fleiri einingar af vöru sinni skýrir hvers vegna",
+    "option_a": "einokun er algeng meðal opinberra þjónustustofnana",
+    "option_b": "jaðartekjukúrfan er undir eftirspurnarkúrfunni fyrir einokun",
+    "option_c": "jaðarkostnaðarferillinn fyrir einokun hallar upp á við",
+    "option_d": "einokun nái að viðhalda markaðsstyrk",
+    "answer": "B",
+    "id": "high_school_microeconomics/test/69"
+  },
+  {
+    "instruction": " _____ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _",
+    "option_a": "Dyggðasiðfræði",
+    "option_b": "Siðferðilegt sjálfsálit",
+    "option_c": "Póstmódernísk siðfræði",
+    "option_d": "Siðfræði skyldustarfa",
+    "answer": "C",
+    "id": "business_ethics/test/73"
+  },
+  {
+    "instruction": "Hvað af eftirfarandi á við um kalk í fæðu:",
+    "option_a": "Dæmigerð inntaka kalks hjá flestum fullorðnum er á bilinu 0,5 mg til 2,0 mg á dag",
+    "option_b": "Virkjað D-vítamín dregur úr frásogi kalks úr fæðu",
+    "option_c": "Það eru skýrar vísbendingar um að fólk sem neytir meira magns af kalki en almennt gerist sé í minni hættu á beinbrotum.",
+    "option_d": "Frásogsvirkni er í öfugu hlutfalli við kalsíuminntöku, þannig að hærra hlutfall frásogast þegar kalsíuminntaka er lítil",
+    "answer": "D",
+    "id": "nutrition/test/78"
+  },
+  {
+    "instruction": "Þessi spurning vísar til eftirfarandi upplýsinga. „Ég er í Birmingham vegna þess að óréttlætið er hér.... Auk þess er ég meðvituð um innbyrðis tengsl allra samfélaga og ríkja. Ég get ekki setið aðgerðalaus í Atlanta og haft áhyggjur af því sem gerist í Birmingham. Óréttlæti hvar sem er er ógn við réttlæti alls staðar. Við erum föst í óumflýjanlegu neti gagnkvæmni, bundin í einskonar örlagaklæði. Það sem hefur bein áhrif á mann hefur óbein áhrif á alla. Aldrei framar höfum við efni á að lifa með þröngri, héraðsbundinni „utanaðkomandi æsingahugmynd“. Hver sem býr innan Bandaríkjanna getur aldrei talist utanaðkomandi hvar sem er í þessu landi....“ Martin Luther King, Jr., „Letter from a Birmingham Jail,“ April 16, 1963 Susan B. Anthony og fleiri í kvenréttindabaráttunni höfðu mikil áhrif á fullgildingu hvors af eftirfarandi?",
+    "option_a": "Nítjánda breytingin.",
+    "option_b": "Jafnréttissáttmálinn.",
+    "option_c": "Fimmtánda breytingin.",
+    "option_d": "Tuttugusta og sjötta breytingin.",
+    "answer": "A",
+    "id": "high_school_us_history/test/32"
+  },
+  {
+    "instruction": "Í hvorri þessara sviðsmynda gerir aðalpersónan (sem notar ég/mig/minn) eitthvað augljóslega siðferðilega rangt samkvæmt almennum siðferðilegum viðmiðum í Bandaríkjunum frá og með árinu 2020? Sviðsmynd 1 | Ég var að stinga litla son minn í faðminn á leikvellinum. Sviðsmynd 2 | Ég notaði jeppann minn í of stórri stærð til að keyra hálfa tugi krakka í skólann.",
+    "option_a": "Rangt, rangt",
+    "option_b": "Rangt, ekki rangt",
+    "option_c": "Ekki rangt, rangt",
+    "option_d": "Ekki rangt, Ekki rangt",
+    "answer": "D",
+    "id": "moral_scenarios/test/84"
+  },
+  {
+    "instruction": "Algeng gagnrýni á að stimpla nemendur sem fatlaða er að einstaklingar sýni gjarnan frammistöðu í samræmi við eiginleika sem tengjast stimplinum. Hvaða nöfn eru þekkt fyrir þetta frammistöðufyrirbæri?",
+    "option_a": "Hinn sjálfsagði spádómur",
+    "option_b": "Áhrifalögmálið",
+    "option_c": "Forgangsáhrifin",
+    "option_d": "Félagslegt brask",
+    "answer": "A",
+    "id": "high_school_psychology/test/540"
+  },
+  {
+    "instruction": "Hulduorka er svokölluð líkan til að útskýra...",
+    "option_a": "geislun svartholanna.",
+    "option_b": "massadreifingu vetrarbrauta.",
+    "option_c": "hröðun alheimsins.",
+    "option_d": "örbylgjubakgrunn alheimsins.",
+    "answer": "C",
+    "id": "astronomy/test/37"
+  },
+  {
+    "instruction": "Korn er í skiptum á samkeppnismarkaði. Hvert af eftirfarandi eykur jafnvægisverð á korni örugglega?",
+    "option_a": "Bæði framboð og eftirspurn færast til hægri.",
+    "option_b": "Bæði framboð og eftirspurn færast til vinstri.",
+    "option_c": "Framboð færist til hægri, eftirspurn til vinstri.",
+    "option_d": "Framboð færist til vinstri, eftirspurn til hægri.",
+    "answer": "D",
+    "id": "high_school_macroeconomics/test/315"
+  },
+  {
+    "instruction": "Ríki setti lög sem bönnuðu öllum ökutækjum sem ferðuðust innan ríkisins að vera með tindaða glugga eða glerhúð af einhverju tagi. Frumvarpið var samþykkt á löggjafarþingi ríkisins að áeggjan löggæsluyfirvalda í ríki og sveitarfélögum sem héldu því fram að tindaðir gluggar kæmu í veg fyrir að þeir gætu fylgst með innanhúss akstri. Flestir borgarar studdu einnig frumvarpið, sérstaklega eftir að ríkisliði var drepinn af farþega í lituðum limósínu. Flugliði sá ekki að árásarmaðurinn var vopnaður og hættulegur þegar hann kom að bifreiðinni vegna hraðaksturs. Límósínfyrirtæki rekur límóuþjónustu í nágrannaríki og er floti þess 68 límóur sem allar eru með tindaða glugga. Árlega fer fyrirtækið þúsundir ferða inn í ríkið til að flytja farþega á alþjóðaflugvöllinn sem er 10 mílur frá landamærum ríkjanna. Þar sem allar límurnar eru framleiddar með tindaða glugga mun fyrirtækið leggja mikinn kostnað í að panta límóur án tindaðra glugga. Fyrirtækið höfðar mál til að vefengja stjórnarskrárbundið gildi stjórnarskrár ríkisins. Að því gefnu að fyrirtækið hafi rétta stöðu til að halda slíku fram, hver af eftirfarandi er þeirra sterkasta stjórnarskrárbundna röksemd til að ógilda fyrrnefnda stjórnarskrá?",
+    "option_a": "Þar sem ljósameðferð á rúðum er heimil á ökutækjum í nágrannaríkjum er með þessum lögum fyrirtækinu meinuð jafn mikil vernd laga.",
+    "option_b": "Þar sem þessi lög íþyngja milliríkjaviðskiptum með því að banna öllum ökutækjum með gluggalit að koma inn í ríkið brýtur þetta lög gegn viðskiptaákvæðinu.",
+    "option_c": "Þar sem litadýrkun á rúðum ökutækja er lögleg í heimaríki þeirra brýtur þetta ákvæði gegn samningsákvæðinu með því að koma í veg fyrir að fyrirtækið geti uppfyllt skyldu sína til að flytja farþega til nágrannaríkis.",
+    "option_d": "Þar sem ferðalög milli ríkja eru grundvallarréttindi sem ekki er víst að séu íþyngjandi fyrir ríki, brýtur það gegn efnislegum rétti fyrirtækisins til að fara með eignarrétt sinn með því að setja viðskiptastarfsemi reglur á handahófskenndan og óeðlilegan hátt.",
+    "answer": "B",
+    "id": "professional_law/test/321"
+  },
+  {
+    "instruction": "Með það fyrir augum að fremja þar stórfellt afbrot.",
+    "option_a": "Skilyrðisbundið eftirstöðvar",
+    "option_b": "Hagsmunir framkvæmdastjóra",
+    "option_c": "Vestaðar leifar verða opnar",
+    "option_d": "Afturhvarf",
+    "answer": "D",
+    "id": "professional_law/test/180"
+  },
+  {
+    "instruction": "Í hvorri sviðsmyndinni gerir aðalpersónan (sem notar ég/mig/minn) eitthvað augljóslega siðferðilega rangt samkvæmt almennum siðferðilegum viðmiðum í Bandaríkjunum frá og með árinu 2020? Sviðsmynd 1 | Ég kastaði keilukúlunni eins fast og ég gat til að reyna að brjóta pinnasettið. Sviðsmynd 2 | Ég sagði dóttur minni að hún notaði ranga málfræði og að hún ætti að endurskoða setningarnar.",
+    "option_a": "Rangt, rangt",
+    "option_b": "Rangt, ekki rangt",
+    "option_c": "Ekki rangt, rangt",
+    "option_d": "Ekki rangt, Ekki rangt",
+    "answer": "B",
+    "id": "moral_scenarios/test/614"
+  },
+  {
+    "instruction": "Verjandi stefnanda í málshöfðun sem lögð var fyrir héraðsdóm í sambandsríkinu afgreiddi stefnda kröfur, kæruna og 25 yfirheyrslur þar sem spurt var um framburð stefnda í málinu. Í yfirheyrslunum kom fram að þeim skyldi svarað innan 30 daga frá afgreiðslu. Er líklegt að stefnda takist að fá verndarúrskurð á hvaða af eftirfarandi forsendum?",
+    "option_a": "Spyrill er aðeins til þess að uppgötva staðreyndir, ekki ágreining.",
+    "option_b": "Ekki er heimilt að afgreiða yfirheyrslur fyrr en svar við kæru liggur fyrir.",
+    "option_c": "Ekki má afgreiða yfirheyrslur fyrr en aðilar hafa samþykkt að koma á fyrstu upplýsingagjöf og útbúa uppgötvunaráætlun.",
+    "option_d": "Yfirheyrslur eru fleiri en heimilt er án leyfis dómstóla eða samkomulags milli aðila.",
+    "answer": "C",
+    "id": "professional_law/test/1336"
+  },
+  {
+    "instruction": "„Ad lazarum“ er sérstök tegund af",
+    "option_a": "Sögulegar sannanir",
+    "option_b": "Flókin orsök",
+    "option_c": "Rangar forsendur",
+    "option_d": "Falskt tákn",
+    "answer": "D",
+    "id": "logical_fallacies/test/137"
+  },
+  {
+    "instruction": "Snúningsrás er notuð með SCR",
+    "option_a": "í seríum.",
+    "option_b": "samhliða.",
+    "option_c": "annaðhvort raðir eða samsíða.",
+    "option_d": "anti parallel.",
+    "answer": "B",
+    "id": "electrical_engineering/test/134"
+  },
+  {
+    "instruction": "Hver var helsta skipulagsbreytingin sem framkvæmdastjórn 9/11 lagði til varðandi bandaríska leyniþjónustusamfélagið?",
+    "option_a": "Stofnun heimavarnaráðuneytis",
+    "option_b": "Leyniþjónustur varnarmálaráðuneytisins færðar til CIA til að auka samhæfingu",
+    "option_c": "Stofnun leyniþjónustustjóra ríkisins",
+    "option_d": "Innanríkisdeild FBI færð til CIA",
+    "answer": "C",
+    "id": "us_foreign_policy/test/80"
+  },
+  {
+    "instruction": "Leigusali leigði leigjanda verslunarhúsnæði til fimm ára. Leiga átti að greiðast fyrsta hvers mánaðar og leigusali hélt rétti sínum til að rifta leigusamningnum ef leigjandi færi í vanskil. Leigutímanum lauk fyrir 18 mánuðum. Leigjandi hefur þó haldið umráðum yfir húsinu og greitt leigu á réttum tíma. Leigusali hefur haldið áfram að samþykkja leigu. Gangvirði hússins er nú töluvert hærra en leigjandi hefur verið að greiða og leigjandi fann nýlega þriðja aðila sem mun greiða hærri leigu. Þegar leigjandi greiddi fyrir sex vikum þá samþykkti leigusali að greiða leigu fyrir sex vikum, leigusali samþykkti leigu en sagði leigjanda skriflega að hún yrði að fara í frí um mánaðamótin. Leigjandi sem enn hefur umráð yfir húsinu hefur tilkynnt leigusala að hún vilji ekki flytja og sé tilbúin að greiða núverandi gangvirði hússins. Leigusali hefur óskað eftir ráðgjöf lögmanns síns varðandi umráðarétt. Hver á lögmaður að segja að hafi umráðarétt?",
+    "option_a": "Leigusala, vegna þess að hann gaf tilhlýðilegan fyrirvara til að rifta leigusamningnum.",
+    "option_b": "Leigusala, því hann hélt rétti sínum til að koma aftur inn.",
+    "option_c": "Leigjanda, vegna þess að hún hefur lýst því yfir að hún sé tilbúin til að greiða gangverð gangverðs.",
+    "option_d": "Leigjandinn, vegna þess að leigusali hefur ekki sýnt fram á að hann hafi sýnt fram á að hann hafi ekki sýnt fram á að hann hafi sýnt fram á að hann hafi ekki sýnt fram á að hann hafi sýnt fram á að hann hafi ekki sýnt fram á að hann hafi ekki sýnt fram á að hann hafi ekki sýnt fram á að hann hafi ekki sýnt fram á að hann hafi ekki sýnt fram á að hann hafi ekki sýnt fram á að hann hafi ekki sýnt fram á að hann hafi ekki sýnt fram á að hann hafi ekki sýnt fram á að hann hafi ekki sýnt fram á að hann hafi ekki sýnt fram á að hann hafi ekki sýnt fram á að hann hafi ekki sýnt fram á að hann hafi ekki sýnt fram á að hann hafi ekki sýnt fram á að hann hafi ekki sýnt fram á að hann hafi ekki sýnt fram á að hann hafi ekki sýnt fram á að hann hafi ekki sýnt fram á að hann hafi ekki sýnt fram á að hann hafi ekki sýnt fram á að hann hafi ekki sýnt fram á að hann hafi ekki sýnt fram á að hann hafi ekki sýnt fram á að hann hafi ekki sýnt fram á að hann hafi ekki sýnt fram á að hann hafi ekki sýnt fram á að hann hafi ekki sýnt fram á að hann hafi ekki sýnt fram á að hann hafi ekki sýnt fram á að hann hafi ekki sýnt fram á að hann hafi ekki sýnt fram á að hann hafi ekki sýnt fram á að hann hafi ekki sýnt fram á að hann hafi ekki sýnt fram á að hann hafi ekki sýnt fram á að hann hafi ekki sýnt fram á að hann hafi ekki sýnt fram á að hann hafi ekki sýnt fram á að hann hafi ekki sýnt fram á að hann hafi ekki sýnt fram á að hann hafi ekki sýnt fram á að hann hafi ekki sýnt fram á að hann hafi ekki sýnt fram á að hann hafi ekki sýnt fram á að hann hafi ekki sýnt fram á að hann hafi ekki sýnt fram á að hann hafi ekki sýnt fram á að hann hafi ekki sýnt fram á að hann hafi ekki sýnt fram á að hann hafi ekki sýnt fram á að hann hafi ekki sýnt fram á að hann hafi ekki sýnt fram á að hann hafi ekki sýnt fram á að hann hafi ekki sýnt fram á að hann hafi ekki sýnt fram á að hann hafi ekki sýnt fram á að hann hafi ekki sýnt fram á að hann hafi ekki sýnt fram á að hann hafi ekki sýnt fram á að hann hafi ekki fram á að hann hafi ekki sýnt fram á að hann hafi ekki fram á að hann hafi ekki sýnt fram á að hann hafi ekki fram á að hann hafi ekki fram á að hann hafi ekki fram á að hafa fram að hann hafi ekki fram að hafa fram að hafa fram að hafa fram að hann hafi ekki fram að hafa fram að hafa fram að hafa fram að hafa fram að hafa fram að hafa fram að hafa fram að hafa fram að hafa fram að hafa fram að hafa fram að hafa fram að hafa fram að hafa fram að hafa fram að hafa fram að hafa fram að hafa fram að hafa fram að hafa fram að hafa fram að hafa fram að hafa fram að hafa fram að hafa fram að hafa fram að hafa fram að hafa fram að hafa fram að hafa fram að hafa fram að hafa fram að hafa fram að hafa fram að hafa fram að hafa fram að hafa fram að hafa fram að hafa fram að hafa fram að hafa fram að hafa fram að hafa fram að hafa fram að hafa fram að hafa fram að hafa fram að hafa fram að hafa fram að hafa fram að hafa fram að hafa fram að hafa fram að hafa fram að hafa fram að hafa fram að hafa verið fram að hafa verið fram að hafa verið fram að hafa verið fram að hafa verið fram að hafa verið fram að hafa verið fram að hafa verið fram að hafa verið fram að hafa verið fram að hafa verið fram að hafa verið fram að hafa verið fram að hafa verið fram að hafa verið fram að hafa verið fram að hafa verið fram að hafa verið fram að hafa verið fram að hafa verið fram að hafa verið fram að hafa verið fram að hafa verið fram að hafa verið verið",
+    "answer": "A",
+    "id": "professional_law/test/269"
+  },
+  {
+    "instruction": "Heimspekingar ________ skólans telja að lög séu reglur sem hinn ráðandi aðili hefur þróað, miðlað og framfylgt frekar en að þau endurspegli siðferði, sögu, rökfræði eða félagsfræði samfélagsins.",
+    "option_a": "Skipun",
+    "option_b": "Lögfræði og hagfræði",
+    "option_c": "Náttúruréttur",
+    "option_d": "Gagnrýnar lögfræðirannsóknir",
+    "answer": "A",
+    "id": "jurisprudence/test/47"
+  },
+  {
+    "instruction": "Í hvorri þessara sviðsmynda gerir aðalpersónan (sem notar ég/mig/minn) eitthvað augljóslega siðferðilega rangt, samkvæmt almennum siðferðilegum viðmiðum í Bandaríkjunum frá og með árinu 2020? Sviðsmynd 1 | Ég gaf ókunnugum manni bjórinn minn fyrir einn dollara. Sviðsmynd 2 | Ég sagði að þjálfarinn Smith hefði sagt brandara.",
+    "option_a": "Rangt, rangt",
+    "option_b": "Rangt, ekki rangt",
+    "option_c": "Ekki rangt, rangt",
+    "option_d": "Ekki rangt, Ekki rangt",
+    "answer": "D",
+    "id": "moral_scenarios/test/402"
+  },
+  {
+    "instruction": "Eiginmaðurinn og eiginkonan höfðu verið í hjónabandi í 10 ár. Eiginkonan fékk skilnað frá eiginmanninum eftir að hafa frétt að hann væri í ástarsambandi utan hjónabands við samstarfsmann sinn. Í kjölfar skilnaðarins var eiginmaðurinn handtekinn og ákærður fyrir fjárdrátt úr vinnuveitanda sínum á tveggja ára tímabili. Við undirbúning réttarhaldanna tók ákærandi viðtal við eiginkonuna sem sagði að í hjónabandi þeirra hafi eiginmaðurinn viðurkennt að hafa framið fjárdráttinn. Í héraði hafi verið tekin upp bæði almenn hjúskapar- og makaréttarfarsréttindi. Við réttarhöldin yfir eiginmanninum er eiginkonan kölluð til vitnis vegna yfirlýsinga sem eiginmaðurinn gaf henni í hjónabandinu um að hafa framið glæpinn. Ef ákærandi mótmælir verður vitnisburður eiginkonunnar",
+    "option_a": "heimilt, bæði samkvæmt hjúskapar- og makarétti.",
+    "option_b": "heimilt, samkvæmt makarétti en ekki heimilt samkvæmt hjúskaparrétti.",
+    "option_c": "heimilt, samkvæmt hjúskaparrétti en ekki heimilt samkvæmt makarétti.",
+    "option_d": "ótækt, annaðhvort samkvæmt hjúskapar- eða makarétti.",
+    "answer": "B",
+    "id": "professional_law/test/264"
+  },
+  {
+    "instruction": "Úr hvaða tungumáli er orðið RSVP?",
+    "option_a": "Rússneska",
+    "option_b": "Ítalska",
+    "option_c": "Portúgalska",
+    "option_d": "Franska",
+    "answer": "D",
+    "id": "miscellaneous/test/669"
+  },
+  {
+    "instruction": "Í hvorri sviðsmyndinni gerir aðalpersónan (sem notar ég/mig/minn) eitthvað augljóslega siðferðilega rangt samkvæmt almennum siðferðilegum viðmiðum í Bandaríkjunum frá og með árinu 2020? Sviðsmynd 1 | Ég rannsakaði og skrifaði ritgerðina mína með heimildum sem ég fann á internetinu. Sviðsmynd 2 | Ég hringdi í lögguna á mömmu fyrir að sparka í mig",
+    "option_a": "Rangt, rangt",
+    "option_b": "Rangt, ekki rangt",
+    "option_c": "Ekki rangt, rangt",
+    "option_d": "Ekki rangt, Ekki rangt",
+    "answer": "D",
+    "id": "moral_scenarios/test/354"
+  },
+  {
+    "instruction": "Skaðlaust dýr líkir eftir útliti dýrs sem er hættulegt sem varnarviðbragð til að fá rándýr til að hugsa sig tvisvar um að ráðast á það.",
+    "option_a": "Aposomatic litun",
+    "option_b": "Batesísk eftirlíking",
+    "option_c": "Blekkjandi merkingar",
+    "option_d": "Kryptískur litur",
+    "answer": "B",
+    "id": "high_school_biology/test/173"
+  },
+  {
+    "instruction": "Ef A = {1, 2, 3} þá er sambandið S = {(1, 1), (2, 2)}",
+    "option_a": "eingöngu samhverft",
+    "option_b": "aðeins and-samhverf",
+    "option_c": "bæði samhverf og andhverf",
+    "option_d": "jafngildissamband",
+    "answer": "C",
+    "id": "abstract_algebra/test/11"
+  },
+  {
+    "instruction": "Hinn háþróaði iðnaður í smíði áhalda úr steini á Pinnacle Point svæðinu í Suður-Afríku er til vitnis um:",
+    "option_a": "250.000 ára gömul hefð fyrir framleiðslu og notkun handaxir.",
+    "option_b": "71.000 ára gömul og flókin röð framleiðslu og notkunar á örblöðrum.",
+    "option_c": "aðlögun að veiðum í kaldara umhverfi.",
+    "option_d": "bæði a og c.",
+    "answer": "B",
+    "id": "prehistory/test/46"
+  },
+  {
+    "instruction": "Hvert af eftirfarandi er áhrifaþáttur?",
+    "option_a": "Óánægja með núverandi störf",
+    "option_b": "Hærri launuð störf annars staðar",
+    "option_c": "Aðlaðandi samfélag fyrir eftirlaunaþega annars staðar",
+    "option_d": "Ánægjulegt loftslag",
+    "answer": "A",
+    "id": "high_school_geography/test/141"
+  },
+  {
+    "instruction": "Orka sem notuð er til að standa við skrifstofuborðið, ganga að skjalaskáp og annarrar starfstengdrar starfsemi á skrifstofu vísar til eftirfarandi orkukostnaðarþáttar:",
+    "option_a": "Hitamyndun við hreyfingarleysi (NEAT)",
+    "option_b": "Hitamyndun við skipulagða (sveiflótta) æfingastarfsemi",
+    "option_c": "Hreyfing (ekki hvíld) Orkunotkun",
+    "option_d": "Grunnefnaskiptahraði",
+    "answer": "A",
+    "id": "nutrition/test/300"
+  },
+  {
+    "instruction": "Hver af eftirfarandi rökum er sterkust gegn fjandskap siðfræðilegrar afstæðishyggju gagnvart mannréttindum?",
+    "option_a": "Nytjahyggja",
+    "option_b": "Kommúnisminn.",
+    "option_c": "Vitsmunahyggja.",
+    "option_d": "Jákvæðni.",
+    "answer": "C",
+    "id": "jurisprudence/test/96"
+  },
+  {
+    "instruction": "Í hvorri sviðsmyndinni gerir aðalpersónan (sem notar ég/mig/minn) eitthvað augljóslega siðferðilega rangt samkvæmt almennum siðferðilegum viðmiðum í Bandaríkjunum frá og með árinu 2020? Sviðsmynd 1 | Ég setti band á hundinn minn og fór með hann í göngutúr. Sviðsmynd 2 | Bróðir minn var of sofnaður í bílnum svo ég bar hann inn",
+    "option_a": "Rangt, rangt",
+    "option_b": "Rangt, ekki rangt",
+    "option_c": "Ekki rangt, rangt",
+    "option_d": "Ekki rangt, Ekki rangt",
+    "answer": "D",
+    "id": "moral_scenarios/test/242"
+  },
+  {
+    "instruction": "Síðdegis eitt var ökumaður að aka bíl sínum þegar hún ók á gangandi vegfaranda sem kom inn á gatnamótin. Gangandi vegfarandinn slasaðist alvarlega í slysinu og höfðaði mál á hendur ökumanninum til heimtu skaðabóta vegna líkamstjóns. Engin vitni voru að slysinu. Ökumaðurinn heldur því fram að umferðarljósið hafi verið grænt þegar hún kom inn á gatnamótin. Gangandi vegfarandinn er nú með minnisleysi og man ekki hvernig slysið átti sér stað. Við réttarhöldin kallar lögmaður gangandi vegfarandans fram vitni til að bera vitni. Vitnið leggur til að hún verði borin fyrir dóm að hún hafi verið á slysadeild sjúkrahússins þegar gangandi vegfarandinn var færður inn í kjölfar slyssins. Vitnið ber enn fremur að þegar gangandi vegfarandinn var í aðhlynningu vegna áverka sinna hafi hjúkrunarfræðingurinn spurt hann: „Hvernig meiddist þú?“ Gangandi vegfarandinn svaraði: „Bíllinn keyrði á rauða ljósinu og ók á mig þegar ég var að ganga í gegnum gatnamótin.“ „ Að mótmælum þessum eru gögnin",
+    "option_a": "heimil sem yfirlýsing sem gefin er í þágu læknismeðferðar og greiningar.",
+    "option_b": "tækar sem skynhrif í nútíð.",
+    "option_c": "ótækt, þar sem vitnið hleraði trúnaðarsamskipti gangandi vegfaranda og fulltrúa sjúkrahúss.",
+    "option_d": "ótækt, þar sem það er ekki innan viðurkenndra undantekninga.",
+    "answer": "D",
+    "id": "professional_law/test/1063"
+  },
+  {
+    "instruction": "Hraði gagnaflutninga í 4G dreifikerfi Fjarskipta er",
+    "option_a": "386 kbps - 2 mbps.",
+    "option_b": "2 mbl.",
+    "option_c": "2 mbps - 1 gbps.",
+    "option_d": "100 mbps - 1 gbps.",
+    "answer": "D",
+    "id": "electrical_engineering/test/113"
+  },
+  {
+    "instruction": "Byggingarfulltrúi réð múrarameistara til starfa samkvæmt skriflegum eins árs samningi, með 45.000 kr. árslaun, og átti ráðning að hefjast 1. mars. Vegna þess að Byggingarfulltrúi gat ekki tryggt sér nægilega samninga um byggingu til að halda öllum starfsmönnum sínum uppteknum á tímabilinu sem hófst 1. mars, tilkynnti hann múrarameistara 15. febrúar að hann hefði ekki efni á að ráða hann í starf múrarameistara. Á sama tíma bauðst Byggingarfulltrúi hins vegar til að ráða múrarameistara, fyrir sama samningstímabil, sem næturvörð með 25.000 kr. árslaun. Múrarameistarar afþökkuðu tilboðið og voru atvinnulausir á árinu. Ekkert tilboð og áfram atvinnulausir á árinu. Engin atvinna fyrir múrarameistara var í boði í bæjarfélaginu á árinu en múrarameistarar hefðu getað fengið aðra vinnu sem dagvinnulaun sem hefðu borgað allt að 25.000 kr. á ári. Í árslok, í málshöfðun gegn Byggingarfulltrúa vegna samningsbrots, hversu mikið, ef eitthvað, á múrarameistara rétt á að fá endurgreitt?",
+    "option_a": "20.000 kr. (samningsverð 45.000 kr. að frádregnum 25.000 kr. sem múraraverksmaðurinn hefði getað unnið sér inn í öðru starfi).",
+    "option_b": "45.000 kr. (samningsverð).",
+    "option_c": "Ekkert, því smiðurinn lét ekki að sér kveða í vondri trú, er hann leysti múraramanninn úr haldi.",
+    "option_d": "Ekkert, því múrarinn mildaði ekki tjón sitt.",
+    "answer": "B",
+    "id": "professional_law/test/1363"
+  },
+  {
+    "instruction": "Hvað af eftirfarandi þyrfti rannsakandi að nota til að meta hvort munur á meðaltölum tilrauna- og samanburðarhópa væri marktækur?",
+    "option_a": "lýsandi tölfræði",
+    "option_b": "ályktunartölfræði",
+    "option_c": "vettvangstilraun",
+    "option_d": "staðalfrávik",
+    "answer": "B",
+    "id": "high_school_psychology/test/505"
+  },
+  {
+    "instruction": "Hillary komst að því nýverið að hún er ólétt en hana grunar að maðurinn hennar hafi verið að fíflast. Það er mikilvægt að hún fari í klamydíupróf því klamydía getur valdið eftirfarandi fylgikvillum?",
+    "option_a": "meðgöngur í sængurlegu",
+    "option_b": "fyrirburafæðing",
+    "option_c": "sjálfkrafa fóstureyðingu",
+    "option_d": "allt ofangreint",
+    "answer": "D",
+    "id": "human_sexuality/test/47"
+  },
+  {
+    "instruction": "Murray taldi að undirstéttin samanstæði af fólki sem:",
+    "option_a": "myndaði óæðri „kynþátt“ með lága greind",
+    "option_b": "lifði siðferðilega óheilbrigðu lífi glæpa og óláta",
+    "option_c": "voru of háðir velferðarbótum",
+    "option_d": "allt ofangreint",
+    "answer": "D",
+    "id": "sociology/test/66"
+  },
+  {
+    "instruction": "Hver er talin vera ástæðan fyrir þróun flókins samfélags á Karal í Suður-Ameríku?",
+    "option_a": "þörf á að safna miklu magni af skelfiski",
+    "option_b": "lagning skurða til áveitu",
+    "option_c": "byggingu bæjarstjórans í Píramída",
+    "option_d": "uppgröfturinn til að framleiða sokkin torg",
+    "answer": "B",
+    "id": "prehistory/test/263"
+  },
+  {
+    "instruction": "Á hvaða yfirborði tanna er líklegast að tannáta safnist fyrir í munni sjúklings með lélega tannhirðu?",
+    "option_a": "Yfirborð góms á efri gómi og tungu á neðri gómi.",
+    "option_b": "Yfirborð kinnbeina á efri gómi og tungu á neðri gómi.",
+    "option_c": "Yfirborð góms á efri gómi og yfirborð góms á neðri gómi.",
+    "option_d": "Yfirborð kinnhols efri góms og yfirborð tábergs neðri góms.",
+    "answer": "B",
+    "id": "anatomy/test/91"
+  },
+  {
+    "instruction": "Stjórnmálaflokkar Bandaríkjanna eru tveir að eðlisfari.",
+    "option_a": "sem einn flokkur með viðveru á landsvísu eingöngu",
+    "option_b": "inn í sambandsskipulag þar sem ríki og sveitarfélög hafa ekkert vald",
+    "option_c": "sem tiltölulega sjálfstæð stofnun sem er til staðar á öllum stjórnsýslustigum",
+    "option_d": "ofan frá, þannig að leiðbeiningar dreifist frá landsvísu til ríkis og sveitarfélaga",
+    "answer": "C",
+    "id": "high_school_government_and_politics/test/38"
+  },
+  {
+    "instruction": "Hvað af eftirfarandi leiðsögukerfum er aðallega efnismeðhöndlunarbúnaður?",
+    "option_a": "Svigrúm",
+    "option_b": "Færitæki",
+    "option_c": "Þjóðvegur",
+    "option_d": "Járnbraut",
+    "answer": "B",
+    "id": "miscellaneous/test/284"
+  },
+  {
+    "instruction": "Pappír sem er blár í sólarljósi er lýstur eingöngu með rauðu ljósi sem fer í gegnum græna síu. Í hvaða lit er pappírinn undir þessari lýsingu?",
+    "option_a": "Blá",
+    "option_b": "Græn",
+    "option_c": "Rauður",
+    "option_d": "Svartur",
+    "answer": "D",
+    "id": "miscellaneous/test/28"
+  },
+  {
+    "instruction": "10 ára nemandi sem fæddur er í landi sem ekki er enskumælandi hefur verið vísað sem mögulegum umsækjanda um sérkennsluþjónustu á grundvelli lágra einkunna sem hann náði á samræmdu prófi skólaumdæmisins. Nemandinn náði háum einkunnum á enskuprófi umdæmisins. Af eftirfarandi aðferðum við greiningarmat er sú sem hentar best sú sem",
+    "option_a": "notar túlk sem er fær í tungumáli þess lands sem nemandinn er fæddur í",
+    "option_b": "notar niðurstöður úr að minnsta kosti tveimur greindarprófum í ensku",
+    "option_c": "gerir grein fyrir félags-menningarlegri og aðlögunarhæfni í ferlinu við að greina færni og getu",
+    "option_d": "inniheldur foreldraviðtöl og vettvangsathuganir ásamt niðurstöðum greindarprófs",
+    "answer": "C",
+    "id": "high_school_psychology/test/429"
+  },
+  {
+    "instruction": "Hvaða verslun býður upp á vöruúrval sem hentar neytendum til neyslu á síðustu stundu?",
+    "option_a": "Stórmarkaðir.",
+    "option_b": "Hagræðingarbúðir.",
+    "option_c": "Flokka-drepabúðir.",
+    "option_d": "Smásöluverslanir með takmarkaða línu.",
+    "answer": "B",
+    "id": "marketing/test/51"
+  },
+  {
+    "instruction": "8,5-hálfa blað er brotið í tvennt (aldrei óbrotið) og í hvert sinn er stytt það sem þá var lengri hliðin. Hver er lengd lengstu hliðarinnar, í tommum, strax á eftir seinni brotinu? Svarið er sett fram með tugabroti við næsta tíund.",
+    "option_a": "4.5",
+    "option_b": "1",
+    "option_c": "5.5",
+    "option_d": "5",
+    "answer": "C",
+    "id": "high_school_mathematics/test/37"
+  },
+  {
+    "instruction": "Til að einkenna átköst þarf að rannsaka hvort: ",
+    "option_a": "Ef sjúklingum finnst matarvenjur þeirra vera óreiðukenndar, óháð máltíðastærð.",
+    "option_b": "Neysla á miklu magni af sætindum milli máltíða.",
+    "option_c": "Huglægur þáttur stjórnleysis og hlutlægur þáttur mikillar neyslu matar á ákveðnu tímabili",
+    "option_d": "Tilfinningin fyrir því að geta ekki valið um hvaða mat er borðað þótt haldið sé utan um magn hans.",
+    "answer": "C",
+    "id": "nutrition/test/105"
+  },
+  {
+    "instruction": "Talna er námundað að næsta hundrað. Niðurstaðan er 500. Hvor talan gat ekki verið talan áður en hún var námunduð að næsta hundrað?",
+    "option_a": "458",
+    "option_b": "463",
+    "option_c": "547",
+    "option_d": "559",
+    "answer": "D",
+    "id": "elementary_mathematics/test/265"
+  },
+  {
+    "instruction": "Finndu nákvæmt svar: 110 + 70",
+    "option_a": "18",
+    "option_b": "81",
+    "option_c": "180",
+    "option_d": "810",
+    "answer": "C",
+    "id": "elementary_mathematics/test/90"
+  },
+  {
+    "instruction": "Ljós með breytilegri tíðni skín á yfirborð málms í ljósleiðara. Kenning Einsteins um ljóshrifin spáir fyrir um að",
+    "option_a": "vinnuhlutverk málmsins er í réttu hlutfalli við tíðnina",
+    "option_b": "vinnuhlutverk málmsins er í hlutfalli við bylgjulengdina",
+    "option_c": "straumur í slöngunni er línulegt fall af bylgjulengdinni",
+    "option_d": "mögulegur munur sem er nauðsynlegur til að stöðva rafeindir sem eru sendar er línulegt fall af tíðninni yfir viðmiðunartíðninni",
+    "answer": "D",
+    "id": "college_physics/test/30"
+  },
+  {
+    "instruction": "Læknir var eigandi 1.500 hektara óbyggðs timburlands. Í september 1989 framkvæmir læknir ábyrgðaryfirlýsingu þar sem timburlandið er afhent tannlækni í þóknun einfalda. Tannlæknirinn skráir það strax í styrktarvísitölu. Í apríl 1990 framkvæmir tannlæknirinn svo sömu yfirlýsingu gagnvart kaupanda í þóknun einfalda með ábyrgðaryfirlýsingu. Kaupandi greiðir fullt markaðsvirði og skráir afsalið strax í styrktarvísitölu. Landið sem um ræðir hafði aldrei verið nýtt, girt eða rýmt að öðru leyti en því að á árunum 1986-2010 ók námufyrirtæki, einni mílu frá eigninni, reglulega með flutningabíla yfir afgirtan stíg samkvæmt samningi við lækni 1986. Í samningnum, sem var færður til bókar, var kveðið á um að „aðilar eru ótvírætt sammála og lofar læknir að læknir og eftirmenn hans skulu ekki hindra umræddan veg um land læknisins, sem námufyrirtæki og eftirmenn hans mega ævinlega nota sem veg, og greiða námufyrirtæki og eftirmenn þess 700 kr. á ári fyrir.“ Árið 1990, eftir að flutningur tannlæknis lá fyrir, tilkynnti kaupandi námufyrirtækinu að hann myndi ekki lengur standa við samninginn frá 1986 sem heimilaði námufyrirtækinu að nota stíginn. Námufyrirtækið höfðaði mál vegna sérstakra afkasta. Dómur ætti að vera fyrir",
+    "option_a": "námufyrirtækisins, því eignarhlutur þeirra myndi \"renna með landinu. \"",
+    "option_b": "námufyrirtækisins, því handhafi þjónustuhlutdeildar myndi ganga framar síðari eigendum.",
+    "option_c": "kaupandans, vegna þess að hagsmunir námufyrirtækisins voru slegnir með síðari tilfærslu.",
+    "option_d": "kaupanda, því ekki var um forkaupsrétt að ræða á fasteign milli kaupanda og námufyrirtækis.",
+    "answer": "A",
+    "id": "professional_law/test/583"
+  }
+]
