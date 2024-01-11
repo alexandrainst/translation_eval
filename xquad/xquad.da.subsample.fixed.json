@@ -1,7 +1,7 @@
 [
   {
     "title": "Super_Bowl_50",
-    "context": "Med 4:51 tilbage af den ordinære spilletid fik Carolina bolden på deres egen 24-yardlinje med en chance for at sætte gang i et spilafgørende drive, og snart stod de over for 3rd-and-9. På det næste spil strippede Miller bolden fra Newton, og efter at flere spillere dykkede efter den, tog den et langt hop bagud og blev erobret af Ward, som returnerede den fem yards til Panthers' 4-yardlinje. Selvom flere spillere kastede sig ned i bunken for at forsøge at gribe bolden, gjorde Newton det ikke, og hans manglende aggression fik senere hård kritik. I mellemtiden blev Denvers angreb holdt ude af end zone i tre spil, men en holding penalty på cornerback Josh Norman gav Broncos et nyt sæt downs. Så scorede Anderson på et 2-yard touchdown-løb, og Manning gennemførte et kast til Bennie Fowler for en 2-point conversion, hvilket gav Denver en føring på 24-10 med 3:08 tilbage og i bund og grund afgjorde kampen. Carolina havde yderligere to drives, men formåede ikke at få et first down på hvert af dem.",
+    "context": "Med 4:51 tilbage af den ordinære spilletid fik Carolina bolden på deres egen 24-yardlinje med en chance for at sætte gang i et spilafgørende drive, og snart stod de over for en 3rd-and-9 situation. På det næste spil strippede Miller bolden fra Newton, og efter at flere spillere dykkede efter den, tog den et langt hop bagud og blev erobret af Ward, som returnerede den fem yards til Panthers' 4-yardlinje. Selvom flere spillere kastede sig ned i bunken for at forsøge at gribe bolden, gjorde Newton det ikke, og hans manglende aggression fik senere hård kritik. I mellemtiden blev Denvers angreb holdt ude af end zone i tre spil, men en holding penalty på cornerback Josh Norman gav Broncos et nyt sæt downs. Så scorede Anderson på et 2-yard touchdown-løb, og Manning gennemførte et kast til Bennie Fowler for en 2-point conversion, hvilket gav Denver en føring på 24-10 med 3:08 tilbage og i bund og grund afgjorde kampen. Carolina havde yderligere to drives, men formåede ikke at få et first down på nogle af dem.",
     "qa": [
       {
         "answers": [
@@ -81,13 +81,13 @@
   },
   {
     "title": "Lærer",
-    "context": "Før i tiden var korporlig afstraffelse (smæk eller padling eller stokkeslag eller remme eller birching for at påføre eleven fysisk smerte) en af de mest almindelige former for skoledisciplin i store dele af verden. De fleste vestlige lande, og nogle andre, har nu forbudt det, men det er stadig lovligt i USA efter en amerikansk højesteretsdom i 1977, som fastslog, at padling ikke var i strid med den amerikanske forfatning.",
+    "context": "Før i tiden var korporlig afstraffelse (smæk eller slag med padle, stok, remme eller birkegrene for at påføre eleven fysisk smerte) en af de mest almindelige former for skoledisciplin i store dele af verden. De fleste vestlige lande, og nogle andre, har nu forbudt det, men det er stadig lovligt i USA efter en amerikansk højesteretsdom i 1977, som fastslog, at padling ikke var i strid med den amerikanske forfatning.",
     "qa": [
       {
         "answers": [
           {
             "answer_start": -1,
-            "text": "De Forenede Stater"
+            "text": "USA"
           }
         ],
         "id": "56e7586d37bdd419002c3eb5",
@@ -97,7 +97,7 @@
   },
   {
     "title": "Martin_Luther",
-    "context": "Luthers salmer blev ofte fremkaldt af særlige begivenheder i hans liv og den igangværende reformation. Denne adfærd startede med, at han hørte om henrettelsen af Johann Esch og Heinrich Voes, de første personer, der blev martyrdræbt af den romersk-katolske kirke for lutherske synspunkter, hvilket fik Luther til at skrive salmen \"Ein neues Lied wir heben an\" (\"En ny sang vi rejser\"), som generelt er kendt på engelsk af John C. Messenger. Messengers oversættelse med titlen og første linje \"Flung to the Heedless Winds\" og sunget til melodien Ibstone komponeret i 1875 af Maria C. Tiddeman.",
+    "context": "Luthers salmer blev ofte fremkaldt af særlige begivenheder i hans liv og den igangværende reformation. Denne adfærd startede med, at han hørte om henrettelsen af Johann Esch og Heinrich Voes, de første personer, der blev martyrdræbt af den romersk-katolske kirke for lutherske synspunkter, hvilket fik Luther til at skrive salmen \"Ein neues Lied wir heben an\" (\"En ny sang vi rejser\"), som på engelsk generelt er kendt som John C. Messengers oversættelse med titlen og første linje \"Flung to the Heedless Winds\" og sunget af Maria C. Tiddeman til melodien Ibstone har komponeret i 1875.",
     "qa": [
       {
         "answers": [
@@ -145,13 +145,13 @@
   },
   {
     "title": "Victoria_(Australien)",
-    "context": "Der er også flere mindre godsoperatører og adskillige turistbaner, der kører på strækninger, som engang var en del af et statsejet system. De victorianske linjer bruger hovedsageligt 1.600 mm (5 ft 3 in) bred sporvidde. Men hovedruterne mellem delstaterne samt en række sidebaner i den vestlige del af staten er blevet konverteret til 1.435 mm (4 ft 8 1⁄2 in) standardsporvidde. To turistbaner kører på 760 mm smalsporede strækninger, som er resterne af fem tidligere statsejede strækninger, der blev bygget i bjergrige områder.",
+    "context": "Der er også flere mindre godsoperatører og adskillige turistbaner, der kører på strækninger, som engang var en del af et statsejet system. De victorianske linjer bruger hovedsageligt en 1.600 mm (5 ft 3 in) bred sporvidde. Men hovedruterne mellem delstaterne samt en række sidebaner i den vestlige del af staten er blevet konverteret til 1.435 mm (4 ft 8 1⁄2 in) standardsporvidde. To turistbaner kører på 760 mm smalsporede strækninger, som er resterne af fem tidligere statsejede strækninger, der blev bygget i bjergrige områder.",
     "qa": [
       {
         "answers": [
           {
             "answer_start": -1,
-            "text": "1.435 mm (4 ft 8 1⁄2 in) standard sporvidde"
+            "text": "1.435 mm (4 ft 8 1⁄2 in) standardsporvidde"
           }
         ],
         "id": "570d47b8b3d812140066d62e",
@@ -167,7 +167,7 @@
         "answers": [
           {
             "answer_start": -1,
-            "text": "langt op i det nittende århundrede"
+            "text": "langt op i det 19. århundrede"
           }
         ],
         "id": "57111713a58dae1900cd6c03",
@@ -183,7 +183,7 @@
         "answers": [
           {
             "answer_start": -1,
-            "text": "forbrænding af brændbare materialer"
+            "text": "afbrænding af brændbare materialer"
           }
         ],
         "id": "571144d1a58dae1900cd6d6e",
@@ -193,7 +193,7 @@
   },
   {
     "title": "Ilt",
-    "context": "Hyperbarisk (højtryks) medicin bruger særlige iltkamre til at øge partialtrykket af O\n2 omkring patienten og, når det er nødvendigt, det medicinske personale. Kulilteforgiftning, gasbrand og dekompressionssyge (\"the bends\") behandles nogle gange ved hjælp af disse apparater. Øget O\n2-koncentrationen i lungerne hjælper med at fortrænge kulilte fra hæmgruppen i hæmoglobin. Ilt er giftigt for de anaerobe bakterier, der forårsager gasbrand, så et øget partialtryk hjælper med at dræbe dem. Dekompressionssyge opstår hos dykkere, der dekomprimerer for hurtigt efter et dyk, hvilket resulterer i, at der dannes bobler af inert gas, mest nitrogen og helium, i deres blod. At øge trykket af O\n2 så hurtigt som muligt er en del af behandlingen.",
+    "context": "Hyperbarisk (højtryks) medicin bruger særlige iltkamre til at øge partialtrykket af O\n2 omkring patienten og, når det er nødvendigt, det medicinske personale. Kulilteforgiftning, gasbrand og dekompressionssyge (\"the bends\") behandles nogle gange ved hjælp af disse apparater. Øget O\n2-koncentration i lungerne hjælper med at fortrænge kulilte fra hæmgruppen i hæmoglobin. Ilt er giftigt for de anaerobe bakterier, der forårsager gasbrand, så et øget partialtryk hjælper med at dræbe dem. Dekompressionssyge opstår hos dykkere, der dekomprimerer for hurtigt efter et dyk, hvilket resulterer i, at der dannes bobler af inert gas, mest nitrogen og helium, i deres blod. At øge trykket af O\n2 så hurtigt som muligt er en del af behandlingen.",
     "qa": [
       {
         "answers": [
@@ -241,7 +241,7 @@
   },
   {
     "title": "Europæisk_Unions_lovgivning",
-    "context": "Efter valget af det britiske Labour-parti til regering i 1997, tilsluttede Storbritannien sig formelt aftalen om socialpolitik, hvilket gjorde det muligt at inkludere den med mindre ændringer som det sociale kapitel i Amsterdam-traktaten fra 1997. Storbritannien vedtog efterfølgende den vigtigste lovgivning, der tidligere var aftalt under aftalen om socialpolitik, direktivet om samarbejdsudvalg fra 1994, som krævede høring af arbejdsstyrken i virksomhederne, og direktivet om forældreorlov fra 1996. I de 10 år, der er gået siden Amsterdam-traktaten i 1997 og vedtagelsen af det sociale kapitel, har EU taget politiske initiativer på forskellige socialpolitiske områder, herunder arbejdsmarkedsrelationer, lige muligheder, sundhed og sikkerhed, folkesundhed, beskyttelse af børn, handicappede og ældre, fattigdom, vandrende arbejdstagere, uddannelse og ungdom.",
+    "context": "Efter valget af det britiske Labour-parti til regering i 1997, tilsluttede Storbritannien sig formelt aftalen om socialpolitik, hvilket gjorde det muligt at inkludere den med mindre ændringer som \"det sociale kapitel i Amsterdam-traktaten fra 1997\". Storbritannien vedtog efterfølgende den vigtigste lovgivning, der tidligere var aftalt under \"Aftalen om socialpolitik\", \"direktivet om samarbejdsudvalg\" fra 1994, som krævede høring af arbejdsstyrken i virksomhederne, og \"direktivet om forældreorlov\" fra 1996. I de 10 år, der er gået siden Amsterdam-traktaten i 1997 og vedtagelsen af det sociale kapitel, har EU taget politiske initiativer på forskellige socialpolitiske områder, herunder arbejdsmarkedsrelationer, lige muligheder, sundhed og sikkerhed, folkesundhed, beskyttelse af børn, handicappede og ældre, fattigdom, vandrende arbejdstagere, uddannelse og ungdom.",
     "qa": [
       {
         "answers": [
@@ -273,7 +273,7 @@
   },
   {
     "title": "Ctenophora",
-    "context": "Ctenophorernes forhold til resten af Metazoa er meget vigtigt for vores forståelse af dyrenes tidlige evolution og oprindelsen af flercellethed. Det har været genstand for debat i mange år. Ctenophores er blevet påstået at være søsterlinjen til Bilateria, søster til Cnidaria, søster til Cnidaria, Placozoa og Bilateria, og søster til alle andre dyrerækker. En række undersøgelser, der så på tilstedeværelsen og fraværet af medlemmer af genfamilier og signalveje (f.eks. homeoboxer, nukleare receptorer, Wnt-signalvejen og natriumkanaler), viste beviser, der stemte overens med de to sidstnævnte scenarier, at ctenophores enten er søster til Cnidaria, Placozoa og Bilateria eller søster til alle andre dyrerækker. Flere nyere studier, der sammenligner komplette sekventerede genomer af pighuder med andre sekventerede dyregenomer, har også understøttet pighuder som søsterlinje til alle andre dyr. Denne holdning antyder, at neural- og muskelcelletyper enten gik tabt i større dyrelinjer (f.eks. Porifera), eller at de udviklede sig uafhængigt i ctenoforernes linje. Andre forskere har dog argumenteret for, at placeringen af Ctenophora som søster til alle andre dyr er en statistisk anomali forårsaget af den høje evolutionshastighed i ctenophore-genomer, og at Porifera (svampe) i stedet er den tidligst divergerende dyreslægt. Ctenophores og svampe er også de eneste kendte dyregrupper, der mangler ægte hox-gener.",
+    "context": "Ctenoforernes forhold til resten af Metazoa er meget vigtigt for vores forståelse af dyrenes tidlige evolution og oprindelsen af flercellethed. Det har været genstand for debat i mange år. Ctenophora er blevet påstået at være søsterlinjen til Bilateria, søster til Cnidaria, søster til Cnidaria, Placozoa og Bilateria, og søster til alle andre dyrerækker. En række undersøgelser, der så på tilstedeværelsen og fraværet af medlemmer af genfamilier og signalveje (f.eks. homeoboxer, nukleare receptorer, Wnt-signalvejen og natriumkanaler), viste beviser, der stemte overens med de to sidstnævnte scenarier, at Ctenophora enten er søster til Cnidaria, Placozoa og Bilateria eller søster til alle andre dyrerækker. Flere nyere studier, der sammenligner komplette sekventerede genomer af Ctenophora med andre sekventerede dyregenomer, har også understøttet Ctenophora som søsterlinje til alle andre dyr. Denne holdning antyder, at neural- og muskelcelletyper enten gik tabt i større dyrelinjer (f.eks. Porifera), eller at de udviklede sig uafhængigt i ctenoforernes linje. Andre forskere har dog argumenteret for, at placeringen af Ctenophora som søster til alle andre dyr er en statistisk anomali forårsaget af den høje evolutionshastighed i Ctenophora-genomer, og at Porifera (svampe) i stedet er den tidligst divergerende dyreslægt. Ctenoforer og svampe er også de eneste kendte dyregrupper, der mangler ægte hox-gener.",
     "qa": [
       {
         "answers": [
@@ -295,7 +295,7 @@
         "answers": [
           {
             "answer_start": -1,
-            "text": "68,511"
+            "text": "68.511"
           }
         ],
         "id": "5725f8f5ec44d21400f3d7b1",
@@ -343,7 +343,7 @@
         "answers": [
           {
             "answer_start": -1,
-            "text": "brøndlogs"
+            "text": "borhulslogs"
           }
         ],
         "id": "57268066708984140094c823",
@@ -391,7 +391,7 @@
         "answers": [
           {
             "answer_start": -1,
-            "text": "sort og gul"
+            "text": "sort-gule"
           }
         ],
         "id": "572734af708984140094dae5",
@@ -417,7 +417,7 @@
   },
   {
     "title": "Apotek",
-    "context": "De fremskridt, der blev gjort i Mellemøsten inden for botanik og kemi, fik medicinen i middelalderens islam til at udvikle farmakologien betydeligt. Muhammad ibn Zakarīya Rāzi (Rhazes) (865-915) arbejdede for eksempel for at fremme den medicinske brug af kemiske forbindelser. Abu al-Qasim al-Zahrawi (Abulcasis) (936-1013) var pioner inden for fremstilling af medicin ved sublimering og destillation. Hans Liber servitoris er af særlig interesse, da den giver læseren opskrifter og forklarer, hvordan man fremstiller de \"enkle\" stoffer, som blev brugt til at sammensætte de komplekse lægemidler, der blev brugt dengang. Sabur Ibn Sahl (d 869) var dog den første læge, der påbegyndte en farmakopædi, hvor han beskrev en lang række lægemidler og remedier mod lidelser. Al-Biruni (973-1050) skrev et af de mest værdifulde islamiske værker om farmakologi med titlen Kitab al-Saydalah (Bogen om stoffer), hvor han detaljeret beskrev stoffernes egenskaber og skitserede apotekets rolle og farmaceutens funktioner og pligter. Avicenna beskrev også ikke mindre end 700 præparater, deres egenskaber, virkningsmåder og indikationer. Han dedikerede faktisk et helt bind til simple lægemidler i The Canon of Medicine. Af stor betydning var også værkerne af al-Maridini fra Baghdad og Kairo og Ibn al-Wafid (1008-1074), som begge blev trykt på latin mere end halvtreds gange som De Medicinis universalibus et particularibus af 'Mesue' den yngre og Medicamentis simplicibus af 'Abenguefit'. Peter af Abano (1250-1316) oversatte og tilføjede et supplement til al-Maridinis værk under titlen De Veneris. Al-Muwaffaqs bidrag på området er også banebrydende. Han levede i det 10. århundrede og skrev The foundations of the true properties of Remedies, hvor han bl.a. beskrev arsenoxid og var bekendt med kiselsyre. Han skelnede klart mellem natriumkarbonat og kaliumkarbonat og gjorde opmærksom på kobberforbindelsers giftighed, især kobbervitriol, og også blyforbindelser. Han beskriver også destillation af havvand til drikkevand[verifikation nødvendig]",
+    "context": "De fremskridt, der blev gjort i Mellemøsten inden for botanik og kemi, fik medicinen i middelalderens islam til at udvikle farmakologien betydeligt. Muhammad ibn Zakarīya Rāzi (Rhazes) (865-915) arbejdede for eksempel for at fremme den medicinske brug af kemiske forbindelser. Abu al-Qasim al-Zahrawi (Abulcasis) (936-1013) var pioner inden for fremstilling af medicin ved sublimering og destillation. Hans \"Liber servitoris\" er af særlig interesse, da den giver læseren opskrifter og forklarer, hvordan man fremstiller de \"enkle\" stoffer, som blev brugt til at sammensætte de komplekse lægemidler, der blev brugt dengang. Sabur Ibn Sahl (d 869) var dog den første læge, der påbegyndte en farmakopædi, hvor han beskrev en lang række lægemidler og remedier mod lidelser. Al-Biruni (973-1050) skrev et af de mest værdifulde islamiske værker om farmakologi med titlen Kitab al-Saydalah (Bogen om stoffer), hvor han detaljeret beskrev stoffernes egenskaber og skitserede apotekets rolle og farmaceutens funktioner og pligter. Avicenna beskrev også ikke mindre end 700 præparater, deres egenskaber, virkningsmåder og indikationer. Han dedikerede faktisk et helt bind til simple lægemidler i \"Medicinens Kanon\". Af stor betydning var også værkerne af al-Maridini fra Baghdad og Kairo og Ibn al-Wafid (1008-1074), som begge blev trykt på latin mere end halvtreds gange som \"De medicinis universalibus et particularibus\" af 'Mesue' den yngre og \"Medicamentis simplicibus\" af 'Abenguefit'. Peter af Abano (1250-1316) oversatte og tilføjede et supplement til al-Maridinis værk under titlen \"De Veneris\". Al-Muwaffaqs bidrag på området er også banebrydende. Han levede i det 10. århundrede og skrev \"Grundlaget for remediernes sande egenskaber\", hvor han bl.a. beskrev arsenoxid og var bekendt med kiselsyre. Han skelnede klart mellem natriumkarbonat og kaliumkarbonat og gjorde opmærksom på kobberforbindelsers giftighed, især kobbervitriol, og også blyforbindelser. Han beskriver også destillation af havvand til drikkevand[verifikation nødvendig]",
     "qa": [
       {
         "answers": [
@@ -449,7 +449,7 @@
   },
   {
     "title": "Civil ulydighed",
-    "context": "Nogle civile ulydige føler, at det påhviler dem at acceptere straf på grund af deres tro på gyldigheden af den sociale kontrakt, som anses for at binde alle til at adlyde de love, som en regering, der opfylder visse standarder for legitimitet, har etableret, eller ellers lide de straffe, der er fastsat i loven. Andre civile ulydige, som går ind for eksistensen af en regering, tror stadig ikke på legitimiteten af deres egen regering eller på legitimiteten af en bestemt lov, som den har vedtaget. Og endnu andre civile ulydige, som er anarkister, tror ikke på legitimiteten af nogen regering og ser derfor ingen grund til at acceptere straf for en overtrædelse af straffeloven, som ikke krænker andres rettigheder.",
+    "context": "Nogle civile ulydige føler, at det påhviler dem at acceptere straf på grund af deres tro på gyldigheden af den sociale kontrakt, som anses for at binde alle til at adlyde de love, som en regering, der opfylder visse standarder for legitimitet, har etableret, for ellers at lide de straffe, der er fastsat i loven. Andre civile ulydige, som går ind for eksistensen af en regering, tror stadig ikke på legitimiteten af deres egen regering eller på legitimiteten af en bestemt lov, som den har vedtaget. Og endnu andre civile ulydige, som er anarkister, tror ikke på legitimiteten af nogen regering og ser derfor ingen grund til at acceptere straf for en overtrædelse af straffeloven, som ikke krænker andres rettigheder.",
     "qa": [
       {
         "answers": [
@@ -519,7 +519,7 @@
         "answers": [
           {
             "answer_start": -1,
-            "text": "340 miles"
+            "text": "550 km"
           }
         ],
         "id": "5727cb4b2ca10214002d9677",
@@ -535,7 +535,7 @@
         "answers": [
           {
             "answer_start": -1,
-            "text": "særlige indsatser"
+            "text": "en særlig indsats"
           }
         ],
         "id": "572a1a5c6aef051400155284",
@@ -561,7 +561,7 @@
   },
   {
     "title": "University_of_Chicago",
-    "context": "De første bygninger på University of Chicagos campus, som udgør det, der nu er kendt som Main Quadrangles, var en del af en \"masterplan\" udtænkt af to bestyrelsesmedlemmer fra University of Chicago og tegnet af Chicago-arkitekten Henry Ives Cobb. Main Quadrangles består af seks firkanter, som hver især er omgivet af bygninger, der grænser op til en større firkant. Bygningerne i Main Quadrangles blev tegnet af Cobb, Shepley, Rutan and Coolidge, Holabird & Roche og andre arkitektfirmaer i en blanding af victoriansk gotik og kollegial gotik efter forbillede fra kollegierne på universitetet i Oxford. (Mitchell Tower er for eksempel modelleret efter Oxfords Magdalen Tower, og universitetets fællesbygning, Hutchinson Hall, er en kopi af Christ Church Hall)",
+    "context": "De første bygninger på University of Chicagos campus, som udgør det, der nu er kendt som Main Quadrangles, var en del af en \"masterplan\" udtænkt af to bestyrelsesmedlemmer fra University of Chicago og tegnet af Chicago-arkitekten Henry Ives Cobb. Main Quadrangles består af seks firkanter, som hver især er omgivet af bygninger, der grænser op til en større firkant. Bygningerne i Main Quadrangles blev tegnet af Cobb, Shepley, Rutan and Coolidge, Holabird & Roche og andre arkitektfirmaer i en blanding af victoriansk gotisk og kollegial gotisk efter forbillede fra kollegierne på universitetet i Oxford. (Mitchell Tower er for eksempel modelleret efter Oxfords Magdalen Tower, og universitetets fællesbygning, Hutchinson Hall, er en kopi af Christ Church Hall)",
     "qa": [
       {
         "answers": [
@@ -599,7 +599,7 @@
         "answers": [
           {
             "answer_start": -1,
-            "text": "etableringen af en ny og uafhængig kommission for etik og antikorruption"
+            "text": "oprettelsen af en ny og uafhængig kommission for etik og antikorruption"
           }
         ],
         "id": "57290b21af94a219006a9fd2",
@@ -641,7 +641,7 @@
   },
   {
     "title": "Primtal",
-    "context": "Især bliver denne norm mindre, når et tal ganges med p, i skarp kontrast til den sædvanlige absolutte værdi (også kaldet det uendelige primtal). Mens fuldstændiggørelsen af Q (groft sagt at udfylde hullerne) med hensyn til den absolutte værdi giver legemet af reelle tal, giver fuldstændiggørelsen med hensyn til den p-adiske norm |-|p legemet af p-adiske tal. Dette er stort set alle mulige måder at fuldstændiggøre Q på, ifølge Ostrowskis sætning. Visse aritmetiske spørgsmål relateret til Q eller mere generelle globale legemer kan overføres frem og tilbage til de fuldstændige (eller lokale) legemer. Dette lokale-globale princip understreger igen betydningen af primtal for talteori.",
+    "context": "Især bliver denne norm mindre, når et tal ganges med p, i skarp kontrast til den sædvanlige absolutte værdi (også kaldet det uendelige primtal). Mens komplettering af Q (groft sagt at udfylde hullerne) med hensyn til den absolutte værdi giver feltet af reelle tal, giver komplettering med hensyn til den p-adiske norm |-|p feltet af p-adiske tal. Dette er stort set alle mulige måder at fuldføre Q på, ifølge Ostrowskis sætning. Visse aritmetiske spørgsmål relateret til Q eller mere generelle globale felter kan overføres frem og tilbage til de fuldstændige (eller lokale) felter. Dette lokale-globale princip understreger igen betydningen af primtal for talteori.",
     "qa": [
       {
         "answers": [
@@ -657,12 +657,12 @@
   },
   {
     "title": "Rhinen",
-    "context": "Rhin-Maas-deltaet, den vigtigste naturregion i Holland, begynder nær Millingen aan de Rijn, tæt på den hollandsk-tyske grænse med opdelingen af Rhinen i Waal og Nederrijn. Da Rhinen bidrager med det meste af vandet, bruges ofte den kortere betegnelse Rhinen Delta. Dette navn bruges dog også om det floddelta, hvor Rhinen løber ud i Bodensøen, så det er mere klart at kalde det større delta for Rhin-Maas-deltaet eller endda Rhin-Maas-Schelde-deltaet, da Schelde ender i det samme delta.",
+    "context": "Rhinen-Maas deltaet, den vigtigste naturregion i Holland, begynder nær Millingen aan de Rijn, tæt på den hollandsk-tyske grænse med opdelingen af Rhinen i Waal og Nederrijn. Da Rhinen bidrager med det meste af vandet, bruges ofte den kortere betegnelse Rhinen-deltaet. Dette navn bruges dog også om det floddelta, hvor Rhinen løber ud i Bodensøen, så det er mere klart at kalde det større delta for Rhinen-Maas deltaet eller endda Rhin-Maas-Schelde deltaet, da Schelde ender i det samme delta.",
     "qa": [
       {
         "answers": [
           {
-            "answer_start": -1,
+            "answer_start": 0,
             "text": "Rhinen-Maas"
           }
         ],
@@ -711,7 +711,7 @@
         "answers": [
           {
             "answer_start": -1,
-            "text": "I Storbritannien"
+            "text": "Storbritannien"
           }
         ],
         "id": "573088da069b53140083216c",
@@ -753,7 +753,7 @@
   },
   {
     "title": "Kraft",
-    "context": "Udviklingen af fundamentale teorier for kræfter gik i retning af at forene forskellige ideer. For eksempel forenede Isaac Newton den kraft, der er ansvarlig for, at objekter falder på jordens overflade, med den kraft, der er ansvarlig for himmelmekanikkens baner, i sin universelle teori om gravitation. Michael Faraday og James Clerk Maxwell demonstrerede, at elektriske og magnetiske kræfter var forenede gennem én konsistent teori om elektromagnetisme. I det 20. århundrede førte udviklingen af kvantemekanikken til en moderne forståelse af, at de tre første fundamentale kræfter (alle undtagen tyngdekraften) er manifestationer af stof (fermioner), der interagerer ved at udveksle virtuelle partikler kaldet gauge-bosoner. Denne standardmodel for partikelfysik forudsætter en lighed mellem kræfterne og fik forskere til at forudsige foreningen af de svage og elektromagnetiske kræfter i den elektrosvage teori, som efterfølgende blev bekræftet af observationer. Den komplette formulering af standardmodellen forudsiger en endnu uobserveret Higgs-mekanisme, men observationer som neutrinooscillationer indikerer, at standardmodellen er ufuldstændig. En Grand Unified Theory, der tillader kombinationen af den elektrosvage vekselvirkning med den stærke kraft, holdes for en mulighed med kandidatteorier som supersymmetri, der foreslås for at imødekomme nogle af de udestående uløste problemer i fysikken. Fysikere forsøger stadig at udvikle selvkonsistente foreningsmodeller, der kan kombinere alle fire fundamentale vekselvirkninger i en teori om alting. Einstein forsøgte og fejlede i denne bestræbelse, men i øjeblikket er den mest populære tilgang til at besvare dette spørgsmål strengteorien.:212-219",
+    "context": "Udviklingen af fundamentale teorier for kræfter gik i retning af at forene forskellige ideer. For eksempel forenede Isaac Newton den kraft, der er ansvarlig for, at objekter falder på jordens overflade, med den kraft, der er ansvarlig for himmelmekanikkens baner, i sin universelle teori om gravitation. Michael Faraday og James Clerk Maxwell demonstrerede, at elektriske og magnetiske kræfter var forenede gennem én konsistent teori om elektromagnetisme. I det 20. århundrede førte udviklingen af kvantemekanikken til en moderne forståelse af, at de tre første fundamentale kræfter (alle undtagen tyngdekraften) er manifestationer af stof (fermioner), der interagerer ved at udveksle virtuelle partikler kaldet gauge-bosoner. Denne standardmodel for partikelfysik forudsætter en lighed mellem kræfterne og fik forskere til at forudsige foreningen af de svage og elektromagnetiske kræfter i den elektrosvage teori, som efterfølgende blev bekræftet af observationer. Den komplette formulering af standardmodellen forudsiger en endnu uobserveret Higgs-mekanisme, men observationer som neutrinooscillationer indikerer, at standardmodellen er ufuldstændig. En Grand Unified Theory, der tillader kombinationen af den elektrosvage vekselvirkning med den stærke kraft, ses som mulighed med kandidatteorier som supersymmetri, der foreslås for at imødekomme nogle af de udestående uløste problemer i fysikken. Fysikere forsøger stadig at udvikle selvkonsistente foreningsmodeller, der kan kombinere alle fire fundamentale vekselvirkninger i en teori om alting. Einstein forsøgte og fejlede i denne bestræbelse, men i øjeblikket er den mest populære tilgang til at besvare dette spørgsmål strengteorien.:212-219",
     "qa": [
       {
         "answers": [

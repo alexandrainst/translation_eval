@@ -1,0 +1,101 @@
+id_tag, bad_translation, meaning_lost, translationese, bad_grammer
+high_school_psychology/test/435, 0, 0, 0, 0
+professional_accounting/test/210, 0, 0, 0, 0
+professional_psychology/test/26, 0, 0, 0, 0
+security_studies/test/15, 1, 0, 1, 1
+high_school_european_history/test/9, 1, 1, 1, 1
+clinical_knowledge/test/200, 1, 0, 1, 1
+management/test/46, 0, 0, 0, 1
+high_school_mathematics/test/223, 0, 0, 0, 0
+college_physics/test/7, 0, 0, 0, 0
+professional_law/test/1162, 0, 0, 0, 0
+professional_medicine/test/154, 0, 0, 0, 1
+high_school_physics/test/20, 0, 0, 0, 0
+college_mathematics/test/18, 0, 0, 0, 0
+professional_psychology/test/611, 0, 0, 0, 0
+high_school_macroeconomics/test/146, 1, 1, 1, 0
+moral_scenarios/test/161, 0, 0, 1, 1
+professional_law/test/525, 0, 0, 1, 0
+moral_scenarios/test/257, 0, 0, 0, 1
+high_school_chemistry/test/167, 0, 0, 0, 0
+high_school_macroeconomics/test/288, 0, 0, 0, 0
+high_school_psychology/test/102, 0, 0, 0, 0
+conceptual_physics/test/136, 0, 0, 0, 0
+clinical_knowledge/test/144, 0, 0, 1, 1
+miscellaneous/test/147, 0, 0, 0, 0
+professional_law/test/407, 1, 1, 1, 0
+nutrition/test/126, 0, 0, 0, 0
+high_school_physics/test/15, 0, 0, 1, 1
+high_school_geography/test/14, 0, 0, 0, 0
+world_religions/test/105, 0, 0, 1, 0
+philosophy/test/92, 0, 0, 0, 0
+elementary_mathematics/test/175, 0, 0, 0, 0
+sociology/test/190, 0, 0, 0, 0
+miscellaneous/test/426, 0, 0, 0, 0
+marketing/test/33, 0, 0, 1, 1
+elementary_mathematics/test/296, 0, 0, 0, 0
+nutrition/test/146, 0, 0, 0, 0
+college_mathematics/test/28, 0, 0, 0, 0
+business_ethics/test/48, 1, 1, 1, 1
+high_school_psychology/test/237, 0, 0, 0, 1
+high_school_psychology/test/337, 0, 0, 1, 0
+moral_scenarios/test/616, 0, 0, 1, 1
+high_school_statistics/test/136, 0, 0, 0, 0
+astronomy/test/77, 0, 0, 0, 0
+miscellaneous/test/716, 0, 0, 0, 0
+miscellaneous/test/595, 1, 1, 1, 1
+philosophy/test/279, 0, 0, 0, 0
+professional_psychology/test/214, 0, 0, 0, 0
+high_school_macroeconomics/test/267, 1, 0, 0, 1
+high_school_biology/test/251, 0, 0, 0, 0
+professional_accounting/test/188, 0, 0, 0, 0
+medical_genetics/test/26, 0,0,1,0
+high_school_psychology/test/304, 0, 0, 0, 0
+abstract_algebra/test/99, 0, 0, 0, 1
+human_aging/test/151, 0, 0, 0, 0
+marketing/test/82, 0, 0, 0, 0
+professional_law/test/327, 1, 0, 1, 1
+professional_law/test/263, 1, 0, 1, 1
+human_aging/test/111, 0, 0, 0, 1
+clinical_knowledge/test/20, 0,0,0,0
+astronomy/test/146, 0,0,0,0
+management/test/80, 0,0,0,0
+world_religions/test/17, 0,0,1,0
+professional_law/test/808, 1,0, 1,0
+professional_law/test/1511, 0, 0, 0, 1
+moral_scenarios/test/87, 0,0,0,0
+international_law/test/45, 0,0,1,0
+high_school_mathematics/test/254, 0,0,0,0
+professional_law/test/1070, 1,0,1,1
+professional_accounting/test/31, 1,0,1,1
+professional_law/test/1007, 1,0,1,1
+high_school_us_history/test/136, 1,0,1,1
+conceptual_physics/test/130, 0,0,0,0
+high_school_biology/test/179, 1,1,1,1
+miscellaneous/test/7, 0,0,0,0
+professional_law/test/1455, 0,0,1,1
+college_computer_science/test/49, 1,1,1,1
+clinical_knowledge/test/198, 1,1,1,1
+professional_medicine/test/226, 0,0,0,1
+professional_law/test/46, 0,0,1,1
+moral_scenarios/test/882, 0,0,0,0
+moral_scenarios/test/195, 0,0,0,1
+professional_law/test/633,1,1,1,1
+professional_law/test/17, 1,0,1,1
+business_ethics/test/67, 0,0,0,0
+nutrition/test/303, 0,0,0,0
+econometrics/test/99, 1,1,0,1
+electrical_engineering/test/20, 0,0,0,0
+high_school_psychology/test/59, 0,0,0,0
+medical_genetics/test/76, 0,0,1,1
+professional_medicine/test/232, 0,0,1,1
+professional_accounting/test/152, 0,0,0,0
+professional_law/test/631, 1,1,1,1
+college_computer_science/test/88, 0,0,1,1
+sociology/test/124, 1,1,1,1
+high_school_psychology/test/424, 1,1,1,1
+professional_law/test/1051, 1,1,1,1
+prehistory/test/60, 1,1,1,1
+miscellaneous/test/606, 1,1,1,1
+international_law/test/73, 0,0,1,0
+high_school_computer_science/test/29, 0,0,0,0
